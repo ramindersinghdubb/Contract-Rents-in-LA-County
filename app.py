@@ -180,7 +180,8 @@ app = dash.Dash(__name__,
                                       "assets/style.css"
                                      ]
                )
-server=app.server
+server = app.server
+app.title = 'Contract Rents in Los Angeles County'
 
 
 
