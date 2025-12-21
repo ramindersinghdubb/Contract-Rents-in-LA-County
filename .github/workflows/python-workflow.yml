@@ -39,5 +39,4 @@ jobs:
                git config user.email github-actions@github.com
                git add .
                git diff-index --quiet || git commit -a -m "Update/remove files (GHA)" --allow-empty
-               git pull origin
                git push
