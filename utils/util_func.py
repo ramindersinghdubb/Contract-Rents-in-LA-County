@@ -68,7 +68,6 @@ async def url_extract(urls: list[str], batch_size: int):
     return results
 
 
-
 # ---- ETL Function ---- #
 def ACS_data_extraction(ACS_code: str,
                         API_key: str,
@@ -172,6 +171,7 @@ def ACS_data_extraction(ACS_code: str,
     
     shutil.rmtree(tmp_folder)
 
+
 # ---- Masterfile Function ---- #
 def masterfile_creation(ACS_codes: List[str], API_key: str):
     """
@@ -214,17 +214,22 @@ def masterfile_creation(ACS_codes: List[str], API_key: str):
         txtfile.write("CITY|ABBREV_NAME|INITIAL_YEAR|RECENT_YEAR")
         txtfile.write("\n")
         for ABBREV_NAME in df['ABBREV_NAME'].unique():
-            city = df.loc[df['ABBREV_NAME'] == ABBREV_NAME, 'CITY'].iloc[0]
+            CITY = df.loc[df['ABBREV_NAME'] == ABBREV_NAME, 'CITY'].iloc[0]
             years = list(sorted(df['YEAR'][df['ABBREV_NAME'] == ABBREV_NAME].unique()))
-            initial_year = min(years)
-            recent_year = max(years)
-            content = f"{city}|{ABBREV_NAME}|{initial_year}|{recent_year}"
+            INT_YEAR = min(years)
+            REC_YEAR = max(years)
+            content = '|'.join([CITY, ABBREV_NAME, INT_YEAR, REC_YEAR])
             txtfile.write(content)
             txtfile.write('\n')
 
 
 # ---- Mastergeometry Function ---- #
 def mastergeometry_creation():
+    """
+    Create year-segmented mastergeometries for the previously generated masterfiles.
+
+    Note that `masterfile_creation()` must be called prior to this.
+    """
     years = [int(file.split('_')[0]) for file in os.listdir(masterfiles_folder) if 'masterfile.csv' in file]
     
     for year in sorted(list(set(years))):
@@ -265,10 +270,8 @@ def mastergeometry_creation():
                                 },
                     inplace = True
                 )
-            gdf['INTPTLAT'] = gdf['INTPTLAT'].str.replace('+', '')
-            gdf['INTPTLON'] = gdf['INTPTLON'].str.replace('+', '')
-            gdf['INTPTLAT'] = gdf['INTPTLAT'].astype(float)
-            gdf['INTPTLON'] = gdf['INTPTLON'].astype(float)
+            gdf['INTPTLAT'] = gdf['INTPTLAT'].str.replace('+', '').astype(float)
+            gdf['INTPTLON'] = gdf['INTPTLON'].str.replace('+', '').astype(float)
 
             gdf['GEO_ID'] = gdf['GEO_ID'].astype('int64')
 
@@ -279,3 +282,34 @@ def mastergeometry_creation():
             dummy_gdf = dummy_gdf[['YEAR', 'GEO_ID', 'TRACT', 'CITY', 'COUNTY', 'STATE', 'ABBREV_NAME', 'INTPTLAT', 'INTPTLON', 'geometry']]
             
             dummy_gdf.to_file(file_path, driver='GeoJSON')
+
+
+# ---- Lat/Lon Center Points Function ---- #
+def lat_lon_center_points():
+    """
+    Create year-segmented latitudinal/longitudinal center points for the previously generated mastergeometries.
+    This helps center Dash-generated maps.
+
+    Note that `mastergeometry_creation()` must be called prior to this.
+    """
+    mastergeometry_files = sorted([f'{mastergeometries_folder}{file}' for file in os.listdir(mastergeometries_folder)])
+
+    lat_lon_center_points_folder = data_folder + 'lat_lon_center_points/'
+    if not os.path.exists(lat_lon_center_points_folder):
+        os.makedirs(lat_lon_center_points_folder)
+    
+    print(mastergeometry_files)
+    
+    for mastergeometry_file in mastergeometry_files:
+        gdf = gpd.read_file(mastergeometry_file)
+        YEAR = gdf.loc[:, 'YEAR'][0]
+        
+        with open(f'{lat_lon_center_points_folder}{YEAR}_latlon_center_points.txt', 'w') as txtfile:
+            txtfile.write("CITY|ABBREV_NAME|LAT_CENTER|LON_CENTER")
+            txtfile.write("\n")
+            for ABBREV_NAME in sorted(gdf['ABBREV_NAME'].unique()):
+                CITY = gdf.loc[gdf['ABBREV_NAME'] == ABBREV_NAME, 'CITY'].iloc[0]
+                LAT_CENTER, LON_CENTER = map(lambda x: str(round(x, 10)), gdf[['INTPTLAT', 'INTPTLON']][gdf['ABBREV_NAME'] == ABBREV_NAME].mean(axis=0))
+                content = "|".join([CITY, ABBREV_NAME, LAT_CENTER, LON_CENTER])
+                txtfile.write(content)
+                txtfile.write('\n')
