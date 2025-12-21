@@ -14,21 +14,23 @@ import plotly.express as px
 import plotly.graph_objects as go
 import json
 from copy import deepcopy
+from datetime import datetime
 import os
 
 # ------------ DATA COLLECTION ------------ #
-assets_path = "assets/"
+mastergeometries_folder = "data/mastergeometries/"
 
-data_path = "masterfiles/"
+masterfiles_folder = "data/masterfiles/"
 
 # -- Masterfile -- #
 masterfile = pd.DataFrame()
 years = range(2010, 2024)
 
 for year in years:
-    file_path = f'{data_path}contract_rent_masterfile_{year}.csv'
+    file_path = f'{masterfiles_folder}{year}_masterfile.csv'
     df = pd.read_csv(file_path)
-    map_path = f'{assets_path}contract_rent_mastergeometry_{year}.json'
+    
+    map_path = f'{mastergeometries_folder}{year}_mastergeometry.geojson'
     gdf = gpd.read_file(map_path)
     df = pd.merge(df, gdf[['GEO_ID','INTPTLAT','INTPTLON']], on='GEO_ID', how='left')
 
@@ -42,12 +44,12 @@ for year in years:
 
     # cc. Example: https://data.census.gov/table/ACSDT5Y2015.B25061?q=Renter+Costs&g=160XX00US0643000$1400000
     # Compare the highest price bin in 2023 ('$3500 or more') to the highest price
-    # bin in 2014 ('$2000 or more') or any year prior to 2014 for that matter.
+    # bin in 2014 ('$2000 or more'), or any year prior to 2014 for that matter.
 
     # As a side, it appears that max price was revised up from $2000 to $3500,
     # corresponding to the transition from 2014 to 2015. This possibly reflects
     # the sentiment that ACS data would not adequately capture the entire spectrum
-    # of variation in rents especially as they occur along the higher end of the spectrum.
+    # of variation in rents, especially as they occur along the higher end of the spectrum.
     # Nonetheless, it is curious as to why ACS data does not display or provide higher price bins
     # for data years prior to 2014.
     df['B25058_001E_copy'] = df['B25058_001E']
@@ -111,7 +113,7 @@ geodata_plot = html.Div([
 
 
 # Footer string
-footer_string = """
+footer_string = f"""
 ### <b style='color:#800000;'>Information</b>
 
 This interactive website allows you to view the median, 25th percentile, and 75th percentile contract rents for census tracts across various cities in Los Angeles county. <br>
@@ -153,7 +155,7 @@ Thank you to <u style='color:#800000;'><a href="https://www.wearelbre.org/" styl
 Raminder Singh Dubb <br>
 <u style='color:#800000;'><a href="https://github.com/ramindersinghdubb/Contract-Rents-in-LA-County" style="color:#800000;">GitHub</a></u>
 
-© 2025 Raminder Singh Dubb
+© {datetime.now().year} Raminder Singh Dubb
 """
 
 
