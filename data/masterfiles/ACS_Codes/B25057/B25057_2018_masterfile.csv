@@ -169,31 +169,31 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M
 2018,06037700902,Census Tract 7009.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1574,104
 2018,06037701000,Census Tract 7010,Beverly Hills,Los Angeles County,California,BeverlyHills,1582,103
 2018,06037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,,
-2018,06037123103,Census Tract 1231.03,Burbank,Los Angeles County,California,Burbank,1009,157
-2018,06037310100,Census Tract 3101,Burbank,Los Angeles County,California,Burbank,1854,367
-2018,06037310201,Census Tract 3102.01,Burbank,Los Angeles County,California,Burbank,1221,129
-2018,06037310202,Census Tract 3102.02,Burbank,Los Angeles County,California,Burbank,1381,190
-2018,06037310300,Census Tract 3103,Burbank,Los Angeles County,California,Burbank,3197,695
-2018,06037310400,Census Tract 3104,Burbank,Los Angeles County,California,Burbank,1097,101
-2018,06037310501,Census Tract 3105.01,Burbank,Los Angeles County,California,Burbank,1073,51
-2018,06037310601,Census Tract 3106.01,Burbank,Los Angeles County,California,Burbank,1106,72
-2018,06037310602,Census Tract 3106.02,Burbank,Los Angeles County,California,Burbank,1175,240
-2018,06037310701,Census Tract 3107.01,Burbank,Los Angeles County,California,Burbank,458,85
-2018,06037310702,Census Tract 3107.02,Burbank,Los Angeles County,California,Burbank,1111,78
-2018,06037310703,Census Tract 3107.03,Burbank,Los Angeles County,California,Burbank,1073,111
-2018,06037310800,Census Tract 3108,Burbank,Los Angeles County,California,Burbank,1008,82
-2018,06037310900,Census Tract 3109,Burbank,Los Angeles County,California,Burbank,1247,170
-2018,06037311000,Census Tract 3110,Burbank,Los Angeles County,California,Burbank,970,83
-2018,06037311100,Census Tract 3111,Burbank,Los Angeles County,California,Burbank,1029,156
-2018,06037311200,Census Tract 3112,Burbank,Los Angeles County,California,Burbank,1168,80
-2018,06037311300,Census Tract 3113,Burbank,Los Angeles County,California,Burbank,1283,141
-2018,06037311400,Census Tract 3114,Burbank,Los Angeles County,California,Burbank,1320,126
-2018,06037311500,Census Tract 3115,Burbank,Los Angeles County,California,Burbank,1297,126
-2018,06037311600,Census Tract 3116,Burbank,Los Angeles County,California,Burbank,1486,79
-2018,06037311700,Census Tract 3117,Burbank,Los Angeles County,California,Burbank,1262,206
-2018,06037311801,Census Tract 3118.01,Burbank,Los Angeles County,California,Burbank,1111,105
-2018,06037311802,Census Tract 3118.02,Burbank,Los Angeles County,California,Burbank,1180,129
-2018,06037980001,Census Tract 9800.01,Burbank,Los Angeles County,California,Burbank,,
+2018,06037123103,Census Tract 1231.03,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1009,157
+2018,06037310100,Census Tract 3101,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1854,367
+2018,06037310201,Census Tract 3102.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1221,129
+2018,06037310202,Census Tract 3102.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1381,190
+2018,06037310300,Census Tract 3103,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),3197,695
+2018,06037310400,Census Tract 3104,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1097,101
+2018,06037310501,Census Tract 3105.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1073,51
+2018,06037310601,Census Tract 3106.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1106,72
+2018,06037310602,Census Tract 3106.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1175,240
+2018,06037310701,Census Tract 3107.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),458,85
+2018,06037310702,Census Tract 3107.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1111,78
+2018,06037310703,Census Tract 3107.03,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1073,111
+2018,06037310800,Census Tract 3108,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1008,82
+2018,06037310900,Census Tract 3109,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1247,170
+2018,06037311000,Census Tract 3110,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),970,83
+2018,06037311100,Census Tract 3111,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1029,156
+2018,06037311200,Census Tract 3112,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1168,80
+2018,06037311300,Census Tract 3113,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1283,141
+2018,06037311400,Census Tract 3114,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1320,126
+2018,06037311500,Census Tract 3115,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1297,126
+2018,06037311600,Census Tract 3116,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1486,79
+2018,06037311700,Census Tract 3117,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1262,206
+2018,06037311801,Census Tract 3118.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1111,105
+2018,06037311802,Census Tract 3118.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1180,129
+2018,06037980001,Census Tract 9800.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),,
 2018,06037137402,Census Tract 1374.02,Calabasas,Los Angeles County,California,Calabasas,1092,410
 2018,06037800101,Census Tract 8001.01,Calabasas,Los Angeles County,California,Calabasas,1238,663
 2018,06037800102,Census Tract 8001.02,Calabasas,Los Angeles County,California,Calabasas,1168,568
@@ -574,8 +574,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M
 2018,06037403901,Census Tract 4039.01,Glendora,Los Angeles County,California,Glendora,982,551
 2018,06037403902,Census Tract 4039.02,Glendora,Los Angeles County,California,Glendora,1330,44
 2018,06037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1261,126
-2018,06037920012,Census Tract 9200.12,Green Valley,Los Angeles County,California,GreenValley,627,24
-2018,06037920102,Census Tract 9201.02,Green Valley,Los Angeles County,California,GreenValley,931,95
+2018,06037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),627,24
+2018,06037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),931,95
 2018,06037408202,Census Tract 4082.02,Hacienda Heights,Los Angeles County,California,HaciendaHeights,837,113
 2018,06037408401,Census Tract 4084.01,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1246,156
 2018,06037408402,Census Tract 4084.02,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1680,591
@@ -2334,7 +2334,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M
 2018,06037621326,Census Tract 6213.26,Redondo Beach,Los Angeles County,California,RedondoBeach,1668,106
 2018,06037621400,Census Tract 6214,Redondo Beach,Los Angeles County,California,RedondoBeach,1548,111
 2018,06037650502,Census Tract 6505.02,Redondo Beach,Los Angeles County,California,RedondoBeach,1660,59
-2018,06037670500,Census Tract 6705,Rolling Hills,Los Angeles County,California,RollingHills,918,891
+2018,06037670500,Census Tract 6705,Rolling Hills (Los Angeles County),Los Angeles County,California,RollingHills(LosAngelesCounty),918,891
 2018,06037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1681,398
 2018,06037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2632,186
 2018,06037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1802,181

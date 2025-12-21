@@ -148,32 +148,32 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25058_001E,B25058_001M
 2022,06037700902,Census Tract 7009.02,Beverly Hills,Los Angeles County,California,BeverlyHills,2406,154
 2022,06037701000,Census Tract 7010,Beverly Hills,Los Angeles County,California,BeverlyHills,2491,293
 2022,06037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,3501,
-2022,06037310100,Census Tract 3101,Burbank,Los Angeles County,California,Burbank,3501,
-2022,06037310201,Census Tract 3102.01,Burbank,Los Angeles County,California,Burbank,2024,239
-2022,06037310202,Census Tract 3102.02,Burbank,Los Angeles County,California,Burbank,1943,170
-2022,06037310300,Census Tract 3103,Burbank,Los Angeles County,California,Burbank,3501,
-2022,06037310400,Census Tract 3104,Burbank,Los Angeles County,California,Burbank,1897,362
-2022,06037310501,Census Tract 3105.01,Burbank,Los Angeles County,California,Burbank,1563,362
-2022,06037310601,Census Tract 3106.01,Burbank,Los Angeles County,California,Burbank,1820,95
-2022,06037310602,Census Tract 3106.02,Burbank,Los Angeles County,California,Burbank,1927,158
-2022,06037310701,Census Tract 3107.01,Burbank,Los Angeles County,California,Burbank,1158,1072
-2022,06037310703,Census Tract 3107.03,Burbank,Los Angeles County,California,Burbank,1778,119
-2022,06037310704,Census Tract 3107.04,Burbank,Los Angeles County,California,Burbank,1717,126
-2022,06037310705,Census Tract 3107.05,Burbank,Los Angeles County,California,Burbank,1871,349
-2022,06037310800,Census Tract 3108,Burbank,Los Angeles County,California,Burbank,1421,330
-2022,06037310900,Census Tract 3109,Burbank,Los Angeles County,California,Burbank,2007,340
-2022,06037311000,Census Tract 3110,Burbank,Los Angeles County,California,Burbank,2210,402
-2022,06037311100,Census Tract 3111,Burbank,Los Angeles County,California,Burbank,1611,529
-2022,06037311200,Census Tract 3112,Burbank,Los Angeles County,California,Burbank,1916,377
-2022,06037311300,Census Tract 3113,Burbank,Los Angeles County,California,Burbank,1878,159
-2022,06037311400,Census Tract 3114,Burbank,Los Angeles County,California,Burbank,2176,376
-2022,06037311500,Census Tract 3115,Burbank,Los Angeles County,California,Burbank,2102,160
-2022,06037311601,Census Tract 3116.01,Burbank,Los Angeles County,California,Burbank,1953,305
-2022,06037311602,Census Tract 3116.02,Burbank,Los Angeles County,California,Burbank,2280,189
-2022,06037311700,Census Tract 3117,Burbank,Los Angeles County,California,Burbank,1842,156
-2022,06037311801,Census Tract 3118.01,Burbank,Los Angeles County,California,Burbank,1709,128
-2022,06037311802,Census Tract 3118.02,Burbank,Los Angeles County,California,Burbank,1909,232
-2022,06037980001,Census Tract 9800.01,Burbank,Los Angeles County,California,Burbank,,
+2022,06037310100,Census Tract 3101,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),3501,
+2022,06037310201,Census Tract 3102.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),2024,239
+2022,06037310202,Census Tract 3102.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1943,170
+2022,06037310300,Census Tract 3103,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),3501,
+2022,06037310400,Census Tract 3104,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1897,362
+2022,06037310501,Census Tract 3105.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1563,362
+2022,06037310601,Census Tract 3106.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1820,95
+2022,06037310602,Census Tract 3106.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1927,158
+2022,06037310701,Census Tract 3107.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1158,1072
+2022,06037310703,Census Tract 3107.03,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1778,119
+2022,06037310704,Census Tract 3107.04,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1717,126
+2022,06037310705,Census Tract 3107.05,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1871,349
+2022,06037310800,Census Tract 3108,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1421,330
+2022,06037310900,Census Tract 3109,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),2007,340
+2022,06037311000,Census Tract 3110,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),2210,402
+2022,06037311100,Census Tract 3111,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1611,529
+2022,06037311200,Census Tract 3112,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1916,377
+2022,06037311300,Census Tract 3113,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1878,159
+2022,06037311400,Census Tract 3114,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),2176,376
+2022,06037311500,Census Tract 3115,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),2102,160
+2022,06037311601,Census Tract 3116.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1953,305
+2022,06037311602,Census Tract 3116.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),2280,189
+2022,06037311700,Census Tract 3117,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1842,156
+2022,06037311801,Census Tract 3118.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1709,128
+2022,06037311802,Census Tract 3118.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1909,232
+2022,06037980001,Census Tract 9800.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),,
 2022,06037800101,Census Tract 8001.01,Calabasas,Los Angeles County,California,Calabasas,3370,367
 2022,06037800103,Census Tract 8001.03,Calabasas,Los Angeles County,California,Calabasas,,
 2022,06037800104,Census Tract 8001.04,Calabasas,Los Angeles County,California,Calabasas,3501,
@@ -528,8 +528,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25058_001E,B25058_001M
 2022,06037403901,Census Tract 4039.01,Glendora,Los Angeles County,California,Glendora,2328,267
 2022,06037403902,Census Tract 4039.02,Glendora,Los Angeles County,California,Glendora,1883,226
 2022,06037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1843,175
-2022,06037920050,Census Tract 9200.50,Green Valley,Los Angeles County,California,GreenValley,1225,602
-2022,06037920102,Census Tract 9201.02,Green Valley,Los Angeles County,California,GreenValley,1427,171
+2022,06037920050,Census Tract 9200.50,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1225,602
+2022,06037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1427,171
 2022,06037408401,Census Tract 4084.01,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1598,243
 2022,06037408402,Census Tract 4084.02,Hacienda Heights,Los Angeles County,California,HaciendaHeights,2411,1019
 2022,06037408503,Census Tract 4085.03,Hacienda Heights,Los Angeles County,California,HaciendaHeights,3118,195
@@ -2297,7 +2297,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25058_001E,B25058_001M
 2022,06037621326,Census Tract 6213.26,Redondo Beach,Los Angeles County,California,RedondoBeach,2515,197
 2022,06037621400,Census Tract 6214,Redondo Beach,Los Angeles County,California,RedondoBeach,2313,148
 2022,06037990200,Census Tract 9902,Redondo Beach,Los Angeles County,California,RedondoBeach,,
-2022,06037670500,Census Tract 6705,Rolling Hills,Los Angeles County,California,RollingHills,3501,
+2022,06037670500,Census Tract 6705,Rolling Hills (Los Angeles County),Los Angeles County,California,RollingHills(LosAngelesCounty),3501,
 2022,06037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2355,623
 2022,06037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501,
 2022,06037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2882,1075

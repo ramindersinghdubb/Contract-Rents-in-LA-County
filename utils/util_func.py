@@ -5,7 +5,10 @@ import requests as req
 from datetime import datetime
 from typing import List
 from functools import reduce
-import os, shutil, aiohttp, asyncio
+from warnings import filterwarnings
+import os, shutil, asyncio, unicodedata, aiohttp
+
+filterwarnings('ignore')
 
 # Folder paths
 data_folder = f"{os.getcwd()}/data/"
@@ -15,35 +18,41 @@ for folder in [data_folder, masterfiles_folder, mastergeometries_folder]:
     if not os.path.exists(folder):
         os.makedirs(folder)
 
+# Remove accent marks on strings
+def remove_accents(input_str: str) -> str:
+    """
+    Return the non-accented ASCII string for the inputed string.
+    
+    :param input_str: Inputed string.
+    :type input_str: str
+    
+    :return: Non-accented ASCII equivalent string.
+    :rtype: str
+    """
+    nfkd_form = unicodedata.normalize('NFKD', input_str)
+    only_ascii = nfkd_form.encode('ASCII', 'ignore')
+    return only_ascii.decode('ASCII')
+
+# Append county names for city names that show up more than once
+def append_counties_to_cities(series, county_series):
+    counts = series.value_counts()
+    for item in counts.index:
+        if counts[item] > 1:
+            series[series == item] += ' (' + county_series[series == item] + ')'
+    return series
+
 # LA County Cities and their FIPS codes
-def index_df():
-    txt_file_url = "https://www2.census.gov/geo/docs/reference/codes2020/place/st06_ca_place2020.txt"
+txt_file_url = "https://www2.census.gov/geo/docs/reference/codes2020/place/st06_ca_place2020.txt"
 
-    ca2020 = pd.read_csv(txt_file_url, sep = '|', dtype = {'STATEFP': object, 'PLACEFP': object})
-    ca2020['PLACE_FIPS'] = ca2020['STATEFP'] + ca2020['PLACEFP']
-    ca2020['PLACENAME'] = ca2020['PLACENAME'].str.replace(' CDP', "").str.replace(' city', "").str.replace(' town', ' Town')
+ca2020 = pd.read_csv(txt_file_url, sep = '|', dtype = {'STATEFP': object, 'PLACEFP': object})
+ca2020['FIPS'] = ca2020['STATEFP'] + ca2020['PLACEFP']
+ca2020['NAME'] = ca2020['PLACENAME'].str.replace(' CDP', "").str.replace(' city', "").str.replace(' town', ' Town')
+ca2020['NAME'] = append_counties_to_cities(ca2020['NAME'], ca2020['COUNTIES'])
+ca2020['ABBREV_NAME'] = [ remove_accents(i).replace(" ", "") for i in ca2020['NAME'] ]
 
-    LA_cities_2020 = ca2020[ca2020.COUNTIES.str.contains('Los Angeles County')]
+LA_cities_2020 = ca2020[ca2020.COUNTIES.str.contains('Los Angeles County')]
 
-    LA_cities_dict = LA_cities_2020.set_index('PLACE_FIPS')['PLACENAME'].to_dict()
-
-    LA_cities_dict.update(
-        {'0639003': 'La Canada Flintridge'}
-    )
-
-    LA_cities_2020_list = []
-    for FIPS in LA_cities_2020.PLACE_FIPS:
-        LA_cities_2020_list.append(
-            {'FIPS': FIPS,
-            'NAME': LA_cities_2020.loc[LA_cities_2020.PLACE_FIPS == FIPS, 'PLACENAME'].iloc[0],
-            'PLACE': LA_cities_dict[FIPS].replace(" ", "")
-            }
-        )
-
-    index_df = pd.DataFrame(LA_cities_2020_list)
-    return index_df
-
-index_df = index_df()
+index_df = LA_cities_2020[['FIPS', 'NAME', 'ABBREV_NAME']]
 
 # ---- Asynchronous Functions for ETL ---- #
 async def _request(url: str):
@@ -90,7 +99,6 @@ def ACS_data_extraction(ACS_code: str,
         if not os.path.exists(folder):
             os.makedirs(folder)
 
-    df_list = []
     if ACS_code.startswith('DP'):
         spec = '/profile'
     elif ACS_code.startswith('S'):
@@ -108,12 +116,13 @@ def ACS_data_extraction(ACS_code: str,
         for FIPS in index_df.FIPS:
             url = f'https://api.census.gov/data/{year}/acs/acs5{spec}?get=group({ACS_code})&ucgid=pseudo(1600000US{FIPS}$1400000)&key={API_key}'
             city_name = index_df.loc[index_df.FIPS == FIPS, 'NAME'].iloc[0]
-            dummy_name = index_df.loc[index_df.FIPS == FIPS, 'PLACE'].iloc[0]
+            dummy_name = index_df.loc[index_df.FIPS == FIPS, 'ABBREV_NAME'].iloc[0]
             dummy_dict[url] = (FIPS, year, city_name, dummy_name)
 
     urls = list( dummy_dict.keys() )
     files = asyncio.run( url_extract(urls, batch_size) )
         
+    df_list = []
     for file_info, file in zip(dummy_dict.values(), files):
         if file == None:
             continue
@@ -199,6 +208,19 @@ def masterfile_creation(ACS_codes: List[str], API_key: str):
 
         JSON_file_path = f'{masterfiles_folder}{year}_masterfile.json'
         dummy_df.to_json(JSON_file_path, orient='records')
+    
+    # Reference TXT file containing the earliest and most recent years of data for each city
+    with open(f'{data_folder}reference.txt', 'w') as txtfile:
+        txtfile.write("CITY|ABBREV_NAME|INITIAL_YEAR|RECENT_YEAR")
+        txtfile.write("\n")
+        for ABBREV_NAME in df['ABBREV_NAME'].unique():
+            city = df.loc[df['ABBREV_NAME'] == ABBREV_NAME, 'CITY'].iloc[0]
+            years = list(sorted(df['YEAR'][df['ABBREV_NAME'] == ABBREV_NAME].unique()))
+            initial_year = min(years)
+            recent_year = max(years)
+            content = f"{city}|{ABBREV_NAME}|{initial_year}|{recent_year}"
+            txtfile.write(content)
+            txtfile.write('\n')
 
 
 # ---- Mastergeometry Function ---- #

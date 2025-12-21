@@ -169,31 +169,31 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037700902,Census Tract 7009.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1435.0,126.0,1760.0,79.0,2001.0,
 2010,6037701000,Census Tract 7010,Beverly Hills,Los Angeles County,California,BeverlyHills,1412.0,222.0,1900.0,151.0,2001.0,
 2010,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,967.0,1365.0,1857.0,494.0,2001.0,
-2010,6037123103,Census Tract 1231.03,Burbank,Los Angeles County,California,Burbank,803.0,42.0,899.0,56.0,1140.0,121.0
-2010,6037310100,Census Tract 3101,Burbank,Los Angeles County,California,Burbank,993.0,806.0,1616.0,365.0,1984.0,290.0
-2010,6037310201,Census Tract 3102.01,Burbank,Los Angeles County,California,Burbank,1039.0,135.0,1319.0,69.0,1499.0,161.0
-2010,6037310202,Census Tract 3102.02,Burbank,Los Angeles County,California,Burbank,1061.0,97.0,1297.0,101.0,1589.0,218.0
-2010,6037310300,Census Tract 3103,Burbank,Los Angeles County,California,Burbank,1250.0,223.0,1454.0,409.0,1888.0,512.0
-2010,6037310400,Census Tract 3104,Burbank,Los Angeles County,California,Burbank,865.0,40.0,1011.0,135.0,1433.0,440.0
-2010,6037310501,Census Tract 3105.01,Burbank,Los Angeles County,California,Burbank,837.0,33.0,1022.0,114.0,1295.0,147.0
-2010,6037310601,Census Tract 3106.01,Burbank,Los Angeles County,California,Burbank,908.0,51.0,1135.0,112.0,1598.0,226.0
-2010,6037310602,Census Tract 3106.02,Burbank,Los Angeles County,California,Burbank,1154.0,121.0,1366.0,59.0,1590.0,153.0
-2010,6037310701,Census Tract 3107.01,Burbank,Los Angeles County,California,Burbank,438.0,84.0,1047.0,61.0,1325.0,139.0
-2010,6037310702,Census Tract 3107.02,Burbank,Los Angeles County,California,Burbank,961.0,105.0,1191.0,44.0,1497.0,105.0
-2010,6037310703,Census Tract 3107.03,Burbank,Los Angeles County,California,Burbank,951.0,38.0,1175.0,81.0,1500.0,153.0
-2010,6037310800,Census Tract 3108,Burbank,Los Angeles County,California,Burbank,893.0,53.0,983.0,68.0,1320.0,175.0
-2010,6037310900,Census Tract 3109,Burbank,Los Angeles County,California,Burbank,938.0,217.0,1161.0,127.0,1800.0,301.0
-2010,6037311000,Census Tract 3110,Burbank,Los Angeles County,California,Burbank,874.0,110.0,1092.0,115.0,1550.0,408.0
-2010,6037311100,Census Tract 3111,Burbank,Los Angeles County,California,Burbank,937.0,26.0,1010.0,133.0,1620.0,479.0
-2010,6037311200,Census Tract 3112,Burbank,Los Angeles County,California,Burbank,859.0,85.0,1148.0,186.0,1416.0,144.0
-2010,6037311300,Census Tract 3113,Burbank,Los Angeles County,California,Burbank,832.0,62.0,966.0,119.0,1294.0,259.0
-2010,6037311400,Census Tract 3114,Burbank,Los Angeles County,California,Burbank,1066.0,240.0,1469.0,225.0,1874.0,197.0
-2010,6037311500,Census Tract 3115,Burbank,Los Angeles County,California,Burbank,960.0,79.0,1199.0,103.0,1538.0,292.0
-2010,6037311600,Census Tract 3116,Burbank,Los Angeles County,California,Burbank,1105.0,67.0,1365.0,64.0,1691.0,90.0
-2010,6037311700,Census Tract 3117,Burbank,Los Angeles County,California,Burbank,924.0,66.0,1143.0,84.0,1436.0,110.0
-2010,6037311801,Census Tract 3118.01,Burbank,Los Angeles County,California,Burbank,1013.0,72.0,1178.0,70.0,1380.0,83.0
-2010,6037311802,Census Tract 3118.02,Burbank,Los Angeles County,California,Burbank,822.0,72.0,991.0,105.0,1356.0,149.0
-2010,6037980001,Census Tract 9800.01,Burbank,Los Angeles County,California,Burbank,,,,,,
+2010,6037123103,Census Tract 1231.03,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),803.0,42.0,899.0,56.0,1140.0,121.0
+2010,6037310100,Census Tract 3101,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),993.0,806.0,1616.0,365.0,1984.0,290.0
+2010,6037310201,Census Tract 3102.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1039.0,135.0,1319.0,69.0,1499.0,161.0
+2010,6037310202,Census Tract 3102.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1061.0,97.0,1297.0,101.0,1589.0,218.0
+2010,6037310300,Census Tract 3103,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1250.0,223.0,1454.0,409.0,1888.0,512.0
+2010,6037310400,Census Tract 3104,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),865.0,40.0,1011.0,135.0,1433.0,440.0
+2010,6037310501,Census Tract 3105.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),837.0,33.0,1022.0,114.0,1295.0,147.0
+2010,6037310601,Census Tract 3106.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),908.0,51.0,1135.0,112.0,1598.0,226.0
+2010,6037310602,Census Tract 3106.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1154.0,121.0,1366.0,59.0,1590.0,153.0
+2010,6037310701,Census Tract 3107.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),438.0,84.0,1047.0,61.0,1325.0,139.0
+2010,6037310702,Census Tract 3107.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),961.0,105.0,1191.0,44.0,1497.0,105.0
+2010,6037310703,Census Tract 3107.03,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),951.0,38.0,1175.0,81.0,1500.0,153.0
+2010,6037310800,Census Tract 3108,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),893.0,53.0,983.0,68.0,1320.0,175.0
+2010,6037310900,Census Tract 3109,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),938.0,217.0,1161.0,127.0,1800.0,301.0
+2010,6037311000,Census Tract 3110,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),874.0,110.0,1092.0,115.0,1550.0,408.0
+2010,6037311100,Census Tract 3111,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),937.0,26.0,1010.0,133.0,1620.0,479.0
+2010,6037311200,Census Tract 3112,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),859.0,85.0,1148.0,186.0,1416.0,144.0
+2010,6037311300,Census Tract 3113,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),832.0,62.0,966.0,119.0,1294.0,259.0
+2010,6037311400,Census Tract 3114,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1066.0,240.0,1469.0,225.0,1874.0,197.0
+2010,6037311500,Census Tract 3115,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),960.0,79.0,1199.0,103.0,1538.0,292.0
+2010,6037311600,Census Tract 3116,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1105.0,67.0,1365.0,64.0,1691.0,90.0
+2010,6037311700,Census Tract 3117,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),924.0,66.0,1143.0,84.0,1436.0,110.0
+2010,6037311801,Census Tract 3118.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1013.0,72.0,1178.0,70.0,1380.0,83.0
+2010,6037311802,Census Tract 3118.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),822.0,72.0,991.0,105.0,1356.0,149.0
+2010,6037980001,Census Tract 9800.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),,,,,,
 2010,6037137402,Census Tract 1374.02,Calabasas,Los Angeles County,California,Calabasas,1580.0,190.0,1801.0,127.0,2001.0,
 2010,6037800101,Census Tract 8001.01,Calabasas,Los Angeles County,California,Calabasas,743.0,816.0,1301.0,206.0,1434.0,266.0
 2010,6037800102,Census Tract 8001.02,Calabasas,Los Angeles County,California,Calabasas,1107.0,714.0,1718.0,476.0,2001.0,
@@ -572,8 +572,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037403901,Census Tract 4039.01,Glendora,Los Angeles County,California,Glendora,1325.0,931.0,1661.0,158.0,1881.0,123.0
 2010,6037403902,Census Tract 4039.02,Glendora,Los Angeles County,California,Glendora,1087.0,63.0,1234.0,110.0,1463.0,190.0
 2010,6037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1091.0,49.0,1209.0,91.0,1363.0,99.0
-2010,6037920012,Census Tract 9200.12,Green Valley,Los Angeles County,California,GreenValley,,,,,,
-2010,6037920102,Census Tract 9201.02,Green Valley,Los Angeles County,California,GreenValley,918.0,69.0,1120.0,98.0,1473.0,279.0
+2010,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),,,,,,
+2010,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),918.0,69.0,1120.0,98.0,1473.0,279.0
 2010,6037408202,Census Tract 4082.02,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1006.0,174.0,1231.0,243.0,1600.0,333.0
 2010,6037408401,Census Tract 4084.01,Hacienda Heights,Los Angeles County,California,HaciendaHeights,813.0,364.0,968.0,75.0,1150.0,115.0
 2010,6037408402,Census Tract 4084.02,Hacienda Heights,Los Angeles County,California,HaciendaHeights,790.0,118.0,903.0,118.0,1052.0,130.0
@@ -2331,7 +2331,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037621326,Census Tract 6213.26,Redondo Beach,Los Angeles County,California,RedondoBeach,1349.0,39.0,1561.0,119.0,1914.0,91.0
 2010,6037621400,Census Tract 6214,Redondo Beach,Los Angeles County,California,RedondoBeach,1251.0,85.0,1448.0,92.0,1792.0,148.0
 2010,6037650502,Census Tract 6505.02,Redondo Beach,Los Angeles County,California,RedondoBeach,1389.0,71.0,1607.0,175.0,1914.0,142.0
-2010,6037670500,Census Tract 6705,Rolling Hills,Los Angeles County,California,RollingHills,2001.0,,2001.0,,2001.0,
+2010,6037670500,Census Tract 6705,Rolling Hills (Los Angeles County),Los Angeles County,California,RollingHills(LosAngelesCounty),2001.0,,2001.0,,2001.0,
 2010,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,826.0,622.0,1324.0,119.0,1458.0,71.0
 2010,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,,
 2010,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,
