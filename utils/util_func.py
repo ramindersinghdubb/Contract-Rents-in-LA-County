@@ -101,6 +101,10 @@ def ACS_data_extraction(ACS_code: str,
     dummy_dict = {}
 
     for year in range(initial_year, final_year + 1):
+        ACS_df_file_path = masterfiles_ACS_folder + f'{ACS_code}_{year}_masterfile.csv'
+        if os.path.exists(ACS_df_file_path):
+            continue
+        
         for FIPS in index_df.FIPS:
             url = f'https://api.census.gov/data/{year}/acs/acs5{spec}?get=group({ACS_code})&ucgid=pseudo(1600000US{FIPS}$1400000)&key={API_key}'
             city_name = index_df.loc[index_df.FIPS == FIPS, 'NAME'].iloc[0]
@@ -202,6 +206,10 @@ def mastergeometry_creation():
     years = [int(file.split('_')[0]) for file in os.listdir(masterfiles_folder) if 'masterfile.csv' in file]
     
     for year in sorted(list(set(years))):
+        file_path = mastergeometries_folder + f'{year}_mastergeometry.geojson'
+        if os.path.exists(file_path):
+            continue
+
         if year == 2010:
             zip_file_url = f'https://www2.census.gov/geo/tiger/TIGER2010/TRACT/2010/tl_2010_06_tract10.zip'
         else:
@@ -248,5 +256,4 @@ def mastergeometry_creation():
             dummy_gdf = gdf[['GEO_ID', 'INTPTLAT', 'INTPTLON', 'geometry']].merge(dummy_df, on = 'GEO_ID')
             dummy_gdf = dummy_gdf[['YEAR', 'GEO_ID', 'TRACT', 'CITY', 'COUNTY', 'STATE', 'ABBREV_NAME', 'INTPTLAT', 'INTPTLON', 'geometry']]
             
-            file_path = mastergeometries_folder + f'{year}_mastergeometry.geojson'
             dummy_gdf.to_file(file_path, driver='GeoJSON')
