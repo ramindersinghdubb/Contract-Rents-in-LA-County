@@ -6,7 +6,7 @@ from datetime import datetime
 from typing import List
 from functools import reduce
 from warnings import filterwarnings
-import os, shutil, asyncio, unicodedata, aiohttp
+import os, shutil, asyncio, unicodedata, json, aiohttp
 
 filterwarnings('ignore')
 
@@ -298,18 +298,16 @@ def lat_lon_center_points():
     if not os.path.exists(lat_lon_center_points_folder):
         os.makedirs(lat_lon_center_points_folder)
     
-    print(mastergeometry_files)
-    
     for mastergeometry_file in mastergeometry_files:
         gdf = gpd.read_file(mastergeometry_file)
         YEAR = gdf.loc[:, 'YEAR'][0]
         
-        with open(f'{lat_lon_center_points_folder}{YEAR}_latlon_center_points.txt', 'w') as txtfile:
-            txtfile.write("CITY|ABBREV_NAME|LAT_CENTER|LON_CENTER")
-            txtfile.write("\n")
+        with open(f'{lat_lon_center_points_folder}{YEAR}_latlon_center_points.json', 'w') as jsonfile:
+            json_list = []
             for ABBREV_NAME in sorted(gdf['ABBREV_NAME'].unique()):
                 CITY = gdf.loc[gdf['ABBREV_NAME'] == ABBREV_NAME, 'CITY'].iloc[0]
                 LAT_CENTER, LON_CENTER = map(lambda x: str(round(x, 10)), gdf[['INTPTLAT', 'INTPTLON']][gdf['ABBREV_NAME'] == ABBREV_NAME].mean(axis=0))
-                content = "|".join([CITY, ABBREV_NAME, LAT_CENTER, LON_CENTER])
-                txtfile.write(content)
-                txtfile.write('\n')
+                content = {"CITY": CITY, "ABBREV_NAME": ABBREV_NAME, "LAT_CENTER": LAT_CENTER, "LON_CENTER": LON_CENTER}
+                json_list.append(content)
+
+            json.dump(json_list, jsonfile)
