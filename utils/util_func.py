@@ -280,8 +280,7 @@ def mastergeometry_creation():
 
             gdf['GEO_ID'] = gdf['GEO_ID'].astype('int64')
 
-            masterfile_path = masterfiles_folder + f'{year}_masterfile.csv'
-            dummy_df = pd.read_csv(masterfile_path)
+            dummy_df = df[df['YEAR'] == year]
 
             dummy_gdf = gdf[['GEO_ID', 'INTPTLAT', 'INTPTLON', 'geometry']].merge(dummy_df, on = 'GEO_ID')
             dummy_gdf = dummy_gdf[['YEAR', 'GEO_ID', 'TRACT', 'CITY', 'COUNTY', 'STATE', 'ABBREV_NAME', 'INTPTLAT', 'INTPTLON', 'geometry']]
