@@ -3,7 +3,7 @@ run-name: Create and remove files through Python
 
 on:
     schedule:
-      - cron: '30 5 * * *'
+      - cron: '17 5 * * *'
     
     workflow_dispatch:
 

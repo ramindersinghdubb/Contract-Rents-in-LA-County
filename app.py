@@ -259,7 +259,7 @@ app.clientside_callback(
 app.clientside_callback(
     """
     function(selected_place, selected_year, MASTERFILE) {
-        var options = MASTERFILE.filter(x => && x['YEAR'] === selected_year);
+        var options = MASTERFILE.filter(x => x['YEAR'] === selected_year);
         var tract_options = options.map(item => { return item.TRACT });
         return tract_options
     }
@@ -295,7 +295,7 @@ app.clientside_callback(
 app.clientside_callback(
     """
     function(selected_year, MASTERFILE) {
-        var my_array = MASTERFILE.filter(item => && item['YEAR'] === selected_year);
+        var my_array = MASTERFILE.filter(item => item['YEAR'] === selected_year);
         var city_array = my_array.map(({CITY}) => CITY);
         var selected_city = city_array[0];
         return [selected_city, selected_year];
@@ -317,15 +317,13 @@ app.clientside_callback(
         if (selected_tract == undefined){
             return "Please click on a tract.";
         } else {
-            var city_array = MASTERFILE.map(({CITY}) => CITY);
-            var selected_city = city_array[0];
+            var selected_city = MASTERFILE[0]['CITY'];
             return `${selected_city}, ${selected_tract}`;
         }
     }
     """,
     Output('plot-title', 'children'),
-    [Input('place-dropdown', 'value'),
-     Input('census-tract-dropdown', 'value'),
+    [Input('census-tract-dropdown', 'value'),
      Input('MASTERFILE', 'data')
     ]
 )
@@ -425,14 +423,11 @@ app.clientside_callback(
     """
     function(selected_place, selected_tract, MASTERFILE){
         if (selected_tract != undefined){
-            var selected_place = `${selected_place}`;
-            var selected_tract = `${selected_tract}`;
-            var my_array = MASTERFILE.filter(item => item['TRACT'] === selected_tract);
+            var my_array = MASTERFILE.filter(item => item['TRACT'] == selected_tract);
+            var my_array = my_array.sort((a, b) => a.YEAR - b.YEAR);
             
             var x_array = my_array.map( ({YEAR}) => YEAR);
             var y_array = my_array.map( ({B25058_001E}) => B25058_001E);
-    
-            var customdata_array = my_array.map( ({TRACT}) => TRACT);
     
             var strings = my_array.map(function(item) {
                 return "<b style='font-size:16px;'>" + item['YEAR'] + "</b><br>" + item['TRACT'] + ", " + item['CITY'] + " <br><br>" +
