@@ -8,7 +8,6 @@ masterfile_creation(['B25057', 'B25058', 'B25059'], API_key = os.environ['SECRET
 # Formatting
 ABBREV_NAMES = [file.split('_')[0] for file in os.listdir(masterfiles_folder) if 'masterfile.csv' in file]
 
-df_list = []
 for ABBREV_NAME in ABBREV_NAMES:
     CSV_file_path = f'{masterfiles_folder}{ABBREV_NAME}_masterfile.csv'
     df = pd.read_csv(CSV_file_path)
@@ -29,7 +28,6 @@ for ABBREV_NAME in ABBREV_NAMES:
         df['dummy'] = 1
 
         df.to_csv(CSV_file_path, index = False)
-        df_list.append(df)
 
         JSON_file_path = f'{masterfiles_folder}{ABBREV_NAME}_masterfile.json'
         df.to_json(JSON_file_path, orient='records')
