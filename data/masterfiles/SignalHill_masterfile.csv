@@ -1,0 +1,77 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,1127.0,118.0,1384.0,91.0,1871.0,364.0,$1384,$1871,$1127,1
+2021,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,1157.0,154.0,1449.0,126.0,1828.0,120.0,$1449,$1828,$1157,1
+2021,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1741.0,110.0,1997.0,584.0,2873.0,1121.0,$1997,$2873,$1741,1
+2021,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2012,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,972.0,102.0,1208.0,170.0,1674.0,298.0,$1208,$1674,$972,1
+2012,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,721.0,74.0,1024.0,196.0,1344.0,180.0,$1024,$1344,$721,1
+2012,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,819.0,50.0,963.0,75.0,1311.0,222.0,$963,$1311,$819,1
+2012,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1306.0,121.0,1576.0,202.0,1912.0,184.0,$1576,$1912,$1306,1
+2012,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,838.0,32.0,980.0,95.0,1191.0,72.0,$980,$1191,$838,1
+2012,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2013,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,965.0,99.0,1213.0,177.0,1797.0,289.0,$1213,$1797,$965,1
+2013,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,728.0,94.0,1063.0,150.0,1414.0,274.0,$1063,$1414,$728,1
+2013,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,834.0,32.0,950.0,85.0,1268.0,197.0,$950,$1268,$834,1
+2013,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1311.0,289.0,1727.0,204.0,2001.0,,$1727,Not available. Exceeds $2000!,$1311,1
+2013,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,795.0,149.0,955.0,49.0,1151.0,59.0,$955,$1151,$795,1
+2013,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2014,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,1013.0,96.0,1200.0,139.0,1850.0,326.0,$1200,$1850,$1013,1
+2014,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,784.0,83.0,1075.0,208.0,1467.0,249.0,$1075,$1467,$784,1
+2014,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,845.0,28.0,998.0,110.0,1367.0,125.0,$998,$1367,$845,1
+2014,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1368.0,306.0,1721.0,150.0,2001.0,,$1721,Not available. Exceeds $2000!,$1368,1
+2014,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,742.0,136.0,908.0,55.0,1114.0,83.0,$908,$1114,$742,1
+2014,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2023,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,1343.0,168.0,1637.0,228.0,1992.0,481.0,$1637,$1992,$1343,1
+2023,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,1314.0,165.0,1649.0,152.0,1976.0,207.0,$1649,$1976,$1314,1
+2023,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,2028.0,263.0,2242.0,161.0,2456.0,191.0,$2242,$2456,$2028,1
+2023,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2011,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,923.0,88.0,1117.0,127.0,1624.0,425.0,$1117,$1624,$923,1
+2011,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,716.0,98.0,978.0,163.0,1376.0,193.0,$978,$1376,$716,1
+2011,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,824.0,47.0,975.0,88.0,1488.0,276.0,$975,$1488,$824,1
+2011,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1201.0,150.0,1526.0,234.0,1850.0,179.0,$1526,$1850,$1201,1
+2011,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,828.0,26.0,921.0,65.0,1165.0,94.0,$921,$1165,$828,1
+2011,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2015,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,986.0,85.0,1246.0,307.0,2012.0,295.0,$1246,$2012,$986,1
+2015,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,911.0,133.0,1164.0,131.0,1558.0,250.0,$1164,$1558,$911,1
+2015,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,853.0,42.0,1079.0,117.0,1410.0,160.0,$1079,$1410,$853,1
+2015,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1322.0,210.0,1728.0,234.0,2220.0,526.0,$1728,$2220,$1322,1
+2015,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,756.0,105.0,929.0,50.0,1172.0,116.0,$929,$1172,$756,1
+2015,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2010,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,940.0,134.0,1153.0,130.0,1598.0,267.0,$1153,$1598,$940,1
+2010,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,640.0,134.0,894.0,243.0,1137.0,96.0,$894,$1137,$640,1
+2010,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,810.0,69.0,972.0,51.0,1397.0,236.0,$972,$1397,$810,1
+2010,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1277.0,130.0,1456.0,171.0,1826.0,270.0,$1456,$1826,$1277,1
+2010,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,732.0,137.0,906.0,63.0,1087.0,67.0,$906,$1087,$732,1
+2010,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2020,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,1085.0,84.0,1325.0,185.0,1920.0,383.0,$1325,$1920,$1085,1
+2020,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,1076.0,113.0,1500.0,207.0,1798.0,79.0,$1500,$1798,$1076,1
+2020,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1671.0,283.0,2133.0,650.0,2946.0,545.0,$2133,$2946,$1671,1
+2020,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2016,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,998.0,87.0,1218.0,111.0,1701.0,386.0,$1218,$1701,$998,1
+2016,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,884.0,122.0,1133.0,79.0,1375.0,131.0,$1133,$1375,$884,1
+2016,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,898.0,79.0,1098.0,92.0,1432.0,191.0,$1098,$1432,$898,1
+2016,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1420.0,151.0,1791.0,273.0,2326.0,729.0,$1791,$2326,$1420,1
+2016,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,731.0,74.0,994.0,85.0,1249.0,103.0,$994,$1249,$731,1
+2016,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2018,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,1093.0,113.0,1385.0,175.0,1930.0,259.0,$1385,$1930,$1093,1
+2018,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,903.0,127.0,1168.0,106.0,1422.0,119.0,$1168,$1422,$903,1
+2018,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,1014.0,59.0,1208.0,67.0,1732.0,104.0,$1208,$1732,$1014,1
+2018,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1508.0,343.0,2146.0,311.0,2862.0,848.0,$2146,$2862,$1508,1
+2018,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,907.0,105.0,1187.0,83.0,1398.0,49.0,$1187,$1398,$907,1
+2018,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2022,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,1256.0,130.0,1451.0,128.0,2158.0,457.0,$1451,$2158,$1256,1
+2022,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,1287.0,86.0,1478.0,145.0,2144.0,274.0,$1478,$2144,$1287,1
+2022,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1764.0,187.0,2189.0,467.0,2833.0,658.0,$2189,$2833,$1764,1
+2022,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2017,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,1032.0,99.0,1319.0,156.0,1827.0,272.0,$1319,$1827,$1032,1
+2017,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,895.0,158.0,1199.0,182.0,1544.0,236.0,$1199,$1544,$895,1
+2017,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,979.0,60.0,1192.0,89.0,1585.0,176.0,$1192,$1585,$979,1
+2017,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1451.0,226.0,1988.0,353.0,2357.0,541.0,$1988,$2357,$1451,1
+2017,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,827.0,98.0,1061.0,103.0,1331.0,96.0,$1061,$1331,$827,1
+2017,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1
+2019,6037572001,Census Tract 5720.01,Signal Hill,Los Angeles County,California,SignalHill,1197.0,119.0,1455.0,118.0,1928.0,225.0,$1455,$1928,$1197,1
+2019,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,1055.0,75.0,1225.0,111.0,1496.0,243.0,$1225,$1496,$1055,1
+2019,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,1019.0,93.0,1251.0,167.0,1704.0,93.0,$1251,$1704,$1019,1
+2019,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,1650.0,188.0,2066.0,408.0,2966.0,848.0,$2066,$2966,$1650,1
+2019,6037575101,Census Tract 5751.01,Signal Hill,Los Angeles County,California,SignalHill,1003.0,106.0,1258.0,77.0,1456.0,53.0,$1258,$1456,$1003,1
+2019,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,Not Available!,Not Available!,Not Available!,1

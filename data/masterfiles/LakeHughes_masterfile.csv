@@ -1,0 +1,29 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,975.0,598.0,1358.0,97.0,1476.0,1179.0,$1358,$1476,$975,1
+2021,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,1091.0,74.0,1312.0,178.0,1670.0,216.0,$1312,$1670,$1091,1
+2012,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,516.0,270.0,950.0,840.0,1142.0,335.0,$950,$1142,$516,1
+2012,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,920.0,117.0,1079.0,95.0,1383.0,279.0,$1079,$1383,$920,1
+2013,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,373.0,193.0,509.0,186.0,542.0,243.0,$509,$542,$373,1
+2013,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,927.0,23.0,1030.0,75.0,1244.0,254.0,$1030,$1244,$927,1
+2014,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,363.0,294.0,511.0,134.0,542.0,338.0,$511,$542,$363,1
+2014,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,893.0,164.0,992.0,58.0,1206.0,77.0,$992,$1206,$893,1
+2023,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,894.0,220.0,1105.0,183.0,1262.0,201.0,$1105,$1262,$894,1
+2023,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,1270.0,165.0,1557.0,189.0,1847.0,139.0,$1557,$1847,$1270,1
+2011,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,828.0,379.0,1130.0,288.0,1323.0,229.0,$1130,$1323,$828,1
+2011,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,921.0,105.0,1132.0,106.0,1523.0,325.0,$1132,$1523,$921,1
+2015,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,363.0,220.0,515.0,188.0,,,$515,Not Available!,$363,1
+2015,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,901.0,108.0,982.0,30.0,1219.0,113.0,$982,$1219,$901,1
+2010,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,810.0,375.0,950.0,346.0,1299.0,626.0,$950,$1299,$810,1
+2010,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,918.0,69.0,1120.0,98.0,1473.0,279.0,$1120,$1473,$918,1
+2020,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,1052.0,161.0,1254.0,169.0,1466.0,1215.0,$1254,$1466,$1052,1
+2020,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,1061.0,50.0,1201.0,79.0,1426.0,137.0,$1201,$1426,$1061,1
+2016,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,394.0,237.0,,,1178.0,706.0,Not Available!,$1178,$394,1
+2016,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,919.0,44.0,1031.0,75.0,1223.0,61.0,$1031,$1223,$919,1
+2018,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,734.0,625.0,1299.0,371.0,1801.0,743.0,$1299,$1801,$734,1
+2018,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,931.0,95.0,1139.0,74.0,1436.0,161.0,$1139,$1436,$931,1
+2022,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,1114.0,343.0,1370.0,989.0,2614.0,1894.0,$1370,$2614,$1114,1
+2022,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,1159.0,107.0,1427.0,171.0,1779.0,153.0,$1427,$1779,$1159,1
+2017,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,432.0,272.0,1033.0,492.0,1200.0,553.0,$1033,$1200,$432,1
+2017,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,890.0,75.0,1069.0,57.0,1237.0,111.0,$1069,$1237,$890,1
+2019,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,1059.0,187.0,1306.0,250.0,1633.0,805.0,$1306,$1633,$1059,1
+2019,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,1040.0,77.0,1213.0,87.0,1575.0,226.0,$1213,$1575,$1040,1

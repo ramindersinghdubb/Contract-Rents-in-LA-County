@@ -1,0 +1,29 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037920050,Census Tract 9200.50,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1053.0,269.0,1217.0,606.0,1722.0,260.0,$1217,$1722,$1053,1
+2021,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1091.0,74.0,1312.0,178.0,1670.0,216.0,$1312,$1670,$1091,1
+2012,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),936.0,507.0,1114.0,269.0,1321.0,251.0,$1114,$1321,$936,1
+2012,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),920.0,117.0,1079.0,95.0,1383.0,279.0,$1079,$1383,$920,1
+2013,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),817.0,1032.0,1088.0,229.0,1278.0,226.0,$1088,$1278,$817,1
+2013,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),927.0,23.0,1030.0,75.0,1244.0,254.0,$1030,$1244,$927,1
+2014,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),915.0,310.0,1086.0,189.0,1271.0,209.0,$1086,$1271,$915,1
+2014,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),893.0,164.0,992.0,58.0,1206.0,77.0,$992,$1206,$893,1
+2023,6037920050,Census Tract 9200.50,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1112.0,104.0,1248.0,603.0,1832.0,392.0,$1248,$1832,$1112,1
+2023,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1270.0,165.0,1557.0,189.0,1847.0,139.0,$1557,$1847,$1270,1
+2011,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1006.0,306.0,1087.0,128.0,1169.0,49.0,$1087,$1169,$1006,1
+2011,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),921.0,105.0,1132.0,106.0,1523.0,325.0,$1132,$1523,$921,1
+2015,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),890.0,589.0,1046.0,117.0,1148.0,67.0,$1046,$1148,$890,1
+2015,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),901.0,108.0,982.0,30.0,1219.0,113.0,$982,$1219,$901,1
+2010,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),,,,,,,Not Available!,Not Available!,Not Available!,1
+2010,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),918.0,69.0,1120.0,98.0,1473.0,279.0,$1120,$1473,$918,1
+2020,6037920050,Census Tract 9200.50,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1100.0,166.0,1346.0,391.0,1700.0,262.0,$1346,$1700,$1100,1
+2020,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1061.0,50.0,1201.0,79.0,1426.0,137.0,$1201,$1426,$1061,1
+2016,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),,,1065.0,178.0,1167.0,66.0,$1065,$1167,Not Available!,1
+2016,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),919.0,44.0,1031.0,75.0,1223.0,61.0,$1031,$1223,$919,1
+2018,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),627.0,24.0,1012.0,785.0,1307.0,413.0,$1012,$1307,$627,1
+2018,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),931.0,95.0,1139.0,74.0,1436.0,161.0,$1139,$1436,$931,1
+2022,6037920050,Census Tract 9200.50,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1088.0,69.0,1225.0,602.0,1808.0,285.0,$1225,$1808,$1088,1
+2022,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1159.0,107.0,1427.0,171.0,1779.0,153.0,$1427,$1779,$1159,1
+2017,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),635.0,94.0,1066.0,412.0,1309.0,258.0,$1066,$1309,$635,1
+2017,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),890.0,75.0,1069.0,57.0,1237.0,111.0,$1069,$1237,$890,1
+2019,6037920012,Census Tract 9200.12,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),,,1285.0,315.0,1645.0,297.0,$1285,$1645,Not Available!,1
+2019,6037920102,Census Tract 9201.02,Green Valley (Los Angeles County),Los Angeles County,California,GreenValley(LosAngelesCounty),1040.0,77.0,1213.0,87.0,1575.0,226.0,$1213,$1575,$1040,1

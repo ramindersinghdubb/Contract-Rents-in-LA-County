@@ -1,0 +1,25 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,1084.0,100.0,1399.0,164.0,1739.0,125.0,$1399,$1739,$1084,1
+2021,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1323.0,127.0,1605.0,157.0,1896.0,125.0,$1605,$1896,$1323,1
+2012,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,860.0,192.0,1113.0,91.0,1348.0,70.0,$1113,$1348,$860,1
+2012,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,959.0,59.0,1176.0,187.0,1381.0,82.0,$1176,$1381,$959,1
+2013,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,932.0,52.0,1137.0,90.0,1377.0,66.0,$1137,$1377,$932,1
+2013,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,945.0,158.0,1180.0,185.0,1375.0,119.0,$1180,$1375,$945,1
+2014,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,924.0,103.0,1110.0,126.0,1365.0,75.0,$1110,$1365,$924,1
+2014,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,856.0,328.0,1129.0,238.0,1407.0,131.0,$1129,$1407,$856,1
+2023,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,1330.0,75.0,1498.0,140.0,1840.0,137.0,$1498,$1840,$1330,1
+2023,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1246.0,194.0,1666.0,195.0,2030.0,293.0,$1666,$2030,$1246,1
+2015,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,908.0,235.0,1073.0,100.0,1332.0,94.0,$1073,$1332,$908,1
+2015,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,888.0,139.0,1200.0,239.0,1583.0,236.0,$1200,$1583,$888,1
+2020,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,1011.0,626.0,1248.0,114.0,1648.0,229.0,$1248,$1648,$1011,1
+2020,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1316.0,156.0,1614.0,187.0,1928.0,153.0,$1614,$1928,$1316,1
+2016,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,878.0,360.0,1075.0,111.0,1360.0,128.0,$1075,$1360,$878,1
+2016,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,837.0,595.0,1315.0,408.0,1746.0,345.0,$1315,$1746,$837,1
+2018,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,917.0,344.0,1251.0,129.0,1635.0,258.0,$1251,$1635,$917,1
+2018,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1053.0,353.0,1558.0,229.0,1969.0,229.0,$1558,$1969,$1053,1
+2022,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,1243.0,145.0,1481.0,138.0,1800.0,122.0,$1481,$1800,$1243,1
+2022,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1349.0,200.0,1652.0,96.0,1894.0,72.0,$1652,$1894,$1349,1
+2017,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,926.0,72.0,1140.0,82.0,1474.0,181.0,$1140,$1474,$926,1
+2017,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,911.0,274.0,1385.0,348.0,1864.0,263.0,$1385,$1864,$911,1
+2019,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,928.0,516.0,1241.0,112.0,1641.0,265.0,$1241,$1641,$928,1
+2019,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1274.0,153.0,1480.0,141.0,1947.0,280.0,$1480,$1947,$1274,1

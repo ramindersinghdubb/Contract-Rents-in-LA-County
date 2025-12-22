@@ -1,0 +1,29 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037602201,Census Tract 6022.01,Del Aire,Los Angeles County,California,DelAire,2315.0,315.0,2714.0,140.0,3018.0,181.0,$2714,$3018,$2315,1
+2021,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,1298.0,88.0,1488.0,472.0,2660.0,446.0,$1488,$2660,$1298,1
+2012,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,860.0,90.0,1142.0,111.0,1724.0,191.0,$1142,$1724,$860,1
+2012,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,629.0,267.0,914.0,144.0,1236.0,236.0,$914,$1236,$629,1
+2013,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,893.0,96.0,1171.0,120.0,1673.0,271.0,$1171,$1673,$893,1
+2013,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,888.0,232.0,1046.0,92.0,1230.0,190.0,$1046,$1230,$888,1
+2014,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,1025.0,82.0,1248.0,123.0,1848.0,341.0,$1248,$1848,$1025,1
+2014,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,937.0,96.0,1100.0,53.0,1247.0,211.0,$1100,$1247,$937,1
+2023,6037602201,Census Tract 6022.01,Del Aire,Los Angeles County,California,DelAire,2585.0,246.0,3054.0,250.0,3501.0,,$3054,Not available. Exceeds $3500!,$2585,1
+2023,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,1325.0,118.0,1610.0,263.0,2147.0,1130.0,$1610,$2147,$1325,1
+2011,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,822.0,157.0,1187.0,173.0,1725.0,135.0,$1187,$1725,$822,1
+2011,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,779.0,360.0,929.0,104.0,1301.0,281.0,$929,$1301,$779,1
+2015,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,1066.0,62.0,1289.0,110.0,1737.0,355.0,$1289,$1737,$1066,1
+2015,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,913.0,95.0,1032.0,89.0,1228.0,316.0,$1032,$1228,$913,1
+2010,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,817.0,87.0,1010.0,119.0,1621.0,247.0,$1010,$1621,$817,1
+2010,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,849.0,89.0,983.0,324.0,1653.0,560.0,$983,$1653,$849,1
+2020,6037602201,Census Tract 6022.01,Del Aire,Los Angeles County,California,DelAire,2209.0,113.0,2523.0,222.0,2955.0,180.0,$2523,$2955,$2209,1
+2020,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,1108.0,52.0,1267.0,206.0,2317.0,762.0,$1267,$2317,$1108,1
+2016,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,1060.0,65.0,1266.0,112.0,1959.0,454.0,$1266,$1959,$1060,1
+2016,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,936.0,26.0,1036.0,89.0,1237.0,569.0,$1036,$1237,$936,1
+2018,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,1156.0,103.0,1490.0,239.0,2283.0,204.0,$1490,$2283,$1156,1
+2018,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,984.0,70.0,1153.0,80.0,1818.0,639.0,$1153,$1818,$984,1
+2022,6037602201,Census Tract 6022.01,Del Aire,Los Angeles County,California,DelAire,2644.0,154.0,2978.0,193.0,3397.0,251.0,$2978,$3397,$2644,1
+2022,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,1351.0,56.0,1583.0,347.0,2631.0,567.0,$1583,$2631,$1351,1
+2017,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,1144.0,66.0,1467.0,172.0,2136.0,229.0,$1467,$2136,$1144,1
+2017,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,970.0,62.0,1201.0,162.0,1594.0,634.0,$1201,$1594,$970,1
+2019,6037602200,Census Tract 6022,Del Aire,Los Angeles County,California,DelAire,1277.0,77.0,1524.0,349.0,2419.0,195.0,$1524,$2419,$1277,1
+2019,6037602301,Census Tract 6023.01,Del Aire,Los Angeles County,California,DelAire,997.0,93.0,1200.0,240.0,2170.0,461.0,$1200,$2170,$997,1

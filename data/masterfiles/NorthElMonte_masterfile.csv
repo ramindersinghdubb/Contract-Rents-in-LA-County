@@ -1,0 +1,15 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1474.0,186.0,1898.0,300.0,2737.0,150.0,$1898,$2737,$1474,1
+2012,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1026.0,107.0,1269.0,213.0,1734.0,346.0,$1269,$1734,$1026,1
+2013,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,986.0,157.0,1204.0,178.0,1659.0,176.0,$1204,$1659,$986,1
+2014,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,933.0,154.0,1356.0,231.0,1722.0,193.0,$1356,$1722,$933,1
+2023,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1674.0,316.0,2254.0,309.0,2777.0,192.0,$2254,$2777,$1674,1
+2011,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,995.0,92.0,1179.0,119.0,1647.0,642.0,$1179,$1647,$995,1
+2015,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,979.0,200.0,1381.0,121.0,1693.0,155.0,$1381,$1693,$979,1
+2010,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1007.0,146.0,1191.0,190.0,1710.0,712.0,$1191,$1710,$1007,1
+2020,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1195.0,350.0,1805.0,210.0,2340.0,336.0,$1805,$2340,$1195,1
+2016,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1004.0,214.0,1485.0,201.0,1823.0,145.0,$1485,$1823,$1004,1
+2018,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1174.0,226.0,1564.0,181.0,1859.0,129.0,$1564,$1859,$1174,1
+2022,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1566.0,191.0,2069.0,525.0,2812.0,148.0,$2069,$2812,$1566,1
+2017,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,980.0,85.0,1466.0,277.0,1827.0,177.0,$1466,$1827,$980,1
+2019,6037431502,Census Tract 4315.02,North El Monte,Los Angeles County,California,NorthElMonte,1197.0,415.0,1735.0,133.0,2075.0,248.0,$1735,$2075,$1197,1

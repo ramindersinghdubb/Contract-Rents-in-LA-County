@@ -1,0 +1,23 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,2599.0,287.0,2733.0,68.0,2866.0,34.0,$2733,$2866,$2599,1
+2012,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,1353.0,554.0,1837.0,337.0,2001.0,,$1837,Not available. Exceeds $2000!,$1353,1
+2012,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1529.0,122.0,1719.0,72.0,1908.0,61.0,$1719,$1908,$1529,1
+2013,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,1058.0,1071.0,1565.0,418.0,2001.0,,$1565,Not available. Exceeds $2000!,$1058,1
+2013,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1554.0,115.0,1755.0,80.0,1957.0,106.0,$1755,$1957,$1554,1
+2014,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,1122.0,792.0,1672.0,335.0,2001.0,,$1672,Not available. Exceeds $2000!,$1122,1
+2014,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1375.0,318.0,1709.0,112.0,1978.0,145.0,$1709,$1978,$1375,1
+2023,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,2655.0,222.0,2851.0,368.0,3109.0,431.0,$2851,$3109,$2655,1
+2011,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1537.0,146.0,1742.0,90.0,1947.0,93.0,$1742,$1947,$1537,1
+2015,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,1320.0,357.0,1854.0,383.0,2750.0,882.0,$1854,$2750,$1320,1
+2015,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1358.0,230.0,1711.0,130.0,2086.0,480.0,$1711,$2086,$1358,1
+2010,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1383.0,191.0,1662.0,195.0,1937.0,148.0,$1662,$1937,$1383,1
+2020,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,,,,,,,Not Available!,Not Available!,Not Available!,1
+2016,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,1193.0,469.0,1819.0,443.0,3010.0,1546.0,$1819,$3010,$1193,1
+2016,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1550.0,195.0,1927.0,190.0,2695.0,302.0,$1927,$2695,$1550,1
+2018,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,1703.0,977.0,2337.0,652.0,3186.0,282.0,$2337,$3186,$1703,1
+2018,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1706.0,260.0,2207.0,185.0,2734.0,400.0,$2207,$2734,$1706,1
+2022,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,2644.0,139.0,2814.0,254.0,2984.0,374.0,$2814,$2984,$2644,1
+2017,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,1531.0,883.0,2247.0,478.0,3168.0,508.0,$2247,$3168,$1531,1
+2017,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1670.0,242.0,2193.0,173.0,2768.0,340.0,$2193,$2768,$1670,1
+2019,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,2028.0,593.0,2478.0,1048.0,3256.0,148.0,$2478,$3256,$2028,1
+2019,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1978.0,175.0,2280.0,107.0,2746.0,362.0,$2280,$2746,$1978,1

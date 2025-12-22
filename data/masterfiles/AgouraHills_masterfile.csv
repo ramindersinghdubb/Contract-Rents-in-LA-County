@@ -1,0 +1,89 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,2413.0,2000.0,3303.0,293.0,3501.0,,$3303,Not available. Exceeds $3500!,$2413,1
+2021,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,,,2672.0,2500.0,2992.0,1570.0,$2672,$2992,Not Available!,1
+2021,6037800333,Census Tract 8003.33,Agoura Hills,Los Angeles County,California,AgouraHills,2372.0,420.0,2763.0,164.0,3099.0,210.0,$2763,$3099,$2372,1
+2021,6037800334,Census Tract 8003.34,Agoura Hills,Los Angeles County,California,AgouraHills,1406.0,925.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1406,1
+2021,6037800335,Census Tract 8003.35,Agoura Hills,Los Angeles County,California,AgouraHills,1911.0,529.0,2458.0,465.0,3501.0,,$2458,Not available. Exceeds $3500!,$1911,1
+2021,6037800336,Census Tract 8003.36,Agoura Hills,Los Angeles County,California,AgouraHills,,,,,,,Not Available!,Not Available!,Not Available!,1
+2021,6037800338,Census Tract 8003.38,Agoura Hills,Los Angeles County,California,AgouraHills,3042.0,562.0,3364.0,262.0,3501.0,,$3364,Not available. Exceeds $3500!,$3042,1
+2012,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2012,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1578.0,174.0,1925.0,226.0,2001.0,,$1925,Not available. Exceeds $2000!,$1578,1
+2012,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1326.0,112.0,1597.0,273.0,2001.0,,$1597,Not available. Exceeds $2000!,$1326,1
+2012,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1500.0,154.0,1745.0,126.0,1989.0,204.0,$1745,$1989,$1500,1
+2012,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1629.0,79.0,1911.0,129.0,2001.0,,$1911,Not available. Exceeds $2000!,$1629,1
+2012,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,1740.0,408.0,1980.0,451.0,2001.0,,$1980,Not available. Exceeds $2000!,$1740,1
+2013,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,1680.0,635.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1680,1
+2013,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1630.0,149.0,1940.0,230.0,2001.0,,$1940,Not available. Exceeds $2000!,$1630,1
+2013,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1371.0,115.0,1683.0,270.0,2001.0,,$1683,Not available. Exceeds $2000!,$1371,1
+2013,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1490.0,150.0,1769.0,135.0,2001.0,,$1769,Not available. Exceeds $2000!,$1490,1
+2013,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1626.0,60.0,1868.0,83.0,2001.0,,$1868,Not available. Exceeds $2000!,$1626,1
+2013,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,1618.0,158.0,1826.0,230.0,2001.0,,$1826,Not available. Exceeds $2000!,$1618,1
+2014,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,1727.0,528.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1727,1
+2014,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1601.0,122.0,1862.0,171.0,2001.0,,$1862,Not available. Exceeds $2000!,$1601,1
+2014,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1349.0,85.0,1589.0,237.0,2001.0,,$1589,Not available. Exceeds $2000!,$1349,1
+2014,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1652.0,90.0,1914.0,128.0,2001.0,,$1914,Not available. Exceeds $2000!,$1652,1
+2014,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1647.0,58.0,1895.0,90.0,2001.0,,$1895,Not available. Exceeds $2000!,$1647,1
+2014,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,1628.0,146.0,1840.0,214.0,2001.0,,$1840,Not available. Exceeds $2000!,$1628,1
+2023,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,2882.0,350.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2882,1
+2023,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,2744.0,353.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2744,1
+2023,6037800333,Census Tract 8003.33,Agoura Hills,Los Angeles County,California,AgouraHills,2592.0,105.0,2876.0,146.0,3306.0,238.0,$2876,$3306,$2592,1
+2023,6037800334,Census Tract 8003.34,Agoura Hills,Los Angeles County,California,AgouraHills,1620.0,122.0,1825.0,224.0,2150.0,2055.0,$1825,$2150,$1620,1
+2023,6037800335,Census Tract 8003.35,Agoura Hills,Los Angeles County,California,AgouraHills,2406.0,637.0,2764.0,190.0,3230.0,740.0,$2764,$3230,$2406,1
+2023,6037800336,Census Tract 8003.36,Agoura Hills,Los Angeles County,California,AgouraHills,,,3036.0,1517.0,3268.0,233.0,$3036,$3268,Not Available!,1
+2023,6037800338,Census Tract 8003.38,Agoura Hills,Los Angeles County,California,AgouraHills,3118.0,2366.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3118,1
+2011,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2011,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1154.0,543.0,1871.0,316.0,2001.0,,$1871,Not available. Exceeds $2000!,$1154,1
+2011,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1423.0,259.0,1988.0,252.0,2001.0,,$1988,Not available. Exceeds $2000!,$1423,1
+2011,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1469.0,164.0,1777.0,217.0,2001.0,,$1777,Not available. Exceeds $2000!,$1469,1
+2011,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1553.0,98.0,1807.0,104.0,2001.0,,$1807,Not available. Exceeds $2000!,$1553,1
+2011,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,1679.0,262.0,1858.0,403.0,2001.0,,$1858,Not available. Exceeds $2000!,$1679,1
+2015,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,1713.0,511.0,2245.0,364.0,2667.0,274.0,$2245,$2667,$1713,1
+2015,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1727.0,97.0,1983.0,228.0,2420.0,335.0,$1983,$2420,$1727,1
+2015,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1418.0,85.0,1735.0,215.0,2256.0,235.0,$1735,$2256,$1418,1
+2015,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1639.0,113.0,1919.0,146.0,2253.0,120.0,$1919,$2253,$1639,1
+2015,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1643.0,66.0,1894.0,110.0,2286.0,187.0,$1894,$2286,$1643,1
+2015,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,1654.0,1045.0,,,3301.0,958.0,Not Available!,$3301,$1654,1
+2010,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2010,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1032.0,434.0,1676.0,323.0,2001.0,,$1676,Not available. Exceeds $2000!,$1032,1
+2010,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1237.0,271.0,1961.0,300.0,2001.0,,$1961,Not available. Exceeds $2000!,$1237,1
+2010,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1417.0,106.0,1703.0,317.0,2001.0,,$1703,Not available. Exceeds $2000!,$1417,1
+2010,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1544.0,82.0,1782.0,82.0,2001.0,,$1782,Not available. Exceeds $2000!,$1544,1
+2010,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,1721.0,366.0,1943.0,437.0,2001.0,,$1943,Not available. Exceeds $2000!,$1721,1
+2020,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,2017.0,1079.0,2962.0,424.0,3244.0,108.0,$2962,$3244,$2017,1
+2020,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,,,2682.0,2353.0,2955.0,1349.0,$2682,$2955,Not Available!,1
+2020,6037800333,Census Tract 8003.33,Agoura Hills,Los Angeles County,California,AgouraHills,2046.0,199.0,2354.0,165.0,2745.0,234.0,$2354,$2745,$2046,1
+2020,6037800334,Census Tract 8003.34,Agoura Hills,Los Angeles County,California,AgouraHills,1680.0,348.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1680,1
+2020,6037800335,Census Tract 8003.35,Agoura Hills,Los Angeles County,California,AgouraHills,1406.0,727.0,2171.0,194.0,2507.0,631.0,$2171,$2507,$1406,1
+2020,6037800336,Census Tract 8003.36,Agoura Hills,Los Angeles County,California,AgouraHills,1880.0,1094.0,2627.0,986.0,2814.0,197.0,$2627,$2814,$1880,1
+2020,6037800338,Census Tract 8003.38,Agoura Hills,Los Angeles County,California,AgouraHills,2944.0,1114.0,3297.0,305.0,3501.0,,$3297,Not available. Exceeds $3500!,$2944,1
+2016,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,1563.0,271.0,1962.0,492.0,2731.0,286.0,$1962,$2731,$1563,1
+2016,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1600.0,124.0,1874.0,159.0,2324.0,314.0,$1874,$2324,$1600,1
+2016,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1480.0,152.0,1832.0,165.0,2245.0,156.0,$1832,$2245,$1480,1
+2016,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1650.0,80.0,1891.0,120.0,2189.0,138.0,$1891,$2189,$1650,1
+2016,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1691.0,73.0,1947.0,126.0,2436.0,266.0,$1947,$2436,$1691,1
+2016,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,1680.0,1283.0,3138.0,2022.0,3501.0,,$3138,Not available. Exceeds $3500!,$1680,1
+2018,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,1940.0,572.0,2536.0,467.0,3088.0,306.0,$2536,$3088,$1940,1
+2018,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1426.0,644.0,2029.0,246.0,2315.0,92.0,$2029,$2315,$1426,1
+2018,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1771.0,184.0,2194.0,168.0,2600.0,214.0,$2194,$2600,$1771,1
+2018,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1636.0,155.0,1997.0,210.0,2391.0,174.0,$1997,$2391,$1636,1
+2018,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1759.0,114.0,2072.0,202.0,2439.0,152.0,$2072,$2439,$1759,1
+2018,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
+2022,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,3069.0,504.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3069,1
+2022,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,2683.0,1524.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2683,1
+2022,6037800333,Census Tract 8003.33,Agoura Hills,Los Angeles County,California,AgouraHills,2534.0,176.0,2867.0,176.0,3272.0,187.0,$2867,$3272,$2534,1
+2022,6037800334,Census Tract 8003.34,Agoura Hills,Los Angeles County,California,AgouraHills,1668.0,133.0,1926.0,309.0,3501.0,,$1926,Not available. Exceeds $3500!,$1668,1
+2022,6037800335,Census Tract 8003.35,Agoura Hills,Los Angeles County,California,AgouraHills,2345.0,695.0,2817.0,324.0,3501.0,,$2817,Not available. Exceeds $3500!,$2345,1
+2022,6037800336,Census Tract 8003.36,Agoura Hills,Los Angeles County,California,AgouraHills,2594.0,900.0,2813.0,326.0,3063.0,400.0,$2813,$3063,$2594,1
+2022,6037800338,Census Tract 8003.38,Agoura Hills,Los Angeles County,California,AgouraHills,3057.0,2345.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3057,1
+2017,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,1471.0,390.0,2088.0,537.0,2780.0,479.0,$2088,$2780,$1471,1
+2017,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1533.0,757.0,2046.0,275.0,2388.0,196.0,$2046,$2388,$1533,1
+2017,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1685.0,190.0,2136.0,148.0,2471.0,164.0,$2136,$2471,$1685,1
+2017,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1717.0,114.0,2040.0,156.0,2329.0,122.0,$2040,$2329,$1717,1
+2017,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1652.0,57.0,1872.0,87.0,2306.0,313.0,$1872,$2306,$1652,1
+2017,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,1779.0,1665.0,3436.0,1022.0,3501.0,,$3436,Not available. Exceeds $3500!,$1779,1
+2019,6037800324,Census Tract 8003.24,Agoura Hills,Los Angeles County,California,AgouraHills,2289.0,770.0,3002.0,394.0,3251.0,114.0,$3002,$3251,$2289,1
+2019,6037800326,Census Tract 8003.26,Agoura Hills,Los Angeles County,California,AgouraHills,1448.0,849.0,2081.0,259.0,2437.0,536.0,$2081,$2437,$1448,1
+2019,6037800327,Census Tract 8003.27,Agoura Hills,Los Angeles County,California,AgouraHills,1946.0,299.0,2244.0,94.0,2519.0,260.0,$2244,$2519,$1946,1
+2019,6037800328,Census Tract 8003.28,Agoura Hills,Los Angeles County,California,AgouraHills,1732.0,158.0,2092.0,236.0,2492.0,237.0,$2092,$2492,$1732,1
+2019,6037800329,Census Tract 8003.29,Agoura Hills,Los Angeles County,California,AgouraHills,1885.0,164.0,2254.0,168.0,2706.0,349.0,$2254,$2706,$1885,1
+2019,6037800332,Census Tract 8003.32,Agoura Hills,Los Angeles County,California,AgouraHills,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1

@@ -1,0 +1,121 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2096.0,148.0,2515.0,637.0,3363.0,195.0,$2515,$3363,$2096,1
+2021,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2185.0,808.0,3263.0,704.0,3501.0,,$3263,Not available. Exceeds $3500!,$2185,1
+2021,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2210.0,363.0,2725.0,246.0,3345.0,545.0,$2725,$3345,$2210,1
+2021,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,3014.0,277.0,3446.0,265.0,3501.0,,$3446,Not available. Exceeds $3500!,$3014,1
+2021,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2242.0,138.0,2699.0,264.0,3293.0,317.0,$2699,$3293,$2242,1
+2021,6037620801,Census Tract 6208.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1972.0,1397.0,2760.0,509.0,3501.0,,$2760,Not available. Exceeds $3500!,$1972,1
+2021,6037620802,Census Tract 6208.02,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1420.0,241.0,1697.0,259.0,1975.0,501.0,$1697,$1975,$1420,1
+2021,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1960.0,503.0,2984.0,1011.0,3501.0,,$2984,Not available. Exceeds $3500!,$1960,1
+2021,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2182.0,283.0,2644.0,280.0,3115.0,460.0,$2644,$3115,$2182,1
+2021,6037990200,Census Tract 9902,Manhattan Beach,Los Angeles County,California,ManhattanBeach,,,,,,,Not Available!,Not Available!,Not Available!,1
+2012,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1310.0,207.0,1966.0,274.0,2001.0,,$1966,Not available. Exceeds $2000!,$1310,1
+2012,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1313.0,108.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1313,1
+2012,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1599.0,466.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1599,1
+2012,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1480.0,160.0,1971.0,189.0,2001.0,,$1971,Not available. Exceeds $2000!,$1480,1
+2012,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1385.0,181.0,1812.0,278.0,2001.0,,$1812,Not available. Exceeds $2000!,$1385,1
+2012,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1210.0,125.0,1657.0,220.0,2001.0,,$1657,Not available. Exceeds $2000!,$1210,1
+2012,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1302.0,125.0,1481.0,659.0,2001.0,,$1481,Not available. Exceeds $2000!,$1302,1
+2012,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1317.0,521.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1317,1
+2013,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1375.0,316.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1375,1
+2013,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1338.0,314.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1338,1
+2013,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1527.0,580.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1527,1
+2013,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1505.0,188.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1505,1
+2013,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1536.0,165.0,1884.0,204.0,2001.0,,$1884,Not available. Exceeds $2000!,$1536,1
+2013,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1289.0,199.0,1694.0,145.0,2001.0,,$1694,Not available. Exceeds $2000!,$1289,1
+2013,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1312.0,126.0,1498.0,1099.0,2001.0,,$1498,Not available. Exceeds $2000!,$1312,1
+2013,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1232.0,661.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1232,1
+2014,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1701.0,245.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1701,1
+2014,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1481.0,1232.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1481,1
+2014,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1489.0,457.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1489,1
+2014,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1499.0,172.0,1951.0,203.0,2001.0,,$1951,Not available. Exceeds $2000!,$1499,1
+2014,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1410.0,120.0,1816.0,349.0,2001.0,,$1816,Not available. Exceeds $2000!,$1410,1
+2014,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1347.0,128.0,1727.0,194.0,2001.0,,$1727,Not available. Exceeds $2000!,$1347,1
+2014,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1211.0,207.0,1632.0,646.0,2001.0,,$1632,Not available. Exceeds $2000!,$1211,1
+2014,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1543.0,518.0,1849.0,197.0,2001.0,,$1849,Not available. Exceeds $2000!,$1543,1
+2023,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2094.0,219.0,3073.0,671.0,3501.0,,$3073,Not available. Exceeds $3500!,$2094,1
+2023,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2291.0,138.0,3250.0,1209.0,3501.0,,$3250,Not available. Exceeds $3500!,$2291,1
+2023,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,3075.0,671.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3075,1
+2023,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2947.0,598.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2947,1
+2023,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2287.0,144.0,2785.0,594.0,3501.0,,$2785,Not available. Exceeds $3500!,$2287,1
+2023,6037620801,Census Tract 6208.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2151.0,1234.0,2750.0,1917.0,3501.0,,$2750,Not available. Exceeds $3500!,$2151,1
+2023,6037620802,Census Tract 6208.02,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1944.0,285.0,2220.0,134.0,2469.0,406.0,$2220,$2469,$1944,1
+2023,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2529.0,536.0,2971.0,760.0,3501.0,,$2971,Not available. Exceeds $3500!,$2529,1
+2023,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,3139.0,975.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3139,1
+2023,6037990200,Census Tract 9902,Manhattan Beach,Los Angeles County,California,ManhattanBeach,,,,,,,Not Available!,Not Available!,Not Available!,1
+2011,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1235.0,202.0,1781.0,421.0,2001.0,,$1781,Not available. Exceeds $2000!,$1235,1
+2011,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1390.0,345.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1390,1
+2011,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1602.0,365.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1602,1
+2011,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1559.0,161.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1559,1
+2011,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1313.0,172.0,1769.0,347.0,2001.0,,$1769,Not available. Exceeds $2000!,$1313,1
+2011,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1298.0,263.0,1799.0,258.0,2001.0,,$1799,Not available. Exceeds $2000!,$1298,1
+2011,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1319.0,76.0,1464.0,277.0,2001.0,,$1464,Not available. Exceeds $2000!,$1319,1
+2011,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1344.0,542.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1344,1
+2015,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1727.0,219.0,2488.0,267.0,2979.0,243.0,$2488,$2979,$1727,1
+2015,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2043.0,976.0,2516.0,232.0,2925.0,218.0,$2516,$2925,$2043,1
+2015,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1596.0,319.0,2125.0,254.0,2758.0,833.0,$2125,$2758,$1596,1
+2015,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1638.0,182.0,2129.0,167.0,2613.0,195.0,$2129,$2613,$1638,1
+2015,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1440.0,193.0,1928.0,501.0,2781.0,653.0,$1928,$2781,$1440,1
+2015,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1291.0,128.0,1653.0,272.0,2375.0,368.0,$1653,$2375,$1291,1
+2015,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1271.0,240.0,2000.0,717.0,2633.0,395.0,$2000,$2633,$1271,1
+2015,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1665.0,64.0,1892.0,111.0,2443.0,396.0,$1892,$2443,$1665,1
+2010,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1252.0,243.0,1878.0,277.0,2001.0,,$1878,Not available. Exceeds $2000!,$1252,1
+2010,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1211.0,252.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1211,1
+2010,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1732.0,348.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1732,1
+2010,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1524.0,178.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1524,1
+2010,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1295.0,168.0,1772.0,447.0,2001.0,,$1772,Not available. Exceeds $2000!,$1295,1
+2010,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1287.0,143.0,1614.0,360.0,2001.0,,$1614,Not available. Exceeds $2000!,$1287,1
+2010,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1259.0,99.0,1381.0,79.0,2001.0,,$1381,Not available. Exceeds $2000!,$1259,1
+2010,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1397.0,512.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1397,1
+2020,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1977.0,238.0,2409.0,177.0,3101.0,185.0,$2409,$3101,$1977,1
+2020,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2209.0,418.0,3006.0,606.0,3369.0,254.0,$3006,$3369,$2209,1
+2020,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2171.0,356.0,2731.0,272.0,3444.0,556.0,$2731,$3444,$2171,1
+2020,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1947.0,577.0,2984.0,500.0,3501.0,,$2984,Not available. Exceeds $3500!,$1947,1
+2020,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1773.0,383.0,2562.0,303.0,2867.0,119.0,$2562,$2867,$1773,1
+2020,6037620801,Census Tract 6208.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1560.0,233.0,1935.0,672.0,2716.0,288.0,$1935,$2716,$1560,1
+2020,6037620802,Census Tract 6208.02,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1528.0,244.0,1769.0,211.0,2035.0,513.0,$1769,$2035,$1528,1
+2020,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1851.0,256.0,2518.0,682.0,3501.0,,$2518,Not available. Exceeds $3500!,$1851,1
+2020,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2069.0,194.0,2495.0,221.0,2911.0,189.0,$2495,$2911,$2069,1
+2020,6037990200,Census Tract 9902,Manhattan Beach,Los Angeles County,California,ManhattanBeach,,,,,,,Not Available!,Not Available!,Not Available!,1
+2016,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1858.0,168.0,2615.0,159.0,3123.0,333.0,$2615,$3123,$1858,1
+2016,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2028.0,1426.0,2717.0,114.0,2962.0,162.0,$2717,$2962,$2028,1
+2016,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1735.0,220.0,2194.0,243.0,3080.0,718.0,$2194,$3080,$1735,1
+2016,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1612.0,107.0,1974.0,210.0,2702.0,219.0,$1974,$2702,$1612,1
+2016,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1387.0,217.0,2067.0,597.0,2703.0,752.0,$2067,$2703,$1387,1
+2016,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1511.0,423.0,1854.0,124.0,2511.0,321.0,$1854,$2511,$1511,1
+2016,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1457.0,594.0,2260.0,271.0,2783.0,525.0,$2260,$2783,$1457,1
+2016,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1656.0,55.0,1859.0,93.0,2640.0,753.0,$1859,$2640,$1656,1
+2018,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1778.0,147.0,2502.0,388.0,3221.0,260.0,$2502,$3221,$1778,1
+2018,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2543.0,433.0,3086.0,233.0,3404.0,246.0,$3086,$3404,$2543,1
+2018,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2065.0,169.0,2394.0,278.0,3501.0,,$2394,Not available. Exceeds $3500!,$2065,1
+2018,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1700.0,381.0,2535.0,388.0,3303.0,476.0,$2535,$3303,$1700,1
+2018,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1443.0,750.0,2310.0,292.0,3002.0,414.0,$2310,$3002,$1443,1
+2018,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1328.0,479.0,1890.0,283.0,2665.0,269.0,$1890,$2665,$1328,1
+2018,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1564.0,277.0,2161.0,462.0,2848.0,577.0,$2161,$2848,$1564,1
+2018,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1896.0,225.0,2386.0,263.0,2857.0,181.0,$2386,$2857,$1896,1
+2022,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2156.0,241.0,3154.0,470.0,3501.0,,$3154,Not available. Exceeds $3500!,$2156,1
+2022,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2507.0,1320.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2507,1
+2022,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2616.0,294.0,3188.0,577.0,3501.0,,$3188,Not available. Exceeds $3500!,$2616,1
+2022,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,3019.0,707.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3019,1
+2022,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2173.0,178.0,2713.0,609.0,3499.0,403.0,$2713,$3499,$2173,1
+2022,6037620801,Census Tract 6208.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2125.0,1077.0,2571.0,597.0,2929.0,1383.0,$2571,$2929,$2125,1
+2022,6037620802,Census Tract 6208.02,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1830.0,298.0,2153.0,190.0,2394.0,217.0,$2153,$2394,$1830,1
+2022,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2386.0,523.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2386,1
+2022,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2589.0,394.0,3245.0,530.0,3501.0,,$3245,Not available. Exceeds $3500!,$2589,1
+2022,6037990200,Census Tract 9902,Manhattan Beach,Los Angeles County,California,ManhattanBeach,,,,,,,Not Available!,Not Available!,Not Available!,1
+2017,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1699.0,146.0,2545.0,316.0,3196.0,355.0,$2545,$3196,$1699,1
+2017,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2036.0,1035.0,2967.0,244.0,3271.0,99.0,$2967,$3271,$2036,1
+2017,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1963.0,209.0,2262.0,125.0,2958.0,851.0,$2262,$2958,$1963,1
+2017,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1646.0,134.0,2178.0,353.0,2866.0,147.0,$2178,$2866,$1646,1
+2017,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1397.0,249.0,2107.0,515.0,2804.0,546.0,$2107,$2804,$1397,1
+2017,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1558.0,507.0,2151.0,484.0,2740.0,129.0,$2151,$2740,$1558,1
+2017,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1643.0,298.0,2223.0,381.0,2851.0,385.0,$2223,$2851,$1643,1
+2017,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1730.0,86.0,1986.0,500.0,2789.0,281.0,$1986,$2789,$1730,1
+2019,6037620201,Census Tract 6202.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1729.0,171.0,2345.0,321.0,3191.0,308.0,$2345,$3191,$1729,1
+2019,6037620301,Census Tract 6203.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2344.0,397.0,3099.0,241.0,3405.0,220.0,$3099,$3405,$2344,1
+2019,6037620303,Census Tract 6203.03,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1892.0,454.0,2454.0,344.0,3314.0,491.0,$2454,$3314,$1892,1
+2019,6037620305,Census Tract 6203.05,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2024.0,386.0,2784.0,417.0,3381.0,222.0,$2784,$3381,$2024,1
+2019,6037620400,Census Tract 6204,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1895.0,357.0,2611.0,201.0,2917.0,146.0,$2611,$2917,$1895,1
+2019,6037620800,Census Tract 6208,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1411.0,197.0,1967.0,437.0,2796.0,314.0,$1967,$2796,$1411,1
+2019,6037620901,Census Tract 6209.01,Manhattan Beach,Los Angeles County,California,ManhattanBeach,1886.0,330.0,2424.0,419.0,3501.0,,$2424,Not available. Exceeds $3500!,$1886,1
+2019,6037620904,Census Tract 6209.04,Manhattan Beach,Los Angeles County,California,ManhattanBeach,2066.0,208.0,2475.0,228.0,2892.0,196.0,$2475,$2892,$2066,1

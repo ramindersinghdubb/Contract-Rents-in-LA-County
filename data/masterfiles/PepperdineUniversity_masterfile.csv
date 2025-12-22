@@ -1,0 +1,5 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037800410,Census Tract 8004.10,Pepperdine University,Los Angeles County,California,PepperdineUniversity,2208.0,1793.0,3500.0,768.0,3501.0,,$3500,Not available. Exceeds $3500!,$2208,1
+2023,6037800410,Census Tract 8004.10,Pepperdine University,Los Angeles County,California,PepperdineUniversity,1313.0,246.0,3000.0,1749.0,3501.0,,$3000,Not available. Exceeds $3500!,$1313,1
+2020,6037800410,Census Tract 8004.10,Pepperdine University,Los Angeles County,California,PepperdineUniversity,2094.0,1072.0,2929.0,1572.0,3501.0,,$2929,Not available. Exceeds $3500!,$2094,1
+2022,6037800410,Census Tract 8004.10,Pepperdine University,Los Angeles County,California,PepperdineUniversity,,,3188.0,1751.0,3501.0,,$3188,Not available. Exceeds $3500!,Not Available!,1

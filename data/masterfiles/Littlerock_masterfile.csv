@@ -1,0 +1,39 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,878.0,276.0,1272.0,171.0,1435.0,94.0,$1272,$1435,$878,1
+2021,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,,,1145.0,314.0,1488.0,526.0,$1145,$1488,Not Available!,1
+2012,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,584.0,462.0,1047.0,328.0,1530.0,410.0,$1047,$1530,$584,1
+2012,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,848.0,363.0,1264.0,235.0,1602.0,284.0,$1264,$1602,$848,1
+2012,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,556.0,159.0,798.0,517.0,1461.0,438.0,$798,$1461,$556,1
+2013,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,786.0,220.0,1212.0,318.0,1650.0,415.0,$1212,$1650,$786,1
+2013,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,854.0,187.0,1217.0,322.0,1699.0,223.0,$1217,$1699,$854,1
+2013,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,611.0,64.0,683.0,96.0,1150.0,491.0,$683,$1150,$611,1
+2014,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,1011.0,489.0,1227.0,189.0,1640.0,308.0,$1227,$1640,$1011,1
+2014,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,871.0,297.0,1174.0,130.0,1641.0,222.0,$1174,$1641,$871,1
+2014,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,633.0,53.0,737.0,222.0,959.0,178.0,$737,$959,$633,1
+2023,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,1072.0,339.0,1478.0,466.0,1853.0,285.0,$1478,$1853,$1072,1
+2023,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,,,895.0,233.0,1256.0,896.0,$895,$1256,Not Available!,1
+2011,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,535.0,366.0,888.0,171.0,1175.0,137.0,$888,$1175,$535,1
+2011,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,723.0,584.0,1272.0,492.0,1493.0,263.0,$1272,$1493,$723,1
+2011,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,513.0,81.0,683.0,209.0,1027.0,403.0,$683,$1027,$513,1
+2015,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,774.0,264.0,1122.0,156.0,1421.0,289.0,$1122,$1421,$774,1
+2015,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,842.0,243.0,1129.0,109.0,1477.0,336.0,$1129,$1477,$842,1
+2015,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,644.0,66.0,755.0,201.0,961.0,140.0,$755,$961,$644,1
+2010,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,665.0,182.0,886.0,214.0,1209.0,284.0,$886,$1209,$665,1
+2010,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,538.0,549.0,1296.0,671.0,1586.0,282.0,$1296,$1586,$538,1
+2010,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,449.0,115.0,535.0,300.0,1064.0,561.0,$535,$1064,$449,1
+2020,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,839.0,123.0,1134.0,246.0,1426.0,175.0,$1134,$1426,$839,1
+2020,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,788.0,502.0,1099.0,79.0,1211.0,297.0,$1099,$1211,$788,1
+2016,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,770.0,160.0,1073.0,156.0,1321.0,184.0,$1073,$1321,$770,1
+2016,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,819.0,410.0,1130.0,157.0,1564.0,252.0,$1130,$1564,$819,1
+2016,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,632.0,124.0,737.0,260.0,981.0,153.0,$737,$981,$632,1
+2018,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,855.0,156.0,1157.0,140.0,1441.0,240.0,$1157,$1441,$855,1
+2018,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,686.0,381.0,1313.0,157.0,1627.0,289.0,$1313,$1627,$686,1
+2018,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,905.0,318.0,968.0,53.0,1106.0,128.0,$968,$1106,$905,1
+2022,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,1047.0,322.0,1317.0,100.0,1452.0,70.0,$1317,$1452,$1047,1
+2022,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,,,963.0,542.0,1482.0,376.0,$963,$1482,Not Available!,1
+2017,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,780.0,112.0,1029.0,231.0,1303.0,171.0,$1029,$1303,$780,1
+2017,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,697.0,466.0,1199.0,245.0,1611.0,202.0,$1199,$1611,$697,1
+2017,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,637.0,117.0,885.0,311.0,979.0,63.0,$885,$979,$637,1
+2019,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,859.0,127.0,1108.0,141.0,1338.0,202.0,$1108,$1338,$859,1
+2019,6037910706,Census Tract 9107.06,Littlerock,Los Angeles County,California,Littlerock,667.0,128.0,1335.0,296.0,1684.0,225.0,$1335,$1684,$667,1
+2019,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,793.0,281.0,1035.0,96.0,1169.0,65.0,$1035,$1169,$793,1

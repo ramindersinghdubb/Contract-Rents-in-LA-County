@@ -1,0 +1,163 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1100.0,274.0,1493.0,420.0,2184.0,281.0,$1493,$2184,$1100,1
+2021,6037502303,Census Tract 5023.03,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1124.0,97.0,1531.0,222.0,1931.0,185.0,$1531,$1931,$1124,1
+2021,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1271.0,322.0,1627.0,129.0,1871.0,84.0,$1627,$1871,$1271,1
+2021,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1188.0,468.0,1821.0,452.0,2199.0,204.0,$1821,$2199,$1188,1
+2021,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1220.0,824.0,2031.0,485.0,2399.0,286.0,$2031,$2399,$1220,1
+2021,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,974.0,113.0,1184.0,190.0,1756.0,354.0,$1184,$1756,$974,1
+2021,6037504200,Census Tract 5042,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,979.0,136.0,1422.0,109.0,1834.0,80.0,$1422,$1834,$979,1
+2021,6037980034,Census Tract 9800.34,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2012,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,943.0,75.0,1174.0,100.0,1449.0,157.0,$1174,$1449,$943,1
+2012,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,633.0,340.0,1214.0,699.0,1841.0,271.0,$1214,$1841,$633,1
+2012,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,875.0,57.0,978.0,50.0,1123.0,51.0,$978,$1123,$875,1
+2012,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,909.0,319.0,1161.0,92.0,1645.0,288.0,$1161,$1645,$909,1
+2012,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1099.0,215.0,1423.0,256.0,1762.0,216.0,$1423,$1762,$1099,1
+2012,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,458.0,165.0,1003.0,494.0,1307.0,139.0,$1003,$1307,$458,1
+2012,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1088.0,508.0,1313.0,136.0,1460.0,127.0,$1313,$1460,$1088,1
+2012,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,549.0,185.0,851.0,101.0,1123.0,147.0,$851,$1123,$549,1
+2012,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,951.0,162.0,1235.0,136.0,1456.0,89.0,$1235,$1456,$951,1
+2012,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,840.0,116.0,1050.0,149.0,1875.0,825.0,$1050,$1875,$840,1
+2012,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2012,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,848.0,59.0,964.0,113.0,1208.0,584.0,$964,$1208,$848,1
+2012,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1314.0,91.0,1432.0,170.0,1650.0,285.0,$1432,$1650,$1314,1
+2013,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,879.0,96.0,1104.0,123.0,1392.0,160.0,$1104,$1392,$879,1
+2013,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,918.0,522.0,1204.0,569.0,1821.0,373.0,$1204,$1821,$918,1
+2013,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,831.0,63.0,984.0,86.0,1138.0,46.0,$984,$1138,$831,1
+2013,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,775.0,307.0,1152.0,111.0,1589.0,299.0,$1152,$1589,$775,1
+2013,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1114.0,161.0,1484.0,269.0,1781.0,156.0,$1484,$1781,$1114,1
+2013,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,499.0,335.0,1032.0,150.0,1318.0,103.0,$1032,$1318,$499,1
+2013,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1015.0,581.0,1225.0,180.0,1407.0,111.0,$1225,$1407,$1015,1
+2013,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,539.0,155.0,853.0,81.0,1132.0,135.0,$853,$1132,$539,1
+2013,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,913.0,236.0,1176.0,147.0,1449.0,119.0,$1176,$1449,$913,1
+2013,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,884.0,67.0,1037.0,165.0,2001.0,,$1037,Not available. Exceeds $2000!,$884,1
+2013,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2013,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,860.0,64.0,1082.0,142.0,1602.0,714.0,$1082,$1602,$860,1
+2013,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1464.0,204.0,1707.0,166.0,1935.0,256.0,$1707,$1935,$1464,1
+2014,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,894.0,180.0,1093.0,96.0,1301.0,155.0,$1093,$1301,$894,1
+2014,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,943.0,560.0,1224.0,682.0,1862.0,431.0,$1224,$1862,$943,1
+2014,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,857.0,136.0,1027.0,64.0,1180.0,57.0,$1027,$1180,$857,1
+2014,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,793.0,354.0,1188.0,145.0,1710.0,184.0,$1188,$1710,$793,1
+2014,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1121.0,187.0,1492.0,332.0,2001.0,,$1492,Not available. Exceeds $2000!,$1121,1
+2014,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,603.0,264.0,987.0,114.0,1225.0,87.0,$987,$1225,$603,1
+2014,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1030.0,407.0,1238.0,227.0,1621.0,224.0,$1238,$1621,$1030,1
+2014,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,713.0,72.0,1036.0,82.0,1264.0,133.0,$1036,$1264,$713,1
+2014,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,960.0,112.0,1134.0,76.0,1355.0,158.0,$1134,$1355,$960,1
+2014,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,794.0,332.0,979.0,86.0,1483.0,613.0,$979,$1483,$794,1
+2014,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2014,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,920.0,93.0,1101.0,81.0,1605.0,882.0,$1101,$1605,$920,1
+2014,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1542.0,252.0,1843.0,348.0,2001.0,,$1843,Not available. Exceeds $2000!,$1542,1
+2023,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1353.0,104.0,1696.0,376.0,2209.0,221.0,$1696,$2209,$1353,1
+2023,6037502303,Census Tract 5023.03,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1467.0,231.0,1902.0,288.0,2302.0,178.0,$1902,$2302,$1467,1
+2023,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1431.0,156.0,1959.0,236.0,2260.0,83.0,$1959,$2260,$1431,1
+2023,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1927.0,401.0,2155.0,118.0,2327.0,59.0,$2155,$2327,$1927,1
+2023,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,2074.0,670.0,2336.0,245.0,2667.0,327.0,$2336,$2667,$2074,1
+2023,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1068.0,87.0,1220.0,253.0,1841.0,509.0,$1220,$1841,$1068,1
+2023,6037504200,Census Tract 5042,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1145.0,369.0,1685.0,140.0,2139.0,232.0,$1685,$2139,$1145,1
+2023,6037980034,Census Tract 9800.34,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2011,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,967.0,101.0,1213.0,144.0,1452.0,150.0,$1213,$1452,$967,1
+2011,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,770.0,458.0,1275.0,579.0,1759.0,220.0,$1275,$1759,$770,1
+2011,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,906.0,37.0,989.0,37.0,1146.0,49.0,$989,$1146,$906,1
+2011,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,696.0,427.0,1099.0,106.0,1443.0,333.0,$1099,$1443,$696,1
+2011,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1053.0,100.0,1211.0,175.0,1686.0,329.0,$1211,$1686,$1053,1
+2011,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,443.0,156.0,989.0,181.0,1282.0,143.0,$989,$1282,$443,1
+2011,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1130.0,558.0,1368.0,109.0,1537.0,250.0,$1368,$1537,$1130,1
+2011,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,663.0,170.0,859.0,91.0,1100.0,111.0,$859,$1100,$663,1
+2011,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,936.0,182.0,1258.0,139.0,1483.0,143.0,$1258,$1483,$936,1
+2011,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,888.0,93.0,1189.0,163.0,1869.0,303.0,$1189,$1869,$888,1
+2011,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2011,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,901.0,68.0,995.0,178.0,1672.0,583.0,$995,$1672,$901,1
+2011,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1327.0,80.0,1438.0,158.0,1651.0,314.0,$1438,$1651,$1327,1
+2015,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,955.0,92.0,1155.0,88.0,1379.0,119.0,$1155,$1379,$955,1
+2015,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,910.0,530.0,1348.0,511.0,1838.0,518.0,$1348,$1838,$910,1
+2015,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,780.0,204.0,993.0,63.0,1164.0,48.0,$993,$1164,$780,1
+2015,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,548.0,411.0,1144.0,198.0,1716.0,176.0,$1144,$1716,$548,1
+2015,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1304.0,137.0,1735.0,358.0,2177.0,197.0,$1735,$2177,$1304,1
+2015,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,728.0,58.0,1042.0,51.0,1212.0,42.0,$1042,$1212,$728,1
+2015,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1013.0,586.0,1189.0,173.0,1526.0,247.0,$1189,$1526,$1013,1
+2015,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,866.0,101.0,1097.0,76.0,1369.0,186.0,$1097,$1369,$866,1
+2015,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,989.0,75.0,1127.0,51.0,1295.0,167.0,$1127,$1295,$989,1
+2015,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,502.0,226.0,940.0,61.0,1246.0,288.0,$940,$1246,$502,1
+2015,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2015,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,948.0,81.0,1118.0,68.0,1601.0,658.0,$1118,$1601,$948,1
+2015,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1455.0,333.0,1825.0,472.0,2174.0,436.0,$1825,$2174,$1455,1
+2010,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,951.0,55.0,1117.0,106.0,1358.0,175.0,$1117,$1358,$951,1
+2010,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,904.0,338.0,1519.0,561.0,1759.0,114.0,$1519,$1759,$904,1
+2010,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,848.0,67.0,956.0,33.0,1119.0,97.0,$956,$1119,$848,1
+2010,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,930.0,143.0,1108.0,56.0,1243.0,146.0,$1108,$1243,$930,1
+2010,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,972.0,90.0,1170.0,304.0,1568.0,367.0,$1170,$1568,$972,1
+2010,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,427.0,172.0,978.0,247.0,1325.0,117.0,$978,$1325,$427,1
+2010,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,745.0,785.0,1332.0,193.0,1502.0,255.0,$1332,$1502,$745,1
+2010,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,653.0,179.0,804.0,81.0,1033.0,217.0,$804,$1033,$653,1
+2010,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,732.0,179.0,1115.0,129.0,1385.0,178.0,$1115,$1385,$732,1
+2010,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,845.0,63.0,1064.0,233.0,1491.0,279.0,$1064,$1491,$845,1
+2010,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2010,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,801.0,82.0,910.0,53.0,997.0,188.0,$910,$997,$801,1
+2010,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1150.0,150.0,1298.0,173.0,1439.0,197.0,$1298,$1439,$1150,1
+2020,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1145.0,197.0,1468.0,217.0,1935.0,230.0,$1468,$1935,$1145,1
+2020,6037502303,Census Tract 5023.03,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1064.0,87.0,1355.0,139.0,1828.0,237.0,$1355,$1828,$1064,1
+2020,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1055.0,375.0,1384.0,284.0,1719.0,100.0,$1384,$1719,$1055,1
+2020,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1232.0,713.0,1882.0,307.0,2207.0,197.0,$1882,$2207,$1232,1
+2020,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1606.0,667.0,2122.0,289.0,2379.0,155.0,$2122,$2379,$1606,1
+2020,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,969.0,117.0,1173.0,257.0,1689.0,316.0,$1173,$1689,$969,1
+2020,6037504200,Census Tract 5042,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,802.0,309.0,1284.0,112.0,1668.0,88.0,$1284,$1668,$802,1
+2020,6037980034,Census Tract 9800.34,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2016,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,977.0,103.0,1179.0,103.0,1398.0,93.0,$1179,$1398,$977,1
+2016,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,905.0,499.0,1582.0,391.0,1933.0,388.0,$1582,$1933,$905,1
+2016,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,768.0,306.0,966.0,38.0,1190.0,88.0,$966,$1190,$768,1
+2016,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,773.0,339.0,1164.0,149.0,1679.0,265.0,$1164,$1679,$773,1
+2016,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1368.0,180.0,1764.0,207.0,2149.0,183.0,$1764,$2149,$1368,1
+2016,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,701.0,81.0,1053.0,77.0,1293.0,109.0,$1053,$1293,$701,1
+2016,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1096.0,226.0,1453.0,470.0,1932.0,1171.0,$1453,$1932,$1096,1
+2016,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,917.0,111.0,1137.0,67.0,1382.0,110.0,$1137,$1382,$917,1
+2016,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,988.0,112.0,1135.0,76.0,1305.0,136.0,$1135,$1305,$988,1
+2016,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,528.0,365.0,997.0,210.0,1439.0,172.0,$997,$1439,$528,1
+2016,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2016,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,934.0,67.0,1081.0,56.0,1228.0,72.0,$1081,$1228,$934,1
+2016,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1320.0,416.0,1865.0,745.0,2218.0,476.0,$1865,$2218,$1320,1
+2018,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1128.0,121.0,1332.0,95.0,1492.0,254.0,$1332,$1492,$1128,1
+2018,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,881.0,738.0,1583.0,307.0,1907.0,242.0,$1583,$1907,$881,1
+2018,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,916.0,108.0,1094.0,72.0,1304.0,92.0,$1094,$1304,$916,1
+2018,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,872.0,488.0,1240.0,501.0,1768.0,127.0,$1240,$1768,$872,1
+2018,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1342.0,243.0,1747.0,246.0,2139.0,199.0,$1747,$2139,$1342,1
+2018,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,775.0,224.0,1205.0,97.0,1449.0,59.0,$1205,$1449,$775,1
+2018,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1171.0,198.0,1637.0,617.0,2272.0,719.0,$1637,$2272,$1171,1
+2018,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1070.0,64.0,1280.0,74.0,1468.0,79.0,$1280,$1468,$1070,1
+2018,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1031.0,153.0,1317.0,143.0,1586.0,387.0,$1317,$1586,$1031,1
+2018,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,614.0,232.0,1213.0,165.0,1493.0,152.0,$1213,$1493,$614,1
+2018,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2018,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1002.0,57.0,1127.0,44.0,1258.0,168.0,$1127,$1258,$1002,1
+2018,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,1225.0,503.0,1448.0,1009.0,$1225,$1448,Not Available!,1
+2022,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1196.0,178.0,1438.0,224.0,2153.0,384.0,$1438,$2153,$1196,1
+2022,6037502303,Census Tract 5023.03,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1364.0,198.0,1678.0,169.0,1966.0,188.0,$1678,$1966,$1364,1
+2022,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1466.0,279.0,1716.0,103.0,1944.0,118.0,$1716,$1944,$1466,1
+2022,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1629.0,557.0,2112.0,184.0,2306.0,78.0,$2112,$2306,$1629,1
+2022,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1566.0,918.0,2252.0,295.0,2602.0,305.0,$2252,$2602,$1566,1
+2022,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1068.0,91.0,1212.0,202.0,1810.0,409.0,$1212,$1810,$1068,1
+2022,6037504200,Census Tract 5042,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,963.0,250.0,1593.0,89.0,1927.0,72.0,$1593,$1927,$963,1
+2022,6037980034,Census Tract 9800.34,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2017,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1044.0,104.0,1260.0,98.0,1447.0,95.0,$1260,$1447,$1044,1
+2017,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1021.0,580.0,1620.0,244.0,1912.0,234.0,$1620,$1912,$1021,1
+2017,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,800.0,326.0,984.0,54.0,1285.0,81.0,$984,$1285,$800,1
+2017,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,709.0,395.0,1179.0,234.0,1695.0,245.0,$1179,$1695,$709,1
+2017,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1338.0,278.0,1738.0,184.0,2094.0,219.0,$1738,$2094,$1338,1
+2017,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,903.0,195.0,1143.0,57.0,1400.0,90.0,$1143,$1400,$903,1
+2017,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1093.0,241.0,1424.0,428.0,1902.0,1010.0,$1424,$1902,$1093,1
+2017,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,983.0,158.0,1161.0,62.0,1407.0,127.0,$1161,$1407,$983,1
+2017,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,964.0,79.0,1109.0,51.0,1243.0,124.0,$1109,$1243,$964,1
+2017,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,628.0,246.0,1050.0,151.0,1436.0,239.0,$1050,$1436,$628,1
+2017,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2017,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,953.0,35.0,1067.0,64.0,1221.0,53.0,$1067,$1221,$953,1
+2017,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1535.0,823.0,1931.0,484.0,2226.0,330.0,$1931,$2226,$1535,1
+2019,6037502200,Census Tract 5022,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1149.0,150.0,1461.0,187.0,1964.0,253.0,$1461,$1964,$1149,1
+2019,6037502301,Census Tract 5023.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,1653.0,194.0,1897.0,154.0,$1653,$1897,Not Available!,1
+2019,6037502302,Census Tract 5023.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,994.0,72.0,1176.0,71.0,1384.0,66.0,$1176,$1384,$994,1
+2019,6037502700,Census Tract 5027,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1011.0,801.0,1231.0,189.0,1640.0,175.0,$1231,$1640,$1011,1
+2019,6037502801,Census Tract 5028.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1311.0,280.0,1681.0,197.0,2005.0,227.0,$1681,$2005,$1311,1
+2019,6037502802,Census Tract 5028.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,725.0,164.0,1273.0,77.0,1554.0,121.0,$1273,$1554,$725,1
+2019,6037502901,Census Tract 5029.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1144.0,167.0,1464.0,643.0,2239.0,725.0,$1464,$2239,$1144,1
+2019,6037502902,Census Tract 5029.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1025.0,160.0,1266.0,89.0,1486.0,123.0,$1266,$1486,$1025,1
+2019,6037503000,Census Tract 5030,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1133.0,120.0,1356.0,145.0,1671.0,261.0,$1356,$1671,$1133,1
+2019,6037504101,Census Tract 5041.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,721.0,290.0,1284.0,195.0,1684.0,207.0,$1284,$1684,$721,1
+2019,6037504102,Census Tract 5041.02,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,,,,,Not Available!,Not Available!,Not Available!,1
+2019,6037550201,Census Tract 5502.01,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,1014.0,58.0,1138.0,51.0,1284.0,127.0,$1138,$1284,$1014,1
+2019,6037550400,Census Tract 5504,Santa Fe Springs,Los Angeles County,California,SantaFeSprings,,,1292.0,527.0,1750.0,1170.0,$1292,$1750,Not Available!,1

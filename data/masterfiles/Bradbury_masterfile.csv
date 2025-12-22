@@ -1,0 +1,15 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,2920.0,1912.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2920,1
+2012,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,719.0,1083.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$719,1
+2013,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,595.0,580.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$595,1
+2014,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,1198.0,1335.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1198,1
+2023,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,3288.0,1318.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3288,1
+2011,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,597.0,2201.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$597,1
+2015,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,,,3008.0,379.0,3426.0,202.0,$3008,$3426,Not Available!,1
+2010,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,967.0,1365.0,1857.0,494.0,2001.0,,$1857,Not available. Exceeds $2000!,$967,1
+2020,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,1699.0,948.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1699,1
+2016,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,825.0,646.0,2300.0,1142.0,3174.0,332.0,$2300,$3174,$825,1
+2018,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,,,2777.0,487.0,3501.0,,$2777,Not available. Exceeds $3500!,Not Available!,1
+2022,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,2368.0,1118.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2368,1
+2017,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,1338.0,758.0,2732.0,1045.0,3501.0,,$2732,Not available. Exceeds $3500!,$1338,1
+2019,6037430200,Census Tract 4302,Bradbury,Los Angeles County,California,Bradbury,1328.0,1252.0,2516.0,1538.0,3501.0,,$2516,Not available. Exceeds $3500!,$1328,1

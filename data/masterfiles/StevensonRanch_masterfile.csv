@@ -1,0 +1,43 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1729.0,61.0,1969.0,122.0,2298.0,106.0,$1969,$2298,$1729,1
+2021,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,,,3142.0,1081.0,3460.0,547.0,$3142,$3460,Not Available!,1
+2021,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,2085.0,278.0,2465.0,290.0,2935.0,327.0,$2465,$2935,$2085,1
+2012,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1359.0,67.0,1644.0,97.0,1956.0,97.0,$1644,$1956,$1359,1
+2012,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1940.0,353.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1940,1
+2012,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1401.0,202.0,1713.0,190.0,2001.0,,$1713,Not available. Exceeds $2000!,$1401,1
+2013,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1342.0,94.0,1618.0,114.0,1910.0,92.0,$1618,$1910,$1342,1
+2013,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,442.0,2339.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$442,1
+2013,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1428.0,208.0,1872.0,276.0,2001.0,,$1872,Not available. Exceeds $2000!,$1428,1
+2014,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1352.0,58.0,1573.0,135.0,1890.0,114.0,$1573,$1890,$1352,1
+2014,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1605.0,2487.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1605,1
+2014,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1459.0,206.0,1907.0,295.0,2001.0,,$1907,Not available. Exceeds $2000!,$1459,1
+2023,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,2002.0,178.0,2280.0,119.0,2747.0,501.0,$2280,$2747,$2002,1
+2023,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
+2023,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,2277.0,153.0,2686.0,351.0,3287.0,446.0,$2686,$3287,$2277,1
+2011,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1364.0,60.0,1639.0,105.0,1955.0,120.0,$1639,$1955,$1364,1
+2011,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2011,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1318.0,118.0,1547.0,274.0,2001.0,,$1547,Not available. Exceeds $2000!,$1318,1
+2015,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1356.0,51.0,1546.0,122.0,1834.0,73.0,$1546,$1834,$1356,1
+2015,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,,,2331.0,538.0,2932.0,560.0,$2331,$2932,Not Available!,1
+2015,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1511.0,181.0,1872.0,169.0,2362.0,264.0,$1872,$2362,$1511,1
+2010,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1367.0,59.0,1648.0,131.0,1997.0,189.0,$1648,$1997,$1367,1
+2010,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2010,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1173.0,198.0,1579.0,500.0,2001.0,,$1579,Not available. Exceeds $2000!,$1173,1
+2020,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1635.0,74.0,1893.0,106.0,2225.0,123.0,$1893,$2225,$1635,1
+2020,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,,,3129.0,1084.0,3429.0,291.0,$3129,$3429,Not Available!,1
+2020,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1916.0,282.0,2320.0,333.0,3015.0,630.0,$2320,$3015,$1916,1
+2016,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1402.0,49.0,1605.0,115.0,1884.0,81.0,$1605,$1884,$1402,1
+2016,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1705.0,1314.0,2286.0,545.0,2898.0,446.0,$2286,$2898,$1705,1
+2016,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1592.0,217.0,2016.0,260.0,2526.0,273.0,$2016,$2526,$1592,1
+2018,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1548.0,93.0,1780.0,71.0,2039.0,194.0,$1780,$2039,$1548,1
+2018,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,,,1912.0,455.0,2470.0,623.0,$1912,$2470,Not Available!,1
+2018,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1698.0,205.0,2084.0,274.0,2533.0,230.0,$2084,$2533,$1698,1
+2022,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1810.0,108.0,2130.0,135.0,2440.0,123.0,$2130,$2440,$1810,1
+2022,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!,1
+2022,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,2283.0,153.0,2639.0,277.0,3075.0,317.0,$2639,$3075,$2283,1
+2017,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1437.0,87.0,1676.0,106.0,1935.0,89.0,$1676,$1935,$1437,1
+2017,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,,,2113.0,484.0,2636.0,436.0,$2113,$2636,Not Available!,1
+2017,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1620.0,241.0,2039.0,278.0,2483.0,265.0,$2039,$2483,$1620,1
+2019,6037920326,Census Tract 9203.26,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1639.0,69.0,1895.0,86.0,2234.0,109.0,$1895,$2234,$1639,1
+2019,6037920338,Census Tract 9203.38,Stevenson Ranch,Los Angeles County,California,StevensonRanch,,,1852.0,633.0,3477.0,1149.0,$1852,$3477,Not Available!,1
+2019,6037920339,Census Tract 9203.39,Stevenson Ranch,Los Angeles County,California,StevensonRanch,1787.0,166.0,2129.0,219.0,2466.0,168.0,$2129,$2466,$1787,1

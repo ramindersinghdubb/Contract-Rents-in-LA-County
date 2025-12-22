@@ -1,0 +1,95 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1398.0,165.0,1707.0,105.0,1981.0,123.0,$1707,$1981,$1398,1
+2021,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1577.0,48.0,1785.0,55.0,1993.0,134.0,$1785,$1993,$1577,1
+2021,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1356.0,174.0,1626.0,184.0,1891.0,150.0,$1626,$1891,$1356,1
+2021,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1505.0,1043.0,1927.0,609.0,2658.0,427.0,$1927,$2658,$1505,1
+2021,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,782.0,46.0,,,1754.0,312.0,Not Available!,$1754,$782,1
+2021,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,850.0,456.0,1397.0,493.0,1865.0,654.0,$1397,$1865,$850,1
+2012,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1082.0,47.0,1247.0,64.0,1439.0,67.0,$1247,$1439,$1082,1
+2012,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1060.0,101.0,1318.0,74.0,1481.0,132.0,$1318,$1481,$1060,1
+2012,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,895.0,297.0,1123.0,309.0,1383.0,185.0,$1123,$1383,$895,1
+2012,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,542.0,1429.0,1381.0,145.0,1667.0,642.0,$1381,$1667,$542,1
+2012,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1083.0,1051.0,1759.0,326.0,2001.0,,$1759,Not available. Exceeds $2000!,$1083,1
+2012,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,939.0,286.0,1274.0,307.0,1452.0,152.0,$1274,$1452,$939,1
+2012,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1052.0,66.0,1239.0,82.0,1454.0,106.0,$1239,$1454,$1052,1
+2013,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1071.0,44.0,1233.0,68.0,1467.0,114.0,$1233,$1467,$1071,1
+2013,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1051.0,93.0,1312.0,95.0,1555.0,163.0,$1312,$1555,$1051,1
+2013,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,935.0,107.0,1104.0,211.0,1455.0,277.0,$1104,$1455,$935,1
+2013,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,540.0,133.0,1110.0,710.0,1696.0,458.0,$1110,$1696,$540,1
+2013,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,869.0,506.0,1608.0,325.0,1871.0,148.0,$1608,$1871,$869,1
+2013,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,927.0,224.0,1110.0,270.0,1347.0,102.0,$1110,$1347,$927,1
+2013,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1091.0,61.0,1275.0,72.0,1446.0,60.0,$1275,$1446,$1091,1
+2014,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1134.0,61.0,1318.0,57.0,1472.0,61.0,$1318,$1472,$1134,1
+2014,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1110.0,134.0,1344.0,40.0,1479.0,52.0,$1344,$1479,$1110,1
+2014,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,981.0,167.0,1228.0,215.0,1603.0,236.0,$1228,$1603,$981,1
+2014,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,545.0,244.0,1153.0,313.0,1554.0,383.0,$1153,$1554,$545,1
+2014,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,807.0,368.0,1591.0,542.0,2001.0,,$1591,Not available. Exceeds $2000!,$807,1
+2014,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1018.0,203.0,1304.0,186.0,1599.0,556.0,$1304,$1599,$1018,1
+2014,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1082.0,44.0,1237.0,67.0,1433.0,60.0,$1237,$1433,$1082,1
+2023,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1635.0,161.0,2026.0,131.0,2311.0,76.0,$2026,$2311,$1635,1
+2023,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1843.0,169.0,2160.0,78.0,2389.0,73.0,$2160,$2389,$1843,1
+2023,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1500.0,281.0,1796.0,314.0,2164.0,406.0,$1796,$2164,$1500,1
+2023,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,,,2471.0,950.0,3053.0,613.0,$2471,$3053,Not Available!,1
+2023,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,879.0,93.0,1236.0,962.0,1841.0,254.0,$1236,$1841,$879,1
+2023,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1543.0,903.0,1791.0,193.0,2133.0,591.0,$1791,$2133,$1543,1
+2011,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1138.0,69.0,1319.0,52.0,1457.0,48.0,$1319,$1457,$1138,1
+2011,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1062.0,124.0,1282.0,110.0,1484.0,159.0,$1282,$1484,$1062,1
+2011,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,751.0,149.0,958.0,167.0,1214.0,337.0,$958,$1214,$751,1
+2011,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,915.0,805.0,996.0,1639.0,2001.0,,$996,Not available. Exceeds $2000!,$915,1
+2011,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,539.0,627.0,1604.0,1413.0,1977.0,386.0,$1604,$1977,$539,1
+2011,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,875.0,536.0,1166.0,135.0,1529.0,403.0,$1166,$1529,$875,1
+2011,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,972.0,166.0,1223.0,104.0,1452.0,107.0,$1223,$1452,$972,1
+2015,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1135.0,43.0,1305.0,37.0,1442.0,32.0,$1305,$1442,$1135,1
+2015,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1270.0,42.0,1386.0,27.0,1507.0,101.0,$1386,$1507,$1270,1
+2015,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1059.0,128.0,1289.0,192.0,1618.0,235.0,$1289,$1618,$1059,1
+2015,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,811.0,236.0,1318.0,253.0,1718.0,183.0,$1318,$1718,$811,1
+2015,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,841.0,219.0,1583.0,628.0,2188.0,196.0,$1583,$2188,$841,1
+2015,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,973.0,144.0,1283.0,234.0,1684.0,385.0,$1283,$1684,$973,1
+2015,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1082.0,46.0,1256.0,66.0,1425.0,52.0,$1256,$1425,$1082,1
+2010,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1090.0,87.0,1296.0,66.0,1442.0,46.0,$1296,$1442,$1090,1
+2010,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1068.0,84.0,1277.0,98.0,1467.0,106.0,$1277,$1467,$1068,1
+2010,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,724.0,160.0,990.0,199.0,1306.0,179.0,$990,$1306,$724,1
+2010,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,536.0,652.0,1075.0,737.0,1397.0,296.0,$1075,$1397,$536,1
+2010,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,601.0,195.0,649.0,1131.0,1681.0,522.0,$649,$1681,$601,1
+2010,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1021.0,527.0,1158.0,105.0,1394.0,351.0,$1158,$1394,$1021,1
+2010,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1003.0,119.0,1248.0,108.0,1485.0,162.0,$1248,$1485,$1003,1
+2020,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1316.0,112.0,1584.0,103.0,1846.0,70.0,$1584,$1846,$1316,1
+2020,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1553.0,65.0,1746.0,57.0,1939.0,70.0,$1746,$1939,$1553,1
+2020,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1006.0,860.0,1339.0,224.0,1540.0,243.0,$1339,$1540,$1006,1
+2020,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1317.0,426.0,1755.0,495.0,2473.0,606.0,$1755,$2473,$1317,1
+2020,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,778.0,38.0,,,1783.0,169.0,Not Available!,$1783,$778,1
+2020,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1058.0,564.0,1368.0,257.0,1665.0,237.0,$1368,$1665,$1058,1
+2016,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1146.0,48.0,1330.0,47.0,1491.0,98.0,$1330,$1491,$1146,1
+2016,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1280.0,28.0,1403.0,28.0,1590.0,104.0,$1403,$1590,$1280,1
+2016,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,965.0,194.0,1152.0,118.0,1556.0,336.0,$1152,$1556,$965,1
+2016,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,833.0,220.0,1321.0,151.0,1574.0,203.0,$1321,$1574,$833,1
+2016,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,844.0,277.0,1508.0,428.0,1941.0,271.0,$1508,$1941,$844,1
+2016,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1007.0,204.0,1320.0,244.0,1667.0,268.0,$1320,$1667,$1007,1
+2016,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1109.0,48.0,1294.0,74.0,1481.0,117.0,$1294,$1481,$1109,1
+2018,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1256.0,69.0,1418.0,42.0,1675.0,76.0,$1418,$1675,$1256,1
+2018,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1361.0,54.0,1564.0,78.0,1788.0,40.0,$1564,$1788,$1361,1
+2018,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,738.0,428.0,1243.0,275.0,1511.0,200.0,$1243,$1511,$738,1
+2018,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1094.0,548.0,1446.0,152.0,1896.0,232.0,$1446,$1896,$1094,1
+2018,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,799.0,488.0,1665.0,337.0,2064.0,289.0,$1665,$2064,$799,1
+2018,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1105.0,330.0,1412.0,202.0,1755.0,210.0,$1412,$1755,$1105,1
+2018,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1189.0,102.0,1476.0,107.0,1784.0,82.0,$1476,$1784,$1189,1
+2022,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1638.0,139.0,2006.0,152.0,2271.0,77.0,$2006,$2271,$1638,1
+2022,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1702.0,91.0,2036.0,120.0,2275.0,60.0,$2036,$2275,$1702,1
+2022,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1417.0,218.0,1679.0,192.0,1923.0,260.0,$1679,$1923,$1417,1
+2022,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,961.0,822.0,2150.0,589.0,2810.0,803.0,$2150,$2810,$961,1
+2022,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,877.0,90.0,1179.0,1051.0,1895.0,281.0,$1179,$1895,$877,1
+2022,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,,,1741.0,220.0,2107.0,892.0,$1741,$2107,Not Available!,1
+2017,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1179.0,72.0,1371.0,46.0,1610.0,153.0,$1371,$1610,$1179,1
+2017,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1309.0,36.0,1450.0,45.0,1702.0,72.0,$1450,$1702,$1309,1
+2017,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,936.0,488.0,1177.0,166.0,1488.0,248.0,$1177,$1488,$936,1
+2017,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1017.0,374.0,1375.0,129.0,1664.0,195.0,$1375,$1664,$1017,1
+2017,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,788.0,146.0,1500.0,762.0,2013.0,337.0,$1500,$2013,$788,1
+2017,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1084.0,440.0,1366.0,198.0,1686.0,259.0,$1366,$1686,$1084,1
+2017,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1110.0,77.0,1350.0,145.0,1722.0,137.0,$1350,$1722,$1110,1
+2019,6037408133,Census Tract 4081.33,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1291.0,59.0,1483.0,79.0,1777.0,69.0,$1483,$1777,$1291,1
+2019,6037408137,Census Tract 4081.37,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1425.0,133.0,1655.0,58.0,1849.0,38.0,$1655,$1849,$1425,1
+2019,6037408138,Census Tract 4081.38,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,734.0,680.0,1328.0,159.0,1582.0,219.0,$1328,$1582,$734,1
+2019,6037408139,Census Tract 4081.39,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1334.0,264.0,1665.0,280.0,2150.0,231.0,$1665,$2150,$1334,1
+2019,6037408140,Census Tract 4081.40,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,797.0,756.0,1584.0,425.0,1825.0,107.0,$1584,$1825,$797,1
+2019,6037408141,Census Tract 4081.41,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1072.0,444.0,1434.0,244.0,1723.0,139.0,$1434,$1723,$1072,1
+2019,6037408211,Census Tract 4082.11,South San Jose Hills,Los Angeles County,California,SouthSanJoseHills,1267.0,125.0,1561.0,111.0,1817.0,69.0,$1561,$1817,$1267,1

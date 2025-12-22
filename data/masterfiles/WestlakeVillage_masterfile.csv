@@ -1,0 +1,57 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,2413.0,2000.0,3303.0,293.0,3501.0,,$3303,Not available. Exceeds $3500!,$2413,1
+2021,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,2140.0,258.0,3073.0,1276.0,3501.0,,$3073,Not available. Exceeds $3500!,$2140,1
+2021,6037800335,Census Tract 8003.35,Westlake Village,Los Angeles County,California,WestlakeVillage,1911.0,529.0,2458.0,465.0,3501.0,,$2458,Not available. Exceeds $3500!,$1911,1
+2021,6037800338,Census Tract 8003.38,Westlake Village,Los Angeles County,California,WestlakeVillage,3042.0,562.0,3364.0,262.0,3501.0,,$3364,Not available. Exceeds $3500!,$3042,1
+2012,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2012,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1341.0,538.0,1878.0,445.0,2001.0,,$1878,Not available. Exceeds $2000!,$1341,1
+2012,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1578.0,174.0,1925.0,226.0,2001.0,,$1925,Not available. Exceeds $2000!,$1578,1
+2012,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2013,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,1680.0,635.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1680,1
+2013,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1309.0,1428.0,1963.0,448.0,2001.0,,$1963,Not available. Exceeds $2000!,$1309,1
+2013,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1630.0,149.0,1940.0,230.0,2001.0,,$1940,Not available. Exceeds $2000!,$1630,1
+2013,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,1844.0,1472.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1844,1
+2014,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,1727.0,528.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1727,1
+2014,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,509.0,1433.0,1592.0,390.0,2001.0,,$1592,Not available. Exceeds $2000!,$509,1
+2014,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1601.0,122.0,1862.0,171.0,2001.0,,$1862,Not available. Exceeds $2000!,$1601,1
+2014,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,1075.0,841.0,1875.0,861.0,2001.0,,$1875,Not available. Exceeds $2000!,$1075,1
+2023,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,2882.0,350.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2882,1
+2023,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,2081.0,274.0,3171.0,1343.0,3501.0,,$3171,Not available. Exceeds $3500!,$2081,1
+2023,6037800335,Census Tract 8003.35,Westlake Village,Los Angeles County,California,WestlakeVillage,2406.0,637.0,2764.0,190.0,3230.0,740.0,$2764,$3230,$2406,1
+2023,6037800338,Census Tract 8003.38,Westlake Village,Los Angeles County,California,WestlakeVillage,3118.0,2366.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3118,1
+2011,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2011,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1340.0,1539.0,1802.0,331.0,2001.0,,$1802,Not available. Exceeds $2000!,$1340,1
+2011,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1154.0,543.0,1871.0,316.0,2001.0,,$1871,Not available. Exceeds $2000!,$1154,1
+2011,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2015,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,1713.0,511.0,2245.0,364.0,2667.0,274.0,$2245,$2667,$1713,1
+2015,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1329.0,219.0,1830.0,730.0,2952.0,728.0,$1830,$2952,$1329,1
+2015,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1727.0,97.0,1983.0,228.0,2420.0,335.0,$1983,$2420,$1727,1
+2015,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,,,2636.0,345.0,2864.0,142.0,$2636,$2864,Not Available!,1
+2010,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2010,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1042.0,1780.0,1730.0,245.0,2001.0,,$1730,Not available. Exceeds $2000!,$1042,1
+2010,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1032.0,434.0,1676.0,323.0,2001.0,,$1676,Not available. Exceeds $2000!,$1032,1
+2010,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
+2020,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,2017.0,1079.0,2962.0,424.0,3244.0,108.0,$2962,$3244,$2017,1
+2020,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,2093.0,418.0,3067.0,1138.0,3501.0,,$3067,Not available. Exceeds $3500!,$2093,1
+2020,6037800335,Census Tract 8003.35,Westlake Village,Los Angeles County,California,WestlakeVillage,1406.0,727.0,2171.0,194.0,2507.0,631.0,$2171,$2507,$1406,1
+2020,6037800338,Census Tract 8003.38,Westlake Village,Los Angeles County,California,WestlakeVillage,2944.0,1114.0,3297.0,305.0,3501.0,,$3297,Not available. Exceeds $3500!,$2944,1
+2016,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,1563.0,271.0,1962.0,492.0,2731.0,286.0,$1962,$2731,$1563,1
+2016,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1360.0,180.0,2138.0,890.0,3274.0,429.0,$2138,$3274,$1360,1
+2016,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1600.0,124.0,1874.0,159.0,2324.0,314.0,$1874,$2324,$1600,1
+2016,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,1781.0,1200.0,2625.0,240.0,2903.0,259.0,$2625,$2903,$1781,1
+2018,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,1940.0,572.0,2536.0,467.0,3088.0,306.0,$2536,$3088,$1940,1
+2018,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1585.0,465.0,2234.0,913.0,3305.0,291.0,$2234,$3305,$1585,1
+2018,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1426.0,644.0,2029.0,246.0,2315.0,92.0,$2029,$2315,$1426,1
+2018,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,2567.0,428.0,2833.0,223.0,3136.0,282.0,$2833,$3136,$2567,1
+2022,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,3069.0,504.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3069,1
+2022,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,2059.0,552.0,3310.0,1504.0,3501.0,,$3310,Not available. Exceeds $3500!,$2059,1
+2022,6037800335,Census Tract 8003.35,Westlake Village,Los Angeles County,California,WestlakeVillage,2345.0,695.0,2817.0,324.0,3501.0,,$2817,Not available. Exceeds $3500!,$2345,1
+2022,6037800338,Census Tract 8003.38,Westlake Village,Los Angeles County,California,WestlakeVillage,3057.0,2345.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3057,1
+2017,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,1471.0,390.0,2088.0,537.0,2780.0,479.0,$2088,$2780,$1471,1
+2017,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1504.0,445.0,2279.0,1272.0,3416.0,255.0,$2279,$3416,$1504,1
+2017,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1533.0,757.0,2046.0,275.0,2388.0,196.0,$2046,$2388,$1533,1
+2017,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,2125.0,1005.0,2786.0,329.0,3176.0,347.0,$2786,$3176,$2125,1
+2019,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,2289.0,770.0,3002.0,394.0,3251.0,114.0,$3002,$3251,$2289,1
+2019,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1377.0,366.0,2721.0,920.0,3379.0,180.0,$2721,$3379,$1377,1
+2019,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1448.0,849.0,2081.0,259.0,2437.0,536.0,$2081,$2437,$1448,1
+2019,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,2599.0,213.0,2906.0,324.0,3205.0,198.0,$2906,$3205,$2599,1

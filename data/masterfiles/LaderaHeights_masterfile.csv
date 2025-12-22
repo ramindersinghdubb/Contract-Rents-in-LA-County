@@ -1,0 +1,53 @@
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
+2021,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1656.0,133.0,1960.0,247.0,2976.0,590.0,$1960,$2976,$1656,1
+2021,6037703003,Census Tract 7030.03,Ladera Heights,Los Angeles County,California,LaderaHeights,2102.0,54.0,2338.0,84.0,2656.0,199.0,$2338,$2656,$2102,1
+2021,6037980038,Census Tract 9800.38,Ladera Heights,Los Angeles County,California,LaderaHeights,,,,,,,Not Available!,Not Available!,Not Available!,1
+2012,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,1076.0,223.0,1302.0,79.0,1439.0,60.0,$1302,$1439,$1076,1
+2012,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1068.0,554.0,1586.0,188.0,1901.0,165.0,$1586,$1901,$1068,1
+2012,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1397.0,156.0,1675.0,64.0,1905.0,47.0,$1675,$1905,$1397,1
+2012,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1368.0,107.0,1616.0,158.0,1917.0,124.0,$1616,$1917,$1368,1
+2013,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,1140.0,124.0,1321.0,79.0,1454.0,84.0,$1321,$1454,$1140,1
+2013,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1159.0,420.0,1632.0,183.0,1929.0,188.0,$1632,$1929,$1159,1
+2013,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1466.0,131.0,1707.0,63.0,1932.0,73.0,$1707,$1932,$1466,1
+2013,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1331.0,274.0,1683.0,107.0,1935.0,119.0,$1683,$1935,$1331,1
+2014,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,1041.0,172.0,1284.0,111.0,1444.0,90.0,$1284,$1444,$1041,1
+2014,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1428.0,201.0,1754.0,160.0,2001.0,,$1754,Not available. Exceeds $2000!,$1428,1
+2014,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1511.0,70.0,1719.0,51.0,1927.0,58.0,$1719,$1927,$1511,1
+2014,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1311.0,280.0,1726.0,170.0,2001.0,,$1726,Not available. Exceeds $2000!,$1311,1
+2023,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1933.0,280.0,3028.0,1094.0,3466.0,369.0,$3028,$3466,$1933,1
+2023,6037703003,Census Tract 7030.03,Ladera Heights,Los Angeles County,California,LaderaHeights,2258.0,132.0,2591.0,198.0,2930.0,148.0,$2591,$2930,$2258,1
+2023,6037980038,Census Tract 9800.38,Ladera Heights,Los Angeles County,California,LaderaHeights,,,,,,,Not Available!,Not Available!,Not Available!,1
+2011,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,887.0,298.0,1206.0,161.0,1395.0,103.0,$1206,$1395,$887,1
+2011,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1053.0,232.0,1395.0,430.0,1920.0,284.0,$1395,$1920,$1053,1
+2011,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1434.0,123.0,1679.0,63.0,1897.0,50.0,$1679,$1897,$1434,1
+2011,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1365.0,121.0,1610.0,127.0,1855.0,96.0,$1610,$1855,$1365,1
+2015,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,1133.0,116.0,1315.0,87.0,1451.0,107.0,$1315,$1451,$1133,1
+2015,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,,,1721.0,239.0,2552.0,945.0,$1721,$2552,Not Available!,1
+2015,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1512.0,78.0,1737.0,60.0,1963.0,85.0,$1737,$1963,$1512,1
+2015,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1234.0,340.0,1709.0,166.0,2028.0,275.0,$1709,$2028,$1234,1
+2010,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,780.0,196.0,1018.0,306.0,1302.0,339.0,$1018,$1302,$780,1
+2010,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1135.0,177.0,1568.0,185.0,1889.0,153.0,$1568,$1889,$1135,1
+2010,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1354.0,89.0,1609.0,89.0,1842.0,56.0,$1609,$1842,$1354,1
+2010,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1358.0,124.0,1597.0,133.0,1837.0,81.0,$1597,$1837,$1358,1
+2020,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1684.0,105.0,1929.0,196.0,2449.0,511.0,$1929,$2449,$1684,1
+2020,6037703003,Census Tract 7030.03,Ladera Heights,Los Angeles County,California,LaderaHeights,2046.0,100.0,2304.0,75.0,2608.0,154.0,$2304,$2608,$2046,1
+2020,6037980038,Census Tract 9800.38,Ladera Heights,Los Angeles County,California,LaderaHeights,,,,,,,Not Available!,Not Available!,Not Available!,1
+2016,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,1185.0,130.0,1441.0,217.0,1770.0,178.0,$1441,$1770,$1185,1
+2016,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,,,1709.0,223.0,2591.0,902.0,$1709,$2591,Not Available!,1
+2016,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1596.0,45.0,1798.0,58.0,2001.0,144.0,$1798,$2001,$1596,1
+2016,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1288.0,243.0,1675.0,176.0,1971.0,226.0,$1675,$1971,$1288,1
+2018,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,1195.0,165.0,1497.0,211.0,1792.0,137.0,$1497,$1792,$1195,1
+2018,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,,,1748.0,453.0,2624.0,256.0,$1748,$2624,Not Available!,1
+2018,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1718.0,81.0,2036.0,139.0,2379.0,101.0,$2036,$2379,$1718,1
+2018,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1614.0,78.0,1822.0,90.0,2066.0,201.0,$1822,$2066,$1614,1
+2022,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1863.0,177.0,2608.0,606.0,3226.0,156.0,$2608,$3226,$1863,1
+2022,6037703003,Census Tract 7030.03,Ladera Heights,Los Angeles County,California,LaderaHeights,2149.0,47.0,2386.0,95.0,2762.0,180.0,$2386,$2762,$2149,1
+2022,6037980038,Census Tract 9800.38,Ladera Heights,Los Angeles County,California,LaderaHeights,,,,,,,Not Available!,Not Available!,Not Available!,1
+2017,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,1121.0,85.0,1381.0,353.0,1766.0,158.0,$1381,$1766,$1121,1
+2017,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,,,1743.0,207.0,2560.0,472.0,$1743,$2560,Not Available!,1
+2017,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1646.0,53.0,1900.0,94.0,2220.0,105.0,$1900,$2220,$1646,1
+2017,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1552.0,103.0,1723.0,65.0,1893.0,51.0,$1723,$1893,$1552,1
+2019,6037236000,Census Tract 2360,Ladera Heights,Los Angeles County,California,LaderaHeights,1405.0,144.0,1784.0,368.0,2400.0,487.0,$1784,$2400,$1405,1
+2019,6037702502,Census Tract 7025.02,Ladera Heights,Los Angeles County,California,LaderaHeights,,,1908.0,876.0,2860.0,295.0,$1908,$2860,Not Available!,1
+2019,6037703001,Census Tract 7030.01,Ladera Heights,Los Angeles County,California,LaderaHeights,1878.0,172.0,2235.0,115.0,2571.0,177.0,$2235,$2571,$1878,1
+2019,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1643.0,109.0,1900.0,134.0,2437.0,489.0,$1900,$2437,$1643,1
