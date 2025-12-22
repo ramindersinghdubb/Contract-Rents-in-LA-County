@@ -90,6 +90,7 @@ Palmdale|Palmdale|2010|2023
 Palos Verdes Estates|PalosVerdesEstates|2010|2023
 Paramount|Paramount|2010|2023
 Pasadena|Pasadena|2010|2023
+Pepperdine University|PepperdineUniversity|2020|2023
 Pico Rivera|PicoRivera|2010|2023
 Pomona|Pomona|2010|2023
 Quartz Hill|QuartzHill|2010|2023
@@ -140,4 +141,3 @@ West Rancho Dominguez|WestRanchoDominguez|2010|2023
 West Whittier-Los Nietos|WestWhittier-LosNietos|2010|2023
 Whittier|Whittier|2010|2023
 Willowbrook|Willowbrook|2010|2023
-Pepperdine University|PepperdineUniversity|2020|2023
