@@ -6,11 +6,11 @@ from util_func import masterfiles_folder, masterfile_creation, mastergeometry_cr
 masterfile_creation(['B25057', 'B25058', 'B25059'], API_key = os.environ['SECRET_KEY'])
 
 # Formatting
-years = [int(file.split('_')[0]) for file in os.listdir(masterfiles_folder) if 'masterfile.csv' in file]
+ABBREV_NAMES = [file.split('_')[0] for file in os.listdir(masterfiles_folder) if 'masterfile.csv' in file]
 
 df_list = []
-for year in years:
-    CSV_file_path = f'{masterfiles_folder}{year}_masterfile.csv'
+for ABBREV_NAME in ABBREV_NAMES:
+    CSV_file_path = f'{masterfiles_folder}{ABBREV_NAME}_masterfile.csv'
     df = pd.read_csv(CSV_file_path)
 
     if not df.columns.isin(['Median', '75th', '25th', 'dummy']).any():
@@ -23,22 +23,16 @@ for year in years:
             df[col] = '$' + df[col].astype(str)
             df[col] = df[col].str.replace('.0', '')
             df.loc[df[col] == '$nan', col] = 'Not Available!'
-            if year <= 2014:
-                df.loc[df[col] == '$2001', col] = 'Not available. Exceeds $2000!'
-            else:
-                df.loc[df[col] == '$3501', col] = 'Not available. Exceeds $3500!'
+            df.loc[(df[col] == '$2001') & (df['YEAR'] <= 2014), col] = 'Not available. Exceeds $2000!'
+            df.loc[(df[col] == '$3501') & (df['YEAR'] > 2014), col] = 'Not available. Exceeds $3500!'
         # For the trace
         df['dummy'] = 1
 
         df.to_csv(CSV_file_path, index = False)
         df_list.append(df)
 
-        JSON_file_path = f'{masterfiles_folder}{year}_masterfile.json'
+        JSON_file_path = f'{masterfiles_folder}{ABBREV_NAME}_masterfile.json'
         df.to_json(JSON_file_path, orient='records')
-
-masterfile = pd.concat(df_list, ignore_index = True)
-masterfile.to_csv('data/masterfile.csv', index = False)
-masterfile.to_json('data/masterfile.json', orient = 'records')
 
 # Mastergeometry creation
 mastergeometry_creation()

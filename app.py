@@ -162,7 +162,6 @@ app.layout = dbc.Container([
             ),
     # Data
     dcc.Store( id = 'MASTERFILE' ),
-    dcc.Store( id = 'PLOTFILE' ),
     dcc.Store( id = 'LAT-LON' ),
     dcc.Store( id = 'YEAR_PLACE_OPTIONS', data = YEAR_PLACE_OPTIONS ),
     dcc.Store( id = 'PLACE_YEAR_OPTIONS', data = PLACE_YEAR_OPTIONS ),
@@ -174,7 +173,7 @@ app.layout = dbc.Container([
 # ------------ CALLBACKS ------------ #
 #
 # Data:
-#  year value -> masterfile data
+#  place value -> masterfile data
 #  year value -> lat/lon center point data
 #  
 # Dropdowns:
@@ -197,31 +196,18 @@ app.layout = dbc.Container([
 # Data
 # -- -- -- --
 
-# Masterfile (for map)
+# Masterfile
 app.clientside_callback(
     """
-    async function(selected_year) {
-        const url = `https://raw.githubusercontent.com/ramindersinghdubb/Contract-Rents-in-LA-County/refs/heads/main/data/masterfiles/${selected_year}_masterfile.json`;
+    async function(selected_place) {
+        const url = `https://raw.githubusercontent.com/ramindersinghdubb/Contract-Rents-in-LA-County/refs/heads/main/data/masterfiles/${selected_place}_masterfile.json`;
         const response = await fetch(url);
         const data = await response.json();
         return data;
     }
     """,
     Output('MASTERFILE', 'data'),
-    Input('year-dropdown', 'value')
-)
-
-# Masterfile (for plot)
-app.clientside_callback(
-    """
-    async function(selected_year) {
-        const url = `https://raw.githubusercontent.com/ramindersinghdubb/Contract-Rents-in-LA-County/refs/heads/main/data/masterfile.json`;
-        const response = await fetch(url);
-        const data = await response.json();
-        return data;
-    }
-    """,
-    Output('PLOTFILE', 'data')
+    Input('place-dropdown', 'value')
 )
 
 # Latitudinal/longitudinal center points
@@ -272,15 +258,15 @@ app.clientside_callback(
 # Census tract options
 app.clientside_callback(
     """
-    function(selected_place, MASTERFILE) {
-        var selected_place = `${selected_place}`;
-        var options = MASTERFILE.filter(x => x['ABBREV_NAME'] === selected_place);
+    function(selected_place, selected_year, MASTERFILE) {
+        var options = MASTERFILE.filter(x => && x['YEAR'] === selected_year);
         var tract_options = options.map(item => { return item.TRACT });
         return tract_options
     }
     """,
     Output('census-tract-dropdown', 'options'),
     [Input('place-dropdown', 'value'),
+     Input('year-dropdown', 'value'),
      Input('MASTERFILE', 'data')
     ]
 )
@@ -308,11 +294,8 @@ app.clientside_callback(
 # Map title
 app.clientside_callback(
     """
-    function(selected_place, selected_year, MASTERFILE) {
-        var selected_place = `${selected_place}`;
-        var selected_year = `${selected_year}`;
-
-        var my_array = MASTERFILE.filter(item => item['ABBREV_NAME'] === selected_place);
+    function(selected_year, MASTERFILE) {
+        var my_array = MASTERFILE.filter(item => && item['YEAR'] === selected_year);
         var city_array = my_array.map(({CITY}) => CITY);
         var selected_city = city_array[0];
         return [selected_city, selected_year];
@@ -321,8 +304,7 @@ app.clientside_callback(
     [Output('map-title1', 'children'),
      Output('map-title2', 'children')
     ],
-    [Input('place-dropdown', 'value'),
-     Input('year-dropdown', 'value'),
+    [Input('year-dropdown', 'value'),
      Input('MASTERFILE', 'data')
     ]
 )
@@ -331,12 +313,11 @@ app.clientside_callback(
 # Plot title
 app.clientside_callback(
     """
-    function(selected_place, selected_tract, MASTERFILE) {
+    function(selected_tract, MASTERFILE) {
         if (selected_tract == undefined){
             return "Please click on a tract.";
         } else {
-            var my_array = MASTERFILE.filter(item => item['ABBREV_NAME'] === selected_place);
-            var city_array = my_array.map(({CITY}) => CITY);
+            var city_array = MASTERFILE.map(({CITY}) => CITY);
             var selected_city = city_array[0];
             return `${selected_city}, ${selected_tract}`;
         }
@@ -358,9 +339,7 @@ app.clientside_callback(
 app.clientside_callback(
     """
     function(selected_place, selected_year, selected_tract, MASTERFILE, LAT_LON){
-        var selected_place = `${selected_place}`;
-        var selected_year = Number(selected_year);
-        var my_array = MASTERFILE.filter(item => item['ABBREV_NAME'] === selected_place);
+        var my_array = MASTERFILE.filter(item => item['YEAR'] === selected_year);
         
         var url_path = `https://raw.githubusercontent.com/ramindersinghdubb/Contract-Rents-in-LA-County/refs/heads/main/data/mastergeometries/${selected_year}_mastergeometry.geojson`;
         
@@ -369,11 +348,8 @@ app.clientside_callback(
         var customdata_array = my_array.map( ({TRACT}) => TRACT);
         
         var lat_lon_array = LAT_LON.filter(item => item['ABBREV_NAME'] === selected_place);
-        var lon_array = lat_lon_array.map( ({LON_CENTER}) => LON_CENTER);
-        const lon_center = lon_array.reduce((a, b) => a + b) / lon_array.length;
-
-        var lat_array = lat_lon_array.map( ({LAT_CENTER}) => LAT_CENTER);
-        const lat_center = lat_array.reduce((a, b) => a + b) / lat_array.length;
+        const lon_center = lat_lon_array[0]['LON_CENTER'];
+        const lat_center = lat_lon_array[0]['LAT_CENTER'];
 
         var strings = my_array.map(function(item) {
             return "<b style='font-size:16px;'>" + item['TRACT'] + "</b><br>" + item['CITY'] + "<br><br>"
@@ -447,11 +423,11 @@ app.clientside_callback(
 # Plot
 app.clientside_callback(
     """
-    function(selected_place, selected_tract, PLOTFILE){
+    function(selected_place, selected_tract, MASTERFILE){
         if (selected_tract != undefined){
             var selected_place = `${selected_place}`;
             var selected_tract = `${selected_tract}`;
-            var my_array = PLOTFILE.filter(item => item['ABBREV_NAME'] === selected_place && item['TRACT'] === selected_tract);
+            var my_array = MASTERFILE.filter(item => item['TRACT'] === selected_tract);
             
             var x_array = my_array.map( ({YEAR}) => YEAR);
             var y_array = my_array.map( ({B25058_001E}) => B25058_001E);
@@ -499,7 +475,7 @@ app.clientside_callback(
     Output('rent_plot', 'figure'),
     [Input('place-dropdown', 'value'),
      Input('census-tract-dropdown', 'value'),
-     Input('PLOTFILE', 'data')
+     Input('MASTERFILE', 'data')
     ]
 )
 

@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from dash import dcc, html
 from datetime import datetime
@@ -29,12 +30,17 @@ for ABBREV_NAME in ALL_ABBREV_NAMES:
     PLACE_YEAR_OPTIONS[ABBREV_NAME] = year_options
 
 # Generate available place options for the selected year
+files = [f'data/masterfiles/{file}' for file in os.listdir('data/masterfiles/') if file.endswith('masterfile.csv')]
+df_list = []
+for file in files:
+    df_list.append( pd.read_csv(file) )
+df = pd.concat(df_list, ignore_index = True)
+
 YEAR_PLACE_OPTIONS = {}
 for YEAR in ALL_YEARS:
-    file_path = f'data/masterfiles/{YEAR}_masterfile.csv'
-    df = pd.read_csv(file_path)
+    dummy_df = df[df['YEAR'] == YEAR]
 
-    avail_places = list(df['ABBREV_NAME'].unique())
+    avail_places = list(dummy_df['ABBREV_NAME'].unique())
     unavail_places = [i for i in ALL_ABBREV_NAMES if i not in avail_places]
 
     place_options = [dict(item, **{'disabled': True}) if item['value'] in unavail_places else dict(item) for item in ALL_PLACES_OPTIONS]

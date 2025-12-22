@@ -175,7 +175,7 @@ def ACS_data_extraction(ACS_code: str,
 # ---- Masterfile Function ---- #
 def masterfile_creation(ACS_codes: List[str], API_key: str):
     """
-    Create year-segmented masterfiles on the specified ACS codes.
+    Create place-segmented masterfiles on the specified ACS codes.
     
     :param ACS_code: Description
     :type ACS_code: List[str]
@@ -200,13 +200,13 @@ def masterfile_creation(ACS_codes: List[str], API_key: str):
     # Segmentation
     df = reduce(lambda left, right: pd.merge(left, right, on = ['YEAR', 'GEO_ID', 'TRACT', 'CITY', 'COUNTY', 'STATE', 'ABBREV_NAME'], how = 'left'),
                 df_list)
-    for year in df.YEAR.unique():
-        dummy_df = df[df.YEAR == year]
+    for ABBREV_NAME in df.ABBREV_NAME.unique():
+        dummy_df = df[df.ABBREV_NAME == ABBREV_NAME]
 
-        CSV_file_path = f'{masterfiles_folder}{year}_masterfile.csv'
+        CSV_file_path = f'{masterfiles_folder}{ABBREV_NAME}_masterfile.csv'
         dummy_df.to_csv(CSV_file_path, index = False)
 
-        JSON_file_path = f'{masterfiles_folder}{year}_masterfile.json'
+        JSON_file_path = f'{masterfiles_folder}{ABBREV_NAME}_masterfile.json'
         dummy_df.to_json(JSON_file_path, orient='records')
     
     # Reference TXT file containing the earliest and most recent years of data for each city
@@ -230,9 +230,14 @@ def mastergeometry_creation():
 
     Note that `masterfile_creation()` must be called prior to this.
     """
-    years = [int(file.split('_')[0]) for file in os.listdir(masterfiles_folder) if 'masterfile.csv' in file]
+    files = [file for file in os.listdir(masterfiles_folder) if file.endswith('masterfile.csv')]
+    df_list = []
+    for file in files:
+        df_list.append( pd.read_csv(f'{masterfiles_folder}{file}') )
+    df = pd.concat(df_list, ignore_index = True)
+    years = sorted( list( df['YEAR'].unique() ) )
     
-    for year in sorted(list(set(years))):
+    for year in years:
         file_path = mastergeometries_folder + f'{year}_mastergeometry.geojson'
         if os.path.exists(file_path):
             continue
