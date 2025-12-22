@@ -1,7 +1,6 @@
 import pandas as pd
 from dash import dcc, html
 from datetime import datetime
-from util_func import masterfiles_folder
 
 
 ref_df = pd.read_csv('data/reference.txt', sep='|')
@@ -32,7 +31,7 @@ for ABBREV_NAME in ALL_ABBREV_NAMES:
 # Generate available place options for the selected year
 YEAR_PLACE_OPTIONS = {}
 for YEAR in ALL_YEARS:
-    file_path = f'{masterfiles_folder}{YEAR}_masterfile.csv'
+    file_path = f'data/masterfiles/{YEAR}_masterfile.csv'
     df = pd.read_csv(file_path)
 
     avail_places = list(df['ABBREV_NAME'].unique())
