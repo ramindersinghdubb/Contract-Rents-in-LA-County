@@ -218,7 +218,7 @@ def masterfile_creation(ACS_codes: List[str], API_key: str):
             years = list(sorted(df['YEAR'][df['ABBREV_NAME'] == ABBREV_NAME].unique()))
             INT_YEAR = min(years)
             REC_YEAR = max(years)
-            content = '|'.join([CITY, ABBREV_NAME, INT_YEAR, REC_YEAR])
+            content = '|'.join([CITY, ABBREV_NAME, str(INT_YEAR), str(REC_YEAR)])
             txtfile.write(content)
             txtfile.write('\n')
 
