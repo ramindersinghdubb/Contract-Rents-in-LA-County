@@ -4,7 +4,7 @@ run-name: Deploy HTML pages generated from Plotly-Dash app
 on:
 
   workflow_run:
-    workflows: [python-workflow]
+    workflows: [Create/Remove files]
     types:
       - completed
   
