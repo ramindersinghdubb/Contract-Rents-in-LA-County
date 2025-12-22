@@ -8,6 +8,7 @@ masterfile_creation(['B25057', 'B25058', 'B25059'], API_key = os.environ['SECRET
 # Formatting
 years = [int(file.split('_')[0]) for file in os.listdir(masterfiles_folder) if 'masterfile.csv' in file]
 
+df_list = []
 for year in years:
     CSV_file_path = f'{masterfiles_folder}{year}_masterfile.csv'
     df = pd.read_csv(CSV_file_path)
@@ -30,10 +31,14 @@ for year in years:
         df['dummy'] = 1
 
         df.to_csv(CSV_file_path, index = False)
+        df_list.append(df)
 
         JSON_file_path = f'{masterfiles_folder}{year}_masterfile.json'
         df.to_json(JSON_file_path, orient='records')
 
+masterfile = pd.concat(df_list, ignore_index = True)
+masterfile.to_csv('data/masterfile.csv', index = False)
+masterfile.to_json('data/masterfile.json', orient = 'records')
 
 # Mastergeometry creation
 mastergeometry_creation()

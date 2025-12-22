@@ -57,7 +57,7 @@ app.layout = dbc.Container([
     
     # Subtitle
     html.Div([
-        html.P(f"Median, 25th Percentile, and 75th Percentile Contract Rents for Census Tracts across Cities and Census-Designated Places in Los Angeles County, {min(ALL_YEARS)} to max{(ALL_YEARS)}")
+        html.P(f"Median, 25th Percentile, and 75th Percentile Contract Rents for Census Tracts across Cities and Census-Designated Places in Los Angeles County, {min(ALL_YEARS)} to {max(ALL_YEARS)}")
     ], style = {'display': 'block',
                 'color': ObsidianBlack_color,
                 'margin': '-0.5em 0',
@@ -162,6 +162,7 @@ app.layout = dbc.Container([
             ),
     # Data
     dcc.Store( id = 'MASTERFILE' ),
+    dcc.Store( id = 'PLOTFILE' ),
     dcc.Store( id = 'LAT-LON' ),
     dcc.Store( id = 'YEAR_PLACE_OPTIONS', data = YEAR_PLACE_OPTIONS ),
     dcc.Store( id = 'PLACE_YEAR_OPTIONS', data = PLACE_YEAR_OPTIONS ),
@@ -196,7 +197,7 @@ app.layout = dbc.Container([
 # Data
 # -- -- -- --
 
-# Masterfile
+# Masterfile (for map)
 app.clientside_callback(
     """
     async function(selected_year) {
@@ -208,6 +209,19 @@ app.clientside_callback(
     """,
     Output('MASTERFILE', 'data'),
     Input('year-dropdown', 'value')
+)
+
+# Masterfile (for plot)
+app.clientside_callback(
+    """
+    async function(selected_year) {
+        const url = `https://raw.githubusercontent.com/ramindersinghdubb/Contract-Rents-in-LA-County/refs/heads/main/data/masterfile.json`;
+        const response = await fetch(url);
+        const data = await response.json();
+        return data;
+    }
+    """,
+    Output('PLOTFILE', 'data')
 )
 
 # Latitudinal/longitudinal center points
@@ -356,10 +370,10 @@ app.clientside_callback(
         
         var lat_lon_array = LAT_LON.filter(item => item['ABBREV_NAME'] === selected_place);
         var lon_array = lat_lon_array.map( ({LON_CENTER}) => LON_CENTER);
-        const lon_center = parseFloat(lon_array[0]);
+        const lon_center = lon_array.reduce((a, b) => a + b) / lon_array.length;
 
         var lat_array = lat_lon_array.map( ({LAT_CENTER}) => LAT_CENTER);
-        const lat_center = parseFloat(lon_array[0]);
+        const lat_center = lat_array.reduce((a, b) => a + b) / lat_array.length;
 
         var strings = my_array.map(function(item) {
             return "<b style='font-size:16px;'>" + item['TRACT'] + "</b><br>" + item['CITY'] + "<br><br>"
@@ -433,11 +447,11 @@ app.clientside_callback(
 # Plot
 app.clientside_callback(
     """
-    function(selected_place, selected_tract, MASTERFILE){
+    function(selected_place, selected_tract, PLOTFILE){
         if (selected_tract != undefined){
             var selected_place = `${selected_place}`;
             var selected_tract = `${selected_tract}`;
-            var my_array = MASTERFILE.filter(item => item['ABBREV_NAME'] === selected_place && item['TRACT'] === selected_tract);
+            var my_array = PLOTFILE.filter(item => item['ABBREV_NAME'] === selected_place && item['TRACT'] === selected_tract);
             
             var x_array = my_array.map( ({YEAR}) => YEAR);
             var y_array = my_array.map( ({B25058_001E}) => B25058_001E);
@@ -485,7 +499,7 @@ app.clientside_callback(
     Output('rent_plot', 'figure'),
     [Input('place-dropdown', 'value'),
      Input('census-tract-dropdown', 'value'),
-     Input('MASTERFILE', 'data')
+     Input('PLOTFILE', 'data')
     ]
 )
 
