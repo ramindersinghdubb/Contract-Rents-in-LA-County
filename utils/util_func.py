@@ -421,7 +421,7 @@ def cpi_adjust_cols(ACS_Codes: str | List[str], col_strings: str | List[str]) ->
     CPI_df = pd.read_csv('data/r-cpi-u-rs.csv')
     CPI_df = CPI_df[['YEAR', f'{REC_YEAR}_ADJ_FACTOR']]
 
-    df = df.merge(df, CPI_df, on = ['YEAR'], how = 'left')
+    df = pd.merge(df, CPI_df, on = ['YEAR'], how = 'left')
     for TARGET_COL in TARGET_COLS:
         df[TARGET_COL] = df[TARGET_COL] * df[f'{REC_YEAR}_ADJ_FACTOR']
     
