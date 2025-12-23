@@ -3,7 +3,7 @@ import geopandas as gpd
 import numpy as np
 import requests as req
 from datetime import datetime
-from typing import List
+from typing import Any, List
 from functools import reduce
 from warnings import filterwarnings
 import os, shutil, asyncio, unicodedata, json, aiohttp
@@ -17,6 +17,21 @@ mastergeometries_folder = data_folder + "mastergeometries/"
 for folder in [data_folder, masterfiles_folder, mastergeometries_folder]:
     if not os.path.exists(folder):
         os.makedirs(folder)
+
+# Convert to list
+def make_list_type(entry: Any) -> List:
+    """
+    Convert an entry to a list-type
+    
+    :param entry: An entry.
+    :type entry: Any
+
+    :return: List-type
+    :rtype: List
+    """
+    if not isinstance(entry, list):
+        return [entry]
+    return entry
 
 # Remove accent marks on strings
 def remove_accents(input_str: str) -> str:
@@ -56,7 +71,7 @@ index_df = LA_cities_2020[['FIPS', 'NAME', 'ABBREV_NAME']]
 
 # ---- Asynchronous Functions for ETL ---- #
 async def _request(url: str):
-    async with aiohttp.ClientSession() as session:
+    async with aiohttp.ClientSession(trust_env = True) as session:
         async with session.get(url) as resp:
             if resp.status == 200:
                 return await resp.json()
@@ -119,7 +134,10 @@ def ACS_data_extraction(ACS_code: str,
             dummy_dict[url] = (FIPS, year, city_name, dummy_name)
 
     urls = list( dummy_dict.keys() )
-    files = asyncio.run( url_extract(urls, batch_size) )
+    try:
+        files = asyncio.run( url_extract(urls, batch_size) )
+    except:
+        files = asyncio.run( url_extract(urls, batch_size) )
         
     df_list = []
     for file_info, file in zip(dummy_dict.values(), files):
@@ -173,7 +191,7 @@ def ACS_data_extraction(ACS_code: str,
 
 
 # ---- Masterfile Function ---- #
-def masterfile_creation(ACS_codes: List[str], API_key: str):
+def masterfile_creation(ACS_codes: str | List[str], API_key: str, batch_size: int = 250):
     """
     Create place-segmented masterfiles on the specified ACS codes.
     
@@ -182,12 +200,17 @@ def masterfile_creation(ACS_codes: List[str], API_key: str):
 
     :param API_key: Census Bureau API key to allow for >50 url requests in a session.
     :type API_key: str
+
+    :param batch_size: Batch size for rate-checking the asynchronous url extraction. Default '250'.
+    :type batch_size: int
     """
     df_list = []
+    
+    ACS_codes = make_list_type(ACS_codes)
     for ACS_code in ACS_codes:
         
         # Data extraction
-        ACS_data_extraction(ACS_code, API_key)
+        ACS_data_extraction(ACS_code, API_key, batch_size = batch_size)
 
         # Data concatenation
         dummy_list = []
@@ -315,3 +338,103 @@ def lat_lon_center_points():
                 json_list.append(content)
 
             json.dump(json_list, jsonfile)
+
+
+# ---- CPI Series ---- #
+
+def census_cpi_series():
+    """
+    Store the Bureau of Labor Statistics' Retroactive CPI for all Urban Customers (R-CPI-U-RS)
+    series into a CSV file.
+
+    This will be used to adjust income/earnings estimates for cross-year comparisons in constant
+    dollars.
+    """
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
+        'Accept-Encoding': 'gzip, deflate',
+        'Connection': 'keep-alive',
+    }
+
+    r = req.get("https://www.bls.gov/cpi/research-series/r-cpi-u-rs-allitems.xlsx",
+                headers = headers)
+    
+    with open('data/r-cpi-u-rs.xlsx', 'wb') as file:
+        file.write(r.content)
+    
+    df = pd.read_excel('data/r-cpi-u-rs.xlsx', header = 5, engine = 'openpyxl')
+    df = df[['YEAR', 'AVG']].dropna()
+
+    for YEAR in df['YEAR']:
+        ind_val = df.loc[df['YEAR'] == YEAR, 'AVG'].iat[0]
+        df[f'{YEAR}_ADJ_FACTOR'] = round(ind_val / df['AVG'], 5)
+    
+    file_path = 'data/r-cpi-u-rs.csv'
+    df.to_csv(file_path, index = False)
+
+    os.remove('data/r-cpi-u-rs.xlsx')
+
+# ---- Inflation-adjust columns ---- #
+def cpi_adjust_cols(ACS_Codes: str | List[str], col_strings: str | List[str]) -> None:
+    """
+    Dollar-adjust columns, which contain any one of the desired strings, for the ACS datasets
+    with the Bureau of Labor Statistics' Retroactive CPI for all Urban Customers (R-CPI-U-RS)
+    series. 
+    
+    :param ACS_Codes: The ACS code(s) corresponding to the downloaded ACS dataset(s). Note that these datasets must already be downloaded.
+    :type ACS_Codes: str | List[str]
+
+    :param col_strings: The desired strings to specify the set of columns to dollar-adjust.
+    :type col_strings: str | List[str]
+    """
+    
+    # To ensure the R-CPI-U-RS series exists
+    if not os.path.exists('data/r-cpi-u-rs.csv'):
+        return
+
+    # Re-concatenate the files. Otherwise, each time the code executes, the values will
+    # multiply ad infinitum on the already downloaded (and concatenated) masterfiles.
+    ACS_CODES = make_list_type(ACS_Codes)
+    df_list = []
+    for ACS_CODE in ACS_CODES:
+        dummy_list = []
+        for root, dirs, files in os.walk(f'{masterfiles_folder}ACS_Codes/{ACS_CODE}'):
+            for file in files:
+                dummy_list.append( pd.read_csv( os.path.join(root, file) ) )
+        dummy_df = pd.concat(dummy_list, ignore_index = True)
+        df_list.append( dummy_df )
+    
+    df = reduce(lambda left, right: pd.merge(left, right, on = ['YEAR', 'GEO_ID', 'TRACT', 'CITY', 'COUNTY', 'STATE', 'ABBREV_NAME'], how = 'left'),
+                df_list)
+
+    # Target those columns for which we wish to adjust
+    COL_STRINGS = make_list_type(col_strings)
+    TARGET_COLS = [col for col in df.columns if any(COL_STRING in col for COL_STRING in COL_STRINGS)]
+
+    if len(TARGET_COLS) == 0:
+        return
+
+    # Always use the most recent year in the data to specify which dollars to use.
+    REC_YEAR = max(df['YEAR'].unique())
+    CPI_df = pd.read_csv('data/r-cpi-u-rs.csv')
+    CPI_df = CPI_df[['YEAR', f'{REC_YEAR}_ADJ_FACTOR']]
+
+    df = df.merge(df, CPI_df, on = ['YEAR'], how = 'left')
+    for TARGET_COL in TARGET_COLS:
+        df[TARGET_COL] = df[TARGET_COL] * df[f'{REC_YEAR}_ADJ_FACTOR']
+    
+    df = df.drop([f'{REC_YEAR}_ADJ_FACTOR'], axis = 1)
+    
+    for ABBREV_NAME in df.ABBREV_NAME.unique():
+        dummy_df = df[df.ABBREV_NAME == ABBREV_NAME]
+
+        CSV_file_path = f'{masterfiles_folder}{ABBREV_NAME}_masterfile.csv'
+        dummy_df.to_csv(CSV_file_path, index = False)
+
+        JSON_file_path = f'{masterfiles_folder}{ABBREV_NAME}_masterfile.json'
+        dummy_df.to_json(JSON_file_path, orient='records')
+
+if __name__ == '__main__':
+    census_cpi_series() # <- Could not locate the BLS API for retroactive series. Hence, this will be manually imputed, usually on an annual basis.

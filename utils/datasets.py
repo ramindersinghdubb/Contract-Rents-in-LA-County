@@ -1,9 +1,14 @@
 import os
 import pandas as pd
-from util_func import masterfiles_folder, masterfile_creation, mastergeometry_creation, lat_lon_center_points
+from util_func import (
+    masterfiles_folder,
+    masterfile_creation,
+    mastergeometry_creation,
+    lat_lon_center_points
+)
 
 # Masterfile creation
-masterfile_creation(['B25057', 'B25058', 'B25059'], API_key = os.environ['SECRET_KEY'])
+masterfile_creation(['B25057', 'B25058', 'B25059'], API_key = os.environ['SECRET_KEY'], batch_size = 400)
 
 # Formatting
 ABBREV_NAMES = [file.split('_')[0] for file in os.listdir(masterfiles_folder) if 'masterfile.csv' in file]
