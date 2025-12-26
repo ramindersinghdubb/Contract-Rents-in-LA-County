@@ -1,43 +1,43 @@
-YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
-2021,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,980.0,703.0,1329.0,202.0,1415.0,43.0,$1329,$1415,$980,1
-2021,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,752.0,511.0,1025.0,92.0,1142.0,44.0,$1025,$1142,$752,1
-2021,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,777.0,214.0,1107.0,427.0,1422.0,383.0,$1107,$1422,$777,1
-2012,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,728.0,46.0,838.0,132.0,1046.0,281.0,$838,$1046,$728,1
-2012,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,801.0,183.0,990.0,139.0,1244.0,198.0,$990,$1244,$801,1
-2012,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,906.0,204.0,998.0,88.0,1160.0,103.0,$998,$1160,$906,1
-2013,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,733.0,108.0,872.0,227.0,1104.0,208.0,$872,$1104,$733,1
-2013,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,866.0,186.0,988.0,71.0,1154.0,96.0,$988,$1154,$866,1
-2013,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,903.0,115.0,1014.0,74.0,1132.0,57.0,$1014,$1132,$903,1
-2014,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,713.0,273.0,823.0,120.0,885.0,132.0,$823,$885,$713,1
-2014,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,771.0,52.0,932.0,87.0,1040.0,106.0,$932,$1040,$771,1
-2014,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,775.0,267.0,977.0,58.0,1108.0,56.0,$977,$1108,$775,1
-2023,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,,,1574.0,953.0,1787.0,260.0,$1574,$1787,Not Available!,1
-2023,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,679.0,201.0,1044.0,192.0,1260.0,202.0,$1044,$1260,$679,1
-2023,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,866.0,233.0,1180.0,351.0,1594.0,541.0,$1180,$1594,$866,1
-2011,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,808.0,153.0,871.0,138.0,1074.0,258.0,$871,$1074,$808,1
-2011,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,863.0,94.0,1021.0,164.0,1262.0,164.0,$1021,$1262,$863,1
-2011,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,808.0,196.0,1077.0,101.0,1226.0,118.0,$1077,$1226,$808,1
-2015,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,702.0,574.0,745.0,105.0,995.0,222.0,$745,$995,$702,1
-2015,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,775.0,81.0,942.0,48.0,1052.0,110.0,$942,$1052,$775,1
-2015,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,721.0,124.0,941.0,51.0,1074.0,80.0,$941,$1074,$721,1
-2010,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,665.0,314.0,841.0,171.0,1008.0,321.0,$841,$1008,$665,1
-2010,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,870.0,94.0,1009.0,126.0,1198.0,120.0,$1009,$1198,$870,1
-2010,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,813.0,221.0,1055.0,72.0,1157.0,35.0,$1055,$1157,$813,1
-2020,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,860.0,450.0,1302.0,479.0,1401.0,66.0,$1302,$1401,$860,1
-2020,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,821.0,195.0,958.0,58.0,1092.0,70.0,$958,$1092,$821,1
-2020,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,782.0,296.0,1074.0,225.0,1234.0,466.0,$1074,$1234,$782,1
-2016,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,,,787.0,29.0,862.0,62.0,$787,$862,Not Available!,1
-2016,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,785.0,84.0,936.0,49.0,1036.0,107.0,$936,$1036,$785,1
-2016,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,729.0,102.0,937.0,39.0,1055.0,85.0,$937,$1055,$729,1
-2018,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,430.0,307.0,823.0,72.0,1274.0,784.0,$823,$1274,$430,1
-2018,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,823.0,267.0,981.0,78.0,1116.0,45.0,$981,$1116,$823,1
-2018,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,619.0,203.0,852.0,213.0,1045.0,123.0,$852,$1045,$619,1
-2022,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,,,1600.0,645.0,1800.0,150.0,$1600,$1800,Not Available!,1
-2022,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,586.0,212.0,1022.0,183.0,1260.0,146.0,$1022,$1260,$586,1
-2022,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,862.0,196.0,1143.0,226.0,1412.0,218.0,$1143,$1412,$862,1
-2017,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,600.0,534.0,829.0,55.0,920.0,286.0,$829,$920,$600,1
-2017,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,872.0,83.0,1009.0,51.0,1134.0,29.0,$1009,$1134,$872,1
-2017,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,635.0,197.0,903.0,108.0,1083.0,109.0,$903,$1083,$635,1
-2019,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,759.0,690.0,878.0,687.0,1358.0,97.0,$878,$1358,$759,1
-2019,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,817.0,218.0,951.0,48.0,1074.0,83.0,$951,$1074,$817,1
-2019,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,774.0,109.0,1028.0,189.0,1162.0,55.0,$1028,$1162,$774,1
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th
+2010,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,665.0,314.0,841.0,171.0,1008.0,321.0,$841,$1008,$665
+2010,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,870.0,94.0,1009.0,126.0,1198.0,120.0,$1009,$1198,$870
+2010,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,813.0,221.0,1055.0,72.0,1157.0,35.0,$1055,$1157,$813
+2011,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,808.0,153.0,871.0,138.0,1074.0,258.0,$871,$1074,$808
+2011,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,863.0,94.0,1021.0,164.0,1262.0,164.0,$1021,$1262,$863
+2011,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,808.0,196.0,1077.0,101.0,1226.0,118.0,$1077,$1226,$808
+2012,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,728.0,46.0,838.0,132.0,1046.0,281.0,$838,$1046,$728
+2012,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,801.0,183.0,990.0,139.0,1244.0,198.0,$990,$1244,$801
+2012,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,906.0,204.0,998.0,88.0,1160.0,103.0,$998,$1160,$906
+2013,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,733.0,108.0,872.0,227.0,1104.0,208.0,$872,$1104,$733
+2013,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,866.0,186.0,988.0,71.0,1154.0,96.0,$988,$1154,$866
+2013,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,903.0,115.0,1014.0,74.0,1132.0,57.0,$1014,$1132,$903
+2014,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,713.0,273.0,823.0,120.0,885.0,132.0,$823,$885,$713
+2014,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,771.0,52.0,932.0,87.0,1040.0,106.0,$932,$1040,$771
+2014,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,775.0,267.0,977.0,58.0,1108.0,56.0,$977,$1108,$775
+2015,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,702.0,574.0,745.0,105.0,995.0,222.0,$745,$995,$702
+2015,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,775.0,81.0,942.0,48.0,1052.0,110.0,$942,$1052,$775
+2015,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,721.0,124.0,941.0,51.0,1074.0,80.0,$941,$1074,$721
+2016,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,,,787.0,29.0,862.0,62.0,$787,$862,Not Available!
+2016,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,785.0,84.0,936.0,49.0,1036.0,107.0,$936,$1036,$785
+2016,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,729.0,102.0,937.0,39.0,1055.0,85.0,$937,$1055,$729
+2017,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,600.0,534.0,829.0,55.0,920.0,286.0,$829,$920,$600
+2017,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,872.0,83.0,1009.0,51.0,1134.0,29.0,$1009,$1134,$872
+2017,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,635.0,197.0,903.0,108.0,1083.0,109.0,$903,$1083,$635
+2018,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,430.0,307.0,823.0,72.0,1274.0,784.0,$823,$1274,$430
+2018,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,823.0,267.0,981.0,78.0,1116.0,45.0,$981,$1116,$823
+2018,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,619.0,203.0,852.0,213.0,1045.0,123.0,$852,$1045,$619
+2019,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,759.0,690.0,878.0,687.0,1358.0,97.0,$878,$1358,$759
+2019,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,817.0,218.0,951.0,48.0,1074.0,83.0,$951,$1074,$817
+2019,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,774.0,109.0,1028.0,189.0,1162.0,55.0,$1028,$1162,$774
+2020,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,860.0,450.0,1302.0,479.0,1401.0,66.0,$1302,$1401,$860
+2020,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,821.0,195.0,958.0,58.0,1092.0,70.0,$958,$1092,$821
+2020,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,782.0,296.0,1074.0,225.0,1234.0,466.0,$1074,$1234,$782
+2021,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,980.0,703.0,1329.0,202.0,1415.0,43.0,$1329,$1415,$980
+2021,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,752.0,511.0,1025.0,92.0,1142.0,44.0,$1025,$1142,$752
+2021,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,777.0,214.0,1107.0,427.0,1422.0,383.0,$1107,$1422,$777
+2022,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,,,1600.0,645.0,1800.0,150.0,$1600,$1800,Not Available!
+2022,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,586.0,212.0,1022.0,183.0,1260.0,146.0,$1022,$1260,$586
+2022,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,862.0,196.0,1143.0,226.0,1412.0,218.0,$1143,$1412,$862
+2023,6037900102,Census Tract 9001.02,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,,,1574.0,953.0,1787.0,260.0,$1574,$1787,Not Available!
+2023,6037900103,Census Tract 9001.03,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,679.0,201.0,1044.0,192.0,1260.0,202.0,$1044,$1260,$679
+2023,6037900104,Census Tract 9001.04,Lake Los Angeles,Los Angeles County,California,LakeLosAngeles,866.0,233.0,1180.0,351.0,1594.0,541.0,$1180,$1594,$866

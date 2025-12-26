@@ -1,71 +1,71 @@
-YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
-2021,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1148.0,279.0,1456.0,571.0,2196.0,479.0,$1456,$2196,$1148,1
-2021,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1058.0,402.0,1860.0,629.0,2318.0,211.0,$1860,$2318,$1058,1
-2021,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,1086.0,367.0,1429.0,248.0,1789.0,157.0,$1429,$1789,$1086,1
-2021,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1171.0,554.0,1750.0,140.0,2092.0,183.0,$1750,$2092,$1171,1
-2021,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1311.0,227.0,1675.0,83.0,1925.0,93.0,$1675,$1925,$1311,1
-2012,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1279.0,586.0,1683.0,321.0,2001.0,,$1683,Not available. Exceeds $2000!,$1279,1
-2012,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1356.0,335.0,1770.0,430.0,2001.0,,$1770,Not available. Exceeds $2000!,$1356,1
-2012,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,903.0,70.0,1075.0,120.0,1375.0,294.0,$1075,$1375,$903,1
-2012,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1013.0,400.0,1325.0,121.0,1620.0,244.0,$1325,$1620,$1013,1
-2012,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,558.0,367.0,1227.0,148.0,1480.0,118.0,$1227,$1480,$558,1
-2013,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1372.0,321.0,1790.0,366.0,2001.0,,$1790,Not available. Exceeds $2000!,$1372,1
-2013,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1322.0,194.0,1658.0,620.0,2001.0,,$1658,Not available. Exceeds $2000!,$1322,1
-2013,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,893.0,61.0,1021.0,93.0,1230.0,191.0,$1021,$1230,$893,1
-2013,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,864.0,337.0,1324.0,131.0,1656.0,171.0,$1324,$1656,$864,1
-2013,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,792.0,346.0,1301.0,83.0,1475.0,103.0,$1301,$1475,$792,1
-2014,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1113.0,693.0,1517.0,362.0,1996.0,360.0,$1517,$1996,$1113,1
-2014,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1279.0,161.0,1469.0,397.0,2001.0,,$1469,Not available. Exceeds $2000!,$1279,1
-2014,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,857.0,111.0,1100.0,149.0,1593.0,244.0,$1100,$1593,$857,1
-2014,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1021.0,305.0,1330.0,131.0,1643.0,165.0,$1330,$1643,$1021,1
-2014,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,792.0,381.0,1289.0,88.0,1467.0,97.0,$1289,$1467,$792,1
-2023,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1152.0,417.0,1682.0,700.0,2633.0,820.0,$1682,$2633,$1152,1
-2023,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1238.0,657.0,2110.0,512.0,2530.0,311.0,$2110,$2530,$1238,1
-2023,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,1338.0,519.0,1681.0,139.0,1973.0,214.0,$1681,$1973,$1338,1
-2023,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1221.0,739.0,2016.0,277.0,2325.0,118.0,$2016,$2325,$1221,1
-2023,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,,,1915.0,267.0,2277.0,123.0,$1915,$2277,Not Available!,1
-2011,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1331.0,210.0,1732.0,627.0,2001.0,,$1732,Not available. Exceeds $2000!,$1331,1
-2011,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1280.0,347.0,1893.0,1002.0,2001.0,,$1893,Not available. Exceeds $2000!,$1280,1
-2011,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,904.0,47.0,995.0,131.0,1462.0,356.0,$995,$1462,$904,1
-2011,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,875.0,284.0,1234.0,161.0,1659.0,264.0,$1234,$1659,$875,1
-2011,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,711.0,260.0,1177.0,165.0,1474.0,171.0,$1177,$1474,$711,1
-2015,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1321.0,796.0,1664.0,346.0,2043.0,280.0,$1664,$2043,$1321,1
-2015,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,,,1417.0,176.0,1748.0,243.0,$1417,$1748,Not Available!,1
-2015,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,832.0,80.0,1085.0,219.0,1595.0,269.0,$1085,$1595,$832,1
-2015,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1181.0,138.0,1443.0,101.0,1722.0,77.0,$1443,$1722,$1181,1
-2015,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,975.0,285.0,1345.0,66.0,1547.0,151.0,$1345,$1547,$975,1
-2010,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1325.0,484.0,1865.0,548.0,2001.0,,$1865,Not available. Exceeds $2000!,$1325,1
-2010,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1191.0,735.0,1940.0,735.0,2001.0,,$1940,Not available. Exceeds $2000!,$1191,1
-2010,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,841.0,38.0,953.0,71.0,1253.0,334.0,$953,$1253,$841,1
-2010,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,775.0,100.0,1115.0,219.0,1656.0,232.0,$1115,$1656,$775,1
-2010,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,716.0,270.0,1195.0,157.0,1413.0,62.0,$1195,$1413,$716,1
-2020,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1413.0,200.0,1788.0,396.0,2325.0,440.0,$1788,$2325,$1413,1
-2020,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1208.0,974.0,2036.0,333.0,2315.0,149.0,$2036,$2315,$1208,1
-2020,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,1048.0,343.0,1271.0,128.0,1454.0,70.0,$1271,$1454,$1048,1
-2020,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1038.0,185.0,1605.0,181.0,1912.0,115.0,$1605,$1912,$1038,1
-2020,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1264.0,264.0,1647.0,86.0,1884.0,67.0,$1647,$1884,$1264,1
-2016,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1534.0,980.0,1933.0,315.0,2258.0,183.0,$1933,$2258,$1534,1
-2016,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,,,1557.0,319.0,2013.0,331.0,$1557,$2013,Not Available!,1
-2016,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,860.0,94.0,1120.0,195.0,1591.0,375.0,$1120,$1591,$860,1
-2016,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1144.0,247.0,1456.0,104.0,1742.0,75.0,$1456,$1742,$1144,1
-2016,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,878.0,371.0,1324.0,69.0,1528.0,158.0,$1324,$1528,$878,1
-2018,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1365.0,109.0,1579.0,285.0,1989.0,418.0,$1579,$1989,$1365,1
-2018,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1228.0,529.0,1897.0,622.0,2275.0,144.0,$1897,$2275,$1228,1
-2018,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,938.0,174.0,1143.0,100.0,1443.0,314.0,$1143,$1443,$938,1
-2018,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1241.0,242.0,1674.0,108.0,1953.0,112.0,$1674,$1953,$1241,1
-2018,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1045.0,300.0,1581.0,82.0,1823.0,54.0,$1581,$1823,$1045,1
-2022,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1150.0,478.0,1681.0,617.0,2220.0,531.0,$1681,$2220,$1150,1
-2022,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,978.0,963.0,2192.0,679.0,2570.0,255.0,$2192,$2570,$978,1
-2022,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,1278.0,484.0,1581.0,243.0,1981.0,282.0,$1581,$1981,$1278,1
-2022,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1181.0,563.0,1973.0,271.0,2323.0,120.0,$1973,$2323,$1181,1
-2022,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1379.0,324.0,1908.0,189.0,2235.0,74.0,$1908,$2235,$1379,1
-2017,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1488.0,298.0,1935.0,377.0,2255.0,221.0,$1935,$2255,$1488,1
-2017,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1060.0,759.0,1547.0,525.0,2213.0,242.0,$1547,$2213,$1060,1
-2017,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,959.0,193.0,1143.0,89.0,1469.0,377.0,$1143,$1469,$959,1
-2017,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1187.0,145.0,1469.0,113.0,1782.0,82.0,$1469,$1782,$1187,1
-2017,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1060.0,220.0,1436.0,154.0,1735.0,85.0,$1436,$1735,$1060,1
-2019,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1355.0,126.0,1555.0,289.0,1926.0,451.0,$1555,$1926,$1355,1
-2019,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1225.0,922.0,2026.0,292.0,2319.0,132.0,$2026,$2319,$1225,1
-2019,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,978.0,253.0,1214.0,124.0,1483.0,173.0,$1214,$1483,$978,1
-2019,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1250.0,425.0,1733.0,118.0,2032.0,173.0,$1733,$2032,$1250,1
-2019,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1280.0,273.0,1649.0,51.0,1851.0,38.0,$1649,$1851,$1280,1
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th
+2010,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1325.0,484.0,1865.0,548.0,2001.0,,$1865,Not available. Exceeds $2000!,$1325
+2010,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1191.0,735.0,1940.0,735.0,2001.0,,$1940,Not available. Exceeds $2000!,$1191
+2010,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,841.0,38.0,953.0,71.0,1253.0,334.0,$953,$1253,$841
+2010,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,775.0,100.0,1115.0,219.0,1656.0,232.0,$1115,$1656,$775
+2010,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,716.0,270.0,1195.0,157.0,1413.0,62.0,$1195,$1413,$716
+2011,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1331.0,210.0,1732.0,627.0,2001.0,,$1732,Not available. Exceeds $2000!,$1331
+2011,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1280.0,347.0,1893.0,1002.0,2001.0,,$1893,Not available. Exceeds $2000!,$1280
+2011,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,904.0,47.0,995.0,131.0,1462.0,356.0,$995,$1462,$904
+2011,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,875.0,284.0,1234.0,161.0,1659.0,264.0,$1234,$1659,$875
+2011,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,711.0,260.0,1177.0,165.0,1474.0,171.0,$1177,$1474,$711
+2012,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1279.0,586.0,1683.0,321.0,2001.0,,$1683,Not available. Exceeds $2000!,$1279
+2012,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1356.0,335.0,1770.0,430.0,2001.0,,$1770,Not available. Exceeds $2000!,$1356
+2012,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,903.0,70.0,1075.0,120.0,1375.0,294.0,$1075,$1375,$903
+2012,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1013.0,400.0,1325.0,121.0,1620.0,244.0,$1325,$1620,$1013
+2012,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,558.0,367.0,1227.0,148.0,1480.0,118.0,$1227,$1480,$558
+2013,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1372.0,321.0,1790.0,366.0,2001.0,,$1790,Not available. Exceeds $2000!,$1372
+2013,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1322.0,194.0,1658.0,620.0,2001.0,,$1658,Not available. Exceeds $2000!,$1322
+2013,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,893.0,61.0,1021.0,93.0,1230.0,191.0,$1021,$1230,$893
+2013,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,864.0,337.0,1324.0,131.0,1656.0,171.0,$1324,$1656,$864
+2013,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,792.0,346.0,1301.0,83.0,1475.0,103.0,$1301,$1475,$792
+2014,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1113.0,693.0,1517.0,362.0,1996.0,360.0,$1517,$1996,$1113
+2014,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1279.0,161.0,1469.0,397.0,2001.0,,$1469,Not available. Exceeds $2000!,$1279
+2014,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,857.0,111.0,1100.0,149.0,1593.0,244.0,$1100,$1593,$857
+2014,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1021.0,305.0,1330.0,131.0,1643.0,165.0,$1330,$1643,$1021
+2014,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,792.0,381.0,1289.0,88.0,1467.0,97.0,$1289,$1467,$792
+2015,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1321.0,796.0,1664.0,346.0,2043.0,280.0,$1664,$2043,$1321
+2015,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,,,1417.0,176.0,1748.0,243.0,$1417,$1748,Not Available!
+2015,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,832.0,80.0,1085.0,219.0,1595.0,269.0,$1085,$1595,$832
+2015,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1181.0,138.0,1443.0,101.0,1722.0,77.0,$1443,$1722,$1181
+2015,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,975.0,285.0,1345.0,66.0,1547.0,151.0,$1345,$1547,$975
+2016,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1534.0,980.0,1933.0,315.0,2258.0,183.0,$1933,$2258,$1534
+2016,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,,,1557.0,319.0,2013.0,331.0,$1557,$2013,Not Available!
+2016,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,860.0,94.0,1120.0,195.0,1591.0,375.0,$1120,$1591,$860
+2016,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1144.0,247.0,1456.0,104.0,1742.0,75.0,$1456,$1742,$1144
+2016,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,878.0,371.0,1324.0,69.0,1528.0,158.0,$1324,$1528,$878
+2017,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1488.0,298.0,1935.0,377.0,2255.0,221.0,$1935,$2255,$1488
+2017,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1060.0,759.0,1547.0,525.0,2213.0,242.0,$1547,$2213,$1060
+2017,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,959.0,193.0,1143.0,89.0,1469.0,377.0,$1143,$1469,$959
+2017,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1187.0,145.0,1469.0,113.0,1782.0,82.0,$1469,$1782,$1187
+2017,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1060.0,220.0,1436.0,154.0,1735.0,85.0,$1436,$1735,$1060
+2018,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1365.0,109.0,1579.0,285.0,1989.0,418.0,$1579,$1989,$1365
+2018,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1228.0,529.0,1897.0,622.0,2275.0,144.0,$1897,$2275,$1228
+2018,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,938.0,174.0,1143.0,100.0,1443.0,314.0,$1143,$1443,$938
+2018,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1241.0,242.0,1674.0,108.0,1953.0,112.0,$1674,$1953,$1241
+2018,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1045.0,300.0,1581.0,82.0,1823.0,54.0,$1581,$1823,$1045
+2019,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1355.0,126.0,1555.0,289.0,1926.0,451.0,$1555,$1926,$1355
+2019,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1225.0,922.0,2026.0,292.0,2319.0,132.0,$2026,$2319,$1225
+2019,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,978.0,253.0,1214.0,124.0,1483.0,173.0,$1214,$1483,$978
+2019,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1250.0,425.0,1733.0,118.0,2032.0,173.0,$1733,$2032,$1250
+2019,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1280.0,273.0,1649.0,51.0,1851.0,38.0,$1649,$1851,$1280
+2020,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1413.0,200.0,1788.0,396.0,2325.0,440.0,$1788,$2325,$1413
+2020,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1208.0,974.0,2036.0,333.0,2315.0,149.0,$2036,$2315,$1208
+2020,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,1048.0,343.0,1271.0,128.0,1454.0,70.0,$1271,$1454,$1048
+2020,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1038.0,185.0,1605.0,181.0,1912.0,115.0,$1605,$1912,$1038
+2020,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1264.0,264.0,1647.0,86.0,1884.0,67.0,$1647,$1884,$1264
+2021,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1148.0,279.0,1456.0,571.0,2196.0,479.0,$1456,$2196,$1148
+2021,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1058.0,402.0,1860.0,629.0,2318.0,211.0,$1860,$2318,$1058
+2021,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,1086.0,367.0,1429.0,248.0,1789.0,157.0,$1429,$1789,$1086
+2021,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1171.0,554.0,1750.0,140.0,2092.0,183.0,$1750,$2092,$1171
+2021,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1311.0,227.0,1675.0,83.0,1925.0,93.0,$1675,$1925,$1311
+2022,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1150.0,478.0,1681.0,617.0,2220.0,531.0,$1681,$2220,$1150
+2022,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,978.0,963.0,2192.0,679.0,2570.0,255.0,$2192,$2570,$978
+2022,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,1278.0,484.0,1581.0,243.0,1981.0,282.0,$1581,$1981,$1278
+2022,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1181.0,563.0,1973.0,271.0,2323.0,120.0,$1973,$2323,$1181
+2022,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,1379.0,324.0,1908.0,189.0,2235.0,74.0,$1908,$2235,$1379
+2023,6037403702,Census Tract 4037.02,Charter Oak,Los Angeles County,California,CharterOak,1152.0,417.0,1682.0,700.0,2633.0,820.0,$1682,$2633,$1152
+2023,6037403703,Census Tract 4037.03,Charter Oak,Los Angeles County,California,CharterOak,1238.0,657.0,2110.0,512.0,2530.0,311.0,$2110,$2530,$1238
+2023,6037403721,Census Tract 4037.21,Charter Oak,Los Angeles County,California,CharterOak,1338.0,519.0,1681.0,139.0,1973.0,214.0,$1681,$1973,$1338
+2023,6037403801,Census Tract 4038.01,Charter Oak,Los Angeles County,California,CharterOak,1221.0,739.0,2016.0,277.0,2325.0,118.0,$2016,$2325,$1221
+2023,6037403802,Census Tract 4038.02,Charter Oak,Los Angeles County,California,CharterOak,,,1915.0,267.0,2277.0,123.0,$1915,$2277,Not Available!

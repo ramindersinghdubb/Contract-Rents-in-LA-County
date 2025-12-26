@@ -76,97 +76,76 @@ app.layout = dbc.Container([
                 'padding': 0
                }
             ),
-    # Labels for dropdowns (discarded)
     
     # Dropdowns
     html.Div([
-        html.Div([
+        dbc.Row([
+        dbc.Col([
             dcc.Dropdown(id          = 'place-dropdown',
                          placeholder = 'Select a place',
                          options     = YEAR_PLACE_OPTIONS[2023],
                          value       = 'LongBeach',
                          clearable   = False
-                        )
-        ], style = {'display': 'inline-block',
-                    'margin': '0 0',
-                    'padding': '0px 15px 0px 0px',
-                    'width': '22.5%'
-                   }
-                ),
-        html.Div([
+                        )],
+            width = 12, md = 6, xl = 4,
+            style = {'margin': '0 0', 'padding': '30px 15px 0px 0px'}),
+        dbc.Col([
             dcc.Dropdown(id          = 'year-dropdown',
                          placeholder = 'Select a year',
                          options     = PLACE_YEAR_OPTIONS['LongBeach'],
                          value       = 2023,
-                         clearable   = False
-                        )
-        ], style = {'display': 'inline-block',
-                    'margin': '0 0',
-                    'padding': '30px 15px 0px 0px',
-                    'width': '12.5%',
-                   }
-                ),
-        html.Div([
-            dcc.Dropdown(id='census-tract-dropdown',
+                         clearable   = False,
+                         searchable  = False
+                         )],
+            width = 12, md = 6, xl = 3,
+            style = {'margin': '0 0', 'padding': '30px 15px 0px 0px'}),
+        dbc.Col([
+            dcc.Dropdown(id          = 'census-tract-dropdown',
                          placeholder = 'Click on a census tract in the map',
-                         clearable=True
-                        )
-        ], style = {'display': 'inline-block',
-                    'padding': '0px 30px 0px 0px',
-                    'margin': '0 0',
-                    'width': '30.0%'
-                   }
-                ),
-    ]
-            ),
+                         clearable   = True
+                        )],
+            width = 12, md = 6, xl = 5,
+            style = {'margin': '0 0', 'padding': '30px 15px 0px 0px'})
+        ], align = 'center', justify = 'center')
+    ], style = {'padding': '0px 0px 10px 15px'}),
+
     # Map and plot
     html.Div([
             dbc.Row([
             dbc.Col([
                 dbc.Card([
                     dbc.CardHeader(children = [html.B("Median Contract Rents"), " in ", html.B(id="map-title1"), " by Census Tract, ", html.B(id="map-title2")],
-                                   style = {'background-color': MaroonRed_color,
-                                            'color': '#FFFFFF'}
-                                  ),
+                                   style    = {'background-color': MaroonRed_color, 'color': '#FFFFFF'}),
                     dbc.CardBody([geodata_map],
-                                 style = {'background-color': AlabasterWhite_color}
-                                )
+                                 style = {'background-color': AlabasterWhite_color})
                 ])
-            ]),
+            ], width = 12, xl = 6),
             dbc.Col([
                 dbc.Card([
                     dbc.CardHeader(children = html.B(id = "plot-title"),
-                                   style = {'background-color': Teal_color,
-                                            'color': '#FFFFFF'}
-                                  ),
+                                   style    = {'background-color': Teal_color, 'color': '#FFFFFF'}),
                     dbc.CardBody([geodata_plot],
-                                 style = {'background-color': AlabasterWhite_color}
-                                )
+                                 style = {'background-color': AlabasterWhite_color})
                 ])
-            ])
-        ], align='center', justify='center'
-               )
-    ], style = {
-                'padding': '10px 0px 20px 0px',
-               }
-            ),
+            ], width = 12, xl = 6)
+        ], align = 'center', justify = 'center')
+    ], style = {'padding': '10px 0px 20px 0px'}),
+
     # Footer
     html.Div([
         fmc.FefferyMarkdown(markdownStr    = footer_string,
                             renderHtml     = True,
-                            style          = {'background': LightBrown_color,
-                                              'margin-top': '1em'
-                                             }
+                            style          = {'background': LightBrown_color, 'margin-top': '1em'}
                            )
-    ]
-            ),
+    ]),
+
     # Data
     dcc.Store( id = 'MASTERFILE' ),
     dcc.Store( id = 'LAT-LON' ),
     dcc.Store( id = 'YEAR_PLACE_OPTIONS', data = YEAR_PLACE_OPTIONS ),
     dcc.Store( id = 'PLACE_YEAR_OPTIONS', data = PLACE_YEAR_OPTIONS ),
 
-], style = {'background-color': LightBrown_color, "padding": "0px 0px 20px 0px",})
+], style = {'background-color': LightBrown_color, "padding": "0px 0px 20px 0px"})
 
 
 
@@ -358,7 +337,7 @@ app.clientside_callback(
     
     
     
-        var main_data = [{
+        var data = [{
             'type': 'choroplethmap',
             'customdata': customdata_array,
             'geojson': url_path,
@@ -368,7 +347,7 @@ app.clientside_callback(
             'reversescale': true,
             'z': z_array,
             'zmin': 0, 'zmax': 3500,
-            'marker': {'line': {'color': '#020403', 'width': 1.75}, 'opacity': 0.4},
+            'marker': {'line': {'color': '#020403', 'width': 1.75}, 'opacity': 0.7},
             'text': strings,
             'colorbar': {'outlinewidth': 2,
                          'ticklabelposition': 'outside bottom',
@@ -386,12 +365,13 @@ app.clientside_callback(
             'paper_bgcolor': '#FEF9F3',
             'plot_bgcolor': '#FEF9F3',
         };
+        
         if (selected_tract != undefined){
             var aux_array = my_array.filter(item => item['TRACT'] === selected_tract);
-            var aux_locations_array = aux_array.map( ({GEO_ID}) => GEO_ID);
-            var aux_z_array = aux_array.map( ({dummy}) => dummy);
-        
-            var data_aux = {
+            var aux_locations_array = aux_array.map(({GEO_ID}) => GEO_ID);
+            var aux_z_array = aux_array.map(({GEO_ID})=>GEO_ID);
+                
+            var aux_data = {
                 'type': 'choroplethmap',
                 'geojson': url_path,
                 'locations': aux_locations_array,
@@ -401,12 +381,13 @@ app.clientside_callback(
                 'z': aux_z_array,
                 'zmin': 0, 'zmax': 1,
                 'marker': {'line': {'color': '#04D9FF', 'width': 4}},
+                'selected': {'marker': {'opacity': 0.4}},
                 'hoverinfo': 'skip',
             }
-            main_data.push(data_aux);
+            data.push(aux_data);
         }
 
-        return {'data': main_data, 'layout': layout}
+        return {'data': data, 'layout': layout}
     }
     """,
     Output('chloropleth_map', 'figure'),
@@ -428,13 +409,23 @@ app.clientside_callback(
             
             var x_array = my_array.map( ({YEAR}) => YEAR);
             var y_array = my_array.map( ({B25058_001E}) => B25058_001E);
+            var y_lower_arr = my_array.map( ({B25057_001E}) => B25057_001E);
+            var y_upper_arr = my_array.map( ({B25059_001E}) => B25059_001E);
     
             var strings = my_array.map(function(item) {
                 return "<b style='font-size:16px;'>" + item['YEAR'] + "</b><br>" + item['TRACT'] + ", " + item['CITY'] + " <br><br>" +
-                "Median Contract Rent: <br><b style='color:#800000; font-size:14px;'>" + item['Median'] + "</b> <br><br>" +
-                "25th Percentile Contract Rent: <br><b style='color:#B22222; font-size:14px;'>" + item['25th'] + "</b> <br><br>" +
+                "Median Contract Rent: <br><b style='color:#800000; font-size:14px;'>" + item['Median'] + "</b> <br><br><extra></extra>";
+            });
+
+            var upper_strings = my_array.map(function(item) {
+                return "<b style='font-size:16px;'>" + item['YEAR'] + "</b><br>" + item['TRACT'] + ", " + item['CITY'] + " <br><br>" +
                 "75th Percentile Contract Rent: <br><b style='color:#B22222; font-size:14px;'>" + item['75th'] + "</b> <br><br><extra></extra>";
-                });
+            });
+
+            var lower_strings = my_array.map(function(item) {
+                return "<b style='font-size:16px;'>" + item['YEAR'] + "</b><br>" + item['TRACT'] + ", " + item['CITY'] + " <br><br>" +
+                "25th Percentile Contract Rent: <br><b style='color:#B22222; font-size:14px;'>" + item['25th'] + "</b> <br><br><extra></extra>";
+            });
         
         
         
@@ -447,7 +438,31 @@ app.clientside_callback(
                 'marker': {'size': 10, 'line': {'width': 2, 'color': '#F5FBFF'}},
                 'text': strings,
                 'hoverlabel': {'bgcolor': '#FAFAFA', 'bordercolor': '#BEBEBE', 'font': {'color': '#020403'}},
-                'hovertemplate': '%{text}'
+                'hovertemplate': '%{text}',
+                'showlegend': false,
+                'zorder': 1
+            }, {'type': 'scatter',
+                'x': x_array,
+                'y': y_upper_arr,
+                'mode': 'lines',
+                'marker': {'color': '#83e6b5'},
+                'line': {'width': 0},
+                'text': upper_strings,
+                'hoverlabel': {'bgcolor': '#FAFAFA', 'bordercolor': '#BEBEBE', 'font': {'color': '#020403'}},
+                'hovertemplate': '%{text}',
+                'showlegend': false,
+            }, {'type': 'scatter',
+                'x': x_array,
+                'y': y_lower_arr,
+                'mode': 'lines',
+                'fill': 'tonexty',
+                'fillcolor': 'rgba(153, 170, 187, 0.5)',
+                'marker': {'color': '#83e6b5'},
+                'line': {'width': 0},
+                'text': lower_strings,
+                'hoverlabel': {'bgcolor': '#FAFAFA', 'bordercolor': '#BEBEBE', 'font': {'color': '#020403'}},
+                'hovertemplate': '%{text}',
+                'showlegend': false,
             }];
         
             var layout = {
@@ -459,7 +474,7 @@ app.clientside_callback(
                 'paper_bgcolor': '#FEF9F3',
                 'plot_bgcolor': '#FEF9F3',
                 'title': {'text': `Median Contract Rents, ${Math.min(...x_array)} to ${Math.max(...x_array)}`, 'x': 0.05},
-                'xaxis': {'title': {'text': 'Year', 'ticklabelstandoff': 10}, 'showgrid': false, 'tickvals': x_array},
+                'xaxis': {'title': {'text': 'Year', 'ticklabelstandoff': 10}, 'showgrid': false, 'tick0': Math.min(...x_array), 'dtick': 2},
                 'yaxis': {'title': {'text': 'Median Contract Rents ($)', 'standoff': 15}, 'tickprefix': '$', 'gridcolor': '#E0E0E0', 'ticklabelstandoff': 5},
             };
             

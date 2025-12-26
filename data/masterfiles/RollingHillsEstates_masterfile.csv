@@ -1,105 +1,105 @@
-YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
-2021,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1813.0,228.0,2294.0,445.0,2932.0,1168.0,$2294,$2932,$1813,1
-2021,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3338.0,400.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3338,1
-2021,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,2664.0,694.0,3501.0,,$2664,Not available. Exceeds $3500!,Not Available!,1
-2021,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3047.0,847.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3047,1
-2021,6037670417,Census Tract 6704.17,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3077.0,274.0,3405.0,265.0,3501.0,,$3405,Not available. Exceeds $3500!,$3077,1
-2021,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2012,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,919.0,958.0,1599.0,277.0,1825.0,99.0,$1599,$1825,$919,1
-2012,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2012,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2012,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1333.0,1411.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1333,1
-2012,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2012,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2012,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2012,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1147.0,677.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1147,1
-2013,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1260.0,378.0,1617.0,162.0,1841.0,89.0,$1617,$1841,$1260,1
-2013,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2013,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2013,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1029.0,1041.0,1898.0,657.0,2001.0,,$1898,Not available. Exceeds $2000!,$1029,1
-2013,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2013,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2013,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,738.0,2035.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$738,1
-2013,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1154.0,876.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1154,1
-2014,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1164.0,440.0,1671.0,222.0,1979.0,253.0,$1671,$1979,$1164,1
-2014,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2014,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2014,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,492.0,704.0,1806.0,573.0,2001.0,,$1806,Not available. Exceeds $2000!,$492,1
-2014,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2014,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2014,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,715.0,12.0,729.0,735.0,744.0,1982.0,$729,$744,$715,1
-2014,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1148.0,882.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1148,1
-2023,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1898.0,1016.0,3284.0,774.0,3501.0,,$3284,Not available. Exceeds $3500!,$1898,1
-2023,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2023,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,512.0,224.0,2875.0,1718.0,3501.0,,$2875,Not available. Exceeds $3500!,$512,1
-2023,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2023,6037670417,Census Tract 6704.17,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2023,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2011,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,816.0,481.0,1375.0,370.0,1678.0,196.0,$1375,$1678,$816,1
-2011,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2011,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2011,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1330.0,829.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1330,1
-2011,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2011,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2011,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2011,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,,,Not Available!,Not Available!,Not Available!,1
-2015,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1073.0,732.0,1723.0,183.0,2141.0,565.0,$1723,$2141,$1073,1
-2015,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2586.0,334.0,2882.0,279.0,3188.0,263.0,$2882,$3188,$2586,1
-2015,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2515.0,954.0,3500.0,1030.0,3501.0,,$3500,Not available. Exceeds $3500!,$2515,1
-2015,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1048.0,816.0,2175.0,1078.0,3213.0,314.0,$2175,$3213,$1048,1
-2015,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2138.0,238.0,2400.0,361.0,2795.0,838.0,$2400,$2795,$2138,1
-2015,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2627.0,853.0,3080.0,207.0,3349.0,116.0,$3080,$3349,$2627,1
-2015,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,734.0,178.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$734,1
-2015,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2332.0,1169.0,3250.0,1147.0,3501.0,,$3250,Not available. Exceeds $3500!,$2332,1
-2010,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,826.0,622.0,1324.0,119.0,1458.0,71.0,$1324,$1458,$826,1
-2010,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,,,Not Available!,Not Available!,Not Available!,1
-2010,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2010,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1300.0,1409.0,1682.0,542.0,2001.0,,$1682,Not available. Exceeds $2000!,$1300,1
-2010,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2010,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2010,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2010,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,,,Not Available!,Not Available!,Not Available!,1
-2020,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1805.0,263.0,2162.0,273.0,2510.0,431.0,$2162,$2510,$1805,1
-2020,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2900.0,1366.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2900,1
-2020,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,2589.0,836.0,3336.0,720.0,$2589,$3336,Not Available!,1
-2020,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!,1
-2020,6037670417,Census Tract 6704.17,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2661.0,673.0,3288.0,416.0,3501.0,,$3288,Not available. Exceeds $3500!,$2661,1
-2020,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2016,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1307.0,791.0,1865.0,300.0,2384.0,419.0,$1865,$2384,$1307,1
-2016,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2625.0,341.0,3079.0,323.0,3434.0,290.0,$3079,$3434,$2625,1
-2016,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1924.0,687.0,2846.0,554.0,3501.0,,$2846,Not available. Exceeds $3500!,$1924,1
-2016,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,1766.0,838.0,2830.0,527.0,$1766,$2830,Not Available!,1
-2016,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2214.0,658.0,2654.0,401.0,2962.0,1328.0,$2654,$2962,$2214,1
-2016,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2647.0,711.0,3123.0,231.0,3469.0,176.0,$3123,$3469,$2647,1
-2016,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,3200.0,2594.0,3501.0,,$3200,Not available. Exceeds $3500!,Not Available!,1
-2016,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2322.0,1102.0,3234.0,1335.0,3501.0,,$3234,Not available. Exceeds $3500!,$2322,1
-2018,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1681.0,398.0,2087.0,248.0,2407.0,424.0,$2087,$2407,$1681,1
-2018,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2632.0,186.0,2875.0,666.0,3501.0,,$2875,Not available. Exceeds $3500!,$2632,1
-2018,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1802.0,181.0,2750.0,1195.0,3501.0,,$2750,Not available. Exceeds $3500!,$1802,1
-2018,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,827.0,381.0,2155.0,955.0,3119.0,670.0,$2155,$3119,$827,1
-2018,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2091.0,284.0,2409.0,890.0,3500.0,912.0,$2409,$3500,$2091,1
-2018,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3082.0,1088.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3082,1
-2018,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,918.0,891.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$918,1
-2018,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2917.0,1311.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2917,1
-2022,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1800.0,232.0,2355.0,623.0,3265.0,560.0,$2355,$3265,$1800,1
-2022,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2022,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,2882.0,1075.0,3501.0,,$2882,Not available. Exceeds $3500!,Not Available!,1
-2022,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2022,6037670417,Census Tract 6704.17,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2022,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2017,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1556.0,837.0,2028.0,354.0,2417.0,454.0,$2028,$2417,$1556,1
-2017,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2534.0,402.0,3042.0,657.0,3501.0,,$3042,Not available. Exceeds $3500!,$2534,1
-2017,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1743.0,118.0,2200.0,908.0,3501.0,,$2200,Not available. Exceeds $3500!,$1743,1
-2017,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,823.0,316.0,1538.0,988.0,2469.0,1443.0,$1538,$2469,$823,1
-2017,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2096.0,314.0,2385.0,1154.0,3375.0,1008.0,$2385,$3375,$2096,1
-2017,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2645.0,678.0,3218.0,247.0,3501.0,,$3218,Not available. Exceeds $3500!,$2645,1
-2017,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,3501.0,,Not Available!,Not available. Exceeds $3500!,Not Available!,1
-2017,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
-2019,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1803.0,383.0,2213.0,207.0,2591.0,635.0,$2213,$2591,$1803,1
-2019,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2682.0,331.0,2955.0,933.0,3501.0,,$2955,Not available. Exceeds $3500!,$2682,1
-2019,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2266.0,418.0,3038.0,589.0,3501.0,,$3038,Not available. Exceeds $3500!,$2266,1
-2019,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,696.0,401.0,2034.0,1291.0,2901.0,450.0,$2034,$2901,$696,1
-2019,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,3075.0,1354.0,3463.0,571.0,$3075,$3463,Not Available!,1
-2019,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3009.0,1808.0,3390.0,324.0,3501.0,,$3390,Not available. Exceeds $3500!,$3009,1
-2019,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,3400.0,1146.0,3501.0,,$3400,Not available. Exceeds $3500!,Not Available!,1
-2019,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!,1
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th
+2010,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,826.0,622.0,1324.0,119.0,1458.0,71.0,$1324,$1458,$826
+2010,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2010,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1300.0,1409.0,1682.0,542.0,2001.0,,$1682,Not available. Exceeds $2000!,$1300
+2010,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2010,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2010,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2010,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,816.0,481.0,1375.0,370.0,1678.0,196.0,$1375,$1678,$816
+2011,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2011,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2011,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1330.0,829.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1330
+2011,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2011,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2011,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2011,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,919.0,958.0,1599.0,277.0,1825.0,99.0,$1599,$1825,$919
+2012,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2012,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2012,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1333.0,1411.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1333
+2012,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2012,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2012,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2012,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1147.0,677.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1147
+2013,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1260.0,378.0,1617.0,162.0,1841.0,89.0,$1617,$1841,$1260
+2013,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2013,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2013,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1029.0,1041.0,1898.0,657.0,2001.0,,$1898,Not available. Exceeds $2000!,$1029
+2013,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2013,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2013,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,738.0,2035.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$738
+2013,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1154.0,876.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1154
+2014,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1164.0,440.0,1671.0,222.0,1979.0,253.0,$1671,$1979,$1164
+2014,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2014,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2014,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,492.0,704.0,1806.0,573.0,2001.0,,$1806,Not available. Exceeds $2000!,$492
+2014,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2014,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2014,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,715.0,12.0,729.0,735.0,744.0,1982.0,$729,$744,$715
+2014,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1148.0,882.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1148
+2015,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1073.0,732.0,1723.0,183.0,2141.0,565.0,$1723,$2141,$1073
+2015,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2586.0,334.0,2882.0,279.0,3188.0,263.0,$2882,$3188,$2586
+2015,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2515.0,954.0,3500.0,1030.0,3501.0,,$3500,Not available. Exceeds $3500!,$2515
+2015,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1048.0,816.0,2175.0,1078.0,3213.0,314.0,$2175,$3213,$1048
+2015,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2138.0,238.0,2400.0,361.0,2795.0,838.0,$2400,$2795,$2138
+2015,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2627.0,853.0,3080.0,207.0,3349.0,116.0,$3080,$3349,$2627
+2015,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,734.0,178.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$734
+2015,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2332.0,1169.0,3250.0,1147.0,3501.0,,$3250,Not available. Exceeds $3500!,$2332
+2016,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1307.0,791.0,1865.0,300.0,2384.0,419.0,$1865,$2384,$1307
+2016,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2625.0,341.0,3079.0,323.0,3434.0,290.0,$3079,$3434,$2625
+2016,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1924.0,687.0,2846.0,554.0,3501.0,,$2846,Not available. Exceeds $3500!,$1924
+2016,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,1766.0,838.0,2830.0,527.0,$1766,$2830,Not Available!
+2016,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2214.0,658.0,2654.0,401.0,2962.0,1328.0,$2654,$2962,$2214
+2016,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2647.0,711.0,3123.0,231.0,3469.0,176.0,$3123,$3469,$2647
+2016,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,3200.0,2594.0,3501.0,,$3200,Not available. Exceeds $3500!,Not Available!
+2016,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2322.0,1102.0,3234.0,1335.0,3501.0,,$3234,Not available. Exceeds $3500!,$2322
+2017,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1556.0,837.0,2028.0,354.0,2417.0,454.0,$2028,$2417,$1556
+2017,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2534.0,402.0,3042.0,657.0,3501.0,,$3042,Not available. Exceeds $3500!,$2534
+2017,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1743.0,118.0,2200.0,908.0,3501.0,,$2200,Not available. Exceeds $3500!,$1743
+2017,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,823.0,316.0,1538.0,988.0,2469.0,1443.0,$1538,$2469,$823
+2017,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2096.0,314.0,2385.0,1154.0,3375.0,1008.0,$2385,$3375,$2096
+2017,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2645.0,678.0,3218.0,247.0,3501.0,,$3218,Not available. Exceeds $3500!,$2645
+2017,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,,,3501.0,,Not Available!,Not available. Exceeds $3500!,Not Available!
+2017,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2018,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1681.0,398.0,2087.0,248.0,2407.0,424.0,$2087,$2407,$1681
+2018,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2632.0,186.0,2875.0,666.0,3501.0,,$2875,Not available. Exceeds $3500!,$2632
+2018,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1802.0,181.0,2750.0,1195.0,3501.0,,$2750,Not available. Exceeds $3500!,$1802
+2018,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,827.0,381.0,2155.0,955.0,3119.0,670.0,$2155,$3119,$827
+2018,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2091.0,284.0,2409.0,890.0,3500.0,912.0,$2409,$3500,$2091
+2018,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3082.0,1088.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3082
+2018,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,918.0,891.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$918
+2018,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2917.0,1311.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2917
+2019,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1803.0,383.0,2213.0,207.0,2591.0,635.0,$2213,$2591,$1803
+2019,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2682.0,331.0,2955.0,933.0,3501.0,,$2955,Not available. Exceeds $3500!,$2682
+2019,6037670403,Census Tract 6704.03,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2266.0,418.0,3038.0,589.0,3501.0,,$3038,Not available. Exceeds $3500!,$2266
+2019,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,696.0,401.0,2034.0,1291.0,2901.0,450.0,$2034,$2901,$696
+2019,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,3075.0,1354.0,3463.0,571.0,$3075,$3463,Not Available!
+2019,6037670411,Census Tract 6704.11,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3009.0,1808.0,3390.0,324.0,3501.0,,$3390,Not available. Exceeds $3500!,$3009
+2019,6037670500,Census Tract 6705,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,3400.0,1146.0,3501.0,,$3400,Not available. Exceeds $3500!,Not Available!
+2019,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2020,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1805.0,263.0,2162.0,273.0,2510.0,431.0,$2162,$2510,$1805
+2020,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2900.0,1366.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2900
+2020,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,2589.0,836.0,3336.0,720.0,$2589,$3336,Not Available!
+2020,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!
+2020,6037670417,Census Tract 6704.17,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,2661.0,673.0,3288.0,416.0,3501.0,,$3288,Not available. Exceeds $3500!,$2661
+2020,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2021,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1813.0,228.0,2294.0,445.0,2932.0,1168.0,$2294,$2932,$1813
+2021,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3338.0,400.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3338
+2021,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,2664.0,694.0,3501.0,,$2664,Not available. Exceeds $3500!,Not Available!
+2021,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3047.0,847.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3047
+2021,6037670417,Census Tract 6704.17,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3077.0,274.0,3405.0,265.0,3501.0,,$3405,Not available. Exceeds $3500!,$3077
+2021,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2022,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1800.0,232.0,2355.0,623.0,3265.0,560.0,$2355,$3265,$1800
+2022,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2022,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,,,2882.0,1075.0,3501.0,,$2882,Not available. Exceeds $3500!,Not Available!
+2022,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2022,6037670417,Census Tract 6704.17,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2022,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2023,6037670201,Census Tract 6702.01,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,1898.0,1016.0,3284.0,774.0,3501.0,,$3284,Not available. Exceeds $3500!,$1898
+2023,6037670202,Census Tract 6702.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2023,6037670405,Census Tract 6704.05,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,512.0,224.0,2875.0,1718.0,3501.0,,$2875,Not available. Exceeds $3500!,$512
+2023,6037670406,Census Tract 6704.06,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2023,6037670417,Census Tract 6704.17,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2023,6037670702,Census Tract 6707.02,Rolling Hills Estates,Los Angeles County,California,RollingHillsEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!

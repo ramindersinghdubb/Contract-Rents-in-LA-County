@@ -1,81 +1,81 @@
-YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
-2021,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,842.0,130.0,1194.0,475.0,1761.0,243.0,$1194,$1761,$842,1
-2021,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,826.0,545.0,1474.0,192.0,2001.0,245.0,$1474,$2001,$826,1
-2021,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1140.0,137.0,1485.0,195.0,1844.0,151.0,$1485,$1844,$1140,1
-2021,6037670101,Census Tract 6701.01,Lomita,Los Angeles County,California,Lomita,,,,,1990.0,452.0,Not Available!,$1990,Not Available!,1
-2021,6037670102,Census Tract 6701.02,Lomita,Los Angeles County,California,Lomita,1248.0,98.0,1486.0,116.0,1789.0,81.0,$1486,$1789,$1248,1
-2012,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,964.0,141.0,1138.0,68.0,1378.0,233.0,$1138,$1378,$964,1
-2012,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,952.0,62.0,1164.0,81.0,1424.0,99.0,$1164,$1424,$952,1
-2012,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,912.0,73.0,1167.0,100.0,1530.0,249.0,$1167,$1530,$912,1
-2012,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,928.0,83.0,1106.0,68.0,1306.0,147.0,$1106,$1306,$928,1
-2012,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,264.0,225.0,840.0,132.0,1192.0,344.0,$840,$1192,$264,1
-2012,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,782.0,68.0,836.0,168.0,1047.0,316.0,$836,$1047,$782,1
-2013,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,983.0,153.0,1158.0,71.0,1440.0,296.0,$1158,$1440,$983,1
-2013,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,958.0,55.0,1230.0,96.0,1458.0,70.0,$1230,$1458,$958,1
-2013,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,947.0,64.0,1179.0,106.0,1447.0,105.0,$1179,$1447,$947,1
-2013,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,991.0,73.0,1127.0,43.0,1277.0,127.0,$1127,$1277,$991,1
-2013,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,234.0,728.0,896.0,371.0,1359.0,708.0,$896,$1359,$234,1
-2013,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,818.0,78.0,889.0,239.0,1100.0,151.0,$889,$1100,$818,1
-2014,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,937.0,99.0,1103.0,72.0,1300.0,264.0,$1103,$1300,$937,1
-2014,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,954.0,69.0,1265.0,94.0,1455.0,66.0,$1265,$1455,$954,1
-2014,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1025.0,78.0,1273.0,83.0,1495.0,161.0,$1273,$1495,$1025,1
-2014,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,949.0,98.0,1123.0,44.0,1298.0,115.0,$1123,$1298,$949,1
-2014,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,237.0,703.0,880.0,344.0,1274.0,1223.0,$880,$1274,$237,1
-2014,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,786.0,67.0,904.0,93.0,992.0,112.0,$904,$992,$786,1
-2023,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,980.0,206.0,1905.0,751.0,2334.0,154.0,$1905,$2334,$980,1
-2023,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,1065.0,563.0,1659.0,200.0,2275.0,339.0,$1659,$2275,$1065,1
-2023,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1410.0,312.0,1774.0,159.0,2155.0,248.0,$1774,$2155,$1410,1
-2023,6037670101,Census Tract 6701.01,Lomita,Los Angeles County,California,Lomita,,,1942.0,498.0,2714.0,214.0,$1942,$2714,Not Available!,1
-2023,6037670102,Census Tract 6701.02,Lomita,Los Angeles County,California,Lomita,1638.0,68.0,1866.0,97.0,2168.0,159.0,$1866,$2168,$1638,1
-2011,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,1051.0,67.0,1226.0,101.0,1467.0,470.0,$1226,$1467,$1051,1
-2011,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,917.0,79.0,1137.0,83.0,1396.0,116.0,$1137,$1396,$917,1
-2011,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,897.0,57.0,1092.0,106.0,1407.0,119.0,$1092,$1407,$897,1
-2011,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,919.0,99.0,1092.0,70.0,1287.0,133.0,$1092,$1287,$919,1
-2011,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,294.0,567.0,858.0,214.0,1895.0,728.0,$858,$1895,$294,1
-2011,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,771.0,92.0,864.0,159.0,1033.0,108.0,$864,$1033,$771,1
-2015,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,904.0,116.0,1088.0,110.0,1408.0,280.0,$1088,$1408,$904,1
-2015,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,888.0,374.0,1278.0,77.0,1470.0,83.0,$1278,$1470,$888,1
-2015,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1034.0,88.0,1291.0,95.0,1580.0,188.0,$1291,$1580,$1034,1
-2015,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1003.0,125.0,1180.0,71.0,1466.0,209.0,$1180,$1466,$1003,1
-2015,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,,,1151.0,585.0,1826.0,504.0,$1151,$1826,Not Available!,1
-2015,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,773.0,31.0,929.0,170.0,1009.0,115.0,$929,$1009,$773,1
-2010,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,998.0,107.0,1204.0,103.0,1412.0,103.0,$1204,$1412,$998,1
-2010,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,902.0,56.0,1072.0,75.0,1294.0,109.0,$1072,$1294,$902,1
-2010,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,931.0,38.0,1112.0,75.0,1394.0,143.0,$1112,$1394,$931,1
-2010,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,864.0,155.0,1039.0,85.0,1245.0,107.0,$1039,$1245,$864,1
-2010,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,592.0,373.0,868.0,233.0,1489.0,754.0,$868,$1489,$592,1
-2010,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,683.0,11.0,770.0,19.0,854.0,69.0,$770,$854,$683,1
-2020,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,824.0,73.0,1418.0,383.0,1808.0,140.0,$1418,$1808,$824,1
-2020,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,789.0,519.0,1408.0,100.0,1831.0,138.0,$1408,$1831,$789,1
-2020,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1117.0,77.0,1384.0,171.0,1762.0,145.0,$1384,$1762,$1117,1
-2020,6037670101,Census Tract 6701.01,Lomita,Los Angeles County,California,Lomita,237.0,224.0,,,1836.0,434.0,Not Available!,$1836,$237,1
-2020,6037670102,Census Tract 6701.02,Lomita,Los Angeles County,California,Lomita,1212.0,95.0,1427.0,103.0,1826.0,214.0,$1427,$1826,$1212,1
-2016,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,863.0,158.0,1077.0,128.0,1391.0,163.0,$1077,$1391,$863,1
-2016,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,855.0,361.0,1274.0,96.0,1483.0,100.0,$1274,$1483,$855,1
-2016,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1055.0,75.0,1288.0,94.0,1554.0,174.0,$1288,$1554,$1055,1
-2016,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1009.0,129.0,1184.0,72.0,1572.0,392.0,$1184,$1572,$1009,1
-2016,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,,,1298.0,452.0,1548.0,561.0,$1298,$1548,Not Available!,1
-2016,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,768.0,17.0,915.0,266.0,1090.0,103.0,$915,$1090,$768,1
-2018,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,878.0,265.0,1247.0,150.0,1608.0,184.0,$1247,$1608,$878,1
-2018,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,508.0,340.0,1327.0,78.0,1652.0,191.0,$1327,$1652,$508,1
-2018,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1118.0,75.0,1343.0,98.0,1644.0,135.0,$1343,$1644,$1118,1
-2018,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1012.0,123.0,1212.0,83.0,1499.0,290.0,$1212,$1499,$1012,1
-2018,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,,,1714.0,943.0,2750.0,437.0,$1714,$2750,Not Available!,1
-2018,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,877.0,59.0,1062.0,120.0,1821.0,1078.0,$1062,$1821,$877,1
-2022,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,928.0,124.0,1436.0,528.0,2063.0,269.0,$1436,$2063,$928,1
-2022,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,1069.0,688.0,1615.0,204.0,2120.0,440.0,$1615,$2120,$1069,1
-2022,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1362.0,131.0,1695.0,141.0,2041.0,195.0,$1695,$2041,$1362,1
-2022,6037670101,Census Tract 6701.01,Lomita,Los Angeles County,California,Lomita,,,1510.0,1353.0,2044.0,428.0,$1510,$2044,Not Available!,1
-2022,6037670102,Census Tract 6701.02,Lomita,Los Angeles County,California,Lomita,1560.0,56.0,1808.0,73.0,2118.0,187.0,$1808,$2118,$1560,1
-2017,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,1009.0,273.0,1160.0,59.0,1418.0,181.0,$1160,$1418,$1009,1
-2017,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,789.0,489.0,1289.0,94.0,1526.0,164.0,$1289,$1526,$789,1
-2017,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1087.0,87.0,1318.0,72.0,1507.0,143.0,$1318,$1507,$1087,1
-2017,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1010.0,105.0,1180.0,64.0,1447.0,142.0,$1180,$1447,$1010,1
-2017,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,,,1411.0,699.0,2258.0,589.0,$1411,$2258,Not Available!,1
-2017,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,787.0,36.0,938.0,149.0,1124.0,50.0,$938,$1124,$787,1
-2019,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,804.0,185.0,1343.0,265.0,1756.0,118.0,$1343,$1756,$804,1
-2019,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,397.0,136.0,1312.0,219.0,1765.0,134.0,$1312,$1765,$397,1
-2019,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1106.0,68.0,1337.0,140.0,1692.0,167.0,$1337,$1692,$1106,1
-2019,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1078.0,76.0,1342.0,141.0,1819.0,212.0,$1342,$1819,$1078,1
-2019,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,1313.0,731.0,2146.0,638.0,2707.0,471.0,$2146,$2707,$1313,1
-2019,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,892.0,66.0,1058.0,135.0,2113.0,770.0,$1058,$2113,$892,1
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th
+2010,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,998.0,107.0,1204.0,103.0,1412.0,103.0,$1204,$1412,$998
+2010,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,902.0,56.0,1072.0,75.0,1294.0,109.0,$1072,$1294,$902
+2010,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,931.0,38.0,1112.0,75.0,1394.0,143.0,$1112,$1394,$931
+2010,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,864.0,155.0,1039.0,85.0,1245.0,107.0,$1039,$1245,$864
+2010,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,592.0,373.0,868.0,233.0,1489.0,754.0,$868,$1489,$592
+2010,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,683.0,11.0,770.0,19.0,854.0,69.0,$770,$854,$683
+2011,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,1051.0,67.0,1226.0,101.0,1467.0,470.0,$1226,$1467,$1051
+2011,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,917.0,79.0,1137.0,83.0,1396.0,116.0,$1137,$1396,$917
+2011,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,897.0,57.0,1092.0,106.0,1407.0,119.0,$1092,$1407,$897
+2011,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,919.0,99.0,1092.0,70.0,1287.0,133.0,$1092,$1287,$919
+2011,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,294.0,567.0,858.0,214.0,1895.0,728.0,$858,$1895,$294
+2011,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,771.0,92.0,864.0,159.0,1033.0,108.0,$864,$1033,$771
+2012,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,964.0,141.0,1138.0,68.0,1378.0,233.0,$1138,$1378,$964
+2012,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,952.0,62.0,1164.0,81.0,1424.0,99.0,$1164,$1424,$952
+2012,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,912.0,73.0,1167.0,100.0,1530.0,249.0,$1167,$1530,$912
+2012,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,928.0,83.0,1106.0,68.0,1306.0,147.0,$1106,$1306,$928
+2012,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,264.0,225.0,840.0,132.0,1192.0,344.0,$840,$1192,$264
+2012,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,782.0,68.0,836.0,168.0,1047.0,316.0,$836,$1047,$782
+2013,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,983.0,153.0,1158.0,71.0,1440.0,296.0,$1158,$1440,$983
+2013,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,958.0,55.0,1230.0,96.0,1458.0,70.0,$1230,$1458,$958
+2013,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,947.0,64.0,1179.0,106.0,1447.0,105.0,$1179,$1447,$947
+2013,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,991.0,73.0,1127.0,43.0,1277.0,127.0,$1127,$1277,$991
+2013,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,234.0,728.0,896.0,371.0,1359.0,708.0,$896,$1359,$234
+2013,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,818.0,78.0,889.0,239.0,1100.0,151.0,$889,$1100,$818
+2014,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,937.0,99.0,1103.0,72.0,1300.0,264.0,$1103,$1300,$937
+2014,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,954.0,69.0,1265.0,94.0,1455.0,66.0,$1265,$1455,$954
+2014,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1025.0,78.0,1273.0,83.0,1495.0,161.0,$1273,$1495,$1025
+2014,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,949.0,98.0,1123.0,44.0,1298.0,115.0,$1123,$1298,$949
+2014,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,237.0,703.0,880.0,344.0,1274.0,1223.0,$880,$1274,$237
+2014,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,786.0,67.0,904.0,93.0,992.0,112.0,$904,$992,$786
+2015,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,904.0,116.0,1088.0,110.0,1408.0,280.0,$1088,$1408,$904
+2015,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,888.0,374.0,1278.0,77.0,1470.0,83.0,$1278,$1470,$888
+2015,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1034.0,88.0,1291.0,95.0,1580.0,188.0,$1291,$1580,$1034
+2015,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1003.0,125.0,1180.0,71.0,1466.0,209.0,$1180,$1466,$1003
+2015,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,,,1151.0,585.0,1826.0,504.0,$1151,$1826,Not Available!
+2015,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,773.0,31.0,929.0,170.0,1009.0,115.0,$929,$1009,$773
+2016,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,863.0,158.0,1077.0,128.0,1391.0,163.0,$1077,$1391,$863
+2016,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,855.0,361.0,1274.0,96.0,1483.0,100.0,$1274,$1483,$855
+2016,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1055.0,75.0,1288.0,94.0,1554.0,174.0,$1288,$1554,$1055
+2016,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1009.0,129.0,1184.0,72.0,1572.0,392.0,$1184,$1572,$1009
+2016,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,,,1298.0,452.0,1548.0,561.0,$1298,$1548,Not Available!
+2016,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,768.0,17.0,915.0,266.0,1090.0,103.0,$915,$1090,$768
+2017,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,1009.0,273.0,1160.0,59.0,1418.0,181.0,$1160,$1418,$1009
+2017,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,789.0,489.0,1289.0,94.0,1526.0,164.0,$1289,$1526,$789
+2017,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1087.0,87.0,1318.0,72.0,1507.0,143.0,$1318,$1507,$1087
+2017,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1010.0,105.0,1180.0,64.0,1447.0,142.0,$1180,$1447,$1010
+2017,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,,,1411.0,699.0,2258.0,589.0,$1411,$2258,Not Available!
+2017,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,787.0,36.0,938.0,149.0,1124.0,50.0,$938,$1124,$787
+2018,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,878.0,265.0,1247.0,150.0,1608.0,184.0,$1247,$1608,$878
+2018,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,508.0,340.0,1327.0,78.0,1652.0,191.0,$1327,$1652,$508
+2018,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1118.0,75.0,1343.0,98.0,1644.0,135.0,$1343,$1644,$1118
+2018,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1012.0,123.0,1212.0,83.0,1499.0,290.0,$1212,$1499,$1012
+2018,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,,,1714.0,943.0,2750.0,437.0,$1714,$2750,Not Available!
+2018,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,877.0,59.0,1062.0,120.0,1821.0,1078.0,$1062,$1821,$877
+2019,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,804.0,185.0,1343.0,265.0,1756.0,118.0,$1343,$1756,$804
+2019,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,397.0,136.0,1312.0,219.0,1765.0,134.0,$1312,$1765,$397
+2019,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1106.0,68.0,1337.0,140.0,1692.0,167.0,$1337,$1692,$1106
+2019,6037670100,Census Tract 6701,Lomita,Los Angeles County,California,Lomita,1078.0,76.0,1342.0,141.0,1819.0,212.0,$1342,$1819,$1078
+2019,6037670701,Census Tract 6707.01,Lomita,Los Angeles County,California,Lomita,1313.0,731.0,2146.0,638.0,2707.0,471.0,$2146,$2707,$1313
+2019,6037980015,Census Tract 9800.15,Lomita,Los Angeles County,California,Lomita,892.0,66.0,1058.0,135.0,2113.0,770.0,$1058,$2113,$892
+2020,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,824.0,73.0,1418.0,383.0,1808.0,140.0,$1418,$1808,$824
+2020,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,789.0,519.0,1408.0,100.0,1831.0,138.0,$1408,$1831,$789
+2020,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1117.0,77.0,1384.0,171.0,1762.0,145.0,$1384,$1762,$1117
+2020,6037670101,Census Tract 6701.01,Lomita,Los Angeles County,California,Lomita,237.0,224.0,,,1836.0,434.0,Not Available!,$1836,$237
+2020,6037670102,Census Tract 6701.02,Lomita,Los Angeles County,California,Lomita,1212.0,95.0,1427.0,103.0,1826.0,214.0,$1427,$1826,$1212
+2021,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,842.0,130.0,1194.0,475.0,1761.0,243.0,$1194,$1761,$842
+2021,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,826.0,545.0,1474.0,192.0,2001.0,245.0,$1474,$2001,$826
+2021,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1140.0,137.0,1485.0,195.0,1844.0,151.0,$1485,$1844,$1140
+2021,6037670101,Census Tract 6701.01,Lomita,Los Angeles County,California,Lomita,,,,,1990.0,452.0,Not Available!,$1990,Not Available!
+2021,6037670102,Census Tract 6701.02,Lomita,Los Angeles County,California,Lomita,1248.0,98.0,1486.0,116.0,1789.0,81.0,$1486,$1789,$1248
+2022,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,928.0,124.0,1436.0,528.0,2063.0,269.0,$1436,$2063,$928
+2022,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,1069.0,688.0,1615.0,204.0,2120.0,440.0,$1615,$2120,$1069
+2022,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1362.0,131.0,1695.0,141.0,2041.0,195.0,$1695,$2041,$1362
+2022,6037670101,Census Tract 6701.01,Lomita,Los Angeles County,California,Lomita,,,1510.0,1353.0,2044.0,428.0,$1510,$2044,Not Available!
+2022,6037670102,Census Tract 6701.02,Lomita,Los Angeles County,California,Lomita,1560.0,56.0,1808.0,73.0,2118.0,187.0,$1808,$2118,$1560
+2023,6037670001,Census Tract 6700.01,Lomita,Los Angeles County,California,Lomita,980.0,206.0,1905.0,751.0,2334.0,154.0,$1905,$2334,$980
+2023,6037670002,Census Tract 6700.02,Lomita,Los Angeles County,California,Lomita,1065.0,563.0,1659.0,200.0,2275.0,339.0,$1659,$2275,$1065
+2023,6037670003,Census Tract 6700.03,Lomita,Los Angeles County,California,Lomita,1410.0,312.0,1774.0,159.0,2155.0,248.0,$1774,$2155,$1410
+2023,6037670101,Census Tract 6701.01,Lomita,Los Angeles County,California,Lomita,,,1942.0,498.0,2714.0,214.0,$1942,$2714,Not Available!
+2023,6037670102,Census Tract 6701.02,Lomita,Los Angeles County,California,Lomita,1638.0,68.0,1866.0,97.0,2168.0,159.0,$1866,$2168,$1638

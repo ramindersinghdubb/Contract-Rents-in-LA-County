@@ -1,49 +1,49 @@
-YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
-2021,6037901217,Census Tract 9012.17,Leona Valley,Los Angeles County,California,LeonaValley,654.0,328.0,671.0,14.0,689.0,11.0,$671,$689,$654,1
-2021,6037920050,Census Tract 9200.50,Leona Valley,Los Angeles County,California,LeonaValley,1053.0,269.0,1217.0,606.0,1722.0,260.0,$1217,$1722,$1053,1
-2012,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,644.0,1144.0,1990.0,473.0,2001.0,,$1990,Not available. Exceeds $2000!,$644,1
-2012,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1426.0,359.0,1688.0,206.0,1906.0,160.0,$1688,$1906,$1426,1
-2012,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,449.0,2516.0,1744.0,222.0,1994.0,370.0,$1744,$1994,$449,1
-2012,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,936.0,507.0,1114.0,269.0,1321.0,251.0,$1114,$1321,$936,1
-2013,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,643.0,2076.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$643,1
-2013,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1354.0,270.0,1626.0,137.0,1834.0,79.0,$1626,$1834,$1354,1
-2013,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,429.0,743.0,1562.0,759.0,1817.0,151.0,$1562,$1817,$429,1
-2013,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,817.0,1032.0,1088.0,229.0,1278.0,226.0,$1088,$1278,$817,1
-2014,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,629.0,1362.0,1795.0,947.0,2001.0,,$1795,Not available. Exceeds $2000!,$629,1
-2014,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1557.0,254.0,1745.0,98.0,1934.0,165.0,$1745,$1934,$1557,1
-2014,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,437.0,1092.0,1486.0,476.0,1794.0,178.0,$1486,$1794,$437,1
-2014,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,915.0,310.0,1086.0,189.0,1271.0,209.0,$1086,$1271,$915,1
-2023,6037901217,Census Tract 9012.17,Leona Valley,Los Angeles County,California,LeonaValley,,,,,,,Not Available!,Not Available!,Not Available!,1
-2023,6037920050,Census Tract 9200.50,Leona Valley,Los Angeles County,California,LeonaValley,1112.0,104.0,1248.0,603.0,1832.0,392.0,$1248,$1832,$1112,1
-2011,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2011,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1534.0,170.0,1713.0,129.0,1892.0,104.0,$1713,$1892,$1534,1
-2011,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,449.0,2253.0,1663.0,472.0,1832.0,84.0,$1663,$1832,$449,1
-2011,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,1006.0,306.0,1087.0,128.0,1169.0,49.0,$1087,$1169,$1006,1
-2015,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,632.0,368.0,1222.0,1044.0,1808.0,241.0,$1222,$1808,$632,1
-2015,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1541.0,312.0,1715.0,66.0,1889.0,57.0,$1715,$1889,$1541,1
-2015,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,,,1381.0,601.0,1743.0,232.0,$1381,$1743,Not Available!,1
-2015,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,890.0,589.0,1046.0,117.0,1148.0,67.0,$1046,$1148,$890,1
-2010,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,1625.0,1501.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1625,1
-2010,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1614.0,95.0,1762.0,83.0,1910.0,101.0,$1762,$1910,$1614,1
-2010,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,,,,,,,Not Available!,Not Available!,Not Available!,1
-2010,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,,,,,,,Not Available!,Not Available!,Not Available!,1
-2020,6037901217,Census Tract 9012.17,Leona Valley,Los Angeles County,California,LeonaValley,607.0,147.0,624.0,12.0,642.0,437.0,$624,$642,$607,1
-2020,6037920050,Census Tract 9200.50,Leona Valley,Los Angeles County,California,LeonaValley,1100.0,166.0,1346.0,391.0,1700.0,262.0,$1346,$1700,$1100,1
-2016,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,,,1667.0,480.0,1981.0,297.0,$1667,$1981,Not Available!,1
-2016,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1508.0,139.0,1699.0,86.0,1890.0,66.0,$1699,$1890,$1508,1
-2016,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,673.0,349.0,1277.0,559.0,1648.0,342.0,$1277,$1648,$673,1
-2016,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,,,1065.0,178.0,1167.0,66.0,$1065,$1167,Not Available!,1
-2018,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,794.0,692.0,1650.0,518.0,1975.0,279.0,$1650,$1975,$794,1
-2018,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1646.0,49.0,1821.0,79.0,1995.0,191.0,$1821,$1995,$1646,1
-2018,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,,,1476.0,332.0,1769.0,173.0,$1476,$1769,Not Available!,1
-2018,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,627.0,24.0,1012.0,785.0,1307.0,413.0,$1012,$1307,$627,1
-2022,6037901217,Census Tract 9012.17,Leona Valley,Los Angeles County,California,LeonaValley,,,,,,,Not Available!,Not Available!,Not Available!,1
-2022,6037920050,Census Tract 9200.50,Leona Valley,Los Angeles County,California,LeonaValley,1088.0,69.0,1225.0,602.0,1808.0,285.0,$1225,$1808,$1088,1
-2017,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,1170.0,856.0,1733.0,278.0,2008.0,332.0,$1733,$2008,$1170,1
-2017,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1628.0,34.0,1794.0,48.0,1959.0,82.0,$1794,$1959,$1628,1
-2017,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,655.0,488.0,1250.0,639.0,1557.0,256.0,$1250,$1557,$655,1
-2017,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,635.0,94.0,1066.0,412.0,1309.0,258.0,$1066,$1309,$635,1
-2019,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,638.0,349.0,1219.0,1041.0,1867.0,361.0,$1219,$1867,$638,1
-2019,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1651.0,60.0,1838.0,97.0,2058.0,213.0,$1838,$2058,$1651,1
-2019,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,1300.0,1122.0,1658.0,184.0,1894.0,157.0,$1658,$1894,$1300,1
-2019,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,,,1285.0,315.0,1645.0,297.0,$1285,$1645,Not Available!,1
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th
+2010,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,1625.0,1501.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1625
+2010,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1614.0,95.0,1762.0,83.0,1910.0,101.0,$1762,$1910,$1614
+2010,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2011,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1534.0,170.0,1713.0,129.0,1892.0,104.0,$1713,$1892,$1534
+2011,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,449.0,2253.0,1663.0,472.0,1832.0,84.0,$1663,$1832,$449
+2011,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,1006.0,306.0,1087.0,128.0,1169.0,49.0,$1087,$1169,$1006
+2012,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,644.0,1144.0,1990.0,473.0,2001.0,,$1990,Not available. Exceeds $2000!,$644
+2012,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1426.0,359.0,1688.0,206.0,1906.0,160.0,$1688,$1906,$1426
+2012,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,449.0,2516.0,1744.0,222.0,1994.0,370.0,$1744,$1994,$449
+2012,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,936.0,507.0,1114.0,269.0,1321.0,251.0,$1114,$1321,$936
+2013,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,643.0,2076.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$643
+2013,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1354.0,270.0,1626.0,137.0,1834.0,79.0,$1626,$1834,$1354
+2013,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,429.0,743.0,1562.0,759.0,1817.0,151.0,$1562,$1817,$429
+2013,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,817.0,1032.0,1088.0,229.0,1278.0,226.0,$1088,$1278,$817
+2014,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,629.0,1362.0,1795.0,947.0,2001.0,,$1795,Not available. Exceeds $2000!,$629
+2014,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1557.0,254.0,1745.0,98.0,1934.0,165.0,$1745,$1934,$1557
+2014,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,437.0,1092.0,1486.0,476.0,1794.0,178.0,$1486,$1794,$437
+2014,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,915.0,310.0,1086.0,189.0,1271.0,209.0,$1086,$1271,$915
+2015,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,632.0,368.0,1222.0,1044.0,1808.0,241.0,$1222,$1808,$632
+2015,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1541.0,312.0,1715.0,66.0,1889.0,57.0,$1715,$1889,$1541
+2015,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,,,1381.0,601.0,1743.0,232.0,$1381,$1743,Not Available!
+2015,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,890.0,589.0,1046.0,117.0,1148.0,67.0,$1046,$1148,$890
+2016,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,,,1667.0,480.0,1981.0,297.0,$1667,$1981,Not Available!
+2016,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1508.0,139.0,1699.0,86.0,1890.0,66.0,$1699,$1890,$1508
+2016,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,673.0,349.0,1277.0,559.0,1648.0,342.0,$1277,$1648,$673
+2016,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,,,1065.0,178.0,1167.0,66.0,$1065,$1167,Not Available!
+2017,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,1170.0,856.0,1733.0,278.0,2008.0,332.0,$1733,$2008,$1170
+2017,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1628.0,34.0,1794.0,48.0,1959.0,82.0,$1794,$1959,$1628
+2017,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,655.0,488.0,1250.0,639.0,1557.0,256.0,$1250,$1557,$655
+2017,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,635.0,94.0,1066.0,412.0,1309.0,258.0,$1066,$1309,$635
+2018,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,794.0,692.0,1650.0,518.0,1975.0,279.0,$1650,$1975,$794
+2018,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1646.0,49.0,1821.0,79.0,1995.0,191.0,$1821,$1995,$1646
+2018,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,,,1476.0,332.0,1769.0,173.0,$1476,$1769,Not Available!
+2018,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,627.0,24.0,1012.0,785.0,1307.0,413.0,$1012,$1307,$627
+2019,6037901213,Census Tract 9012.13,Leona Valley,Los Angeles County,California,LeonaValley,638.0,349.0,1219.0,1041.0,1867.0,361.0,$1219,$1867,$638
+2019,6037910206,Census Tract 9102.06,Leona Valley,Los Angeles County,California,LeonaValley,1651.0,60.0,1838.0,97.0,2058.0,213.0,$1838,$2058,$1651
+2019,6037910302,Census Tract 9103.02,Leona Valley,Los Angeles County,California,LeonaValley,1300.0,1122.0,1658.0,184.0,1894.0,157.0,$1658,$1894,$1300
+2019,6037920012,Census Tract 9200.12,Leona Valley,Los Angeles County,California,LeonaValley,,,1285.0,315.0,1645.0,297.0,$1285,$1645,Not Available!
+2020,6037901217,Census Tract 9012.17,Leona Valley,Los Angeles County,California,LeonaValley,607.0,147.0,624.0,12.0,642.0,437.0,$624,$642,$607
+2020,6037920050,Census Tract 9200.50,Leona Valley,Los Angeles County,California,LeonaValley,1100.0,166.0,1346.0,391.0,1700.0,262.0,$1346,$1700,$1100
+2021,6037901217,Census Tract 9012.17,Leona Valley,Los Angeles County,California,LeonaValley,654.0,328.0,671.0,14.0,689.0,11.0,$671,$689,$654
+2021,6037920050,Census Tract 9200.50,Leona Valley,Los Angeles County,California,LeonaValley,1053.0,269.0,1217.0,606.0,1722.0,260.0,$1217,$1722,$1053
+2022,6037901217,Census Tract 9012.17,Leona Valley,Los Angeles County,California,LeonaValley,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037920050,Census Tract 9200.50,Leona Valley,Los Angeles County,California,LeonaValley,1088.0,69.0,1225.0,602.0,1808.0,285.0,$1225,$1808,$1088
+2023,6037901217,Census Tract 9012.17,Leona Valley,Los Angeles County,California,LeonaValley,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037920050,Census Tract 9200.50,Leona Valley,Los Angeles County,California,LeonaValley,1112.0,104.0,1248.0,603.0,1832.0,392.0,$1248,$1832,$1112

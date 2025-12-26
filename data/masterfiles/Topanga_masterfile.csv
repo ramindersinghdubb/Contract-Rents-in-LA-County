@@ -1,47 +1,47 @@
-YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th,dummy
-2021,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1168.0,834.0,2581.0,2188.0,3501.0,,$2581,Not available. Exceeds $3500!,$1168,1
-2021,6037800103,Census Tract 8001.03,Topanga,Los Angeles County,California,Topanga,,,2813.0,679.0,3501.0,,$2813,Not available. Exceeds $3500!,Not Available!,1
-2021,6037800104,Census Tract 8001.04,Topanga,Los Angeles County,California,Topanga,1510.0,847.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1510,1
-2021,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,3081.0,2538.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3081,1
-2012,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,538.0,1187.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$538,1
-2012,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1573.0,182.0,1857.0,160.0,2001.0,,$1857,Not available. Exceeds $2000!,$1573,1
-2012,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1767.0,308.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1767,1
-2013,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!,1
-2013,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1499.0,196.0,1854.0,226.0,2001.0,,$1854,Not available. Exceeds $2000!,$1499,1
-2013,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1766.0,183.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1766,1
-2014,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1792.0,555.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1792,1
-2014,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1521.0,202.0,1883.0,228.0,2001.0,,$1883,Not available. Exceeds $2000!,$1521,1
-2014,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1965.0,211.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1965,1
-2023,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,,,3256.0,1408.0,3501.0,,$3256,Not available. Exceeds $3500!,Not Available!,1
-2023,6037800103,Census Tract 8001.03,Topanga,Los Angeles County,California,Topanga,3040.0,2870.0,3221.0,162.0,3402.0,167.0,$3221,$3402,$3040,1
-2023,6037800104,Census Tract 8001.04,Topanga,Los Angeles County,California,Topanga,2211.0,934.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2211,1
-2023,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1714.0,622.0,3477.0,1112.0,3501.0,,$3477,Not available. Exceeds $3500!,$1714,1
-2011,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1050.0,1174.0,1358.0,359.0,2001.0,,$1358,Not available. Exceeds $2000!,$1050,1
-2011,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1513.0,320.0,1838.0,217.0,2001.0,,$1838,Not available. Exceeds $2000!,$1513,1
-2011,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1782.0,305.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1782,1
-2015,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1881.0,1353.0,3165.0,603.0,3501.0,,$3165,Not available. Exceeds $3500!,$1881,1
-2015,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1398.0,290.0,1792.0,287.0,2512.0,557.0,$1792,$2512,$1398,1
-2015,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1832.0,232.0,2636.0,627.0,3269.0,149.0,$2636,$3269,$1832,1
-2010,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,743.0,816.0,1301.0,206.0,1434.0,266.0,$1301,$1434,$743,1
-2010,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1107.0,714.0,1718.0,476.0,2001.0,,$1718,Not available. Exceeds $2000!,$1107,1
-2010,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1837.0,269.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1837,1
-2020,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!,1
-2020,6037800103,Census Tract 8001.03,Topanga,Los Angeles County,California,Topanga,,,2923.0,622.0,3501.0,,$2923,Not available. Exceeds $3500!,Not Available!,1
-2020,6037800104,Census Tract 8001.04,Topanga,Los Angeles County,California,Topanga,1549.0,876.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1549,1
-2020,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,,,3318.0,312.0,3501.0,,$3318,Not available. Exceeds $3500!,Not Available!,1
-2016,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,2850.0,1740.0,3469.0,311.0,3501.0,,$3469,Not available. Exceeds $3500!,$2850,1
-2016,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1334.0,649.0,1792.0,516.0,2484.0,477.0,$1792,$2484,$1334,1
-2016,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1845.0,357.0,2841.0,605.0,3258.0,116.0,$2841,$3258,$1845,1
-2018,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1238.0,663.0,2250.0,2209.0,3501.0,,$2250,Not available. Exceeds $3500!,$1238,1
-2018,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1168.0,568.0,2032.0,851.0,3501.0,,$2032,Not available. Exceeds $3500!,$1168,1
-2018,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,2013.0,654.0,3047.0,427.0,3368.0,141.0,$3047,$3368,$2013,1
-2022,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,3092.0,1645.0,3370.0,367.0,3501.0,,$3370,Not available. Exceeds $3500!,$3092,1
-2022,6037800103,Census Tract 8001.03,Topanga,Los Angeles County,California,Topanga,,,,,3328.0,225.0,Not Available!,$3328,Not Available!,1
-2022,6037800104,Census Tract 8001.04,Topanga,Los Angeles County,California,Topanga,2308.0,1484.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2308,1
-2022,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,,,3444.0,479.0,3501.0,,$3444,Not available. Exceeds $3500!,Not Available!,1
-2017,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1643.0,981.0,3414.0,806.0,3501.0,,$3414,Not available. Exceeds $3500!,$1643,1
-2017,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1154.0,417.0,1806.0,680.0,2779.0,1068.0,$1806,$2779,$1154,1
-2017,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1810.0,338.0,2676.0,727.0,3304.0,205.0,$2676,$3304,$1810,1
-2019,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,,,3368.0,2159.0,3501.0,,$3368,Not available. Exceeds $3500!,Not Available!,1
-2019,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1225.0,617.0,2522.0,851.0,3501.0,,$2522,Not available. Exceeds $3500!,$1225,1
-2019,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1450.0,1032.0,2847.0,770.0,3432.0,384.0,$2847,$3432,$1450,1
+YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th
+2010,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,743.0,816.0,1301.0,206.0,1434.0,266.0,$1301,$1434,$743
+2010,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1107.0,714.0,1718.0,476.0,2001.0,,$1718,Not available. Exceeds $2000!,$1107
+2010,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1837.0,269.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1837
+2011,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1050.0,1174.0,1358.0,359.0,2001.0,,$1358,Not available. Exceeds $2000!,$1050
+2011,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1513.0,320.0,1838.0,217.0,2001.0,,$1838,Not available. Exceeds $2000!,$1513
+2011,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1782.0,305.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1782
+2012,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,538.0,1187.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$538
+2012,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1573.0,182.0,1857.0,160.0,2001.0,,$1857,Not available. Exceeds $2000!,$1573
+2012,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1767.0,308.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1767
+2013,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
+2013,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1499.0,196.0,1854.0,226.0,2001.0,,$1854,Not available. Exceeds $2000!,$1499
+2013,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1766.0,183.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1766
+2014,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1792.0,555.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1792
+2014,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1521.0,202.0,1883.0,228.0,2001.0,,$1883,Not available. Exceeds $2000!,$1521
+2014,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1965.0,211.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1965
+2015,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1881.0,1353.0,3165.0,603.0,3501.0,,$3165,Not available. Exceeds $3500!,$1881
+2015,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1398.0,290.0,1792.0,287.0,2512.0,557.0,$1792,$2512,$1398
+2015,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1832.0,232.0,2636.0,627.0,3269.0,149.0,$2636,$3269,$1832
+2016,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,2850.0,1740.0,3469.0,311.0,3501.0,,$3469,Not available. Exceeds $3500!,$2850
+2016,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1334.0,649.0,1792.0,516.0,2484.0,477.0,$1792,$2484,$1334
+2016,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1845.0,357.0,2841.0,605.0,3258.0,116.0,$2841,$3258,$1845
+2017,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1643.0,981.0,3414.0,806.0,3501.0,,$3414,Not available. Exceeds $3500!,$1643
+2017,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1154.0,417.0,1806.0,680.0,2779.0,1068.0,$1806,$2779,$1154
+2017,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1810.0,338.0,2676.0,727.0,3304.0,205.0,$2676,$3304,$1810
+2018,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1238.0,663.0,2250.0,2209.0,3501.0,,$2250,Not available. Exceeds $3500!,$1238
+2018,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1168.0,568.0,2032.0,851.0,3501.0,,$2032,Not available. Exceeds $3500!,$1168
+2018,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,2013.0,654.0,3047.0,427.0,3368.0,141.0,$3047,$3368,$2013
+2019,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,,,3368.0,2159.0,3501.0,,$3368,Not available. Exceeds $3500!,Not Available!
+2019,6037800102,Census Tract 8001.02,Topanga,Los Angeles County,California,Topanga,1225.0,617.0,2522.0,851.0,3501.0,,$2522,Not available. Exceeds $3500!,$1225
+2019,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1450.0,1032.0,2847.0,770.0,3432.0,384.0,$2847,$3432,$1450
+2020,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!
+2020,6037800103,Census Tract 8001.03,Topanga,Los Angeles County,California,Topanga,,,2923.0,622.0,3501.0,,$2923,Not available. Exceeds $3500!,Not Available!
+2020,6037800104,Census Tract 8001.04,Topanga,Los Angeles County,California,Topanga,1549.0,876.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1549
+2020,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,,,3318.0,312.0,3501.0,,$3318,Not available. Exceeds $3500!,Not Available!
+2021,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,1168.0,834.0,2581.0,2188.0,3501.0,,$2581,Not available. Exceeds $3500!,$1168
+2021,6037800103,Census Tract 8001.03,Topanga,Los Angeles County,California,Topanga,,,2813.0,679.0,3501.0,,$2813,Not available. Exceeds $3500!,Not Available!
+2021,6037800104,Census Tract 8001.04,Topanga,Los Angeles County,California,Topanga,1510.0,847.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1510
+2021,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,3081.0,2538.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3081
+2022,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,3092.0,1645.0,3370.0,367.0,3501.0,,$3370,Not available. Exceeds $3500!,$3092
+2022,6037800103,Census Tract 8001.03,Topanga,Los Angeles County,California,Topanga,,,,,3328.0,225.0,Not Available!,$3328,Not Available!
+2022,6037800104,Census Tract 8001.04,Topanga,Los Angeles County,California,Topanga,2308.0,1484.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2308
+2022,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,,,3444.0,479.0,3501.0,,$3444,Not available. Exceeds $3500!,Not Available!
+2023,6037800101,Census Tract 8001.01,Topanga,Los Angeles County,California,Topanga,,,3256.0,1408.0,3501.0,,$3256,Not available. Exceeds $3500!,Not Available!
+2023,6037800103,Census Tract 8001.03,Topanga,Los Angeles County,California,Topanga,3040.0,2870.0,3221.0,162.0,3402.0,167.0,$3221,$3402,$3040
+2023,6037800104,Census Tract 8001.04,Topanga,Los Angeles County,California,Topanga,2211.0,934.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2211
+2023,6037800506,Census Tract 8005.06,Topanga,Los Angeles County,California,Topanga,1714.0,622.0,3477.0,1112.0,3501.0,,$3477,Not available. Exceeds $3500!,$1714
