@@ -39,7 +39,8 @@ CherryRed_color = '#E3242B'
 # App
 # -- --
 app = Dash(__name__,
-           external_stylesheets=[dbc.themes.SIMPLEX, "assets/style.css"])
+           external_stylesheets=[dbc.themes.SIMPLEX, "assets/style.css"],
+           meta_tags = [{"name": "viewport", "content": "width=device-width, initial-scale=1"}])
 server = app.server
 app.title = 'Contract Rents in Los Angeles County'
 
@@ -50,7 +51,7 @@ app.layout = dbc.Container([
              style = {'display': 'block',
                 'color': MaroonRed_color,
                 'margin': '0.2em 0',
-                'padding': '0px 0px 0px 0px', # Numbers represent spacing for the top, right, bottom, and left (in that order)
+                'padding': '0px 1.25% 0px 1.25%', # Numbers represent spacing for the top, right, bottom, and left (in that order)
                 'font-family': 'Trebuchet MS, sans-serif',
                 'font-size': '220.0%'}
             ),
@@ -61,7 +62,7 @@ app.layout = dbc.Container([
     ], style = {'display': 'block',
                 'color': ObsidianBlack_color,
                 'margin': '-0.5em 0',
-                'padding': '0px 0px 0px 0px',
+                'padding': '0px 1.25% 0px 1.25%',
                 'font-family': 'Trebuchet MS, sans-serif',
                 'font-size': '105.0%'
                }
@@ -73,7 +74,7 @@ app.layout = dbc.Container([
                 'height': '1px',
                 'border': 0,
                 'margin': '-0.9em 0',
-                'padding': 0
+                'padding': '0px 1.25% 0px 1.25%'
                }
             ),
     
@@ -87,8 +88,8 @@ app.layout = dbc.Container([
                          value       = 'LongBeach',
                          clearable   = False
                         )],
-            width = 12, md = 6, xl = 4,
-            style = {'margin': '0 0', 'padding': '30px 15px 0px 0px'}),
+            width = 12, sm = 12, xl = 4,
+            style = {'margin': '0 0', 'padding': '30px 1.25% 0px 1.25%'}),
         dbc.Col([
             dcc.Dropdown(id          = 'year-dropdown',
                          placeholder = 'Select a year',
@@ -97,17 +98,17 @@ app.layout = dbc.Container([
                          clearable   = False,
                          searchable  = False
                          )],
-            width = 12, md = 6, xl = 3,
-            style = {'margin': '0 0', 'padding': '30px 15px 0px 0px'}),
+            width = 12, sm = 12, xl = 3,
+            style = {'margin': '0 0', 'padding': '30px 1.25% 0px 1.25%'}),
         dbc.Col([
             dcc.Dropdown(id          = 'census-tract-dropdown',
                          placeholder = 'Click on a census tract in the map',
                          clearable   = True
                         )],
-            width = 12, md = 6, xl = 5,
-            style = {'margin': '0 0', 'padding': '30px 15px 0px 0px'})
+            width = 12, sm = 12, xl = 5,
+            style = {'margin': '0 0', 'padding': '30px 1.25% 0px 1.25%'})
         ], align = 'center', justify = 'center')
-    ], style = {'padding': '0px 0px 10px 15px'}),
+    ], style = {'padding': '0px 2.00% 10px 2.00%'}),
 
     # Map and plot
     html.Div([
@@ -116,8 +117,12 @@ app.layout = dbc.Container([
                 dbc.Card([
                     dbc.CardHeader(children = [html.B("Median Contract Rents"), " in ", html.B(id="map-title1"), " by Census Tract, ", html.B(id="map-title2")],
                                    style    = {'background-color': MaroonRed_color, 'color': '#FFFFFF'}),
-                    dbc.CardBody([geodata_map],
-                                 style = {'background-color': AlabasterWhite_color})
+                    dbc.CardBody([
+                        dcc.Loading(color   = '#29B0F0',
+                                    display = 'show',
+                                    style   = {'position': 'relative', 'margin-top': '75%'}),
+                        geodata_map],
+                        style = {'background-color': AlabasterWhite_color})
                 ])
             ], width = 12, xl = 6),
             dbc.Col([
@@ -129,13 +134,13 @@ app.layout = dbc.Container([
                 ])
             ], width = 12, xl = 6)
         ], align = 'center', justify = 'center')
-    ], style = {'padding': '10px 0px 20px 0px'}),
+    ], style = {'padding': '10px 1.05% 20px 1.05%'}),
 
     # Footer
     html.Div([
         fmc.FefferyMarkdown(markdownStr    = footer_string,
                             renderHtml     = True,
-                            style          = {'background': LightBrown_color, 'margin-top': '1em'}
+                            style          = {'background': LightBrown_color, 'margin-top': '1em', 'padding': '0px 2.0% 0px 2.0%'}
                            )
     ]),
 
@@ -330,9 +335,9 @@ app.clientside_callback(
 
         var strings = my_array.map(function(item) {
             return "<b style='font-size:16px;'>" + item['TRACT'] + "</b><br>" + item['CITY'] + "<br><br>"
-            + "Median Contract Rent (" + item['YEAR'] + "): <br><b style='color:#800000; font-size:14px;'>" + item['Median'] + "</b> <br><br>"
-            + "25th Percentile Contract Rent (" + item['YEAR'] + "): <br><b style='color:#B22222; font-size:14px;'>" + item['25th'] + "</b> <br><br>"
-            + "75th Percentile Contract Rent (" + item['YEAR'] + "): <br><b style='color:#B22222; font-size:14px;'>" + item['75th'] + "</b> <br><br><extra></extra>";
+            + "Median Contract Rent: <br><b style='color:#800000; font-size:14px;'>" + item['Median'] + "</b> <br><br>"
+            + "25th Percentile Contract Rent: <br><b style='color:#B22222; font-size:14px;'>" + item['25th'] + "</b> <br><br>"
+            + "75th Percentile Contract Rent: <br><b style='color:#B22222; font-size:14px;'>" + item['75th'] + "</b> <br><br><extra></extra>";
             });
     
     
@@ -473,9 +478,9 @@ app.clientside_callback(
                 'uirevision': true,
                 'paper_bgcolor': '#FEF9F3',
                 'plot_bgcolor': '#FEF9F3',
-                'title': {'text': `Median Contract Rents, ${Math.min(...x_array)} to ${Math.max(...x_array)}`, 'x': 0.05},
-                'xaxis': {'title': {'text': 'Year', 'ticklabelstandoff': 10}, 'showgrid': false, 'tick0': Math.min(...x_array), 'dtick': 2},
-                'yaxis': {'title': {'text': 'Median Contract Rents ($)', 'standoff': 15}, 'tickprefix': '$', 'gridcolor': '#E0E0E0', 'ticklabelstandoff': 5},
+                'title': {'text': `<b>Median Contract Rents</b>, ${Math.min(...x_array)} to ${Math.max(...x_array)}`, 'x': 0.05},
+                'xaxis': {'title': {'text': '<b>Year</b>', 'ticklabelstandoff': 10, 'font': {'size': 14}}, 'showgrid': false, 'tick0': Math.min(...x_array), 'dtick': 2, 'ticks': '', 'tickfont': {'color': '#666666'}},
+                'yaxis': {'title': {'text': '<b>Contract Rents ($)</b>', 'standoff': 15, 'font': {'size': 14}}, 'tickprefix': '$', 'gridcolor': '#E0E0E0', 'ticklabelstandoff': 5, 'ticks': '', 'tickfont': {'color': '#666666'}},
             };
             
             return {'data': data, 'layout': layout};

@@ -45,3 +45,12 @@ a {
 .maplibregl-ctrl-attrib-button {
   visibility: hidden;
 }
+
+
+.dash-graph--pending {
+  visibility: hidden;
+}
+
+.maplibregl-ctrl-bottom-right {
+  visibility: hidden;
+}
