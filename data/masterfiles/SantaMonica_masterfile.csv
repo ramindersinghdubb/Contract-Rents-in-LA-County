@@ -19,7 +19,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,866.0,139.0,1407.0,247.0,1832.0,102.0,$1407,$1832,$866
 2010,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,886.0,166.0,1312.0,142.0,1804.0,215.0,$1312,$1804,$886
 2010,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,916.0,74.0,1138.0,88.0,1500.0,170.0,$1138,$1500,$916
-2010,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2011,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,1316.0,454.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1316
 2011,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1135.0,636.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1135
 2011,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1124.0,193.0,1659.0,200.0,2001.0,,$1659,Not available. Exceeds $2000!,$1124
@@ -40,7 +40,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,864.0,70.0,1322.0,227.0,1786.0,119.0,$1322,$1786,$864
 2011,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1078.0,277.0,1529.0,193.0,2001.0,,$1529,Not available. Exceeds $2000!,$1078
 2011,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,923.0,76.0,1245.0,123.0,1636.0,285.0,$1245,$1636,$923
-2011,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2012,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,1403.0,372.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1403
 2012,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1136.0,294.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1136
 2012,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1074.0,178.0,1809.0,255.0,2001.0,,$1809,Not available. Exceeds $2000!,$1074
@@ -61,7 +61,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,864.0,72.0,1285.0,225.0,1830.0,209.0,$1285,$1830,$864
 2012,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1047.0,206.0,1526.0,186.0,1991.0,206.0,$1526,$1991,$1047
 2012,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,918.0,83.0,1187.0,93.0,1492.0,169.0,$1187,$1492,$918
-2012,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2013,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,1333.0,388.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1333
 2013,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1140.0,264.0,1744.0,544.0,2001.0,,$1744,Not available. Exceeds $2000!,$1140
 2013,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1107.0,186.0,1824.0,228.0,2001.0,,$1824,Not available. Exceeds $2000!,$1107
@@ -82,7 +82,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,949.0,118.0,1432.0,262.0,2001.0,,$1432,Not available. Exceeds $2000!,$949
 2013,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1145.0,172.0,1686.0,121.0,2001.0,,$1686,Not available. Exceeds $2000!,$1145
 2013,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,881.0,79.0,1205.0,149.0,1585.0,222.0,$1205,$1585,$881
-2013,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2014,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,1588.0,706.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1588
 2014,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1159.0,135.0,1607.0,398.0,2001.0,,$1607,Not available. Exceeds $2000!,$1159
 2014,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1356.0,263.0,1844.0,121.0,2001.0,,$1844,Not available. Exceeds $2000!,$1356
@@ -103,7 +103,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,992.0,115.0,1501.0,236.0,1995.0,197.0,$1501,$1995,$992
 2014,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,976.0,202.0,1579.0,160.0,1976.0,145.0,$1579,$1976,$976
 2014,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,896.0,75.0,1254.0,121.0,1666.0,222.0,$1254,$1666,$896
-2014,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2015,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,1410.0,835.0,2292.0,158.0,2720.0,194.0,$2292,$2720,$1410
 2015,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1199.0,292.0,1733.0,462.0,2708.0,959.0,$1733,$2708,$1199
 2015,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1446.0,192.0,1843.0,98.0,2376.0,195.0,$1843,$2376,$1446
@@ -124,7 +124,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1033.0,116.0,1597.0,235.0,2277.0,319.0,$1597,$2277,$1033
 2015,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,949.0,216.0,1635.0,161.0,2123.0,362.0,$1635,$2123,$949
 2015,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,912.0,66.0,1279.0,134.0,1732.0,242.0,$1279,$1732,$912
-2015,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2016,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,1306.0,686.0,2418.0,250.0,2994.0,232.0,$2418,$2994,$1306
 2016,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1223.0,367.0,1815.0,504.0,2763.0,610.0,$1815,$2763,$1223
 2016,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1276.0,300.0,1893.0,136.0,2432.0,169.0,$1893,$2432,$1276
@@ -145,7 +145,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1138.0,174.0,1615.0,219.0,2272.0,387.0,$1615,$2272,$1138
 2016,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,997.0,129.0,1508.0,257.0,2003.0,247.0,$1508,$2003,$997
 2016,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,881.0,79.0,1240.0,183.0,1867.0,183.0,$1240,$1867,$881
-2016,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2017,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,2039.0,1227.0,2725.0,179.0,3178.0,93.0,$2725,$3178,$2039
 2017,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1414.0,181.0,1725.0,260.0,2569.0,920.0,$1725,$2569,$1414
 2017,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1502.0,300.0,1993.0,138.0,2440.0,107.0,$1993,$2440,$1502
@@ -166,7 +166,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1276.0,240.0,1812.0,245.0,2509.0,316.0,$1812,$2509,$1276
 2017,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1064.0,203.0,1575.0,199.0,2063.0,263.0,$1575,$2063,$1064
 2017,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,921.0,104.0,1426.0,244.0,1896.0,120.0,$1426,$1896,$921
-2017,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2018,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,2513.0,370.0,3107.0,108.0,3424.0,112.0,$3107,$3424,$2513
 2018,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1591.0,172.0,1871.0,224.0,2398.0,533.0,$1871,$2398,$1591
 2018,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1598.0,120.0,2078.0,146.0,2724.0,240.0,$2078,$2724,$1598
@@ -187,7 +187,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1273.0,393.0,1805.0,128.0,2393.0,339.0,$1805,$2393,$1273
 2018,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1051.0,291.0,1580.0,195.0,2195.0,267.0,$1580,$2195,$1051
 2018,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,968.0,66.0,1404.0,242.0,1983.0,195.0,$1404,$1983,$968
-2018,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2019,6037273100,Census Tract 2731,Santa Monica,Los Angeles County,California,SantaMonica,2576.0,299.0,3101.0,121.0,3410.0,105.0,$3101,$3410,$2576
 2019,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1563.0,408.0,2129.0,371.0,2616.0,357.0,$2129,$2616,$1563
 2019,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1628.0,165.0,2182.0,170.0,2882.0,274.0,$2182,$2882,$1628
@@ -208,7 +208,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1235.0,416.0,1759.0,123.0,2307.0,437.0,$1759,$2307,$1235
 2019,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1278.0,192.0,1702.0,182.0,2402.0,407.0,$1702,$2402,$1278
 2019,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,969.0,102.0,1579.0,224.0,2176.0,153.0,$1579,$2176,$969
-2019,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2020,6037264305,Census Tract 2643.05,Santa Monica,Los Angeles County,California,SantaMonica,1778.0,229.0,2549.0,251.0,3310.0,469.0,$2549,$3310,$1778
 2020,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1528.0,263.0,1848.0,350.0,2414.0,1407.0,$1848,$2414,$1528
 2020,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,1746.0,198.0,2402.0,211.0,3281.0,428.0,$2402,$3281,$1746
@@ -229,7 +229,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1133.0,123.0,1618.0,215.0,2157.0,390.0,$1618,$2157,$1133
 2020,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1295.0,171.0,1728.0,210.0,2508.0,401.0,$1728,$2508,$1295
 2020,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,1058.0,277.0,1865.0,419.0,2595.0,577.0,$1865,$2595,$1058
-2020,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2021,6037264305,Census Tract 2643.05,Santa Monica,Los Angeles County,California,SantaMonica,1847.0,260.0,2622.0,369.0,3501.0,,$2622,Not available. Exceeds $3500!,$1847
 2021,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1532.0,327.0,1984.0,416.0,2391.0,1484.0,$1984,$2391,$1532
 2021,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,2039.0,193.0,2657.0,227.0,3446.0,238.0,$2657,$3446,$2039
@@ -250,7 +250,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1273.0,326.0,1958.0,295.0,2720.0,386.0,$1958,$2720,$1273
 2021,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1276.0,317.0,1965.0,314.0,2609.0,331.0,$1965,$2609,$1276
 2021,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,1058.0,315.0,1916.0,568.0,3013.0,1161.0,$1916,$3013,$1058
-2021,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2022,6037264305,Census Tract 2643.05,Santa Monica,Los Angeles County,California,SantaMonica,2205.0,140.0,2868.0,581.0,3501.0,,$2868,Not available. Exceeds $3500!,$2205
 2022,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1589.0,384.0,2056.0,506.0,3501.0,,$2056,Not available. Exceeds $3500!,$1589
 2022,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,2192.0,178.0,2923.0,306.0,3501.0,,$2923,Not available. Exceeds $3500!,$2192
@@ -271,7 +271,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1406.0,159.0,2054.0,270.0,2695.0,337.0,$2054,$2695,$1406
 2022,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1375.0,411.0,2131.0,239.0,2933.0,586.0,$2131,$2933,$1375
 2022,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,1146.0,272.0,2030.0,608.0,3193.0,872.0,$2030,$3193,$1146
-2022,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,
 2023,6037264305,Census Tract 2643.05,Santa Monica,Los Angeles County,California,SantaMonica,2384.0,300.0,3250.0,469.0,3501.0,,$3250,Not available. Exceeds $3500!,$2384
 2023,6037701201,Census Tract 7012.01,Santa Monica,Los Angeles County,California,SantaMonica,1691.0,149.0,1950.0,1346.0,3501.0,,$1950,Not available. Exceeds $3500!,$1691
 2023,6037701202,Census Tract 7012.02,Santa Monica,Los Angeles County,California,SantaMonica,2236.0,267.0,3014.0,250.0,3501.0,,$3014,Not available. Exceeds $3500!,$2236
@@ -292,4 +292,4 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037702201,Census Tract 7022.01,Santa Monica,Los Angeles County,California,SantaMonica,1449.0,209.0,2219.0,433.0,3501.0,,$2219,Not available. Exceeds $3500!,$1449
 2023,6037702202,Census Tract 7022.02,Santa Monica,Los Angeles County,California,SantaMonica,1578.0,376.0,2315.0,209.0,3098.0,341.0,$2315,$3098,$1578
 2023,6037702300,Census Tract 7023,Santa Monica,Los Angeles County,California,SantaMonica,1275.0,321.0,2167.0,618.0,3501.0,,$2167,Not available. Exceeds $3500!,$1275
-2023,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037990200,Census Tract 9902,Santa Monica,Los Angeles County,California,SantaMonica,,,,,,,,,

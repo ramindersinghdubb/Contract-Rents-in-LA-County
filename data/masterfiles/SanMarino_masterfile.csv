@@ -31,7 +31,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037480600,Census Tract 4806,San Marino,Los Angeles County,California,SanMarino,1091.0,61.0,1315.0,64.0,1568.0,139.0,$1315,$1568,$1091
 2015,6037463300,Census Tract 4633,San Marino,Los Angeles County,California,SanMarino,999.0,80.0,1213.0,120.0,1619.0,280.0,$1213,$1619,$999
 2015,6037464000,Census Tract 4640,San Marino,Los Angeles County,California,SanMarino,1130.0,150.0,1464.0,171.0,1974.0,296.0,$1464,$1974,$1130
-2015,6037464100,Census Tract 4641,San Marino,Los Angeles County,California,SanMarino,1745.0,542.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1745
+2015,6037464100,Census Tract 4641,San Marino,Los Angeles County,California,SanMarino,1745.0,542.0,,,3501.0,,,Not available. Exceeds $3500!,$1745
 2015,6037464200,Census Tract 4642,San Marino,Los Angeles County,California,SanMarino,2680.0,501.0,3288.0,424.0,3501.0,,$3288,Not available. Exceeds $3500!,$2680
 2015,6037480202,Census Tract 4802.02,San Marino,Los Angeles County,California,SanMarino,1113.0,114.0,1979.0,766.0,2649.0,270.0,$1979,$2649,$1113
 2015,6037480600,Census Tract 4806,San Marino,Los Angeles County,California,SanMarino,1098.0,65.0,1329.0,52.0,1569.0,142.0,$1329,$1569,$1098
@@ -55,19 +55,19 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037480600,Census Tract 4806,San Marino,Los Angeles County,California,SanMarino,1299.0,56.0,1547.0,94.0,1905.0,81.0,$1547,$1905,$1299
 2019,6037463300,Census Tract 4633,San Marino,Los Angeles County,California,SanMarino,1243.0,208.0,1413.0,68.0,1914.0,349.0,$1413,$1914,$1243
 2019,6037464000,Census Tract 4640,San Marino,Los Angeles County,California,SanMarino,1318.0,80.0,1629.0,156.0,2109.0,223.0,$1629,$2109,$1318
-2019,6037464100,Census Tract 4641,San Marino,Los Angeles County,California,SanMarino,1619.0,339.0,1871.0,391.0,,,$1871,Not Available!,$1619
+2019,6037464100,Census Tract 4641,San Marino,Los Angeles County,California,SanMarino,1619.0,339.0,1871.0,391.0,,,$1871,,$1619
 2019,6037464200,Census Tract 4642,San Marino,Los Angeles County,California,SanMarino,2947.0,751.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2947
 2019,6037480202,Census Tract 4802.02,San Marino,Los Angeles County,California,SanMarino,1207.0,192.0,1850.0,570.0,2674.0,324.0,$1850,$2674,$1207
 2019,6037480600,Census Tract 4806,San Marino,Los Angeles County,California,SanMarino,1434.0,62.0,1733.0,71.0,2086.0,193.0,$1733,$2086,$1434
-2020,6037464101,Census Tract 4641.01,San Marino,Los Angeles County,California,SanMarino,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037464102,Census Tract 4641.02,San Marino,Los Angeles County,California,SanMarino,1727.0,734.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1727
+2020,6037464101,Census Tract 4641.01,San Marino,Los Angeles County,California,SanMarino,,,,,,,,,
+2020,6037464102,Census Tract 4641.02,San Marino,Los Angeles County,California,SanMarino,1727.0,734.0,,,3501.0,,,Not available. Exceeds $3500!,$1727
 2020,6037464200,Census Tract 4642,San Marino,Los Angeles County,California,SanMarino,3335.0,301.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3335
 2020,6037480002,Census Tract 4800.02,San Marino,Los Angeles County,California,SanMarino,1317.0,595.0,2261.0,381.0,2801.0,327.0,$2261,$2801,$1317
-2021,6037464101,Census Tract 4641.01,San Marino,Los Angeles County,California,SanMarino,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037464101,Census Tract 4641.01,San Marino,Los Angeles County,California,SanMarino,,,,,,,,,
 2021,6037464102,Census Tract 4641.02,San Marino,Los Angeles County,California,SanMarino,1798.0,1281.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1798
 2021,6037464200,Census Tract 4642,San Marino,Los Angeles County,California,SanMarino,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
 2021,6037480002,Census Tract 4800.02,San Marino,Los Angeles County,California,SanMarino,1725.0,759.0,2615.0,402.0,3156.0,1146.0,$2615,$3156,$1725
-2022,6037464101,Census Tract 4641.01,San Marino,Los Angeles County,California,SanMarino,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037464101,Census Tract 4641.01,San Marino,Los Angeles County,California,SanMarino,,,,,,,,,
 2022,6037464102,Census Tract 4641.02,San Marino,Los Angeles County,California,SanMarino,2065.0,1933.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2065
 2022,6037464200,Census Tract 4642,San Marino,Los Angeles County,California,SanMarino,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
 2022,6037480002,Census Tract 4800.02,San Marino,Los Angeles County,California,SanMarino,2264.0,853.0,3471.0,827.0,3501.0,,$3471,Not available. Exceeds $3500!,$2264

@@ -62,8 +62,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037401902,Census Tract 4019.02,Claremont,Los Angeles County,California,Claremont,900.0,60.0,1209.0,179.0,1678.0,271.0,$1209,$1678,$900
 2016,6037402001,Census Tract 4020.01,Claremont,Los Angeles County,California,Claremont,669.0,569.0,1222.0,128.0,1487.0,149.0,$1222,$1487,$669
 2016,6037402002,Census Tract 4020.02,Claremont,Los Angeles County,California,Claremont,910.0,124.0,1311.0,105.0,1646.0,166.0,$1311,$1646,$910
-2017,6037400204,Census Tract 4002.04,Claremont,Los Angeles County,California,Claremont,,,2615.0,1412.0,2807.0,165.0,$2615,$2807,Not Available!
-2017,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,2155.0,523.0,2327.0,114.0,$2155,$2327,Not Available!
+2017,6037400204,Census Tract 4002.04,Claremont,Los Angeles County,California,Claremont,,,2615.0,1412.0,2807.0,165.0,$2615,$2807,
+2017,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,2155.0,523.0,2327.0,114.0,$2155,$2327,
 2017,6037400206,Census Tract 4002.06,Claremont,Los Angeles County,California,Claremont,2041.0,337.0,2488.0,360.0,2969.0,433.0,$2488,$2969,$2041
 2017,6037401701,Census Tract 4017.01,Claremont,Los Angeles County,California,Claremont,552.0,358.0,944.0,103.0,1375.0,728.0,$944,$1375,$552
 2017,6037401800,Census Tract 4018,Claremont,Los Angeles County,California,Claremont,1348.0,162.0,1660.0,155.0,1966.0,166.0,$1660,$1966,$1348
@@ -71,27 +71,27 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037401902,Census Tract 4019.02,Claremont,Los Angeles County,California,Claremont,905.0,71.0,1222.0,138.0,1692.0,322.0,$1222,$1692,$905
 2017,6037402001,Census Tract 4020.01,Claremont,Los Angeles County,California,Claremont,949.0,447.0,1281.0,163.0,1633.0,240.0,$1281,$1633,$949
 2017,6037402002,Census Tract 4020.02,Claremont,Los Angeles County,California,Claremont,916.0,90.0,1423.0,189.0,1777.0,105.0,$1423,$1777,$916
-2018,6037400204,Census Tract 4002.04,Claremont,Los Angeles County,California,Claremont,,,,,2691.0,2101.0,Not Available!,$2691,Not Available!
-2018,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037400204,Census Tract 4002.04,Claremont,Los Angeles County,California,Claremont,,,,,2691.0,2101.0,,$2691,
+2018,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,,,,,,,
 2018,6037400206,Census Tract 4002.06,Claremont,Los Angeles County,California,Claremont,2216.0,213.0,2606.0,246.0,2952.0,392.0,$2606,$2952,$2216
-2018,6037401701,Census Tract 4017.01,Claremont,Los Angeles County,California,Claremont,,,1067.0,302.0,1768.0,315.0,$1067,$1768,Not Available!
+2018,6037401701,Census Tract 4017.01,Claremont,Los Angeles County,California,Claremont,,,1067.0,302.0,1768.0,315.0,$1067,$1768,
 2018,6037401800,Census Tract 4018,Claremont,Los Angeles County,California,Claremont,1403.0,169.0,1678.0,128.0,1931.0,96.0,$1678,$1931,$1403
 2018,6037401901,Census Tract 4019.01,Claremont,Los Angeles County,California,Claremont,1014.0,379.0,1355.0,148.0,1583.0,273.0,$1355,$1583,$1014
 2018,6037401902,Census Tract 4019.02,Claremont,Los Angeles County,California,Claremont,962.0,67.0,1284.0,101.0,1606.0,364.0,$1284,$1606,$962
 2018,6037402001,Census Tract 4020.01,Claremont,Los Angeles County,California,Claremont,1267.0,206.0,1426.0,79.0,1748.0,185.0,$1426,$1748,$1267
 2018,6037402002,Census Tract 4020.02,Claremont,Los Angeles County,California,Claremont,974.0,338.0,1574.0,112.0,1827.0,68.0,$1574,$1827,$974
-2019,6037400204,Census Tract 4002.04,Claremont,Los Angeles County,California,Claremont,,,318.0,165.0,335.0,14.0,$318,$335,Not Available!
-2019,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,,,1297.0,740.0,Not Available!,$1297,Not Available!
+2019,6037400204,Census Tract 4002.04,Claremont,Los Angeles County,California,Claremont,,,318.0,165.0,335.0,14.0,$318,$335,
+2019,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,,,1297.0,740.0,,$1297,
 2019,6037400206,Census Tract 4002.06,Claremont,Los Angeles County,California,Claremont,2352.0,254.0,2743.0,403.0,3200.0,405.0,$2743,$3200,$2352
-2019,6037401701,Census Tract 4017.01,Claremont,Los Angeles County,California,Claremont,,,1200.0,218.0,1906.0,515.0,$1200,$1906,Not Available!
+2019,6037401701,Census Tract 4017.01,Claremont,Los Angeles County,California,Claremont,,,1200.0,218.0,1906.0,515.0,$1200,$1906,
 2019,6037401800,Census Tract 4018,Claremont,Los Angeles County,California,Claremont,1262.0,184.0,1583.0,175.0,1900.0,119.0,$1583,$1900,$1262
 2019,6037401901,Census Tract 4019.01,Claremont,Los Angeles County,California,Claremont,1252.0,416.0,1457.0,221.0,1766.0,192.0,$1457,$1766,$1252
 2019,6037401902,Census Tract 4019.02,Claremont,Los Angeles County,California,Claremont,954.0,62.0,1270.0,110.0,1640.0,237.0,$1270,$1640,$954
 2019,6037402001,Census Tract 4020.01,Claremont,Los Angeles County,California,Claremont,974.0,461.0,1472.0,119.0,1811.0,118.0,$1472,$1811,$974
 2019,6037402002,Census Tract 4020.02,Claremont,Los Angeles County,California,Claremont,970.0,128.0,1603.0,102.0,1877.0,82.0,$1603,$1877,$970
-2020,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,,,3501.0,,Not Available!,Not available. Exceeds $3500!,Not Available!
+2020,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,,,3501.0,,,Not available. Exceeds $3500!,
 2020,6037400206,Census Tract 4002.06,Claremont,Los Angeles County,California,Claremont,2332.0,249.0,2679.0,351.0,3081.0,483.0,$2679,$3081,$2332
-2020,6037400209,Census Tract 4002.09,Claremont,Los Angeles County,California,Claremont,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037400209,Census Tract 4002.09,Claremont,Los Angeles County,California,Claremont,,,,,,,,,
 2020,6037401705,Census Tract 4017.05,Claremont,Los Angeles County,California,Claremont,1463.0,962.0,2375.0,982.0,2731.0,285.0,$2375,$2731,$1463
 2020,6037401801,Census Tract 4018.01,Claremont,Los Angeles County,California,Claremont,1502.0,686.0,1734.0,133.0,1965.0,178.0,$1734,$1965,$1502
 2020,6037401802,Census Tract 4018.02,Claremont,Los Angeles County,California,Claremont,1354.0,698.0,1682.0,484.0,2155.0,344.0,$1682,$2155,$1354
@@ -99,30 +99,30 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037401902,Census Tract 4019.02,Claremont,Los Angeles County,California,Claremont,1147.0,187.0,1426.0,129.0,1986.0,462.0,$1426,$1986,$1147
 2020,6037402001,Census Tract 4020.01,Claremont,Los Angeles County,California,Claremont,1275.0,415.0,1634.0,135.0,2032.0,204.0,$1634,$2032,$1275
 2020,6037402002,Census Tract 4020.02,Claremont,Los Angeles County,California,Claremont,743.0,392.0,1483.0,435.0,1813.0,101.0,$1483,$1813,$743
-2021,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!
+2021,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
 2021,6037400206,Census Tract 4002.06,Claremont,Los Angeles County,California,Claremont,2453.0,564.0,3027.0,521.0,3264.0,192.0,$3027,$3264,$2453
-2021,6037400209,Census Tract 4002.09,Claremont,Los Angeles County,California,Claremont,,,,,2868.0,325.0,Not Available!,$2868,Not Available!
+2021,6037400209,Census Tract 4002.09,Claremont,Los Angeles County,California,Claremont,,,,,2868.0,325.0,,$2868,
 2021,6037401705,Census Tract 4017.05,Claremont,Los Angeles County,California,Claremont,1411.0,410.0,1914.0,1071.0,3094.0,575.0,$1914,$3094,$1411
 2021,6037401801,Census Tract 4018.01,Claremont,Los Angeles County,California,Claremont,1620.0,167.0,1913.0,220.0,2263.0,221.0,$1913,$2263,$1620
-2021,6037401802,Census Tract 4018.02,Claremont,Los Angeles County,California,Claremont,,,1893.0,607.0,2560.0,507.0,$1893,$2560,Not Available!
+2021,6037401802,Census Tract 4018.02,Claremont,Los Angeles County,California,Claremont,,,1893.0,607.0,2560.0,507.0,$1893,$2560,
 2021,6037401901,Census Tract 4019.01,Claremont,Los Angeles County,California,Claremont,1121.0,288.0,1415.0,306.0,2169.0,425.0,$1415,$2169,$1121
 2021,6037401902,Census Tract 4019.02,Claremont,Los Angeles County,California,Claremont,1257.0,106.0,1490.0,211.0,2161.0,407.0,$1490,$2161,$1257
 2021,6037402001,Census Tract 4020.01,Claremont,Los Angeles County,California,Claremont,1347.0,185.0,1733.0,153.0,2118.0,179.0,$1733,$2118,$1347
 2021,6037402002,Census Tract 4020.02,Claremont,Los Angeles County,California,Claremont,1049.0,449.0,1632.0,147.0,1906.0,112.0,$1632,$1906,$1049
-2022,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,,,3501.0,,Not Available!,Not available. Exceeds $3500!,Not Available!
-2022,6037400206,Census Tract 4002.06,Claremont,Los Angeles County,California,Claremont,,,2946.0,580.0,3253.0,214.0,$2946,$3253,Not Available!
-2022,6037400209,Census Tract 4002.09,Claremont,Los Angeles County,California,Claremont,,,3188.0,197.0,3380.0,179.0,$3188,$3380,Not Available!
+2022,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,,,3501.0,,,Not available. Exceeds $3500!,
+2022,6037400206,Census Tract 4002.06,Claremont,Los Angeles County,California,Claremont,,,2946.0,580.0,3253.0,214.0,$2946,$3253,
+2022,6037400209,Census Tract 4002.09,Claremont,Los Angeles County,California,Claremont,,,3188.0,197.0,3380.0,179.0,$3188,$3380,
 2022,6037401705,Census Tract 4017.05,Claremont,Los Angeles County,California,Claremont,1725.0,1248.0,2656.0,809.0,3234.0,309.0,$2656,$3234,$1725
 2022,6037401801,Census Tract 4018.01,Claremont,Los Angeles County,California,Claremont,1645.0,115.0,1916.0,189.0,2241.0,186.0,$1916,$2241,$1645
-2022,6037401802,Census Tract 4018.02,Claremont,Los Angeles County,California,Claremont,,,2194.0,622.0,2651.0,474.0,$2194,$2651,Not Available!
+2022,6037401802,Census Tract 4018.02,Claremont,Los Angeles County,California,Claremont,,,2194.0,622.0,2651.0,474.0,$2194,$2651,
 2022,6037401901,Census Tract 4019.01,Claremont,Los Angeles County,California,Claremont,1204.0,172.0,1472.0,1028.0,2296.0,263.0,$1472,$2296,$1204
 2022,6037401902,Census Tract 4019.02,Claremont,Los Angeles County,California,Claremont,1429.0,138.0,1824.0,190.0,2490.0,329.0,$1824,$2490,$1429
 2022,6037402001,Census Tract 4020.01,Claremont,Los Angeles County,California,Claremont,1135.0,729.0,1728.0,211.0,2153.0,181.0,$1728,$2153,$1135
 2022,6037402002,Census Tract 4020.02,Claremont,Los Angeles County,California,Claremont,1038.0,339.0,1778.0,307.0,2293.0,184.0,$1778,$2293,$1038
-2023,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!
+2023,6037400205,Census Tract 4002.05,Claremont,Los Angeles County,California,Claremont,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
 2023,6037400206,Census Tract 4002.06,Claremont,Los Angeles County,California,Claremont,2556.0,1663.0,3004.0,393.0,3252.0,215.0,$3004,$3252,$2556
 2023,6037400209,Census Tract 4002.09,Claremont,Los Angeles County,California,Claremont,2968.0,352.0,3188.0,224.0,3390.0,208.0,$3188,$3390,$2968
-2023,6037401705,Census Tract 4017.05,Claremont,Los Angeles County,California,Claremont,1089.0,364.0,,,2391.0,1136.0,Not Available!,$2391,$1089
+2023,6037401705,Census Tract 4017.05,Claremont,Los Angeles County,California,Claremont,1089.0,364.0,,,2391.0,1136.0,,$2391,$1089
 2023,6037401801,Census Tract 4018.01,Claremont,Los Angeles County,California,Claremont,1763.0,157.0,2095.0,177.0,2393.0,210.0,$2095,$2393,$1763
 2023,6037401802,Census Tract 4018.02,Claremont,Los Angeles County,California,Claremont,1510.0,1464.0,2113.0,555.0,2730.0,532.0,$2113,$2730,$1510
 2023,6037401901,Census Tract 4019.01,Claremont,Los Angeles County,California,Claremont,1291.0,209.0,1850.0,931.0,2375.0,297.0,$1850,$2375,$1291

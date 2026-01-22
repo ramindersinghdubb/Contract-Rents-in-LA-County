@@ -339,7 +339,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037502003,Census Tract 5020.03,Whittier,Los Angeles County,California,Whittier,965.0,112.0,1243.0,142.0,1492.0,203.0,$1243,$1492,$965
 2020,6037502004,Census Tract 5020.04,Whittier,Los Angeles County,California,Whittier,1126.0,126.0,1488.0,231.0,1782.0,110.0,$1488,$1782,$1126
 2020,6037502005,Census Tract 5020.05,Whittier,Los Angeles County,California,Whittier,1329.0,78.0,1534.0,129.0,1797.0,85.0,$1534,$1797,$1329
-2020,6037502100,Census Tract 5021,Whittier,Los Angeles County,California,Whittier,,,1186.0,351.0,1822.0,237.0,$1186,$1822,Not Available!
+2020,6037502100,Census Tract 5021,Whittier,Los Angeles County,California,Whittier,,,1186.0,351.0,1822.0,237.0,$1186,$1822,
 2020,6037503301,Census Tract 5033.01,Whittier,Los Angeles County,California,Whittier,1578.0,971.0,1817.0,240.0,2142.0,493.0,$1817,$2142,$1578
 2020,6037503401,Census Tract 5034.01,Whittier,Los Angeles County,California,Whittier,1172.0,308.0,1737.0,189.0,2093.0,261.0,$1737,$2093,$1172
 2020,6037503402,Census Tract 5034.02,Whittier,Los Angeles County,California,Whittier,1399.0,288.0,1972.0,375.0,2337.0,163.0,$1972,$2337,$1399
@@ -367,14 +367,14 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037502003,Census Tract 5020.03,Whittier,Los Angeles County,California,Whittier,1069.0,130.0,1347.0,143.0,1783.0,299.0,$1347,$1783,$1069
 2021,6037502004,Census Tract 5020.04,Whittier,Los Angeles County,California,Whittier,1314.0,105.0,1571.0,143.0,1856.0,80.0,$1571,$1856,$1314
 2021,6037502005,Census Tract 5020.05,Whittier,Los Angeles County,California,Whittier,1442.0,153.0,1673.0,85.0,1879.0,72.0,$1673,$1879,$1442
-2021,6037502100,Census Tract 5021,Whittier,Los Angeles County,California,Whittier,,,1501.0,585.0,1855.0,213.0,$1501,$1855,Not Available!
+2021,6037502100,Census Tract 5021,Whittier,Los Angeles County,California,Whittier,,,1501.0,585.0,1855.0,213.0,$1501,$1855,
 2021,6037503301,Census Tract 5033.01,Whittier,Los Angeles County,California,Whittier,2043.0,647.0,2215.0,109.0,2388.0,86.0,$2215,$2388,$2043
 2021,6037503401,Census Tract 5034.01,Whittier,Los Angeles County,California,Whittier,1230.0,407.0,1750.0,168.0,2100.0,209.0,$1750,$2100,$1230
 2021,6037503402,Census Tract 5034.02,Whittier,Los Angeles County,California,Whittier,1601.0,229.0,1970.0,319.0,2603.0,685.0,$1970,$2603,$1601
 2021,6037503501,Census Tract 5035.01,Whittier,Los Angeles County,California,Whittier,1355.0,101.0,1625.0,160.0,1959.0,152.0,$1625,$1959,$1355
 2021,6037503502,Census Tract 5035.02,Whittier,Los Angeles County,California,Whittier,1509.0,442.0,1813.0,415.0,2582.0,804.0,$1813,$2582,$1509
 2021,6037504200,Census Tract 5042,Whittier,Los Angeles County,California,Whittier,979.0,136.0,1422.0,109.0,1834.0,80.0,$1422,$1834,$979
-2021,6037980036,Census Tract 9800.36,Whittier,Los Angeles County,California,Whittier,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037980036,Census Tract 9800.36,Whittier,Los Angeles County,California,Whittier,,,,,,,,,
 2022,6037500202,Census Tract 5002.02,Whittier,Los Angeles County,California,Whittier,1210.0,303.0,1438.0,375.0,1798.0,915.0,$1438,$1798,$1210
 2022,6037500203,Census Tract 5002.03,Whittier,Los Angeles County,California,Whittier,1845.0,554.0,2684.0,876.0,3028.0,371.0,$2684,$3028,$1845
 2022,6037501001,Census Tract 5010.01,Whittier,Los Angeles County,California,Whittier,1353.0,354.0,1640.0,214.0,1950.0,239.0,$1640,$1950,$1353
@@ -403,9 +403,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037503502,Census Tract 5035.02,Whittier,Los Angeles County,California,Whittier,1621.0,569.0,2196.0,370.0,2563.0,331.0,$2196,$2563,$1621
 2022,6037504200,Census Tract 5042,Whittier,Los Angeles County,California,Whittier,963.0,250.0,1593.0,89.0,1927.0,72.0,$1593,$1927,$963
 2022,6037980036,Census Tract 9800.36,Whittier,Los Angeles County,California,Whittier,1227.0,633.0,1672.0,570.0,1864.0,215.0,$1672,$1864,$1227
-2023,6037500202,Census Tract 5002.02,Whittier,Los Angeles County,California,Whittier,1308.0,437.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1308
+2023,6037500202,Census Tract 5002.02,Whittier,Los Angeles County,California,Whittier,1308.0,437.0,,,3501.0,,,Not available. Exceeds $3500!,$1308
 2023,6037500203,Census Tract 5002.03,Whittier,Los Angeles County,California,Whittier,2542.0,1319.0,2929.0,429.0,3225.0,272.0,$2929,$3225,$2542
-2023,6037501001,Census Tract 5010.01,Whittier,Los Angeles County,California,Whittier,,,1911.0,409.0,2294.0,208.0,$1911,$2294,Not Available!
+2023,6037501001,Census Tract 5010.01,Whittier,Los Angeles County,California,Whittier,,,1911.0,409.0,2294.0,208.0,$1911,$2294,
 2023,6037501002,Census Tract 5010.02,Whittier,Los Angeles County,California,Whittier,1653.0,283.0,2052.0,347.0,2506.0,319.0,$2052,$2506,$1653
 2023,6037501200,Census Tract 5012,Whittier,Los Angeles County,California,Whittier,1452.0,133.0,1744.0,152.0,2074.0,277.0,$1744,$2074,$1452
 2023,6037501301,Census Tract 5013.01,Whittier,Los Angeles County,California,Whittier,1388.0,138.0,1586.0,378.0,2133.0,963.0,$1586,$2133,$1388
@@ -423,8 +423,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037502003,Census Tract 5020.03,Whittier,Los Angeles County,California,Whittier,1326.0,143.0,1662.0,197.0,2055.0,242.0,$1662,$2055,$1326
 2023,6037502004,Census Tract 5020.04,Whittier,Los Angeles County,California,Whittier,1544.0,146.0,1810.0,128.0,2153.0,253.0,$1810,$2153,$1544
 2023,6037502005,Census Tract 5020.05,Whittier,Los Angeles County,California,Whittier,1645.0,47.0,1826.0,83.0,2023.0,204.0,$1826,$2023,$1645
-2023,6037502100,Census Tract 5021,Whittier,Los Angeles County,California,Whittier,,,1367.0,202.0,2109.0,660.0,$1367,$2109,Not Available!
-2023,6037503301,Census Tract 5033.01,Whittier,Los Angeles County,California,Whittier,,,2121.0,975.0,2360.0,178.0,$2121,$2360,Not Available!
+2023,6037502100,Census Tract 5021,Whittier,Los Angeles County,California,Whittier,,,1367.0,202.0,2109.0,660.0,$1367,$2109,
+2023,6037503301,Census Tract 5033.01,Whittier,Los Angeles County,California,Whittier,,,2121.0,975.0,2360.0,178.0,$2121,$2360,
 2023,6037503401,Census Tract 5034.01,Whittier,Los Angeles County,California,Whittier,1807.0,213.0,2116.0,225.0,2384.0,152.0,$2116,$2384,$1807
 2023,6037503402,Census Tract 5034.02,Whittier,Los Angeles County,California,Whittier,1622.0,192.0,1892.0,171.0,2584.0,543.0,$1892,$2584,$1622
 2023,6037503501,Census Tract 5035.01,Whittier,Los Angeles County,California,Whittier,1258.0,133.0,1623.0,196.0,2080.0,338.0,$1623,$2080,$1258

@@ -181,7 +181,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037621324,Census Tract 6213.24,Redondo Beach,Los Angeles County,California,RedondoBeach,2013.0,168.0,2386.0,168.0,3217.0,853.0,$2386,$3217,$2013
 2022,6037621326,Census Tract 6213.26,Redondo Beach,Los Angeles County,California,RedondoBeach,1897.0,155.0,2515.0,197.0,2891.0,85.0,$2515,$2891,$1897
 2022,6037621400,Census Tract 6214,Redondo Beach,Los Angeles County,California,RedondoBeach,1917.0,207.0,2313.0,148.0,2762.0,198.0,$2313,$2762,$1917
-2022,6037990200,Census Tract 9902,Redondo Beach,Los Angeles County,California,RedondoBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037990200,Census Tract 9902,Redondo Beach,Los Angeles County,California,RedondoBeach,,,,,,,,,
 2023,6037620501,Census Tract 6205.01,Redondo Beach,Los Angeles County,California,RedondoBeach,2154.0,207.0,2579.0,253.0,3006.0,677.0,$2579,$3006,$2154
 2023,6037620521,Census Tract 6205.21,Redondo Beach,Los Angeles County,California,RedondoBeach,1990.0,180.0,2263.0,89.0,2645.0,388.0,$2263,$2645,$1990
 2023,6037620522,Census Tract 6205.22,Redondo Beach,Los Angeles County,California,RedondoBeach,2100.0,206.0,2590.0,267.0,3328.0,384.0,$2590,$3328,$2100
@@ -196,4 +196,4 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037621324,Census Tract 6213.24,Redondo Beach,Los Angeles County,California,RedondoBeach,2125.0,136.0,2644.0,491.0,3453.0,424.0,$2644,$3453,$2125
 2023,6037621326,Census Tract 6213.26,Redondo Beach,Los Angeles County,California,RedondoBeach,2060.0,166.0,2573.0,145.0,2973.0,205.0,$2573,$2973,$2060
 2023,6037621400,Census Tract 6214,Redondo Beach,Los Angeles County,California,RedondoBeach,2033.0,184.0,2373.0,132.0,3107.0,290.0,$2373,$3107,$2033
-2023,6037990200,Census Tract 9902,Redondo Beach,Los Angeles County,California,RedondoBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037990200,Census Tract 9902,Redondo Beach,Los Angeles County,California,RedondoBeach,,,,,,,,,

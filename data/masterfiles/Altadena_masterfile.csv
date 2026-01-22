@@ -136,6 +136,6 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037460401,Census Tract 4604.01,Altadena,Los Angeles County,California,Altadena,1639.0,232.0,1962.0,275.0,2434.0,335.0,$1962,$2434,$1639
 2023,6037461000,Census Tract 4610,Altadena,Los Angeles County,California,Altadena,1588.0,163.0,1887.0,621.0,3205.0,150.0,$1887,$3205,$1588
 2023,6037461100,Census Tract 4611,Altadena,Los Angeles County,California,Altadena,1123.0,476.0,1729.0,149.0,2169.0,436.0,$1729,$2169,$1123
-2023,6037461200,Census Tract 4612,Altadena,Los Angeles County,California,Altadena,,,3036.0,1295.0,3501.0,,$3036,Not available. Exceeds $3500!,Not Available!
+2023,6037461200,Census Tract 4612,Altadena,Los Angeles County,California,Altadena,,,3036.0,1295.0,3501.0,,$3036,Not available. Exceeds $3500!,
 2023,6037461300,Census Tract 4613,Altadena,Los Angeles County,California,Altadena,1131.0,566.0,1565.0,993.0,2777.0,319.0,$1565,$2777,$1131
 2023,6037462500,Census Tract 4625,Altadena,Los Angeles County,California,Altadena,1764.0,225.0,2259.0,348.0,3457.0,605.0,$2259,$3457,$1764

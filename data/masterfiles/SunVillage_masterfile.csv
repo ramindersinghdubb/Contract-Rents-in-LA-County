@@ -40,10 +40,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037910101,Census Tract 9101.01,Sun Village,Los Angeles County,California,SunVillage,704.0,53.0,797.0,82.0,986.0,122.0,$797,$986,$704
 2019,6037910706,Census Tract 9107.06,Sun Village,Los Angeles County,California,SunVillage,667.0,128.0,1335.0,296.0,1684.0,225.0,$1335,$1684,$667
 2020,6037910002,Census Tract 9100.02,Sun Village,Los Angeles County,California,SunVillage,839.0,123.0,1134.0,246.0,1426.0,175.0,$1134,$1426,$839
-2020,6037910706,Census Tract 9107.06,Sun Village,Los Angeles County,California,SunVillage,,,1425.0,207.0,1810.0,255.0,$1425,$1810,Not Available!
+2020,6037910706,Census Tract 9107.06,Sun Village,Los Angeles County,California,SunVillage,,,1425.0,207.0,1810.0,255.0,$1425,$1810,
 2020,6037911100,Census Tract 9111,Sun Village,Los Angeles County,California,SunVillage,757.0,72.0,942.0,95.0,1178.0,97.0,$942,$1178,$757
 2021,6037910002,Census Tract 9100.02,Sun Village,Los Angeles County,California,SunVillage,878.0,276.0,1272.0,171.0,1435.0,94.0,$1272,$1435,$878
-2021,6037910706,Census Tract 9107.06,Sun Village,Los Angeles County,California,SunVillage,,,1482.0,281.0,1991.0,337.0,$1482,$1991,Not Available!
+2021,6037910706,Census Tract 9107.06,Sun Village,Los Angeles County,California,SunVillage,,,1482.0,281.0,1991.0,337.0,$1482,$1991,
 2021,6037911100,Census Tract 9111,Sun Village,Los Angeles County,California,SunVillage,767.0,71.0,1001.0,140.0,1342.0,283.0,$1001,$1342,$767
 2022,6037910002,Census Tract 9100.02,Sun Village,Los Angeles County,California,SunVillage,1047.0,322.0,1317.0,100.0,1452.0,70.0,$1317,$1452,$1047
 2022,6037910706,Census Tract 9107.06,Sun Village,Los Angeles County,California,SunVillage,781.0,521.0,1605.0,315.0,2056.0,295.0,$1605,$2056,$781

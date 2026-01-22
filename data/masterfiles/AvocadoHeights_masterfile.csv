@@ -55,11 +55,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037980035,Census Tract 9800.35,Avocado Heights,Los Angeles County,California,AvocadoHeights,770.0,25.0,869.0,133.0,1080.0,231.0,$869,$1080,$770
 2021,6037408301,Census Tract 4083.01,Avocado Heights,Los Angeles County,California,AvocadoHeights,1124.0,282.0,1385.0,79.0,1652.0,185.0,$1385,$1652,$1124
 2021,6037408302,Census Tract 4083.02,Avocado Heights,Los Angeles County,California,AvocadoHeights,1538.0,544.0,1833.0,256.0,2444.0,621.0,$1833,$2444,$1538
-2021,6037408303,Census Tract 4083.03,Avocado Heights,Los Angeles County,California,AvocadoHeights,,,1704.0,575.0,2548.0,883.0,$1704,$2548,Not Available!
+2021,6037408303,Census Tract 4083.03,Avocado Heights,Los Angeles County,California,AvocadoHeights,,,1704.0,575.0,2548.0,883.0,$1704,$2548,
 2021,6037980035,Census Tract 9800.35,Avocado Heights,Los Angeles County,California,AvocadoHeights,778.0,31.0,870.0,98.0,1135.0,580.0,$870,$1135,$778
 2022,6037408301,Census Tract 4083.01,Avocado Heights,Los Angeles County,California,AvocadoHeights,1282.0,136.0,1467.0,136.0,1831.0,204.0,$1467,$1831,$1282
 2022,6037408302,Census Tract 4083.02,Avocado Heights,Los Angeles County,California,AvocadoHeights,1212.0,1101.0,2196.0,447.0,2492.0,304.0,$2196,$2492,$1212
-2022,6037408303,Census Tract 4083.03,Avocado Heights,Los Angeles County,California,AvocadoHeights,,,2195.0,525.0,2610.0,336.0,$2195,$2610,Not Available!
+2022,6037408303,Census Tract 4083.03,Avocado Heights,Los Angeles County,California,AvocadoHeights,,,2195.0,525.0,2610.0,336.0,$2195,$2610,
 2022,6037980035,Census Tract 9800.35,Avocado Heights,Los Angeles County,California,AvocadoHeights,829.0,57.0,962.0,231.0,1508.0,359.0,$962,$1508,$829
 2023,6037408301,Census Tract 4083.01,Avocado Heights,Los Angeles County,California,AvocadoHeights,1354.0,84.0,1583.0,166.0,1864.0,141.0,$1583,$1864,$1354
 2023,6037408302,Census Tract 4083.02,Avocado Heights,Los Angeles County,California,AvocadoHeights,1932.0,929.0,2245.0,213.0,2497.0,388.0,$2245,$2497,$1932

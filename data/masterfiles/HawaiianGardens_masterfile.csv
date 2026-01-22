@@ -26,17 +26,17 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037555212,Census Tract 5552.12,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,950.0,108.0,1137.0,84.0,1338.0,99.0,$1137,$1338,$950
 2015,6037555102,Census Tract 5551.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,449.0,261.0,1097.0,81.0,1366.0,62.0,$1097,$1366,$449
 2015,6037555104,Census Tract 5551.04,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,1041.0,149.0,1242.0,86.0,1482.0,139.0,$1242,$1482,$1041
-2015,6037555202,Census Tract 5552.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,,,2042.0,1957.0,2271.0,574.0,$2042,$2271,Not Available!
+2015,6037555202,Census Tract 5552.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,,,2042.0,1957.0,2271.0,574.0,$2042,$2271,
 2015,6037555211,Census Tract 5552.11,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,933.0,106.0,1128.0,72.0,1332.0,130.0,$1128,$1332,$933
 2015,6037555212,Census Tract 5552.12,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,981.0,95.0,1175.0,85.0,1411.0,110.0,$1175,$1411,$981
 2016,6037555102,Census Tract 5551.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,456.0,182.0,1089.0,78.0,1375.0,91.0,$1089,$1375,$456
 2016,6037555104,Census Tract 5551.04,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,1018.0,306.0,1183.0,65.0,1457.0,114.0,$1183,$1457,$1018
-2016,6037555202,Census Tract 5552.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,,,1170.0,1019.0,1836.0,672.0,$1170,$1836,Not Available!
+2016,6037555202,Census Tract 5552.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,,,1170.0,1019.0,1836.0,672.0,$1170,$1836,
 2016,6037555211,Census Tract 5552.11,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,943.0,107.0,1133.0,66.0,1319.0,92.0,$1133,$1319,$943
 2016,6037555212,Census Tract 5552.12,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,957.0,78.0,1217.0,129.0,1456.0,108.0,$1217,$1456,$957
 2017,6037555102,Census Tract 5551.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,497.0,399.0,1141.0,88.0,1419.0,69.0,$1141,$1419,$497
 2017,6037555104,Census Tract 5551.04,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,977.0,183.0,1210.0,111.0,1492.0,188.0,$1210,$1492,$977
-2017,6037555202,Census Tract 5552.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,,,2107.0,1235.0,2674.0,684.0,$2107,$2674,Not Available!
+2017,6037555202,Census Tract 5552.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,,,2107.0,1235.0,2674.0,684.0,$2107,$2674,
 2017,6037555211,Census Tract 5552.11,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,956.0,97.0,1179.0,92.0,1380.0,67.0,$1179,$1380,$956
 2017,6037555212,Census Tract 5552.12,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,1030.0,159.0,1321.0,90.0,1531.0,152.0,$1321,$1531,$1030
 2018,6037555102,Census Tract 5551.02,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,904.0,508.0,1225.0,101.0,1470.0,71.0,$1225,$1470,$904
@@ -55,7 +55,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037555106,Census Tract 5551.06,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,1017.0,330.0,1376.0,85.0,1685.0,209.0,$1376,$1685,$1017
 2021,6037555211,Census Tract 5552.11,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,1140.0,73.0,1428.0,145.0,1804.0,176.0,$1428,$1804,$1140
 2021,6037555212,Census Tract 5552.12,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,1255.0,149.0,1558.0,162.0,1901.0,146.0,$1558,$1901,$1255
-2022,6037555106,Census Tract 5551.06,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,,,1427.0,258.0,1801.0,172.0,$1427,$1801,Not Available!
+2022,6037555106,Census Tract 5551.06,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,,,1427.0,258.0,1801.0,172.0,$1427,$1801,
 2022,6037555211,Census Tract 5552.11,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,1225.0,163.0,1571.0,166.0,1888.0,131.0,$1571,$1888,$1225
 2022,6037555212,Census Tract 5552.12,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,1317.0,170.0,1734.0,238.0,2177.0,216.0,$1734,$2177,$1317
 2023,6037555106,Census Tract 5551.06,Hawaiian Gardens,Los Angeles County,California,HawaiianGardens,792.0,278.0,1514.0,580.0,1866.0,164.0,$1514,$1866,$792

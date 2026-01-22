@@ -22,7 +22,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,1713.0,511.0,2245.0,364.0,2667.0,274.0,$2245,$2667,$1713
 2015,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1329.0,219.0,1830.0,730.0,2952.0,728.0,$1830,$2952,$1329
 2015,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1727.0,97.0,1983.0,228.0,2420.0,335.0,$1983,$2420,$1727
-2015,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,,,2636.0,345.0,2864.0,142.0,$2636,$2864,Not Available!
+2015,6037800331,Census Tract 8003.31,Westlake Village,Los Angeles County,California,WestlakeVillage,,,2636.0,345.0,2864.0,142.0,$2636,$2864,
 2016,6037800324,Census Tract 8003.24,Westlake Village,Los Angeles County,California,WestlakeVillage,1563.0,271.0,1962.0,492.0,2731.0,286.0,$1962,$2731,$1563
 2016,6037800325,Census Tract 8003.25,Westlake Village,Los Angeles County,California,WestlakeVillage,1360.0,180.0,2138.0,890.0,3274.0,429.0,$2138,$3274,$1360
 2016,6037800326,Census Tract 8003.26,Westlake Village,Los Angeles County,California,WestlakeVillage,1600.0,124.0,1874.0,159.0,2324.0,314.0,$1874,$2324,$1600

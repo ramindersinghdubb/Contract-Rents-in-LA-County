@@ -18,7 +18,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037901213,Census Tract 9012.13,Elizabeth Lake,Los Angeles County,California,ElizabethLake,632.0,368.0,1222.0,1044.0,1808.0,241.0,$1222,$1808,$632
 2015,6037920102,Census Tract 9201.02,Elizabeth Lake,Los Angeles County,California,ElizabethLake,901.0,108.0,982.0,30.0,1219.0,113.0,$982,$1219,$901
 2016,6037901210,Census Tract 9012.10,Elizabeth Lake,Los Angeles County,California,ElizabethLake,885.0,415.0,1123.0,99.0,1258.0,165.0,$1123,$1258,$885
-2016,6037901213,Census Tract 9012.13,Elizabeth Lake,Los Angeles County,California,ElizabethLake,,,1667.0,480.0,1981.0,297.0,$1667,$1981,Not Available!
+2016,6037901213,Census Tract 9012.13,Elizabeth Lake,Los Angeles County,California,ElizabethLake,,,1667.0,480.0,1981.0,297.0,$1667,$1981,
 2016,6037920102,Census Tract 9201.02,Elizabeth Lake,Los Angeles County,California,ElizabethLake,919.0,44.0,1031.0,75.0,1223.0,61.0,$1031,$1223,$919
 2017,6037901210,Census Tract 9012.10,Elizabeth Lake,Los Angeles County,California,ElizabethLake,886.0,370.0,1096.0,60.0,1195.0,70.0,$1096,$1195,$886
 2017,6037901213,Census Tract 9012.13,Elizabeth Lake,Los Angeles County,California,ElizabethLake,1170.0,856.0,1733.0,278.0,2008.0,332.0,$1733,$2008,$1170
@@ -36,8 +36,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037901217,Census Tract 9012.17,Elizabeth Lake,Los Angeles County,California,ElizabethLake,654.0,328.0,671.0,14.0,689.0,11.0,$671,$689,$654
 2021,6037920102,Census Tract 9201.02,Elizabeth Lake,Los Angeles County,California,ElizabethLake,1091.0,74.0,1312.0,178.0,1670.0,216.0,$1312,$1670,$1091
 2022,6037901210,Census Tract 9012.10,Elizabeth Lake,Los Angeles County,California,ElizabethLake,1127.0,139.0,1281.0,561.0,1821.0,434.0,$1281,$1821,$1127
-2022,6037901217,Census Tract 9012.17,Elizabeth Lake,Los Angeles County,California,ElizabethLake,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037901217,Census Tract 9012.17,Elizabeth Lake,Los Angeles County,California,ElizabethLake,,,,,,,,,
 2022,6037920102,Census Tract 9201.02,Elizabeth Lake,Los Angeles County,California,ElizabethLake,1159.0,107.0,1427.0,171.0,1779.0,153.0,$1427,$1779,$1159
 2023,6037901210,Census Tract 9012.10,Elizabeth Lake,Los Angeles County,California,ElizabethLake,1113.0,118.0,1227.0,740.0,2057.0,909.0,$1227,$2057,$1113
-2023,6037901217,Census Tract 9012.17,Elizabeth Lake,Los Angeles County,California,ElizabethLake,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037901217,Census Tract 9012.17,Elizabeth Lake,Los Angeles County,California,ElizabethLake,,,,,,,,,
 2023,6037920102,Census Tract 9201.02,Elizabeth Lake,Los Angeles County,California,ElizabethLake,1270.0,165.0,1557.0,189.0,1847.0,139.0,$1557,$1847,$1270

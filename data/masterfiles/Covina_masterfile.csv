@@ -86,7 +86,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037406200,Census Tract 4062,Covina,Los Angeles County,California,Covina,847.0,44.0,1016.0,57.0,1185.0,47.0,$1016,$1185,$847
 2015,6037403600,Census Tract 4036,Covina,Los Angeles County,California,Covina,1261.0,126.0,1473.0,134.0,1752.0,109.0,$1473,$1752,$1261
 2015,6037403702,Census Tract 4037.02,Covina,Los Angeles County,California,Covina,1321.0,796.0,1664.0,346.0,2043.0,280.0,$1664,$2043,$1321
-2015,6037403703,Census Tract 4037.03,Covina,Los Angeles County,California,Covina,,,1417.0,176.0,1748.0,243.0,$1417,$1748,Not Available!
+2015,6037403703,Census Tract 4037.03,Covina,Los Angeles County,California,Covina,,,1417.0,176.0,1748.0,243.0,$1417,$1748,
 2015,6037403721,Census Tract 4037.21,Covina,Los Angeles County,California,Covina,832.0,80.0,1085.0,219.0,1595.0,269.0,$1085,$1595,$832
 2015,6037403722,Census Tract 4037.22,Covina,Los Angeles County,California,Covina,945.0,30.0,1059.0,54.0,1203.0,36.0,$1059,$1203,$945
 2015,6037403801,Census Tract 4038.01,Covina,Los Angeles County,California,Covina,1181.0,138.0,1443.0,101.0,1722.0,77.0,$1443,$1722,$1181
@@ -103,7 +103,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037406200,Census Tract 4062,Covina,Los Angeles County,California,Covina,845.0,44.0,1008.0,65.0,1230.0,69.0,$1008,$1230,$845
 2016,6037403600,Census Tract 4036,Covina,Los Angeles County,California,Covina,1176.0,152.0,1433.0,112.0,1734.0,101.0,$1433,$1734,$1176
 2016,6037403702,Census Tract 4037.02,Covina,Los Angeles County,California,Covina,1534.0,980.0,1933.0,315.0,2258.0,183.0,$1933,$2258,$1534
-2016,6037403703,Census Tract 4037.03,Covina,Los Angeles County,California,Covina,,,1557.0,319.0,2013.0,331.0,$1557,$2013,Not Available!
+2016,6037403703,Census Tract 4037.03,Covina,Los Angeles County,California,Covina,,,1557.0,319.0,2013.0,331.0,$1557,$2013,
 2016,6037403721,Census Tract 4037.21,Covina,Los Angeles County,California,Covina,860.0,94.0,1120.0,195.0,1591.0,375.0,$1120,$1591,$860
 2016,6037403722,Census Tract 4037.22,Covina,Los Angeles County,California,Covina,962.0,28.0,1079.0,41.0,1212.0,40.0,$1079,$1212,$962
 2016,6037403801,Census Tract 4038.01,Covina,Los Angeles County,California,Covina,1144.0,247.0,1456.0,104.0,1742.0,75.0,$1456,$1742,$1144
@@ -199,7 +199,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037406000,Census Tract 4060,Covina,Los Angeles County,California,Covina,1413.0,158.0,1757.0,213.0,2166.0,252.0,$1757,$2166,$1413
 2021,6037406101,Census Tract 4061.01,Covina,Los Angeles County,California,Covina,1068.0,98.0,1371.0,296.0,1783.0,201.0,$1371,$1783,$1068
 2021,6037406103,Census Tract 4061.03,Covina,Los Angeles County,California,Covina,1181.0,110.0,1380.0,48.0,1628.0,136.0,$1380,$1628,$1181
-2022,6037403601,Census Tract 4036.01,Covina,Los Angeles County,California,Covina,,,1905.0,468.0,2253.0,214.0,$1905,$2253,Not Available!
+2022,6037403601,Census Tract 4036.01,Covina,Los Angeles County,California,Covina,,,1905.0,468.0,2253.0,214.0,$1905,$2253,
 2022,6037403702,Census Tract 4037.02,Covina,Los Angeles County,California,Covina,1150.0,478.0,1681.0,617.0,2220.0,531.0,$1681,$2220,$1150
 2022,6037403703,Census Tract 4037.03,Covina,Los Angeles County,California,Covina,978.0,963.0,2192.0,679.0,2570.0,255.0,$2192,$2570,$978
 2022,6037403721,Census Tract 4037.21,Covina,Los Angeles County,California,Covina,1278.0,484.0,1581.0,243.0,1981.0,282.0,$1581,$1981,$1278
@@ -220,7 +220,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037403721,Census Tract 4037.21,Covina,Los Angeles County,California,Covina,1338.0,519.0,1681.0,139.0,1973.0,214.0,$1681,$1973,$1338
 2023,6037403722,Census Tract 4037.22,Covina,Los Angeles County,California,Covina,1493.0,112.0,1696.0,58.0,1896.0,50.0,$1696,$1896,$1493
 2023,6037403801,Census Tract 4038.01,Covina,Los Angeles County,California,Covina,1221.0,739.0,2016.0,277.0,2325.0,118.0,$2016,$2325,$1221
-2023,6037403802,Census Tract 4038.02,Covina,Los Angeles County,California,Covina,,,1915.0,267.0,2277.0,123.0,$1915,$2277,Not Available!
+2023,6037403802,Census Tract 4038.02,Covina,Los Angeles County,California,Covina,,,1915.0,267.0,2277.0,123.0,$1915,$2277,
 2023,6037405400,Census Tract 4054,Covina,Los Angeles County,California,Covina,1317.0,291.0,1481.0,274.0,1768.0,234.0,$1481,$1768,$1317
 2023,6037405701,Census Tract 4057.01,Covina,Los Angeles County,California,Covina,1521.0,436.0,1876.0,267.0,2273.0,225.0,$1876,$2273,$1521
 2023,6037405702,Census Tract 4057.02,Covina,Los Angeles County,California,Covina,1425.0,105.0,1629.0,130.0,1853.0,86.0,$1629,$1853,$1425

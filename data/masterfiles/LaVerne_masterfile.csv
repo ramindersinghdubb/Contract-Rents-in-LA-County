@@ -69,8 +69,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1229.0,214.0,1592.0,138.0,1851.0,90.0,$1592,$1851,$1229
 2016,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1085.0,85.0,1322.0,77.0,1536.0,149.0,$1322,$1536,$1085
 2016,6037401603,Census Tract 4016.03,La Verne,Los Angeles County,California,LaVerne,1287.0,296.0,1785.0,248.0,2312.0,227.0,$1785,$2312,$1287
-2017,6037400204,Census Tract 4002.04,La Verne,Los Angeles County,California,LaVerne,,,2615.0,1412.0,2807.0,165.0,$2615,$2807,Not Available!
-2017,6037400205,Census Tract 4002.05,La Verne,Los Angeles County,California,LaVerne,,,2155.0,523.0,2327.0,114.0,$2155,$2327,Not Available!
+2017,6037400204,Census Tract 4002.04,La Verne,Los Angeles County,California,LaVerne,,,2615.0,1412.0,2807.0,165.0,$2615,$2807,
+2017,6037400205,Census Tract 4002.05,La Verne,Los Angeles County,California,LaVerne,,,2155.0,523.0,2327.0,114.0,$2155,$2327,
 2017,6037400207,Census Tract 4002.07,La Verne,Los Angeles County,California,LaVerne,1520.0,736.0,1860.0,309.0,2294.0,458.0,$1860,$2294,$1520
 2017,6037400302,Census Tract 4003.02,La Verne,Los Angeles County,California,LaVerne,396.0,96.0,1011.0,147.0,1297.0,188.0,$1011,$1297,$396
 2017,6037400304,Census Tract 4003.04,La Verne,Los Angeles County,California,LaVerne,1250.0,165.0,1424.0,74.0,1756.0,172.0,$1424,$1756,$1250
@@ -79,8 +79,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1113.0,269.0,1604.0,151.0,1883.0,122.0,$1604,$1883,$1113
 2017,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1212.0,98.0,1372.0,44.0,1536.0,160.0,$1372,$1536,$1212
 2017,6037401603,Census Tract 4016.03,La Verne,Los Angeles County,California,LaVerne,1252.0,234.0,1775.0,457.0,2506.0,381.0,$1775,$2506,$1252
-2018,6037400204,Census Tract 4002.04,La Verne,Los Angeles County,California,LaVerne,,,,,2691.0,2101.0,Not Available!,$2691,Not Available!
-2018,6037400205,Census Tract 4002.05,La Verne,Los Angeles County,California,LaVerne,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037400204,Census Tract 4002.04,La Verne,Los Angeles County,California,LaVerne,,,,,2691.0,2101.0,,$2691,
+2018,6037400205,Census Tract 4002.05,La Verne,Los Angeles County,California,LaVerne,,,,,,,,,
 2018,6037400207,Census Tract 4002.07,La Verne,Los Angeles County,California,LaVerne,1118.0,322.0,1500.0,777.0,2309.0,485.0,$1500,$2309,$1118
 2018,6037400302,Census Tract 4003.02,La Verne,Los Angeles County,California,LaVerne,443.0,437.0,983.0,117.0,1246.0,635.0,$983,$1246,$443
 2018,6037400304,Census Tract 4003.04,La Verne,Los Angeles County,California,LaVerne,1314.0,112.0,1591.0,150.0,1894.0,102.0,$1591,$1894,$1314
@@ -89,41 +89,41 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1285.0,281.0,1669.0,160.0,1956.0,179.0,$1669,$1956,$1285
 2018,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1279.0,44.0,1418.0,48.0,1670.0,120.0,$1418,$1670,$1279
 2018,6037401603,Census Tract 4016.03,La Verne,Los Angeles County,California,LaVerne,1264.0,231.0,1697.0,464.0,2758.0,396.0,$1697,$2758,$1264
-2019,6037400204,Census Tract 4002.04,La Verne,Los Angeles County,California,LaVerne,,,318.0,165.0,335.0,14.0,$318,$335,Not Available!
-2019,6037400205,Census Tract 4002.05,La Verne,Los Angeles County,California,LaVerne,,,,,1297.0,740.0,Not Available!,$1297,Not Available!
+2019,6037400204,Census Tract 4002.04,La Verne,Los Angeles County,California,LaVerne,,,318.0,165.0,335.0,14.0,$318,$335,
+2019,6037400205,Census Tract 4002.05,La Verne,Los Angeles County,California,LaVerne,,,,,1297.0,740.0,,$1297,
 2019,6037400207,Census Tract 4002.07,La Verne,Los Angeles County,California,LaVerne,1137.0,370.0,1708.0,872.0,2332.0,630.0,$1708,$2332,$1137
 2019,6037400302,Census Tract 4003.02,La Verne,Los Angeles County,California,LaVerne,573.0,494.0,1088.0,108.0,2025.0,1318.0,$1088,$2025,$573
 2019,6037400304,Census Tract 4003.04,La Verne,Los Angeles County,California,LaVerne,1277.0,224.0,1680.0,100.0,1960.0,127.0,$1680,$1960,$1277
-2019,6037401304,Census Tract 4013.04,La Verne,Los Angeles County,California,LaVerne,,,2567.0,1070.0,2851.0,333.0,$2567,$2851,Not Available!
+2019,6037401304,Census Tract 4013.04,La Verne,Los Angeles County,California,LaVerne,,,2567.0,1070.0,2851.0,333.0,$2567,$2851,
 2019,6037401500,Census Tract 4015,La Verne,Los Angeles County,California,LaVerne,519.0,43.0,915.0,292.0,1384.0,168.0,$915,$1384,$519
-2019,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,,,1718.0,184.0,2040.0,264.0,$1718,$2040,Not Available!
+2019,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,,,1718.0,184.0,2040.0,264.0,$1718,$2040,
 2019,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1312.0,44.0,1470.0,57.0,1762.0,69.0,$1470,$1762,$1312
 2019,6037401603,Census Tract 4016.03,La Verne,Los Angeles County,California,LaVerne,1276.0,194.0,1909.0,610.0,2788.0,450.0,$1909,$2788,$1276
 2020,6037400207,Census Tract 4002.07,La Verne,Los Angeles County,California,LaVerne,1306.0,637.0,2102.0,689.0,2554.0,916.0,$2102,$2554,$1306
-2020,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037400209,Census Tract 4002.09,La Verne,Los Angeles County,California,LaVerne,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,,,,,,,,,
+2020,6037400209,Census Tract 4002.09,La Verne,Los Angeles County,California,LaVerne,,,,,,,,,
 2020,6037401500,Census Tract 4015,La Verne,Los Angeles County,California,LaVerne,531.0,120.0,1226.0,287.0,1471.0,188.0,$1226,$1471,$531
 2020,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1289.0,921.0,1827.0,299.0,2296.0,386.0,$1827,$2296,$1289
 2020,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1328.0,46.0,1481.0,81.0,1835.0,147.0,$1481,$1835,$1328
-2020,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1520.0,426.0,2190.0,293.0,$1520,$2190,Not Available!
+2020,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1520.0,426.0,2190.0,293.0,$1520,$2190,
 2021,6037400207,Census Tract 4002.07,La Verne,Los Angeles County,California,LaVerne,2086.0,994.0,3042.0,1392.0,3501.0,,$3042,Not available. Exceeds $3500!,$2086
-2021,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,320.0,38.0,,,,,Not Available!,Not Available!,$320
-2021,6037400209,Census Tract 4002.09,La Verne,Los Angeles County,California,LaVerne,,,,,2868.0,325.0,Not Available!,$2868,Not Available!
+2021,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,320.0,38.0,,,,,,,$320
+2021,6037400209,Census Tract 4002.09,La Verne,Los Angeles County,California,LaVerne,,,,,2868.0,325.0,,$2868,
 2021,6037401500,Census Tract 4015,La Verne,Los Angeles County,California,LaVerne,825.0,380.0,1523.0,160.0,1894.0,125.0,$1523,$1894,$825
 2021,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1500.0,927.0,1811.0,187.0,2182.0,261.0,$1811,$2182,$1500
 2021,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1395.0,51.0,1628.0,119.0,1941.0,144.0,$1628,$1941,$1395
-2021,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1619.0,419.0,2400.0,433.0,$1619,$2400,Not Available!
+2021,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1619.0,419.0,2400.0,433.0,$1619,$2400,
 2022,6037400207,Census Tract 4002.07,La Verne,Los Angeles County,California,LaVerne,2325.0,806.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2325
-2022,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,,,,,3501.0,,Not Available!,Not available. Exceeds $3500!,Not Available!
-2022,6037400209,Census Tract 4002.09,La Verne,Los Angeles County,California,LaVerne,,,3188.0,197.0,3380.0,179.0,$3188,$3380,Not Available!
+2022,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,,,,,3501.0,,,Not available. Exceeds $3500!,
+2022,6037400209,Census Tract 4002.09,La Verne,Los Angeles County,California,LaVerne,,,3188.0,197.0,3380.0,179.0,$3188,$3380,
 2022,6037401500,Census Tract 4015,La Verne,Los Angeles County,California,LaVerne,1269.0,293.0,1665.0,170.0,2260.0,674.0,$1665,$2260,$1269
 2022,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1663.0,239.0,2085.0,309.0,2432.0,225.0,$2085,$2432,$1663
 2022,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1529.0,129.0,1843.0,135.0,2196.0,138.0,$1843,$2196,$1529
-2022,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1725.0,233.0,2575.0,686.0,$1725,$2575,Not Available!
+2022,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1725.0,233.0,2575.0,686.0,$1725,$2575,
 2023,6037400207,Census Tract 4002.07,La Verne,Los Angeles County,California,LaVerne,2609.0,705.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2609
-2023,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,,,,,,,,,
 2023,6037400209,Census Tract 4002.09,La Verne,Los Angeles County,California,LaVerne,2968.0,352.0,3188.0,224.0,3390.0,208.0,$3188,$3390,$2968
 2023,6037401500,Census Tract 4015,La Verne,Los Angeles County,California,LaVerne,1582.0,122.0,1883.0,124.0,2606.0,247.0,$1883,$2606,$1582
 2023,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1397.0,617.0,2116.0,170.0,2431.0,159.0,$2116,$2431,$1397
 2023,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1654.0,96.0,1976.0,154.0,2453.0,194.0,$1976,$2453,$1654
-2023,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1769.0,295.0,2672.0,594.0,$1769,$2672,Not Available!
+2023,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1769.0,295.0,2672.0,594.0,$1769,$2672,

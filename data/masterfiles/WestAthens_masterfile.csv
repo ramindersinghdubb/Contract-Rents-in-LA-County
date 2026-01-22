@@ -31,7 +31,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037602802,Census Tract 6028.02,West Athens,Los Angeles County,California,WestAthens,885.0,104.0,1017.0,309.0,2010.0,1603.0,$1017,$2010,$885
 2020,6037602700,Census Tract 6027,West Athens,Los Angeles County,California,WestAthens,1123.0,459.0,1391.0,219.0,1913.0,847.0,$1391,$1913,$1123
 2020,6037602801,Census Tract 6028.01,West Athens,Los Angeles County,California,WestAthens,906.0,396.0,1044.0,176.0,1345.0,105.0,$1044,$1345,$906
-2020,6037602802,Census Tract 6028.02,West Athens,Los Angeles County,California,WestAthens,958.0,187.0,,,2221.0,718.0,Not Available!,$2221,$958
+2020,6037602802,Census Tract 6028.02,West Athens,Los Angeles County,California,WestAthens,958.0,187.0,,,2221.0,718.0,,$2221,$958
 2021,6037602700,Census Tract 6027,West Athens,Los Angeles County,California,WestAthens,1286.0,1170.0,1735.0,380.0,2792.0,1191.0,$1735,$2792,$1286
 2021,6037602801,Census Tract 6028.01,West Athens,Los Angeles County,California,WestAthens,858.0,463.0,1125.0,213.0,1431.0,175.0,$1125,$1431,$858
 2021,6037602802,Census Tract 6028.02,West Athens,Los Angeles County,California,WestAthens,941.0,284.0,2005.0,1972.0,2418.0,1151.0,$2005,$2418,$941

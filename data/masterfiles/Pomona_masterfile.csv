@@ -29,7 +29,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,926.0,84.0,1118.0,229.0,1634.0,329.0,$1118,$1634,$926
 2010,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,942.0,61.0,1069.0,408.0,1500.0,399.0,$1069,$1500,$942
 2010,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,709.0,39.0,753.0,41.0,1087.0,329.0,$753,$1087,$709
-2010,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2010,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,856.0,350.0,1403.0,186.0,1780.0,319.0,$1403,$1780,$856
 2010,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,861.0,81.0,1355.0,425.0,1730.0,128.0,$1355,$1730,$861
 2010,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1601.0,633.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1601
@@ -49,7 +49,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,636.0,78.0,772.0,70.0,865.0,47.0,$772,$865,$636
 2011,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1067.0,63.0,1245.0,103.0,1524.0,164.0,$1245,$1524,$1067
 2011,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,584.0,198.0,814.0,339.0,1230.0,851.0,$814,$1230,$584
-2011,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2011,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,710.0,653.0,1438.0,738.0,1738.0,238.0,$1438,$1738,$710
 2011,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,819.0,144.0,967.0,104.0,1222.0,141.0,$967,$1222,$819
 2011,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,689.0,56.0,930.0,77.0,1296.0,171.0,$930,$1296,$689
@@ -66,7 +66,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,914.0,104.0,1130.0,311.0,1740.0,201.0,$1130,$1740,$914
 2011,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,955.0,454.0,1392.0,522.0,1681.0,295.0,$1392,$1681,$955
 2011,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,720.0,45.0,823.0,156.0,1332.0,215.0,$823,$1332,$720
-2011,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2011,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,859.0,382.0,1547.0,316.0,1997.0,297.0,$1547,$1997,$859
 2011,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,916.0,115.0,1294.0,220.0,1665.0,205.0,$1294,$1665,$916
 2011,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1227.0,424.0,1750.0,435.0,2001.0,,$1750,Not available. Exceeds $2000!,$1227
@@ -86,7 +86,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,645.0,85.0,805.0,89.0,879.0,34.0,$805,$879,$645
 2012,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1058.0,102.0,1265.0,135.0,1577.0,177.0,$1265,$1577,$1058
 2012,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,614.0,479.0,852.0,491.0,1372.0,300.0,$852,$1372,$614
-2012,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2012,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,744.0,971.0,1406.0,255.0,1755.0,449.0,$1406,$1755,$744
 2012,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,721.0,160.0,968.0,228.0,1355.0,127.0,$968,$1355,$721
 2012,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,702.0,59.0,902.0,100.0,1211.0,144.0,$902,$1211,$702
@@ -103,7 +103,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,906.0,117.0,1129.0,238.0,1710.0,249.0,$1129,$1710,$906
 2012,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,973.0,513.0,1410.0,469.0,1962.0,646.0,$1410,$1962,$973
 2012,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,721.0,37.0,867.0,145.0,1367.0,249.0,$867,$1367,$721
-2012,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2012,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,868.0,460.0,1479.0,266.0,1848.0,187.0,$1479,$1848,$868
 2012,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,937.0,106.0,1148.0,129.0,1607.0,238.0,$1148,$1607,$937
 2012,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1205.0,307.0,1643.0,336.0,1988.0,370.0,$1643,$1988,$1205
@@ -123,7 +123,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,735.0,57.0,822.0,39.0,903.0,56.0,$822,$903,$735
 2013,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1293.0,93.0,1452.0,91.0,1706.0,106.0,$1452,$1706,$1293
 2013,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,649.0,270.0,1287.0,672.0,1480.0,225.0,$1287,$1480,$649
-2013,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2013,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,1117.0,439.0,1375.0,164.0,1621.0,249.0,$1375,$1621,$1117
 2013,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,728.0,106.0,918.0,106.0,1316.0,216.0,$918,$1316,$728
 2013,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,753.0,65.0,898.0,98.0,1215.0,158.0,$898,$1215,$753
@@ -140,7 +140,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,841.0,271.0,1060.0,240.0,1648.0,234.0,$1060,$1648,$841
 2013,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,1169.0,294.0,1369.0,119.0,1546.0,258.0,$1369,$1546,$1169
 2013,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,814.0,122.0,1082.0,179.0,1394.0,216.0,$1082,$1394,$814
-2013,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2013,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,1373.0,191.0,1645.0,135.0,1878.0,95.0,$1645,$1878,$1373
 2013,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,970.0,66.0,1257.0,410.0,1844.0,344.0,$1257,$1844,$970
 2013,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1173.0,257.0,1523.0,384.0,1848.0,220.0,$1523,$1848,$1173
@@ -160,7 +160,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,704.0,59.0,811.0,49.0,940.0,103.0,$811,$940,$704
 2014,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1262.0,110.0,1433.0,83.0,1706.0,114.0,$1433,$1706,$1262
 2014,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,641.0,224.0,1305.0,651.0,1545.0,287.0,$1305,$1545,$641
-2014,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2014,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,792.0,771.0,1371.0,149.0,1613.0,227.0,$1371,$1613,$792
 2014,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,763.0,74.0,886.0,60.0,1199.0,172.0,$886,$1199,$763
 2014,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,760.0,68.0,908.0,57.0,1105.0,123.0,$908,$1105,$760
@@ -177,7 +177,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,838.0,320.0,1121.0,170.0,1624.0,221.0,$1121,$1624,$838
 2014,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,1251.0,171.0,1387.0,94.0,1584.0,285.0,$1387,$1584,$1251
 2014,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,827.0,170.0,1142.0,125.0,1425.0,150.0,$1142,$1425,$827
-2014,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2014,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,1348.0,204.0,1615.0,169.0,1840.0,90.0,$1615,$1840,$1348
 2014,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,1087.0,216.0,1576.0,376.0,2001.0,,$1576,Not available. Exceeds $2000!,$1087
 2014,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1227.0,482.0,1671.0,202.0,1926.0,193.0,$1671,$1926,$1227
@@ -197,7 +197,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,712.0,48.0,814.0,48.0,988.0,96.0,$814,$988,$712
 2015,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1222.0,162.0,1413.0,74.0,1678.0,126.0,$1413,$1678,$1222
 2015,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,842.0,194.0,1326.0,766.0,1625.0,309.0,$1326,$1625,$842
-2015,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2015,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,1188.0,319.0,1408.0,163.0,1670.0,254.0,$1408,$1670,$1188
 2015,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,749.0,92.0,863.0,55.0,1173.0,187.0,$863,$1173,$749
 2015,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,796.0,48.0,944.0,66.0,1170.0,89.0,$944,$1170,$796
@@ -214,7 +214,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,831.0,230.0,1086.0,138.0,1454.0,197.0,$1086,$1454,$831
 2015,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,1156.0,120.0,1345.0,114.0,1551.0,257.0,$1345,$1551,$1156
 2015,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,1027.0,128.0,1205.0,117.0,1568.0,251.0,$1205,$1568,$1027
-2015,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2015,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,1393.0,164.0,1641.0,144.0,1871.0,108.0,$1641,$1871,$1393
 2015,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,1015.0,251.0,1610.0,278.0,1967.0,234.0,$1610,$1967,$1015
 2015,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1236.0,473.0,1652.0,153.0,1863.0,105.0,$1652,$1863,$1236
@@ -234,7 +234,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,722.0,44.0,858.0,74.0,1080.0,119.0,$858,$1080,$722
 2016,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1307.0,97.0,1538.0,130.0,1784.0,82.0,$1538,$1784,$1307
 2016,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,858.0,540.0,1365.0,330.0,1641.0,282.0,$1365,$1641,$858
-2016,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2016,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,1174.0,285.0,1478.0,232.0,1740.0,135.0,$1478,$1740,$1174
 2016,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,777.0,32.0,873.0,43.0,1216.0,198.0,$873,$1216,$777
 2016,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,791.0,34.0,948.0,51.0,1185.0,91.0,$948,$1185,$791
@@ -251,7 +251,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,856.0,195.0,1168.0,89.0,1513.0,171.0,$1168,$1513,$856
 2016,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,1163.0,140.0,1362.0,100.0,1608.0,230.0,$1362,$1608,$1163
 2016,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,1072.0,63.0,1222.0,180.0,1701.0,206.0,$1222,$1701,$1072
-2016,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2016,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,1400.0,162.0,1650.0,164.0,1902.0,106.0,$1650,$1902,$1400
 2016,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,963.0,97.0,1594.0,225.0,1947.0,192.0,$1594,$1947,$963
 2016,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1646.0,36.0,1793.0,71.0,1939.0,127.0,$1793,$1939,$1646
@@ -271,7 +271,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,775.0,41.0,924.0,94.0,1181.0,54.0,$924,$1181,$775
 2017,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1321.0,76.0,1529.0,110.0,1781.0,70.0,$1529,$1781,$1321
 2017,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,844.0,43.0,1016.0,609.0,1477.0,331.0,$1016,$1477,$844
-2017,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2017,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,889.0,333.0,1250.0,320.0,1661.0,203.0,$1250,$1661,$889
 2017,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,779.0,52.0,864.0,31.0,1131.0,192.0,$864,$1131,$779
 2017,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,863.0,73.0,988.0,58.0,1244.0,114.0,$988,$1244,$863
@@ -288,7 +288,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,930.0,170.0,1162.0,93.0,1645.0,177.0,$1162,$1645,$930
 2017,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,1137.0,80.0,1308.0,105.0,1472.0,156.0,$1308,$1472,$1137
 2017,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,1160.0,204.0,1478.0,239.0,1789.0,160.0,$1478,$1789,$1160
-2017,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2017,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,1441.0,188.0,1744.0,210.0,2073.0,231.0,$1744,$2073,$1441
 2017,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,1027.0,371.0,1643.0,260.0,2067.0,234.0,$1643,$2067,$1027
 2017,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1667.0,57.0,1833.0,115.0,2000.0,789.0,$1833,$2000,$1667
@@ -297,7 +297,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037408800,Census Tract 4088,Pomona,Los Angeles County,California,Pomona,968.0,108.0,1184.0,58.0,1468.0,87.0,$1184,$1468,$968
 2018,6037401303,Census Tract 4013.03,Pomona,Los Angeles County,California,Pomona,2588.0,279.0,2925.0,320.0,3219.0,261.0,$2925,$3219,$2588
 2018,6037401304,Census Tract 4013.04,Pomona,Los Angeles County,California,Pomona,1438.0,1400.0,2195.0,511.0,2424.0,415.0,$2195,$2424,$1438
-2018,6037401701,Census Tract 4017.01,Pomona,Los Angeles County,California,Pomona,,,1067.0,302.0,1768.0,315.0,$1067,$1768,Not Available!
+2018,6037401701,Census Tract 4017.01,Pomona,Los Angeles County,California,Pomona,,,1067.0,302.0,1768.0,315.0,$1067,$1768,
 2018,6037401703,Census Tract 4017.03,Pomona,Los Angeles County,California,Pomona,1104.0,153.0,1361.0,51.0,1578.0,176.0,$1361,$1578,$1104
 2018,6037401704,Census Tract 4017.04,Pomona,Los Angeles County,California,Pomona,1058.0,79.0,1350.0,79.0,1764.0,154.0,$1350,$1764,$1058
 2018,6037402101,Census Tract 4021.01,Pomona,Los Angeles County,California,Pomona,1283.0,120.0,1472.0,134.0,1730.0,114.0,$1472,$1730,$1283
@@ -308,7 +308,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,795.0,45.0,973.0,89.0,1192.0,54.0,$973,$1192,$795
 2018,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1308.0,137.0,1583.0,105.0,1807.0,67.0,$1583,$1807,$1308
 2018,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,849.0,56.0,934.0,394.0,1551.0,410.0,$934,$1551,$849
-2018,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2018,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,1063.0,352.0,1534.0,222.0,1781.0,90.0,$1534,$1781,$1063
 2018,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,817.0,77.0,980.0,77.0,1329.0,277.0,$980,$1329,$817
 2018,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,934.0,35.0,1073.0,57.0,1252.0,95.0,$1073,$1252,$934
@@ -325,7 +325,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,785.0,483.0,1105.0,118.0,1514.0,300.0,$1105,$1514,$785
 2018,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,1234.0,128.0,1372.0,78.0,1506.0,282.0,$1372,$1506,$1234
 2018,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,887.0,522.0,1552.0,309.0,1897.0,178.0,$1552,$1897,$887
-2018,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2018,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,1565.0,163.0,1867.0,176.0,2212.0,182.0,$1867,$2212,$1565
 2018,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,1254.0,235.0,1593.0,221.0,1984.0,237.0,$1593,$1984,$1254
 2018,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1675.0,81.0,1851.0,174.0,2137.0,1163.0,$1851,$2137,$1675
@@ -333,8 +333,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037403321,Census Tract 4033.21,Pomona,Los Angeles County,California,Pomona,1314.0,332.0,1986.0,318.0,2413.0,214.0,$1986,$2413,$1314
 2018,6037408800,Census Tract 4088,Pomona,Los Angeles County,California,Pomona,1083.0,70.0,1352.0,54.0,1638.0,112.0,$1352,$1638,$1083
 2019,6037401303,Census Tract 4013.03,Pomona,Los Angeles County,California,Pomona,2984.0,652.0,3277.0,347.0,3501.0,,$3277,Not available. Exceeds $3500!,$2984
-2019,6037401304,Census Tract 4013.04,Pomona,Los Angeles County,California,Pomona,,,2567.0,1070.0,2851.0,333.0,$2567,$2851,Not Available!
-2019,6037401701,Census Tract 4017.01,Pomona,Los Angeles County,California,Pomona,,,1200.0,218.0,1906.0,515.0,$1200,$1906,Not Available!
+2019,6037401304,Census Tract 4013.04,Pomona,Los Angeles County,California,Pomona,,,2567.0,1070.0,2851.0,333.0,$2567,$2851,
+2019,6037401701,Census Tract 4017.01,Pomona,Los Angeles County,California,Pomona,,,1200.0,218.0,1906.0,515.0,$1200,$1906,
 2019,6037401703,Census Tract 4017.03,Pomona,Los Angeles County,California,Pomona,1078.0,247.0,1416.0,65.0,1756.0,119.0,$1416,$1756,$1078
 2019,6037401704,Census Tract 4017.04,Pomona,Los Angeles County,California,Pomona,1072.0,242.0,1423.0,76.0,1817.0,116.0,$1423,$1817,$1072
 2019,6037402101,Census Tract 4021.01,Pomona,Los Angeles County,California,Pomona,1330.0,195.0,1605.0,120.0,1828.0,71.0,$1605,$1828,$1330
@@ -345,7 +345,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,812.0,39.0,962.0,65.0,1210.0,76.0,$962,$1210,$812
 2019,6037402402,Census Tract 4024.02,Pomona,Los Angeles County,California,Pomona,1440.0,145.0,1681.0,86.0,1900.0,80.0,$1681,$1900,$1440
 2019,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,849.0,56.0,938.0,642.0,1614.0,309.0,$938,$1614,$849
-2019,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2019,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,891.0,864.0,1533.0,246.0,1899.0,212.0,$1533,$1899,$891
 2019,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,880.0,74.0,1019.0,129.0,1460.0,329.0,$1019,$1460,$880
 2019,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,913.0,43.0,1005.0,68.0,1266.0,97.0,$1005,$1266,$913
@@ -362,7 +362,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,817.0,636.0,1080.0,162.0,1525.0,244.0,$1080,$1525,$817
 2019,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,1294.0,91.0,1415.0,87.0,1616.0,221.0,$1415,$1616,$1294
 2019,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,1219.0,585.0,1701.0,114.0,1940.0,102.0,$1701,$1940,$1219
-2019,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037403200,Census Tract 4032,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2019,6037403312,Census Tract 4033.12,Pomona,Los Angeles County,California,Pomona,1611.0,144.0,1941.0,200.0,2280.0,175.0,$1941,$2280,$1611
 2019,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,1246.0,248.0,1602.0,198.0,1911.0,165.0,$1602,$1911,$1246
 2019,6037403317,Census Tract 4033.17,Pomona,Los Angeles County,California,Pomona,1574.0,510.0,1830.0,204.0,2221.0,518.0,$1830,$2221,$1574
@@ -379,14 +379,14 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037402303,Census Tract 4023.03,Pomona,Los Angeles County,California,Pomona,911.0,153.0,1084.0,49.0,1222.0,87.0,$1084,$1222,$911
 2020,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,851.0,47.0,1048.0,97.0,1379.0,212.0,$1048,$1379,$851
 2020,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,1033.0,155.0,1326.0,438.0,1763.0,189.0,$1326,$1763,$1033
-2020,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2020,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,1167.0,584.0,1603.0,271.0,1949.0,267.0,$1603,$1949,$1167
 2020,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,945.0,94.0,1208.0,172.0,1580.0,287.0,$1208,$1580,$945
 2020,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,902.0,155.0,1020.0,93.0,1257.0,108.0,$1020,$1257,$902
 2020,6037402503,Census Tract 4025.03,Pomona,Los Angeles County,California,Pomona,1060.0,96.0,1306.0,156.0,1634.0,178.0,$1306,$1634,$1060
 2020,6037402504,Census Tract 4025.04,Pomona,Los Angeles County,California,Pomona,841.0,49.0,968.0,217.0,1385.0,130.0,$968,$1385,$841
 2020,6037402601,Census Tract 4026.01,Pomona,Los Angeles County,California,Pomona,922.0,110.0,1074.0,254.0,1399.0,137.0,$1074,$1399,$922
-2020,6037402602,Census Tract 4026.02,Pomona,Los Angeles County,California,Pomona,,,1010.0,223.0,1203.0,230.0,$1010,$1203,Not Available!
+2020,6037402602,Census Tract 4026.02,Pomona,Los Angeles County,California,Pomona,,,1010.0,223.0,1203.0,230.0,$1010,$1203,
 2020,6037402702,Census Tract 4027.02,Pomona,Los Angeles County,California,Pomona,867.0,83.0,1016.0,65.0,1224.0,66.0,$1016,$1224,$867
 2020,6037402703,Census Tract 4027.03,Pomona,Los Angeles County,California,Pomona,1201.0,148.0,1436.0,144.0,1742.0,161.0,$1436,$1742,$1201
 2020,6037402705,Census Tract 4027.05,Pomona,Los Angeles County,California,Pomona,1141.0,181.0,1597.0,209.0,1807.0,75.0,$1597,$1807,$1141
@@ -414,7 +414,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037402303,Census Tract 4023.03,Pomona,Los Angeles County,California,Pomona,957.0,142.0,1110.0,46.0,1235.0,122.0,$1110,$1235,$957
 2021,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,935.0,47.0,1120.0,63.0,1422.0,182.0,$1120,$1422,$935
 2021,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,979.0,247.0,1163.0,318.0,1707.0,281.0,$1163,$1707,$979
-2021,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2021,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,1027.0,619.0,1556.0,354.0,1956.0,467.0,$1556,$1956,$1027
 2021,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,1037.0,147.0,1256.0,140.0,1578.0,230.0,$1256,$1578,$1037
 2021,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,959.0,227.0,1144.0,59.0,1366.0,81.0,$1144,$1366,$959
@@ -449,7 +449,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037402303,Census Tract 4023.03,Pomona,Los Angeles County,California,Pomona,1085.0,35.0,1218.0,56.0,1432.0,88.0,$1218,$1432,$1085
 2022,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,953.0,76.0,1163.0,82.0,1503.0,317.0,$1163,$1503,$953
 2022,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,1093.0,78.0,1246.0,564.0,1790.0,216.0,$1246,$1790,$1093
-2022,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2022,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,1841.0,657.0,2194.0,157.0,2421.0,177.0,$2194,$2421,$1841
 2022,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,1008.0,141.0,1326.0,113.0,1601.0,318.0,$1326,$1601,$1008
 2022,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,1020.0,174.0,1244.0,83.0,1482.0,102.0,$1244,$1482,$1020
@@ -465,7 +465,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037402803,Census Tract 4028.03,Pomona,Los Angeles County,California,Pomona,1311.0,65.0,1493.0,151.0,1906.0,195.0,$1493,$1906,$1311
 2022,6037402804,Census Tract 4028.04,Pomona,Los Angeles County,California,Pomona,1134.0,69.0,1431.0,155.0,1796.0,87.0,$1431,$1796,$1134
 2022,6037402902,Census Tract 4029.02,Pomona,Los Angeles County,California,Pomona,1017.0,631.0,1259.0,164.0,1699.0,149.0,$1259,$1699,$1017
-2022,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,,,1240.0,197.0,1479.0,253.0,$1240,$1479,Not Available!
+2022,6037402903,Census Tract 4029.03,Pomona,Los Angeles County,California,Pomona,,,1240.0,197.0,1479.0,253.0,$1240,$1479,
 2022,6037402904,Census Tract 4029.04,Pomona,Los Angeles County,California,Pomona,1638.0,238.0,2008.0,270.0,2254.0,143.0,$2008,$2254,$1638
 2022,6037403000,Census Tract 4030,Pomona,Los Angeles County,California,Pomona,1494.0,201.0,1830.0,214.0,2249.0,285.0,$1830,$2249,$1494
 2022,6037403316,Census Tract 4033.16,Pomona,Los Angeles County,California,Pomona,1439.0,166.0,1747.0,148.0,2082.0,215.0,$1747,$2082,$1439
@@ -484,7 +484,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037402303,Census Tract 4023.03,Pomona,Los Angeles County,California,Pomona,1229.0,96.0,1408.0,75.0,1834.0,295.0,$1408,$1834,$1229
 2023,6037402304,Census Tract 4023.04,Pomona,Los Angeles County,California,Pomona,1021.0,101.0,1289.0,142.0,1882.0,424.0,$1289,$1882,$1021
 2023,6037402403,Census Tract 4024.03,Pomona,Los Angeles County,California,Pomona,1091.0,97.0,1250.0,848.0,2226.0,431.0,$1250,$2226,$1091
-2023,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037402404,Census Tract 4024.04,Pomona,Los Angeles County,California,Pomona,,,,,,,,,
 2023,6037402405,Census Tract 4024.05,Pomona,Los Angeles County,California,Pomona,1491.0,1081.0,2169.0,277.0,2401.0,224.0,$2169,$2401,$1491
 2023,6037402406,Census Tract 4024.06,Pomona,Los Angeles County,California,Pomona,1067.0,155.0,1335.0,105.0,1559.0,213.0,$1335,$1559,$1067
 2023,6037402501,Census Tract 4025.01,Pomona,Los Angeles County,California,Pomona,1049.0,237.0,1316.0,123.0,1715.0,172.0,$1316,$1715,$1049

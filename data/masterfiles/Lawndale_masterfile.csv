@@ -88,7 +88,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037603801,Census Tract 6038.01,Lawndale,Los Angeles County,California,Lawndale,1150.0,242.0,1592.0,118.0,1897.0,100.0,$1592,$1897,$1150
 2022,6037603802,Census Tract 6038.02,Lawndale,Los Angeles County,California,Lawndale,1504.0,124.0,1774.0,96.0,2083.0,182.0,$1774,$2083,$1504
 2022,6037603901,Census Tract 6039.01,Lawndale,Los Angeles County,California,Lawndale,1203.0,134.0,1713.0,209.0,2127.0,299.0,$1713,$2127,$1203
-2022,6037603902,Census Tract 6039.02,Lawndale,Los Angeles County,California,Lawndale,,,1890.0,326.0,2258.0,158.0,$1890,$2258,Not Available!
+2022,6037603902,Census Tract 6039.02,Lawndale,Los Angeles County,California,Lawndale,,,1890.0,326.0,2258.0,158.0,$1890,$2258,
 2022,6037604001,Census Tract 6040.01,Lawndale,Los Angeles County,California,Lawndale,1592.0,65.0,1816.0,67.0,2161.0,316.0,$1816,$2161,$1592
 2022,6037604002,Census Tract 6040.02,Lawndale,Los Angeles County,California,Lawndale,1378.0,124.0,1748.0,139.0,2150.0,155.0,$1748,$2150,$1378
 2022,6037604101,Census Tract 6041.01,Lawndale,Los Angeles County,California,Lawndale,1455.0,137.0,1700.0,108.0,1933.0,112.0,$1700,$1933,$1455

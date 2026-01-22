@@ -226,7 +226,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037542200,Census Tract 5422,Compton,Los Angeles County,California,Compton,818.0,49.0,943.0,104.0,1380.0,192.0,$943,$1380,$818
 2017,6037542401,Census Tract 5424.01,Compton,Los Angeles County,California,Compton,865.0,50.0,993.0,113.0,1211.0,122.0,$993,$1211,$865
 2017,6037542402,Census Tract 5424.02,Compton,Los Angeles County,California,Compton,862.0,79.0,1073.0,191.0,1610.0,254.0,$1073,$1610,$862
-2017,6037542501,Census Tract 5425.01,Compton,Los Angeles County,California,Compton,,,975.0,481.0,1388.0,167.0,$975,$1388,Not Available!
+2017,6037542501,Census Tract 5425.01,Compton,Los Angeles County,California,Compton,,,975.0,481.0,1388.0,167.0,$975,$1388,
 2017,6037542502,Census Tract 5425.02,Compton,Los Angeles County,California,Compton,828.0,43.0,1020.0,69.0,1211.0,47.0,$1020,$1211,$828
 2017,6037542601,Census Tract 5426.01,Compton,Los Angeles County,California,Compton,513.0,34.0,775.0,258.0,1105.0,123.0,$775,$1105,$513
 2017,6037542602,Census Tract 5426.02,Compton,Los Angeles County,California,Compton,800.0,132.0,933.0,53.0,1116.0,121.0,$933,$1116,$800
@@ -256,12 +256,12 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037542200,Census Tract 5422,Compton,Los Angeles County,California,Compton,825.0,60.0,967.0,82.0,1320.0,161.0,$967,$1320,$825
 2018,6037542401,Census Tract 5424.01,Compton,Los Angeles County,California,Compton,892.0,87.0,1080.0,174.0,1362.0,174.0,$1080,$1362,$892
 2018,6037542402,Census Tract 5424.02,Compton,Los Angeles County,California,Compton,858.0,131.0,1031.0,210.0,1593.0,363.0,$1031,$1593,$858
-2018,6037542501,Census Tract 5425.01,Compton,Los Angeles County,California,Compton,,,638.0,501.0,1373.0,161.0,$638,$1373,Not Available!
+2018,6037542501,Census Tract 5425.01,Compton,Los Angeles County,California,Compton,,,638.0,501.0,1373.0,161.0,$638,$1373,
 2018,6037542502,Census Tract 5425.02,Compton,Los Angeles County,California,Compton,877.0,54.0,1097.0,55.0,1298.0,86.0,$1097,$1298,$877
 2018,6037542601,Census Tract 5426.01,Compton,Los Angeles County,California,Compton,524.0,68.0,907.0,126.0,1157.0,124.0,$907,$1157,$524
 2018,6037542602,Census Tract 5426.02,Compton,Los Angeles County,California,Compton,902.0,53.0,982.0,42.0,1268.0,103.0,$982,$1268,$902
 2018,6037542700,Census Tract 5427,Compton,Los Angeles County,California,Compton,926.0,221.0,1197.0,121.0,1448.0,143.0,$1197,$1448,$926
-2018,6037542800,Census Tract 5428,Compton,Los Angeles County,California,Compton,,,1027.0,156.0,1215.0,197.0,$1027,$1215,Not Available!
+2018,6037542800,Census Tract 5428,Compton,Los Angeles County,California,Compton,,,1027.0,156.0,1215.0,197.0,$1027,$1215,
 2018,6037542900,Census Tract 5429,Compton,Los Angeles County,California,Compton,763.0,306.0,1095.0,52.0,1217.0,57.0,$1095,$1217,$763
 2018,6037543000,Census Tract 5430,Compton,Los Angeles County,California,Compton,902.0,442.0,1120.0,113.0,1514.0,592.0,$1120,$1514,$902
 2018,6037543100,Census Tract 5431,Compton,Los Angeles County,California,Compton,1009.0,474.0,1257.0,164.0,1580.0,255.0,$1257,$1580,$1009
@@ -357,7 +357,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037543201,Census Tract 5432.01,Compton,Los Angeles County,California,Compton,1050.0,229.0,1358.0,114.0,1606.0,203.0,$1358,$1606,$1050
 2021,6037543203,Census Tract 5432.03,Compton,Los Angeles County,California,Compton,986.0,144.0,1265.0,126.0,1481.0,164.0,$1265,$1481,$986
 2021,6037543305,Census Tract 5433.05,Compton,Los Angeles County,California,Compton,1087.0,54.0,1174.0,330.0,1587.0,1116.0,$1174,$1587,$1087
-2022,6037541100,Census Tract 5411,Compton,Los Angeles County,California,Compton,,,980.0,502.0,1750.0,318.0,$980,$1750,Not Available!
+2022,6037541100,Census Tract 5411,Compton,Los Angeles County,California,Compton,,,980.0,502.0,1750.0,318.0,$980,$1750,
 2022,6037541200,Census Tract 5412,Compton,Los Angeles County,California,Compton,991.0,496.0,1643.0,126.0,1898.0,106.0,$1643,$1898,$991
 2022,6037541300,Census Tract 5413,Compton,Los Angeles County,California,Compton,1103.0,62.0,1234.0,142.0,1551.0,599.0,$1234,$1551,$1103
 2022,6037541603,Census Tract 5416.03,Compton,Los Angeles County,California,Compton,931.0,65.0,1161.0,144.0,1601.0,218.0,$1161,$1601,$931

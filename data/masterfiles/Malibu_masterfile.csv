@@ -51,33 +51,33 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037800506,Census Tract 8005.06,Malibu,Los Angeles County,California,Malibu,1450.0,1032.0,2847.0,770.0,3432.0,384.0,$2847,$3432,$1450
 2020,6037800406,Census Tract 8004.06,Malibu,Los Angeles County,California,Malibu,1217.0,258.0,3115.0,2847.0,3501.0,,$3115,Not available. Exceeds $3500!,$1217
 2020,6037800410,Census Tract 8004.10,Malibu,Los Angeles County,California,Malibu,2094.0,1072.0,2929.0,1572.0,3501.0,,$2929,Not available. Exceeds $3500!,$2094
-2020,6037800411,Census Tract 8004.11,Malibu,Los Angeles County,California,Malibu,1111.0,640.0,,,,,Not Available!,Not Available!,$1111
+2020,6037800411,Census Tract 8004.11,Malibu,Los Angeles County,California,Malibu,1111.0,640.0,,,,,,,$1111
 2020,6037800412,Census Tract 8004.12,Malibu,Los Angeles County,California,Malibu,2056.0,1880.0,2660.0,992.0,3171.0,655.0,$2660,$3171,$2056
 2020,6037800504,Census Tract 8005.04,Malibu,Los Angeles County,California,Malibu,1786.0,680.0,2528.0,449.0,3068.0,356.0,$2528,$3068,$1786
-2020,6037800506,Census Tract 8005.06,Malibu,Los Angeles County,California,Malibu,,,3318.0,312.0,3501.0,,$3318,Not available. Exceeds $3500!,Not Available!
-2020,6037990100,Census Tract 9901,Malibu,Los Angeles County,California,Malibu,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037990200,Census Tract 9902,Malibu,Los Angeles County,California,Malibu,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037800406,Census Tract 8004.06,Malibu,Los Angeles County,California,Malibu,1205.0,259.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1205
+2020,6037800506,Census Tract 8005.06,Malibu,Los Angeles County,California,Malibu,,,3318.0,312.0,3501.0,,$3318,Not available. Exceeds $3500!,
+2020,6037990100,Census Tract 9901,Malibu,Los Angeles County,California,Malibu,,,,,,,,,
+2020,6037990200,Census Tract 9902,Malibu,Los Angeles County,California,Malibu,,,,,,,,,
+2021,6037800406,Census Tract 8004.06,Malibu,Los Angeles County,California,Malibu,1205.0,259.0,,,3501.0,,,Not available. Exceeds $3500!,$1205
 2021,6037800410,Census Tract 8004.10,Malibu,Los Angeles County,California,Malibu,2208.0,1793.0,3500.0,768.0,3501.0,,$3500,Not available. Exceeds $3500!,$2208
-2021,6037800411,Census Tract 8004.11,Malibu,Los Angeles County,California,Malibu,,,2896.0,2662.0,3501.0,,$2896,Not available. Exceeds $3500!,Not Available!
-2021,6037800412,Census Tract 8004.12,Malibu,Los Angeles County,California,Malibu,,,3045.0,1219.0,3342.0,307.0,$3045,$3342,Not Available!
+2021,6037800411,Census Tract 8004.11,Malibu,Los Angeles County,California,Malibu,,,2896.0,2662.0,3501.0,,$2896,Not available. Exceeds $3500!,
+2021,6037800412,Census Tract 8004.12,Malibu,Los Angeles County,California,Malibu,,,3045.0,1219.0,3342.0,307.0,$3045,$3342,
 2021,6037800504,Census Tract 8005.04,Malibu,Los Angeles County,California,Malibu,1752.0,412.0,2402.0,845.0,3274.0,289.0,$2402,$3274,$1752
 2021,6037800506,Census Tract 8005.06,Malibu,Los Angeles County,California,Malibu,3081.0,2538.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3081
-2021,6037990100,Census Tract 9901,Malibu,Los Angeles County,California,Malibu,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037990200,Census Tract 9902,Malibu,Los Angeles County,California,Malibu,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037800406,Census Tract 8004.06,Malibu,Los Angeles County,California,Malibu,1212.0,259.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1212
-2022,6037800410,Census Tract 8004.10,Malibu,Los Angeles County,California,Malibu,,,3188.0,1751.0,3501.0,,$3188,Not available. Exceeds $3500!,Not Available!
-2022,6037800411,Census Tract 8004.11,Malibu,Los Angeles County,California,Malibu,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!
-2022,6037800412,Census Tract 8004.12,Malibu,Los Angeles County,California,Malibu,,,2719.0,835.0,3340.0,550.0,$2719,$3340,Not Available!
+2021,6037990100,Census Tract 9901,Malibu,Los Angeles County,California,Malibu,,,,,,,,,
+2021,6037990200,Census Tract 9902,Malibu,Los Angeles County,California,Malibu,,,,,,,,,
+2022,6037800406,Census Tract 8004.06,Malibu,Los Angeles County,California,Malibu,1212.0,259.0,,,3501.0,,,Not available. Exceeds $3500!,$1212
+2022,6037800410,Census Tract 8004.10,Malibu,Los Angeles County,California,Malibu,,,3188.0,1751.0,3501.0,,$3188,Not available. Exceeds $3500!,
+2022,6037800411,Census Tract 8004.11,Malibu,Los Angeles County,California,Malibu,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2022,6037800412,Census Tract 8004.12,Malibu,Los Angeles County,California,Malibu,,,2719.0,835.0,3340.0,550.0,$2719,$3340,
 2022,6037800504,Census Tract 8005.04,Malibu,Los Angeles County,California,Malibu,1789.0,518.0,2451.0,1210.0,3501.0,,$2451,Not available. Exceeds $3500!,$1789
-2022,6037800506,Census Tract 8005.06,Malibu,Los Angeles County,California,Malibu,,,3444.0,479.0,3501.0,,$3444,Not available. Exceeds $3500!,Not Available!
-2022,6037990100,Census Tract 9901,Malibu,Los Angeles County,California,Malibu,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037990200,Census Tract 9902,Malibu,Los Angeles County,California,Malibu,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037800506,Census Tract 8005.06,Malibu,Los Angeles County,California,Malibu,,,3444.0,479.0,3501.0,,$3444,Not available. Exceeds $3500!,
+2022,6037990100,Census Tract 9901,Malibu,Los Angeles County,California,Malibu,,,,,,,,,
+2022,6037990200,Census Tract 9902,Malibu,Los Angeles County,California,Malibu,,,,,,,,,
 2023,6037800406,Census Tract 8004.06,Malibu,Los Angeles County,California,Malibu,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
 2023,6037800410,Census Tract 8004.10,Malibu,Los Angeles County,California,Malibu,1313.0,246.0,3000.0,1749.0,3501.0,,$3000,Not available. Exceeds $3500!,$1313
 2023,6037800411,Census Tract 8004.11,Malibu,Los Angeles County,California,Malibu,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
 2023,6037800412,Census Tract 8004.12,Malibu,Los Angeles County,California,Malibu,2028.0,1508.0,3250.0,1682.0,3501.0,,$3250,Not available. Exceeds $3500!,$2028
 2023,6037800504,Census Tract 8005.04,Malibu,Los Angeles County,California,Malibu,2117.0,523.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2117
 2023,6037800506,Census Tract 8005.06,Malibu,Los Angeles County,California,Malibu,1714.0,622.0,3477.0,1112.0,3501.0,,$3477,Not available. Exceeds $3500!,$1714
-2023,6037990100,Census Tract 9901,Malibu,Los Angeles County,California,Malibu,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037990200,Census Tract 9902,Malibu,Los Angeles County,California,Malibu,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037990100,Census Tract 9901,Malibu,Los Angeles County,California,Malibu,,,,,,,,,
+2023,6037990200,Census Tract 9902,Malibu,Los Angeles County,California,Malibu,,,,,,,,,

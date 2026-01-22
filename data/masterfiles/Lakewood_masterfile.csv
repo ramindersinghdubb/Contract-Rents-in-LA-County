@@ -254,7 +254,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037571000,Census Tract 5710,Lakewood,Los Angeles County,California,Lakewood,1975.0,313.0,2313.0,305.0,2651.0,287.0,$2313,$2651,$1975
 2020,6037571101,Census Tract 5711.01,Lakewood,Los Angeles County,California,Lakewood,2125.0,112.0,2318.0,127.0,2525.0,256.0,$2318,$2525,$2125
 2020,6037571102,Census Tract 5711.02,Lakewood,Los Angeles County,California,Lakewood,1702.0,281.0,2074.0,263.0,2377.0,191.0,$2074,$2377,$1702
-2020,6037571300,Census Tract 5713,Lakewood,Los Angeles County,California,Lakewood,,,2160.0,340.0,2430.0,322.0,$2160,$2430,Not Available!
+2020,6037571300,Census Tract 5713,Lakewood,Los Angeles County,California,Lakewood,,,2160.0,340.0,2430.0,322.0,$2160,$2430,
 2020,6037571400,Census Tract 5714,Lakewood,Los Angeles County,California,Lakewood,1408.0,180.0,1850.0,310.0,2250.0,216.0,$1850,$2250,$1408
 2020,6037572001,Census Tract 5720.01,Lakewood,Los Angeles County,California,Lakewood,1193.0,136.0,1419.0,107.0,1946.0,343.0,$1419,$1946,$1193
 2020,6037573800,Census Tract 5738,Lakewood,Los Angeles County,California,Lakewood,2073.0,147.0,2282.0,130.0,2490.0,252.0,$2282,$2490,$2073

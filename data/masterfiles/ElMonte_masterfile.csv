@@ -366,7 +366,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037432401,Census Tract 4324.01,El Monte,Los Angeles County,California,ElMonte,1228.0,159.0,1421.0,79.0,1797.0,222.0,$1421,$1797,$1228
 2021,6037432402,Census Tract 4324.02,El Monte,Los Angeles County,California,ElMonte,1028.0,99.0,1328.0,104.0,1629.0,191.0,$1328,$1629,$1028
 2021,6037432501,Census Tract 4325.01,El Monte,Los Angeles County,California,ElMonte,1176.0,473.0,1427.0,132.0,1876.0,387.0,$1427,$1876,$1176
-2021,6037432502,Census Tract 4325.02,El Monte,Los Angeles County,California,ElMonte,,,1135.0,123.0,1377.0,421.0,$1135,$1377,Not Available!
+2021,6037432502,Census Tract 4325.02,El Monte,Los Angeles County,California,ElMonte,,,1135.0,123.0,1377.0,421.0,$1135,$1377,
 2021,6037432601,Census Tract 4326.01,El Monte,Los Angeles County,California,ElMonte,1192.0,108.0,1446.0,125.0,1795.0,114.0,$1446,$1795,$1192
 2021,6037432602,Census Tract 4326.02,El Monte,Los Angeles County,California,ElMonte,1175.0,175.0,1544.0,200.0,1845.0,135.0,$1544,$1845,$1175
 2021,6037432700,Census Tract 4327,El Monte,Los Angeles County,California,ElMonte,1086.0,193.0,1389.0,120.0,1716.0,200.0,$1389,$1716,$1086

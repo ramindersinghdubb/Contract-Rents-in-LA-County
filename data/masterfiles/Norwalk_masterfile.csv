@@ -1,6 +1,6 @@
 YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th
 2010,6037502801,Census Tract 5028.01,Norwalk,Los Angeles County,California,Norwalk,972.0,90.0,1170.0,304.0,1568.0,367.0,$1170,$1568,$972
-2010,6037550000,Census Tract 5500,Norwalk,Los Angeles County,California,Norwalk,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037550000,Census Tract 5500,Norwalk,Los Angeles County,California,Norwalk,,,,,,,,,
 2010,6037550100,Census Tract 5501,Norwalk,Los Angeles County,California,Norwalk,1099.0,280.0,1648.0,324.0,2001.0,,$1648,Not available. Exceeds $2000!,$1099
 2010,6037550201,Census Tract 5502.01,Norwalk,Los Angeles County,California,Norwalk,801.0,82.0,910.0,53.0,997.0,188.0,$910,$997,$801
 2010,6037550202,Census Tract 5502.02,Norwalk,Los Angeles County,California,Norwalk,936.0,954.0,1229.0,291.0,1464.0,1031.0,$1229,$1464,$936
@@ -22,7 +22,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037554600,Census Tract 5546,Norwalk,Los Angeles County,California,Norwalk,1123.0,77.0,1338.0,130.0,1673.0,213.0,$1338,$1673,$1123
 2010,6037554700,Census Tract 5547,Norwalk,Los Angeles County,California,Norwalk,1042.0,202.0,1284.0,138.0,1428.0,92.0,$1284,$1428,$1042
 2011,6037502801,Census Tract 5028.01,Norwalk,Los Angeles County,California,Norwalk,1053.0,100.0,1211.0,175.0,1686.0,329.0,$1211,$1686,$1053
-2011,6037550000,Census Tract 5500,Norwalk,Los Angeles County,California,Norwalk,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037550000,Census Tract 5500,Norwalk,Los Angeles County,California,Norwalk,,,,,,,,,
 2011,6037550100,Census Tract 5501,Norwalk,Los Angeles County,California,Norwalk,850.0,1505.0,1431.0,391.0,1834.0,231.0,$1431,$1834,$850
 2011,6037550201,Census Tract 5502.01,Norwalk,Los Angeles County,California,Norwalk,901.0,68.0,995.0,178.0,1672.0,583.0,$995,$1672,$901
 2011,6037550202,Census Tract 5502.02,Norwalk,Los Angeles County,California,Norwalk,531.0,1016.0,1410.0,1209.0,2001.0,,$1410,Not available. Exceeds $2000!,$531
@@ -111,7 +111,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037554700,Census Tract 5547,Norwalk,Los Angeles County,California,Norwalk,1144.0,216.0,1451.0,141.0,1737.0,91.0,$1451,$1737,$1144
 2015,6037502801,Census Tract 5028.01,Norwalk,Los Angeles County,California,Norwalk,1304.0,137.0,1735.0,358.0,2177.0,197.0,$1735,$2177,$1304
 2015,6037550000,Census Tract 5500,Norwalk,Los Angeles County,California,Norwalk,1148.0,139.0,1344.0,321.0,1750.0,550.0,$1344,$1750,$1148
-2015,6037550100,Census Tract 5501,Norwalk,Los Angeles County,California,Norwalk,415.0,151.0,,,1995.0,1055.0,Not Available!,$1995,$415
+2015,6037550100,Census Tract 5501,Norwalk,Los Angeles County,California,Norwalk,415.0,151.0,,,1995.0,1055.0,,$1995,$415
 2015,6037550201,Census Tract 5502.01,Norwalk,Los Angeles County,California,Norwalk,948.0,81.0,1118.0,68.0,1601.0,658.0,$1118,$1601,$948
 2015,6037550202,Census Tract 5502.02,Norwalk,Los Angeles County,California,Norwalk,1151.0,313.0,1706.0,179.0,2011.0,253.0,$1706,$2011,$1151
 2015,6037550300,Census Tract 5503,Norwalk,Los Angeles County,California,Norwalk,1122.0,44.0,1266.0,99.0,1491.0,212.0,$1266,$1491,$1122
@@ -121,9 +121,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037552100,Census Tract 5521,Norwalk,Los Angeles County,California,Norwalk,291.0,227.0,751.0,333.0,1071.0,195.0,$751,$1071,$291
 2015,6037552200,Census Tract 5522,Norwalk,Los Angeles County,California,Norwalk,871.0,78.0,1086.0,89.0,1349.0,87.0,$1086,$1349,$871
 2015,6037552301,Census Tract 5523.01,Norwalk,Los Angeles County,California,Norwalk,1500.0,152.0,1678.0,82.0,1856.0,52.0,$1678,$1856,$1500
-2015,6037552302,Census Tract 5523.02,Norwalk,Los Angeles County,California,Norwalk,,,967.0,59.0,1302.0,207.0,$967,$1302,Not Available!
+2015,6037552302,Census Tract 5523.02,Norwalk,Los Angeles County,California,Norwalk,,,967.0,59.0,1302.0,207.0,$967,$1302,
 2015,6037552400,Census Tract 5524,Norwalk,Los Angeles County,California,Norwalk,1122.0,294.0,1564.0,242.0,1850.0,141.0,$1564,$1850,$1122
-2015,6037552601,Census Tract 5526.01,Norwalk,Los Angeles County,California,Norwalk,,,990.0,653.0,1440.0,228.0,$990,$1440,Not Available!
+2015,6037552601,Census Tract 5526.01,Norwalk,Los Angeles County,California,Norwalk,,,990.0,653.0,1440.0,228.0,$990,$1440,
 2015,6037552602,Census Tract 5526.02,Norwalk,Los Angeles County,California,Norwalk,1250.0,103.0,1426.0,93.0,1717.0,185.0,$1426,$1717,$1250
 2015,6037552700,Census Tract 5527,Norwalk,Los Angeles County,California,Norwalk,852.0,325.0,1205.0,195.0,1566.0,209.0,$1205,$1566,$852
 2015,6037552800,Census Tract 5528,Norwalk,Los Angeles County,California,Norwalk,998.0,143.0,1344.0,226.0,1717.0,137.0,$1344,$1717,$998
@@ -145,7 +145,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037552301,Census Tract 5523.01,Norwalk,Los Angeles County,California,Norwalk,1397.0,136.0,1621.0,101.0,1816.0,51.0,$1621,$1816,$1397
 2016,6037552302,Census Tract 5523.02,Norwalk,Los Angeles County,California,Norwalk,632.0,606.0,976.0,50.0,1320.0,242.0,$976,$1320,$632
 2016,6037552400,Census Tract 5524,Norwalk,Los Angeles County,California,Norwalk,1131.0,173.0,1522.0,281.0,1801.0,136.0,$1522,$1801,$1131
-2016,6037552601,Census Tract 5526.01,Norwalk,Los Angeles County,California,Norwalk,,,1094.0,500.0,1374.0,100.0,$1094,$1374,Not Available!
+2016,6037552601,Census Tract 5526.01,Norwalk,Los Angeles County,California,Norwalk,,,1094.0,500.0,1374.0,100.0,$1094,$1374,
 2016,6037552602,Census Tract 5526.02,Norwalk,Los Angeles County,California,Norwalk,1230.0,105.0,1373.0,59.0,1524.0,220.0,$1373,$1524,$1230
 2016,6037552700,Census Tract 5527,Norwalk,Los Angeles County,California,Norwalk,889.0,333.0,1296.0,215.0,1660.0,196.0,$1296,$1660,$889
 2016,6037552800,Census Tract 5528,Norwalk,Los Angeles County,California,Norwalk,1003.0,105.0,1281.0,176.0,1687.0,207.0,$1281,$1687,$1003
@@ -219,7 +219,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037553000,Census Tract 5530,Norwalk,Los Angeles County,California,Norwalk,999.0,692.0,1587.0,273.0,1995.0,322.0,$1587,$1995,$999
 2019,6037554600,Census Tract 5546,Norwalk,Los Angeles County,California,Norwalk,1133.0,114.0,1677.0,163.0,2109.0,233.0,$1677,$2109,$1133
 2019,6037554700,Census Tract 5547,Norwalk,Los Angeles County,California,Norwalk,1351.0,272.0,1725.0,178.0,2074.0,212.0,$1725,$2074,$1351
-2020,6037550101,Census Tract 5501.01,Norwalk,Los Angeles County,California,Norwalk,,,1338.0,479.0,1724.0,165.0,$1338,$1724,Not Available!
+2020,6037550101,Census Tract 5501.01,Norwalk,Los Angeles County,California,Norwalk,,,1338.0,479.0,1724.0,165.0,$1338,$1724,
 2020,6037550201,Census Tract 5502.01,Norwalk,Los Angeles County,California,Norwalk,1064.0,65.0,1245.0,100.0,1429.0,88.0,$1245,$1429,$1064
 2020,6037550202,Census Tract 5502.02,Norwalk,Los Angeles County,California,Norwalk,1204.0,220.0,1554.0,246.0,1908.0,204.0,$1554,$1908,$1204
 2020,6037550301,Census Tract 5503.01,Norwalk,Los Angeles County,California,Norwalk,1606.0,67.0,1774.0,65.0,1941.0,98.0,$1774,$1941,$1606
@@ -241,7 +241,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037554700,Census Tract 5547,Norwalk,Los Angeles County,California,Norwalk,1552.0,301.0,1854.0,202.0,2170.0,195.0,$1854,$2170,$1552
 2020,6037555300,Census Tract 5553,Norwalk,Los Angeles County,California,Norwalk,1529.0,557.0,1721.0,130.0,1913.0,335.0,$1721,$1913,$1529
 2020,6037577800,Census Tract 5778,Norwalk,Los Angeles County,California,Norwalk,1304.0,422.0,1499.0,368.0,1960.0,380.0,$1499,$1960,$1304
-2021,6037550101,Census Tract 5501.01,Norwalk,Los Angeles County,California,Norwalk,,,1558.0,705.0,1779.0,142.0,$1558,$1779,Not Available!
+2021,6037550101,Census Tract 5501.01,Norwalk,Los Angeles County,California,Norwalk,,,1558.0,705.0,1779.0,142.0,$1558,$1779,
 2021,6037550201,Census Tract 5502.01,Norwalk,Los Angeles County,California,Norwalk,1101.0,62.0,1256.0,95.0,1428.0,84.0,$1256,$1428,$1101
 2021,6037550202,Census Tract 5502.02,Norwalk,Los Angeles County,California,Norwalk,1244.0,276.0,1602.0,347.0,2030.0,308.0,$1602,$2030,$1244
 2021,6037550301,Census Tract 5503.01,Norwalk,Los Angeles County,California,Norwalk,1652.0,98.0,1861.0,168.0,2229.0,543.0,$1861,$2229,$1652
@@ -263,7 +263,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037554700,Census Tract 5547,Norwalk,Los Angeles County,California,Norwalk,1513.0,177.0,1789.0,177.0,2102.0,261.0,$1789,$2102,$1513
 2021,6037555300,Census Tract 5553,Norwalk,Los Angeles County,California,Norwalk,1508.0,665.0,1817.0,274.0,2194.0,376.0,$1817,$2194,$1508
 2021,6037577800,Census Tract 5778,Norwalk,Los Angeles County,California,Norwalk,1573.0,638.0,1780.0,156.0,1988.0,414.0,$1780,$1988,$1573
-2022,6037550101,Census Tract 5501.01,Norwalk,Los Angeles County,California,Norwalk,469.0,21.0,,,1413.0,340.0,Not Available!,$1413,$469
+2022,6037550101,Census Tract 5501.01,Norwalk,Los Angeles County,California,Norwalk,469.0,21.0,,,1413.0,340.0,,$1413,$469
 2022,6037550201,Census Tract 5502.01,Norwalk,Los Angeles County,California,Norwalk,1327.0,67.0,1489.0,124.0,1754.0,106.0,$1489,$1754,$1327
 2022,6037550202,Census Tract 5502.02,Norwalk,Los Angeles County,California,Norwalk,1326.0,266.0,1758.0,568.0,2249.0,231.0,$1758,$2249,$1326
 2022,6037550301,Census Tract 5503.01,Norwalk,Los Angeles County,California,Norwalk,1763.0,122.0,2041.0,256.0,2468.0,258.0,$2041,$2468,$1763
@@ -285,7 +285,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037554700,Census Tract 5547,Norwalk,Los Angeles County,California,Norwalk,1576.0,265.0,1992.0,279.0,2261.0,141.0,$1992,$2261,$1576
 2022,6037555300,Census Tract 5553,Norwalk,Los Angeles County,California,Norwalk,1515.0,290.0,1939.0,653.0,2611.0,390.0,$1939,$2611,$1515
 2022,6037577800,Census Tract 5778,Norwalk,Los Angeles County,California,Norwalk,1560.0,337.0,1734.0,106.0,1909.0,87.0,$1734,$1909,$1560
-2023,6037550101,Census Tract 5501.01,Norwalk,Los Angeles County,California,Norwalk,,,1324.0,1255.0,1500.0,325.0,$1324,$1500,Not Available!
+2023,6037550101,Census Tract 5501.01,Norwalk,Los Angeles County,California,Norwalk,,,1324.0,1255.0,1500.0,325.0,$1324,$1500,
 2023,6037550201,Census Tract 5502.01,Norwalk,Los Angeles County,California,Norwalk,1321.0,100.0,1526.0,156.0,1794.0,105.0,$1526,$1794,$1321
 2023,6037550202,Census Tract 5502.02,Norwalk,Los Angeles County,California,Norwalk,1516.0,372.0,2006.0,457.0,2461.0,381.0,$2006,$2461,$1516
 2023,6037550301,Census Tract 5503.01,Norwalk,Los Angeles County,California,Norwalk,1844.0,201.0,2123.0,151.0,2350.0,99.0,$2123,$2350,$1844

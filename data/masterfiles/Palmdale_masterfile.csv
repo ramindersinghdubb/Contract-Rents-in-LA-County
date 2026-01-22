@@ -6,14 +6,14 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037910101,Census Tract 9101.01,Palmdale,Los Angeles County,California,Palmdale,664.0,80.0,699.0,69.0,771.0,56.0,$699,$771,$664
 2010,6037910201,Census Tract 9102.01,Palmdale,Los Angeles County,California,Palmdale,927.0,198.0,1122.0,78.0,1578.0,512.0,$1122,$1578,$927
 2010,6037910202,Census Tract 9102.02,Palmdale,Los Angeles County,California,Palmdale,1132.0,159.0,1289.0,156.0,1421.0,247.0,$1289,$1421,$1132
-2010,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2010,6037910206,Census Tract 9102.06,Palmdale,Los Angeles County,California,Palmdale,1614.0,95.0,1762.0,83.0,1910.0,101.0,$1762,$1910,$1614
 2010,6037910207,Census Tract 9102.07,Palmdale,Los Angeles County,California,Palmdale,1492.0,276.0,1740.0,304.0,1988.0,398.0,$1740,$1988,$1492
 2010,6037910208,Census Tract 9102.08,Palmdale,Los Angeles County,California,Palmdale,929.0,272.0,1357.0,382.0,1689.0,258.0,$1357,$1689,$929
 2010,6037910209,Census Tract 9102.09,Palmdale,Los Angeles County,California,Palmdale,1537.0,225.0,1744.0,219.0,1952.0,308.0,$1744,$1952,$1537
 2010,6037910210,Census Tract 9102.10,Palmdale,Los Angeles County,California,Palmdale,1516.0,1027.0,1828.0,264.0,2001.0,,$1828,Not available. Exceeds $2000!,$1516
 2010,6037910301,Census Tract 9103.01,Palmdale,Los Angeles County,California,Palmdale,645.0,209.0,1004.0,638.0,1198.0,564.0,$1004,$1198,$645
-2010,6037910302,Census Tract 9103.02,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037910302,Census Tract 9103.02,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2010,6037910401,Census Tract 9104.01,Palmdale,Los Angeles County,California,Palmdale,800.0,194.0,964.0,163.0,1284.0,162.0,$964,$1284,$800
 2010,6037910402,Census Tract 9104.02,Palmdale,Los Angeles County,California,Palmdale,693.0,63.0,806.0,52.0,899.0,80.0,$806,$899,$693
 2010,6037910403,Census Tract 9104.03,Palmdale,Los Angeles County,California,Palmdale,682.0,18.0,745.0,30.0,832.0,42.0,$745,$832,$682
@@ -38,9 +38,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,716.0,152.0,1047.0,238.0,1344.0,336.0,$1047,$1344,$716
 2010,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,1266.0,175.0,1414.0,103.0,1658.0,239.0,$1414,$1658,$1266
 2010,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1159.0,645.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1159
-2010,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2010,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,447.0,449.0,912.0,894.0,956.0,462.0,$912,$956,$447
-2010,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2011,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,507.0,94.0,549.0,722.0,973.0,194.0,$549,$973,$507
 2011,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
 2011,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,816.0,289.0,926.0,64.0,991.0,145.0,$926,$991,$816
@@ -80,9 +80,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,861.0,329.0,1111.0,105.0,1298.0,144.0,$1111,$1298,$861
 2011,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,971.0,226.0,1317.0,143.0,1492.0,177.0,$1317,$1492,$971
 2011,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1341.0,603.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1341
-2011,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2011,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,554.0,203.0,585.0,473.0,944.0,483.0,$585,$944,$554
-2011,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2012,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,516.0,452.0,936.0,73.0,1094.0,532.0,$936,$1094,$516
 2012,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,644.0,1144.0,1990.0,473.0,2001.0,,$1990,Not available. Exceeds $2000!,$644
 2012,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,1014.0,358.0,1098.0,40.0,1183.0,28.0,$1098,$1183,$1014
@@ -122,9 +122,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,882.0,201.0,1139.0,96.0,1387.0,194.0,$1139,$1387,$882
 2012,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,938.0,172.0,1316.0,136.0,1479.0,149.0,$1316,$1479,$938
 2012,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1280.0,345.0,1495.0,1362.0,2001.0,,$1495,Not available. Exceeds $2000!,$1280
-2012,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2012,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,573.0,496.0,1046.0,988.0,1240.0,1865.0,$1046,$1240,$573
-2012,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2013,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,423.0,211.0,725.0,359.0,1286.0,499.0,$725,$1286,$423
 2013,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,643.0,2076.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$643
 2013,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,1004.0,872.0,1095.0,69.0,1185.0,44.0,$1095,$1185,$1004
@@ -164,9 +164,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,890.0,230.0,1135.0,78.0,1327.0,139.0,$1135,$1327,$890
 2013,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,947.0,181.0,1317.0,141.0,1553.0,217.0,$1317,$1553,$947
 2013,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1125.0,364.0,1370.0,242.0,1725.0,766.0,$1370,$1725,$1125
-2013,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2013,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,586.0,733.0,1083.0,567.0,1223.0,1487.0,$1083,$1223,$586
-2013,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2014,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,423.0,175.0,759.0,615.0,1318.0,479.0,$759,$1318,$423
 2014,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,629.0,1362.0,1795.0,947.0,2001.0,,$1795,Not available. Exceeds $2000!,$629
 2014,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,957.0,947.0,1106.0,122.0,1221.0,685.0,$1106,$1221,$957
@@ -206,9 +206,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,994.0,176.0,1267.0,120.0,1430.0,70.0,$1267,$1430,$994
 2014,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,936.0,172.0,1332.0,136.0,1518.0,198.0,$1332,$1518,$936
 2014,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1088.0,86.0,1176.0,464.0,1569.0,769.0,$1176,$1569,$1088
-2014,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2014,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,588.0,640.0,1087.0,403.0,1218.0,1041.0,$1087,$1218,$588
-2014,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2015,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,428.0,147.0,541.0,156.0,863.0,445.0,$541,$863,$428
 2015,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,632.0,368.0,1222.0,1044.0,1808.0,241.0,$1222,$1808,$632
 2015,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,793.0,679.0,1087.0,58.0,1187.0,39.0,$1087,$1187,$793
@@ -216,21 +216,21 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037910101,Census Tract 9101.01,Palmdale,Los Angeles County,California,Palmdale,644.0,77.0,733.0,78.0,882.0,74.0,$733,$882,$644
 2015,6037910201,Census Tract 9102.01,Palmdale,Los Angeles County,California,Palmdale,846.0,139.0,1146.0,204.0,1588.0,221.0,$1146,$1588,$846
 2015,6037910202,Census Tract 9102.02,Palmdale,Los Angeles County,California,Palmdale,683.0,109.0,803.0,589.0,1548.0,454.0,$803,$1548,$683
-2015,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,365.0,171.0,,,1258.0,423.0,Not Available!,$1258,$365
+2015,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,365.0,171.0,,,1258.0,423.0,,$1258,$365
 2015,6037910206,Census Tract 9102.06,Palmdale,Los Angeles County,California,Palmdale,1541.0,312.0,1715.0,66.0,1889.0,57.0,$1715,$1889,$1541
 2015,6037910207,Census Tract 9102.07,Palmdale,Los Angeles County,California,Palmdale,1320.0,32.0,1430.0,52.0,1664.0,224.0,$1430,$1664,$1320
 2015,6037910208,Census Tract 9102.08,Palmdale,Los Angeles County,California,Palmdale,947.0,243.0,1176.0,109.0,1423.0,132.0,$1176,$1423,$947
 2015,6037910209,Census Tract 9102.09,Palmdale,Los Angeles County,California,Palmdale,1424.0,142.0,1650.0,172.0,1891.0,171.0,$1650,$1891,$1424
 2015,6037910210,Census Tract 9102.10,Palmdale,Los Angeles County,California,Palmdale,1430.0,154.0,1659.0,148.0,1890.0,112.0,$1659,$1890,$1430
 2015,6037910301,Census Tract 9103.01,Palmdale,Los Angeles County,California,Palmdale,657.0,307.0,1072.0,345.0,1353.0,240.0,$1072,$1353,$657
-2015,6037910302,Census Tract 9103.02,Palmdale,Los Angeles County,California,Palmdale,,,1381.0,601.0,1743.0,232.0,$1381,$1743,Not Available!
+2015,6037910302,Census Tract 9103.02,Palmdale,Los Angeles County,California,Palmdale,,,1381.0,601.0,1743.0,232.0,$1381,$1743,
 2015,6037910401,Census Tract 9104.01,Palmdale,Los Angeles County,California,Palmdale,966.0,135.0,1195.0,77.0,1479.0,122.0,$1195,$1479,$966
 2015,6037910402,Census Tract 9104.02,Palmdale,Los Angeles County,California,Palmdale,621.0,49.0,741.0,26.0,887.0,71.0,$741,$887,$621
 2015,6037910403,Census Tract 9104.03,Palmdale,Los Angeles County,California,Palmdale,695.0,23.0,734.0,14.0,818.0,100.0,$734,$818,$695
 2015,6037910404,Census Tract 9104.04,Palmdale,Los Angeles County,California,Palmdale,776.0,41.0,910.0,122.0,1178.0,129.0,$910,$1178,$776
 2015,6037910501,Census Tract 9105.01,Palmdale,Los Angeles County,California,Palmdale,554.0,29.0,666.0,33.0,799.0,44.0,$666,$799,$554
 2015,6037910502,Census Tract 9105.02,Palmdale,Los Angeles County,California,Palmdale,662.0,60.0,839.0,142.0,1011.0,104.0,$839,$1011,$662
-2015,6037910504,Census Tract 9105.04,Palmdale,Los Angeles County,California,Palmdale,,,1025.0,115.0,1219.0,113.0,$1025,$1219,Not Available!
+2015,6037910504,Census Tract 9105.04,Palmdale,Los Angeles County,California,Palmdale,,,1025.0,115.0,1219.0,113.0,$1025,$1219,
 2015,6037910505,Census Tract 9105.05,Palmdale,Los Angeles County,California,Palmdale,1018.0,940.0,1181.0,120.0,1372.0,136.0,$1181,$1372,$1018
 2015,6037910601,Census Tract 9106.01,Palmdale,Los Angeles County,California,Palmdale,916.0,151.0,1076.0,79.0,1241.0,120.0,$1076,$1241,$916
 2015,6037910602,Census Tract 9106.02,Palmdale,Los Angeles County,California,Palmdale,751.0,54.0,841.0,33.0,973.0,165.0,$841,$973,$751
@@ -247,18 +247,18 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037910714,Census Tract 9107.14,Palmdale,Los Angeles County,California,Palmdale,990.0,72.0,1151.0,85.0,1334.0,91.0,$1151,$1334,$990
 2015,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,1025.0,154.0,1259.0,105.0,1406.0,53.0,$1259,$1406,$1025
 2015,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,934.0,161.0,1268.0,222.0,1612.0,241.0,$1268,$1612,$934
-2015,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2015,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,1225.0,731.0,1654.0,386.0,1827.0,128.0,$1654,$1827,$1225
-2015,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,578.0,528.0,,,2137.0,940.0,Not Available!,$2137,$578
-2015,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,578.0,528.0,,,2137.0,940.0,,$2137,$578
+2015,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2016,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,415.0,120.0,522.0,135.0,675.0,427.0,$522,$675,$415
-2016,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,,,1667.0,480.0,1981.0,297.0,$1667,$1981,Not Available!
+2016,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,,,1667.0,480.0,1981.0,297.0,$1667,$1981,
 2016,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,816.0,488.0,1076.0,55.0,1181.0,34.0,$1076,$1181,$816
 2016,6037910002,Census Tract 9100.02,Palmdale,Los Angeles County,California,Palmdale,770.0,160.0,1073.0,156.0,1321.0,184.0,$1073,$1321,$770
 2016,6037910101,Census Tract 9101.01,Palmdale,Los Angeles County,California,Palmdale,653.0,63.0,729.0,36.0,849.0,55.0,$729,$849,$653
 2016,6037910201,Census Tract 9102.01,Palmdale,Los Angeles County,California,Palmdale,892.0,131.0,1162.0,158.0,1598.0,232.0,$1162,$1598,$892
 2016,6037910202,Census Tract 9102.02,Palmdale,Los Angeles County,California,Palmdale,669.0,134.0,794.0,152.0,1428.0,712.0,$794,$1428,$669
-2016,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,,,,,1353.0,342.0,Not Available!,$1353,Not Available!
+2016,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,,,,,1353.0,342.0,,$1353,
 2016,6037910206,Census Tract 9102.06,Palmdale,Los Angeles County,California,Palmdale,1508.0,139.0,1699.0,86.0,1890.0,66.0,$1699,$1890,$1508
 2016,6037910207,Census Tract 9102.07,Palmdale,Los Angeles County,California,Palmdale,1299.0,736.0,1608.0,148.0,1846.0,105.0,$1608,$1846,$1299
 2016,6037910208,Census Tract 9102.08,Palmdale,Los Angeles County,California,Palmdale,1069.0,67.0,1238.0,90.0,1425.0,91.0,$1238,$1425,$1069
@@ -272,7 +272,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037910404,Census Tract 9104.04,Palmdale,Los Angeles County,California,Palmdale,798.0,59.0,988.0,148.0,1216.0,155.0,$988,$1216,$798
 2016,6037910501,Census Tract 9105.01,Palmdale,Los Angeles County,California,Palmdale,557.0,28.0,667.0,31.0,798.0,31.0,$667,$798,$557
 2016,6037910502,Census Tract 9105.02,Palmdale,Los Angeles County,California,Palmdale,691.0,66.0,815.0,88.0,1057.0,114.0,$815,$1057,$691
-2016,6037910504,Census Tract 9105.04,Palmdale,Los Angeles County,California,Palmdale,,,971.0,82.0,1149.0,105.0,$971,$1149,Not Available!
+2016,6037910504,Census Tract 9105.04,Palmdale,Los Angeles County,California,Palmdale,,,971.0,82.0,1149.0,105.0,$971,$1149,
 2016,6037910505,Census Tract 9105.05,Palmdale,Los Angeles County,California,Palmdale,1004.0,595.0,1154.0,106.0,1409.0,326.0,$1154,$1409,$1004
 2016,6037910601,Census Tract 9106.01,Palmdale,Los Angeles County,California,Palmdale,915.0,261.0,1052.0,102.0,1233.0,113.0,$1052,$1233,$915
 2016,6037910602,Census Tract 9106.02,Palmdale,Los Angeles County,California,Palmdale,744.0,75.0,851.0,33.0,989.0,170.0,$851,$989,$744
@@ -290,9 +290,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,888.0,154.0,1169.0,137.0,1380.0,90.0,$1169,$1380,$888
 2016,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,883.0,303.0,1313.0,248.0,1684.0,174.0,$1313,$1684,$883
 2016,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1125.0,94.0,1375.0,806.0,2021.0,733.0,$1375,$2021,$1125
-2016,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
-2016,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,1046.0,273.0,,,2414.0,420.0,Not Available!,$2414,$1046
-2016,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
+2016,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,1046.0,273.0,,,2414.0,420.0,,$2414,$1046
+2016,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2017,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,507.0,166.0,807.0,459.0,873.0,97.0,$807,$873,$507
 2017,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,1170.0,856.0,1733.0,278.0,2008.0,332.0,$1733,$2008,$1170
 2017,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,790.0,213.0,1079.0,98.0,1198.0,59.0,$1079,$1198,$790
@@ -300,7 +300,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037910101,Census Tract 9101.01,Palmdale,Los Angeles County,California,Palmdale,663.0,65.0,737.0,35.0,897.0,62.0,$737,$897,$663
 2017,6037910201,Census Tract 9102.01,Palmdale,Los Angeles County,California,Palmdale,942.0,152.0,1217.0,125.0,1662.0,221.0,$1217,$1662,$942
 2017,6037910202,Census Tract 9102.02,Palmdale,Los Angeles County,California,Palmdale,672.0,301.0,1375.0,762.0,1744.0,279.0,$1375,$1744,$672
-2017,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,342.0,321.0,,,1540.0,464.0,Not Available!,$1540,$342
+2017,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,342.0,321.0,,,1540.0,464.0,,$1540,$342
 2017,6037910206,Census Tract 9102.06,Palmdale,Los Angeles County,California,Palmdale,1628.0,34.0,1794.0,48.0,1959.0,82.0,$1794,$1959,$1628
 2017,6037910207,Census Tract 9102.07,Palmdale,Los Angeles County,California,Palmdale,1287.0,791.0,1610.0,149.0,1892.0,152.0,$1610,$1892,$1287
 2017,6037910208,Census Tract 9102.08,Palmdale,Los Angeles County,California,Palmdale,1037.0,94.0,1242.0,113.0,1454.0,108.0,$1242,$1454,$1037
@@ -314,7 +314,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037910404,Census Tract 9104.04,Palmdale,Los Angeles County,California,Palmdale,835.0,97.0,1067.0,126.0,1349.0,193.0,$1067,$1349,$835
 2017,6037910501,Census Tract 9105.01,Palmdale,Los Angeles County,California,Palmdale,568.0,35.0,681.0,27.0,821.0,29.0,$681,$821,$568
 2017,6037910502,Census Tract 9105.02,Palmdale,Los Angeles County,California,Palmdale,715.0,78.0,851.0,71.0,1062.0,103.0,$851,$1062,$715
-2017,6037910504,Census Tract 9105.04,Palmdale,Los Angeles County,California,Palmdale,,,868.0,406.0,1259.0,187.0,$868,$1259,Not Available!
+2017,6037910504,Census Tract 9105.04,Palmdale,Los Angeles County,California,Palmdale,,,868.0,406.0,1259.0,187.0,$868,$1259,
 2017,6037910505,Census Tract 9105.05,Palmdale,Los Angeles County,California,Palmdale,778.0,395.0,1104.0,134.0,1348.0,476.0,$1104,$1348,$778
 2017,6037910601,Census Tract 9106.01,Palmdale,Los Angeles County,California,Palmdale,953.0,147.0,1130.0,78.0,1359.0,135.0,$1130,$1359,$953
 2017,6037910602,Census Tract 9106.02,Palmdale,Los Angeles County,California,Palmdale,747.0,115.0,896.0,92.0,1154.0,103.0,$896,$1154,$747
@@ -332,9 +332,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,749.0,283.0,1080.0,165.0,1302.0,123.0,$1080,$1302,$749
 2017,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,1033.0,301.0,1321.0,201.0,1683.0,271.0,$1321,$1683,$1033
 2017,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1049.0,556.0,1222.0,646.0,1904.0,565.0,$1222,$1904,$1049
-2017,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
-2017,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,1017.0,318.0,,,2443.0,1018.0,Not Available!,$2443,$1017
-2017,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
+2017,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,1017.0,318.0,,,2443.0,1018.0,,$2443,$1017
+2017,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2018,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,575.0,104.0,630.0,119.0,819.0,295.0,$630,$819,$575
 2018,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,794.0,692.0,1650.0,518.0,1975.0,279.0,$1650,$1975,$794
 2018,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,762.0,245.0,1119.0,141.0,1342.0,130.0,$1119,$1342,$762
@@ -342,14 +342,14 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037910101,Census Tract 9101.01,Palmdale,Los Angeles County,California,Palmdale,672.0,30.0,745.0,47.0,914.0,96.0,$745,$914,$672
 2018,6037910201,Census Tract 9102.01,Palmdale,Los Angeles County,California,Palmdale,1012.0,152.0,1242.0,291.0,1780.0,180.0,$1242,$1780,$1012
 2018,6037910202,Census Tract 9102.02,Palmdale,Los Angeles County,California,Palmdale,678.0,308.0,1289.0,1035.0,1731.0,393.0,$1289,$1731,$678
-2018,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,339.0,104.0,,,1665.0,472.0,Not Available!,$1665,$339
+2018,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,339.0,104.0,,,1665.0,472.0,,$1665,$339
 2018,6037910206,Census Tract 9102.06,Palmdale,Los Angeles County,California,Palmdale,1646.0,49.0,1821.0,79.0,1995.0,191.0,$1821,$1995,$1646
 2018,6037910207,Census Tract 9102.07,Palmdale,Los Angeles County,California,Palmdale,1253.0,864.0,1600.0,316.0,2040.0,289.0,$1600,$2040,$1253
 2018,6037910208,Census Tract 9102.08,Palmdale,Los Angeles County,California,Palmdale,1071.0,95.0,1285.0,89.0,1466.0,93.0,$1285,$1466,$1071
 2018,6037910209,Census Tract 9102.09,Palmdale,Los Angeles County,California,Palmdale,1392.0,110.0,1600.0,207.0,1873.0,168.0,$1600,$1873,$1392
 2018,6037910210,Census Tract 9102.10,Palmdale,Los Angeles County,California,Palmdale,1559.0,166.0,1869.0,221.0,2320.0,438.0,$1869,$2320,$1559
 2018,6037910301,Census Tract 9103.01,Palmdale,Los Angeles County,California,Palmdale,522.0,245.0,922.0,309.0,1406.0,357.0,$922,$1406,$522
-2018,6037910302,Census Tract 9103.02,Palmdale,Los Angeles County,California,Palmdale,,,1476.0,332.0,1769.0,173.0,$1476,$1769,Not Available!
+2018,6037910302,Census Tract 9103.02,Palmdale,Los Angeles County,California,Palmdale,,,1476.0,332.0,1769.0,173.0,$1476,$1769,
 2018,6037910401,Census Tract 9104.01,Palmdale,Los Angeles County,California,Palmdale,1020.0,127.0,1315.0,135.0,1661.0,147.0,$1315,$1661,$1020
 2018,6037910402,Census Tract 9104.02,Palmdale,Los Angeles County,California,Palmdale,644.0,65.0,793.0,43.0,993.0,75.0,$793,$993,$644
 2018,6037910403,Census Tract 9104.03,Palmdale,Los Angeles County,California,Palmdale,684.0,26.0,763.0,16.0,834.0,113.0,$763,$834,$684
@@ -374,17 +374,17 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,817.0,205.0,1128.0,157.0,1369.0,73.0,$1128,$1369,$817
 2018,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,1073.0,220.0,1379.0,133.0,1720.0,212.0,$1379,$1720,$1073
 2018,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1035.0,598.0,1208.0,573.0,1865.0,581.0,$1208,$1865,$1035
-2018,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
-2018,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,881.0,567.0,,,2368.0,398.0,Not Available!,$2368,$881
-2018,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
+2018,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,881.0,567.0,,,2368.0,398.0,,$2368,$881
+2018,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2019,6037900201,Census Tract 9002.01,Palmdale,Los Angeles County,California,Palmdale,602.0,67.0,641.0,92.0,781.0,131.0,$641,$781,$602
 2019,6037901213,Census Tract 9012.13,Palmdale,Los Angeles County,California,Palmdale,638.0,349.0,1219.0,1041.0,1867.0,361.0,$1219,$1867,$638
 2019,6037910001,Census Tract 9100.01,Palmdale,Los Angeles County,California,Palmdale,697.0,320.0,1049.0,120.0,1281.0,106.0,$1049,$1281,$697
 2019,6037910002,Census Tract 9100.02,Palmdale,Los Angeles County,California,Palmdale,859.0,127.0,1108.0,141.0,1338.0,202.0,$1108,$1338,$859
 2019,6037910101,Census Tract 9101.01,Palmdale,Los Angeles County,California,Palmdale,704.0,53.0,797.0,82.0,986.0,122.0,$797,$986,$704
 2019,6037910201,Census Tract 9102.01,Palmdale,Los Angeles County,California,Palmdale,1032.0,86.0,1205.0,134.0,1777.0,510.0,$1205,$1777,$1032
-2019,6037910202,Census Tract 9102.02,Palmdale,Los Angeles County,California,Palmdale,509.0,255.0,,,1781.0,388.0,Not Available!,$1781,$509
-2019,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,378.0,237.0,,,1704.0,538.0,Not Available!,$1704,$378
+2019,6037910202,Census Tract 9102.02,Palmdale,Los Angeles County,California,Palmdale,509.0,255.0,,,1781.0,388.0,,$1781,$509
+2019,6037910205,Census Tract 9102.05,Palmdale,Los Angeles County,California,Palmdale,378.0,237.0,,,1704.0,538.0,,$1704,$378
 2019,6037910206,Census Tract 9102.06,Palmdale,Los Angeles County,California,Palmdale,1651.0,60.0,1838.0,97.0,2058.0,213.0,$1838,$2058,$1651
 2019,6037910207,Census Tract 9102.07,Palmdale,Los Angeles County,California,Palmdale,1109.0,435.0,1500.0,268.0,1968.0,299.0,$1500,$1968,$1109
 2019,6037910208,Census Tract 9102.08,Palmdale,Los Angeles County,California,Palmdale,989.0,99.0,1268.0,101.0,1453.0,61.0,$1268,$1453,$989
@@ -417,12 +417,12 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,1077.0,605.0,1447.0,186.0,1761.0,149.0,$1447,$1761,$1077
 2019,6037910804,Census Tract 9108.04,Palmdale,Los Angeles County,California,Palmdale,1266.0,355.0,1375.0,69.0,1484.0,279.0,$1375,$1484,$1266
 2019,6037910812,Census Tract 9108.12,Palmdale,Los Angeles County,California,Palmdale,1702.0,193.0,1904.0,284.0,2172.0,338.0,$1904,$2172,$1702
-2019,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,,,2333.0,421.0,2654.0,440.0,$2333,$2654,Not Available!
-2019,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037901218,Census Tract 9012.18,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037910813,Census Tract 9108.13,Palmdale,Los Angeles County,California,Palmdale,,,2333.0,421.0,2654.0,440.0,$2333,$2654,
+2019,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
+2020,6037901218,Census Tract 9012.18,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2020,6037910002,Census Tract 9100.02,Palmdale,Los Angeles County,California,Palmdale,839.0,123.0,1134.0,246.0,1426.0,175.0,$1134,$1426,$839
 2020,6037910210,Census Tract 9102.10,Palmdale,Los Angeles County,California,Palmdale,1756.0,258.0,2092.0,286.0,2416.0,279.0,$2092,$2416,$1756
-2020,6037910213,Census Tract 9102.13,Palmdale,Los Angeles County,California,Palmdale,,,2120.0,327.0,2310.0,122.0,$2120,$2310,Not Available!
+2020,6037910213,Census Tract 9102.13,Palmdale,Los Angeles County,California,Palmdale,,,2120.0,327.0,2310.0,122.0,$2120,$2310,
 2020,6037910214,Census Tract 9102.14,Palmdale,Los Angeles County,California,Palmdale,1010.0,581.0,1626.0,427.0,2104.0,301.0,$1626,$2104,$1010
 2020,6037910215,Census Tract 9102.15,Palmdale,Los Angeles County,California,Palmdale,957.0,107.0,1171.0,97.0,1449.0,128.0,$1171,$1449,$957
 2020,6037910216,Census Tract 9102.16,Palmdale,Los Angeles County,California,Palmdale,1487.0,213.0,1711.0,207.0,1935.0,184.0,$1711,$1935,$1487
@@ -437,13 +437,13 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037910502,Census Tract 9105.02,Palmdale,Los Angeles County,California,Palmdale,833.0,47.0,985.0,93.0,1143.0,47.0,$985,$1143,$833
 2020,6037910504,Census Tract 9105.04,Palmdale,Los Angeles County,California,Palmdale,617.0,196.0,1076.0,392.0,1444.0,176.0,$1076,$1444,$617
 2020,6037910505,Census Tract 9105.05,Palmdale,Los Angeles County,California,Palmdale,991.0,110.0,1216.0,207.0,1601.0,330.0,$1216,$1601,$991
-2020,6037910601,Census Tract 9106.01,Palmdale,Los Angeles County,California,Palmdale,,,1184.0,345.0,1447.0,184.0,$1184,$1447,Not Available!
+2020,6037910601,Census Tract 9106.01,Palmdale,Los Angeles County,California,Palmdale,,,1184.0,345.0,1447.0,184.0,$1184,$1447,
 2020,6037910602,Census Tract 9106.02,Palmdale,Los Angeles County,California,Palmdale,764.0,511.0,1107.0,93.0,1383.0,270.0,$1107,$1383,$764
-2020,6037910605,Census Tract 9106.05,Palmdale,Los Angeles County,California,Palmdale,,,1272.0,167.0,1440.0,87.0,$1272,$1440,Not Available!
+2020,6037910605,Census Tract 9106.05,Palmdale,Los Angeles County,California,Palmdale,,,1272.0,167.0,1440.0,87.0,$1272,$1440,
 2020,6037910606,Census Tract 9106.06,Palmdale,Los Angeles County,California,Palmdale,1004.0,221.0,1270.0,123.0,1469.0,120.0,$1270,$1469,$1004
 2020,6037910607,Census Tract 9106.07,Palmdale,Los Angeles County,California,Palmdale,604.0,140.0,849.0,237.0,1284.0,235.0,$849,$1284,$604
 2020,6037910608,Census Tract 9106.08,Palmdale,Los Angeles County,California,Palmdale,1229.0,259.0,1610.0,127.0,1805.0,64.0,$1610,$1805,$1229
-2020,6037910706,Census Tract 9107.06,Palmdale,Los Angeles County,California,Palmdale,,,1425.0,207.0,1810.0,255.0,$1425,$1810,Not Available!
+2020,6037910706,Census Tract 9107.06,Palmdale,Los Angeles County,California,Palmdale,,,1425.0,207.0,1810.0,255.0,$1425,$1810,
 2020,6037910707,Census Tract 9107.07,Palmdale,Los Angeles County,California,Palmdale,1026.0,57.0,1156.0,57.0,1346.0,155.0,$1156,$1346,$1026
 2020,6037910709,Census Tract 9107.09,Palmdale,Los Angeles County,California,Palmdale,1713.0,364.0,1925.0,448.0,2196.0,553.0,$1925,$2196,$1713
 2020,6037910712,Census Tract 9107.12,Palmdale,Los Angeles County,California,Palmdale,1318.0,303.0,1634.0,178.0,1872.0,143.0,$1634,$1872,$1318
@@ -451,15 +451,15 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037910714,Census Tract 9107.14,Palmdale,Los Angeles County,California,Palmdale,1179.0,101.0,1438.0,193.0,1733.0,115.0,$1438,$1733,$1179
 2020,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,849.0,174.0,1229.0,189.0,1407.0,62.0,$1229,$1407,$849
 2020,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,1023.0,504.0,1535.0,204.0,1812.0,112.0,$1535,$1812,$1023
-2020,6037910717,Census Tract 9107.17,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037910717,Census Tract 9107.17,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2020,6037910718,Census Tract 9107.18,Palmdale,Los Angeles County,California,Palmdale,1358.0,112.0,1489.0,229.0,1765.0,248.0,$1489,$1765,$1358
 2020,6037910719,Census Tract 9107.19,Palmdale,Los Angeles County,California,Palmdale,1256.0,248.0,1457.0,270.0,1741.0,231.0,$1457,$1741,$1256
 2020,6037910720,Census Tract 9107.20,Palmdale,Los Angeles County,California,Palmdale,547.0,506.0,852.0,144.0,1035.0,447.0,$852,$1035,$547
 2020,6037910721,Census Tract 9107.21,Palmdale,Los Angeles County,California,Palmdale,1092.0,69.0,1184.0,271.0,1526.0,585.0,$1184,$1526,$1092
-2020,6037910815,Census Tract 9108.15,Palmdale,Los Angeles County,California,Palmdale,508.0,284.0,,,1433.0,391.0,Not Available!,$1433,$508
+2020,6037910815,Census Tract 9108.15,Palmdale,Los Angeles County,California,Palmdale,508.0,284.0,,,1433.0,391.0,,$1433,$508
 2020,6037911100,Census Tract 9111,Palmdale,Los Angeles County,California,Palmdale,757.0,72.0,942.0,95.0,1178.0,97.0,$942,$1178,$757
-2020,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037901218,Census Tract 9012.18,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
+2021,6037901218,Census Tract 9012.18,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2021,6037910002,Census Tract 9100.02,Palmdale,Los Angeles County,California,Palmdale,878.0,276.0,1272.0,171.0,1435.0,94.0,$1272,$1435,$878
 2021,6037910210,Census Tract 9102.10,Palmdale,Los Angeles County,California,Palmdale,1866.0,308.0,2175.0,250.0,2450.0,254.0,$2175,$2450,$1866
 2021,6037910213,Census Tract 9102.13,Palmdale,Los Angeles County,California,Palmdale,1848.0,893.0,2139.0,243.0,2319.0,110.0,$2139,$2319,$1848
@@ -479,30 +479,30 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037910505,Census Tract 9105.05,Palmdale,Los Angeles County,California,Palmdale,1093.0,241.0,1399.0,258.0,1759.0,234.0,$1399,$1759,$1093
 2021,6037910601,Census Tract 9106.01,Palmdale,Los Angeles County,California,Palmdale,875.0,451.0,1342.0,143.0,1604.0,239.0,$1342,$1604,$875
 2021,6037910602,Census Tract 9106.02,Palmdale,Los Angeles County,California,Palmdale,1018.0,757.0,1231.0,133.0,1493.0,170.0,$1231,$1493,$1018
-2021,6037910605,Census Tract 9106.05,Palmdale,Los Angeles County,California,Palmdale,,,1332.0,238.0,1500.0,154.0,$1332,$1500,Not Available!
+2021,6037910605,Census Tract 9106.05,Palmdale,Los Angeles County,California,Palmdale,,,1332.0,238.0,1500.0,154.0,$1332,$1500,
 2021,6037910606,Census Tract 9106.06,Palmdale,Los Angeles County,California,Palmdale,1008.0,556.0,1313.0,135.0,1499.0,219.0,$1313,$1499,$1008
 2021,6037910607,Census Tract 9106.07,Palmdale,Los Angeles County,California,Palmdale,651.0,109.0,965.0,307.0,1479.0,404.0,$965,$1479,$651
 2021,6037910608,Census Tract 9106.08,Palmdale,Los Angeles County,California,Palmdale,1449.0,225.0,1652.0,99.0,1826.0,49.0,$1652,$1826,$1449
-2021,6037910706,Census Tract 9107.06,Palmdale,Los Angeles County,California,Palmdale,,,1482.0,281.0,1991.0,337.0,$1482,$1991,Not Available!
+2021,6037910706,Census Tract 9107.06,Palmdale,Los Angeles County,California,Palmdale,,,1482.0,281.0,1991.0,337.0,$1482,$1991,
 2021,6037910707,Census Tract 9107.07,Palmdale,Los Angeles County,California,Palmdale,1060.0,56.0,1214.0,77.0,1428.0,101.0,$1214,$1428,$1060
-2021,6037910709,Census Tract 9107.09,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037910709,Census Tract 9107.09,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2021,6037910712,Census Tract 9107.12,Palmdale,Los Angeles County,California,Palmdale,1508.0,606.0,1709.0,125.0,1909.0,112.0,$1709,$1909,$1508
 2021,6037910713,Census Tract 9107.13,Palmdale,Los Angeles County,California,Palmdale,1283.0,124.0,1495.0,160.0,1762.0,115.0,$1495,$1762,$1283
 2021,6037910714,Census Tract 9107.14,Palmdale,Los Angeles County,California,Palmdale,1259.0,232.0,1594.0,159.0,1832.0,93.0,$1594,$1832,$1259
 2021,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,1129.0,561.0,1385.0,96.0,1613.0,307.0,$1385,$1613,$1129
 2021,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,1307.0,257.0,1603.0,180.0,1872.0,149.0,$1603,$1872,$1307
-2021,6037910717,Census Tract 9107.17,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037910717,Census Tract 9107.17,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2021,6037910718,Census Tract 9107.18,Palmdale,Los Angeles County,California,Palmdale,1523.0,235.0,1701.0,160.0,1879.0,114.0,$1701,$1879,$1523
 2021,6037910719,Census Tract 9107.19,Palmdale,Los Angeles County,California,Palmdale,1231.0,214.0,1397.0,222.0,1695.0,490.0,$1397,$1695,$1231
 2021,6037910720,Census Tract 9107.20,Palmdale,Los Angeles County,California,Palmdale,864.0,100.0,1079.0,225.0,1550.0,464.0,$1079,$1550,$864
 2021,6037910721,Census Tract 9107.21,Palmdale,Los Angeles County,California,Palmdale,1109.0,124.0,1219.0,475.0,1646.0,352.0,$1219,$1646,$1109
-2021,6037910815,Census Tract 9108.15,Palmdale,Los Angeles County,California,Palmdale,,,,,1899.0,916.0,Not Available!,$1899,Not Available!
+2021,6037910815,Census Tract 9108.15,Palmdale,Los Angeles County,California,Palmdale,,,,,1899.0,916.0,,$1899,
 2021,6037911100,Census Tract 9111,Palmdale,Los Angeles County,California,Palmdale,767.0,71.0,1001.0,140.0,1342.0,283.0,$1001,$1342,$767
-2021,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037901218,Census Tract 9012.18,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
+2022,6037901218,Census Tract 9012.18,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2022,6037910002,Census Tract 9100.02,Palmdale,Los Angeles County,California,Palmdale,1047.0,322.0,1317.0,100.0,1452.0,70.0,$1317,$1452,$1047
 2022,6037910210,Census Tract 9102.10,Palmdale,Los Angeles County,California,Palmdale,2055.0,204.0,2292.0,167.0,2564.0,294.0,$2292,$2564,$2055
-2022,6037910213,Census Tract 9102.13,Palmdale,Los Angeles County,California,Palmdale,,,2079.0,1094.0,2289.0,192.0,$2079,$2289,Not Available!
+2022,6037910213,Census Tract 9102.13,Palmdale,Los Angeles County,California,Palmdale,,,2079.0,1094.0,2289.0,192.0,$2079,$2289,
 2022,6037910214,Census Tract 9102.14,Palmdale,Los Angeles County,California,Palmdale,1554.0,755.0,2189.0,153.0,2448.0,226.0,$2189,$2448,$1554
 2022,6037910215,Census Tract 9102.15,Palmdale,Los Angeles County,California,Palmdale,1166.0,261.0,1452.0,165.0,1819.0,203.0,$1452,$1819,$1166
 2022,6037910216,Census Tract 9102.16,Palmdale,Los Angeles County,California,Palmdale,1790.0,183.0,2064.0,201.0,2294.0,113.0,$2064,$2294,$1790
@@ -518,28 +518,28 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037910504,Census Tract 9105.04,Palmdale,Los Angeles County,California,Palmdale,961.0,659.0,1595.0,147.0,1804.0,70.0,$1595,$1804,$961
 2022,6037910505,Census Tract 9105.05,Palmdale,Los Angeles County,California,Palmdale,1371.0,234.0,1658.0,140.0,1894.0,130.0,$1658,$1894,$1371
 2022,6037910601,Census Tract 9106.01,Palmdale,Los Angeles County,California,Palmdale,935.0,526.0,1343.0,83.0,1477.0,118.0,$1343,$1477,$935
-2022,6037910602,Census Tract 9106.02,Palmdale,Los Angeles County,California,Palmdale,,,1406.0,162.0,1757.0,177.0,$1406,$1757,Not Available!
+2022,6037910602,Census Tract 9106.02,Palmdale,Los Angeles County,California,Palmdale,,,1406.0,162.0,1757.0,177.0,$1406,$1757,
 2022,6037910605,Census Tract 9106.05,Palmdale,Los Angeles County,California,Palmdale,786.0,230.0,1264.0,390.0,1648.0,217.0,$1264,$1648,$786
 2022,6037910606,Census Tract 9106.06,Palmdale,Los Angeles County,California,Palmdale,1009.0,444.0,1292.0,131.0,1461.0,128.0,$1292,$1461,$1009
 2022,6037910607,Census Tract 9106.07,Palmdale,Los Angeles County,California,Palmdale,724.0,126.0,1246.0,306.0,1670.0,211.0,$1246,$1670,$724
 2022,6037910608,Census Tract 9106.08,Palmdale,Los Angeles County,California,Palmdale,1417.0,165.0,1718.0,256.0,2053.0,302.0,$1718,$2053,$1417
 2022,6037910706,Census Tract 9107.06,Palmdale,Los Angeles County,California,Palmdale,781.0,521.0,1605.0,315.0,2056.0,295.0,$1605,$2056,$781
 2022,6037910707,Census Tract 9107.07,Palmdale,Los Angeles County,California,Palmdale,1089.0,77.0,1271.0,93.0,1440.0,71.0,$1271,$1440,$1089
-2022,6037910709,Census Tract 9107.09,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037910709,Census Tract 9107.09,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2022,6037910712,Census Tract 9107.12,Palmdale,Los Angeles County,California,Palmdale,1407.0,230.0,1713.0,190.0,2014.0,226.0,$1713,$2014,$1407
 2022,6037910713,Census Tract 9107.13,Palmdale,Los Angeles County,California,Palmdale,1413.0,392.0,1700.0,174.0,1929.0,208.0,$1700,$1929,$1413
 2022,6037910714,Census Tract 9107.14,Palmdale,Los Angeles County,California,Palmdale,1666.0,138.0,1925.0,184.0,2208.0,131.0,$1925,$2208,$1666
 2022,6037910715,Census Tract 9107.15,Palmdale,Los Angeles County,California,Palmdale,1341.0,487.0,1635.0,176.0,1876.0,135.0,$1635,$1876,$1341
 2022,6037910716,Census Tract 9107.16,Palmdale,Los Angeles County,California,Palmdale,1446.0,458.0,1677.0,125.0,1870.0,104.0,$1677,$1870,$1446
-2022,6037910717,Census Tract 9107.17,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037910717,Census Tract 9107.17,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2022,6037910718,Census Tract 9107.18,Palmdale,Los Angeles County,California,Palmdale,1559.0,375.0,1706.0,79.0,1853.0,39.0,$1706,$1853,$1559
 2022,6037910719,Census Tract 9107.19,Palmdale,Los Angeles County,California,Palmdale,1218.0,293.0,1488.0,747.0,2139.0,544.0,$1488,$2139,$1218
-2022,6037910720,Census Tract 9107.20,Palmdale,Los Angeles County,California,Palmdale,,,1094.0,103.0,1224.0,532.0,$1094,$1224,Not Available!
+2022,6037910720,Census Tract 9107.20,Palmdale,Los Angeles County,California,Palmdale,,,1094.0,103.0,1224.0,532.0,$1094,$1224,
 2022,6037910721,Census Tract 9107.21,Palmdale,Los Angeles County,California,Palmdale,1112.0,133.0,1223.0,721.0,1730.0,319.0,$1223,$1730,$1112
-2022,6037910815,Census Tract 9108.15,Palmdale,Los Angeles County,California,Palmdale,350.0,281.0,,,1993.0,1338.0,Not Available!,$1993,$350
+2022,6037910815,Census Tract 9108.15,Palmdale,Los Angeles County,California,Palmdale,350.0,281.0,,,1993.0,1338.0,,$1993,$350
 2022,6037911100,Census Tract 9111,Palmdale,Los Angeles County,California,Palmdale,843.0,116.0,1082.0,124.0,1378.0,256.0,$1082,$1378,$843
-2022,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037901218,Census Tract 9012.18,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
+2023,6037901218,Census Tract 9012.18,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,
 2023,6037910002,Census Tract 9100.02,Palmdale,Los Angeles County,California,Palmdale,1072.0,339.0,1478.0,466.0,1853.0,285.0,$1478,$1853,$1072
 2023,6037910210,Census Tract 9102.10,Palmdale,Los Angeles County,California,Palmdale,1933.0,304.0,2221.0,231.0,2481.0,404.0,$2221,$2481,$1933
 2023,6037910213,Census Tract 9102.13,Palmdale,Los Angeles County,California,Palmdale,2101.0,52.0,2234.0,35.0,2367.0,17.0,$2234,$2367,$2101
@@ -565,7 +565,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037910608,Census Tract 9106.08,Palmdale,Los Angeles County,California,Palmdale,1388.0,180.0,1828.0,696.0,2224.0,219.0,$1828,$2224,$1388
 2023,6037910706,Census Tract 9107.06,Palmdale,Los Angeles County,California,Palmdale,1520.0,1238.0,1824.0,256.0,2207.0,397.0,$1824,$2207,$1520
 2023,6037910707,Census Tract 9107.07,Palmdale,Los Angeles County,California,Palmdale,1076.0,113.0,1332.0,185.0,1760.0,223.0,$1332,$1760,$1076
-2023,6037910709,Census Tract 9107.09,Palmdale,Los Angeles County,California,Palmdale,1088.0,91.0,,,,,Not Available!,Not Available!,$1088
+2023,6037910709,Census Tract 9107.09,Palmdale,Los Angeles County,California,Palmdale,1088.0,91.0,,,,,,,$1088
 2023,6037910712,Census Tract 9107.12,Palmdale,Los Angeles County,California,Palmdale,1330.0,1031.0,1857.0,782.0,2338.0,334.0,$1857,$2338,$1330
 2023,6037910713,Census Tract 9107.13,Palmdale,Los Angeles County,California,Palmdale,1329.0,282.0,1642.0,319.0,1963.0,325.0,$1642,$1963,$1329
 2023,6037910714,Census Tract 9107.14,Palmdale,Los Angeles County,California,Palmdale,1724.0,94.0,1983.0,188.0,2284.0,160.0,$1983,$2284,$1724
@@ -574,8 +574,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037910717,Census Tract 9107.17,Palmdale,Los Angeles County,California,Palmdale,1700.0,173.0,1899.0,272.0,2166.0,308.0,$1899,$2166,$1700
 2023,6037910718,Census Tract 9107.18,Palmdale,Los Angeles County,California,Palmdale,1115.0,982.0,1613.0,502.0,1806.0,160.0,$1613,$1806,$1115
 2023,6037910719,Census Tract 9107.19,Palmdale,Los Angeles County,California,Palmdale,1191.0,286.0,1467.0,665.0,2179.0,695.0,$1467,$2179,$1191
-2023,6037910720,Census Tract 9107.20,Palmdale,Los Angeles County,California,Palmdale,,,1103.0,168.0,1563.0,1299.0,$1103,$1563,Not Available!
+2023,6037910720,Census Tract 9107.20,Palmdale,Los Angeles County,California,Palmdale,,,1103.0,168.0,1563.0,1299.0,$1103,$1563,
 2023,6037910721,Census Tract 9107.21,Palmdale,Los Angeles County,California,Palmdale,1336.0,145.0,1469.0,275.0,1730.0,283.0,$1469,$1730,$1336
-2023,6037910815,Census Tract 9108.15,Palmdale,Los Angeles County,California,Palmdale,,,,,2463.0,1808.0,Not Available!,$2463,Not Available!
+2023,6037910815,Census Tract 9108.15,Palmdale,Los Angeles County,California,Palmdale,,,,,2463.0,1808.0,,$2463,
 2023,6037911100,Census Tract 9111,Palmdale,Los Angeles County,California,Palmdale,952.0,141.0,1233.0,193.0,1631.0,183.0,$1233,$1631,$952
-2023,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037980004,Census Tract 9800.04,Palmdale,Los Angeles County,California,Palmdale,,,,,,,,,

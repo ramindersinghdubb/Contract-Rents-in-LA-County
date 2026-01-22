@@ -100,7 +100,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037403901,Census Tract 4039.01,Citrus,Los Angeles County,California,Citrus,1479.0,1182.0,2328.0,267.0,2670.0,190.0,$2328,$2670,$1479
 2022,6037404000,Census Tract 4040,Citrus,Los Angeles County,California,Citrus,1500.0,495.0,1843.0,175.0,2206.0,176.0,$1843,$2206,$1500
 2022,6037404100,Census Tract 4041,Citrus,Los Angeles County,California,Citrus,1531.0,124.0,1743.0,110.0,1956.0,170.0,$1743,$1956,$1531
-2022,6037404201,Census Tract 4042.01,Citrus,Los Angeles County,California,Citrus,,,1290.0,232.0,1842.0,215.0,$1290,$1842,Not Available!
+2022,6037404201,Census Tract 4042.01,Citrus,Los Angeles County,California,Citrus,,,1290.0,232.0,1842.0,215.0,$1290,$1842,
 2022,6037404203,Census Tract 4042.03,Citrus,Los Angeles County,California,Citrus,1022.0,198.0,1567.0,164.0,1901.0,112.0,$1567,$1901,$1022
 2022,6037405900,Census Tract 4059,Citrus,Los Angeles County,California,Citrus,1277.0,139.0,1570.0,232.0,1931.0,263.0,$1570,$1931,$1277
 2023,6037400801,Census Tract 4008.01,Citrus,Los Angeles County,California,Citrus,1552.0,356.0,1920.0,334.0,2801.0,494.0,$1920,$2801,$1552
@@ -108,6 +108,6 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037403901,Census Tract 4039.01,Citrus,Los Angeles County,California,Citrus,1714.0,667.0,2534.0,307.0,2767.0,93.0,$2534,$2767,$1714
 2023,6037404000,Census Tract 4040,Citrus,Los Angeles County,California,Citrus,1580.0,706.0,2031.0,207.0,2319.0,101.0,$2031,$2319,$1580
 2023,6037404100,Census Tract 4041,Citrus,Los Angeles County,California,Citrus,1621.0,89.0,1820.0,124.0,2045.0,242.0,$1820,$2045,$1621
-2023,6037404201,Census Tract 4042.01,Citrus,Los Angeles County,California,Citrus,,,1406.0,308.0,1824.0,119.0,$1406,$1824,Not Available!
+2023,6037404201,Census Tract 4042.01,Citrus,Los Angeles County,California,Citrus,,,1406.0,308.0,1824.0,119.0,$1406,$1824,
 2023,6037404203,Census Tract 4042.03,Citrus,Los Angeles County,California,Citrus,1078.0,277.0,1562.0,204.0,1943.0,163.0,$1562,$1943,$1078
 2023,6037405900,Census Tract 4059,Citrus,Los Angeles County,California,Citrus,1354.0,176.0,1675.0,253.0,2054.0,364.0,$1675,$2054,$1354

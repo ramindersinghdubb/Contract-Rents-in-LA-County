@@ -23,7 +23,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037603706,Census Tract 6037.06,Alondra Park,Los Angeles County,California,AlondraPark,1044.0,50.0,1170.0,56.0,1382.0,167.0,$1170,$1382,$1044
 2021,6037603702,Census Tract 6037.02,Alondra Park,Los Angeles County,California,AlondraPark,1447.0,908.0,2671.0,1010.0,3501.0,,$2671,Not available. Exceeds $3500!,$1447
 2021,6037603706,Census Tract 6037.06,Alondra Park,Los Angeles County,California,AlondraPark,1074.0,71.0,1243.0,135.0,1623.0,185.0,$1243,$1623,$1074
-2022,6037603702,Census Tract 6037.02,Alondra Park,Los Angeles County,California,AlondraPark,,,2755.0,636.0,3501.0,,$2755,Not available. Exceeds $3500!,Not Available!
+2022,6037603702,Census Tract 6037.02,Alondra Park,Los Angeles County,California,AlondraPark,,,2755.0,636.0,3501.0,,$2755,Not available. Exceeds $3500!,
 2022,6037603706,Census Tract 6037.06,Alondra Park,Los Angeles County,California,AlondraPark,1256.0,109.0,1496.0,127.0,1785.0,96.0,$1496,$1785,$1256
 2023,6037603702,Census Tract 6037.02,Alondra Park,Los Angeles County,California,AlondraPark,1875.0,633.0,2478.0,482.0,2878.0,897.0,$2478,$2878,$1875
 2023,6037603706,Census Tract 6037.06,Alondra Park,Los Angeles County,California,AlondraPark,1431.0,120.0,1668.0,75.0,1886.0,63.0,$1668,$1886,$1431

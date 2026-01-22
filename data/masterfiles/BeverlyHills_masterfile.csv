@@ -60,7 +60,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037700902,Census Tract 7009.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1473.0,103.0,1765.0,54.0,2001.0,,$1765,Not available. Exceeds $2000!,$1473
 2014,6037701000,Census Tract 7010,Beverly Hills,Los Angeles County,California,BeverlyHills,1484.0,260.0,1998.0,152.0,2001.0,,$1998,Not available. Exceeds $2000!,$1484
 2015,6037261101,Census Tract 2611.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1779.0,448.0,2263.0,403.0,2699.0,343.0,$2263,$2699,$1779
-2015,6037261102,Census Tract 2611.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1085.0,41.0,1170.0,681.0,,,$1170,Not Available!,$1085
+2015,6037261102,Census Tract 2611.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1085.0,41.0,1170.0,681.0,,,$1170,,$1085
 2015,6037265100,Census Tract 2651,Beverly Hills,Los Angeles County,California,BeverlyHills,2017.0,252.0,2302.0,129.0,2792.0,420.0,$2302,$2792,$2017
 2015,6037269000,Census Tract 2690,Beverly Hills,Los Angeles County,California,BeverlyHills,1289.0,168.0,2323.0,274.0,2778.0,109.0,$2323,$2778,$1289
 2015,6037700501,Census Tract 7005.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1156.0,129.0,1421.0,102.0,1860.0,193.0,$1421,$1860,$1156
@@ -72,7 +72,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037700902,Census Tract 7009.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1512.0,55.0,1822.0,66.0,2257.0,127.0,$1822,$2257,$1512
 2015,6037701000,Census Tract 7010,Beverly Hills,Los Angeles County,California,BeverlyHills,1549.0,161.0,2023.0,151.0,2432.0,142.0,$2023,$2432,$1549
 2016,6037261101,Census Tract 2611.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1898.0,447.0,2332.0,398.0,2736.0,286.0,$2332,$2736,$1898
-2016,6037261102,Census Tract 2611.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1098.0,53.0,,,3157.0,2356.0,Not Available!,$3157,$1098
+2016,6037261102,Census Tract 2611.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1098.0,53.0,,,3157.0,2356.0,,$3157,$1098
 2016,6037265100,Census Tract 2651,Beverly Hills,Los Angeles County,California,BeverlyHills,2055.0,1130.0,2332.0,128.0,3033.0,512.0,$2332,$3033,$2055
 2016,6037269000,Census Tract 2690,Beverly Hills,Los Angeles County,California,BeverlyHills,1188.0,68.0,2361.0,488.0,2843.0,125.0,$2361,$2843,$1188
 2016,6037700501,Census Tract 7005.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1201.0,149.0,1470.0,120.0,1850.0,125.0,$1470,$1850,$1201
@@ -113,13 +113,13 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037269000,Census Tract 2690,Beverly Hills,Los Angeles County,California,BeverlyHills,1211.0,141.0,1778.0,396.0,3215.0,180.0,$1778,$3215,$1211
 2019,6037700501,Census Tract 7005.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1089.0,261.0,1492.0,167.0,1979.0,234.0,$1492,$1979,$1089
 2019,6037700600,Census Tract 7006,Beverly Hills,Los Angeles County,California,BeverlyHills,1719.0,321.0,1939.0,1686.0,3158.0,1069.0,$1939,$3158,$1719
-2019,6037700700,Census Tract 7007,Beverly Hills,Los Angeles County,California,BeverlyHills,1649.0,1606.0,,,3233.0,1737.0,Not Available!,$3233,$1649
+2019,6037700700,Census Tract 7007,Beverly Hills,Los Angeles County,California,BeverlyHills,1649.0,1606.0,,,3233.0,1737.0,,$3233,$1649
 2019,6037700801,Census Tract 7008.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1436.0,363.0,2602.0,260.0,3228.0,199.0,$2602,$3228,$1436
 2019,6037700802,Census Tract 7008.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1349.0,146.0,1838.0,144.0,2372.0,131.0,$1838,$2372,$1349
 2019,6037700901,Census Tract 7009.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1596.0,81.0,1908.0,117.0,2668.0,545.0,$1908,$2668,$1596
 2019,6037700902,Census Tract 7009.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1750.0,105.0,2287.0,172.0,2985.0,244.0,$2287,$2985,$1750
 2019,6037701000,Census Tract 7010,Beverly Hills,Los Angeles County,California,BeverlyHills,1637.0,151.0,2160.0,187.0,2655.0,240.0,$2160,$2655,$1637
-2020,6037700600,Census Tract 7006,Beverly Hills,Los Angeles County,California,BeverlyHills,,,3095.0,1903.0,3298.0,190.0,$3095,$3298,Not Available!
+2020,6037700600,Census Tract 7006,Beverly Hills,Los Angeles County,California,BeverlyHills,,,3095.0,1903.0,3298.0,190.0,$3095,$3298,
 2020,6037700700,Census Tract 7007,Beverly Hills,Los Angeles County,California,BeverlyHills,3154.0,2692.0,3456.0,515.0,3501.0,,$3456,Not available. Exceeds $3500!,$3154
 2020,6037700801,Census Tract 7008.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1486.0,311.0,2631.0,300.0,3319.0,372.0,$2631,$3319,$1486
 2020,6037700802,Census Tract 7008.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1541.0,110.0,1951.0,143.0,2431.0,135.0,$1951,$2431,$1541
@@ -135,7 +135,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037701000,Census Tract 7010,Beverly Hills,Los Angeles County,California,BeverlyHills,1846.0,227.0,2288.0,157.0,2888.0,296.0,$2288,$2888,$1846
 2022,6037700600,Census Tract 7006,Beverly Hills,Los Angeles County,California,BeverlyHills,3129.0,79.0,3299.0,115.0,3469.0,383.0,$3299,$3469,$3129
 2022,6037700700,Census Tract 7007,Beverly Hills,Los Angeles County,California,BeverlyHills,3346.0,496.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3346
-2022,6037700801,Census Tract 7008.01,Beverly Hills,Los Angeles County,California,BeverlyHills,,,2534.0,622.0,3314.0,237.0,$2534,$3314,Not Available!
+2022,6037700801,Census Tract 7008.01,Beverly Hills,Los Angeles County,California,BeverlyHills,,,2534.0,622.0,3314.0,237.0,$2534,$3314,
 2022,6037700802,Census Tract 7008.02,Beverly Hills,Los Angeles County,California,BeverlyHills,1904.0,180.0,2315.0,104.0,3156.0,428.0,$2315,$3156,$1904
 2022,6037700901,Census Tract 7009.01,Beverly Hills,Los Angeles County,California,BeverlyHills,1992.0,257.0,2468.0,693.0,3501.0,,$2468,Not available. Exceeds $3500!,$1992
 2022,6037700902,Census Tract 7009.02,Beverly Hills,Los Angeles County,California,BeverlyHills,2023.0,195.0,2406.0,154.0,3283.0,295.0,$2406,$3283,$2023

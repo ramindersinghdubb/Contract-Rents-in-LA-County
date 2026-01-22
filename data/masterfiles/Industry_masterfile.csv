@@ -115,7 +115,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037408140,Census Tract 4081.40,Industry,Los Angeles County,California,Industry,841.0,219.0,1583.0,628.0,2188.0,196.0,$1583,$2188,$841
 2015,6037408202,Census Tract 4082.02,Industry,Los Angeles County,California,Industry,689.0,243.0,1006.0,251.0,1335.0,222.0,$1006,$1335,$689
 2015,6037408211,Census Tract 4082.11,Industry,Los Angeles County,California,Industry,1082.0,46.0,1256.0,66.0,1425.0,52.0,$1256,$1425,$1082
-2015,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1629.0,142.0,1876.0,103.0,$1629,$1876,Not Available!
+2015,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1629.0,142.0,1876.0,103.0,$1629,$1876,
 2015,6037408301,Census Tract 4083.01,Industry,Los Angeles County,California,Industry,1001.0,233.0,1288.0,171.0,1609.0,283.0,$1288,$1609,$1001
 2015,6037408302,Census Tract 4083.02,Industry,Los Angeles County,California,Industry,1030.0,439.0,1204.0,414.0,1888.0,685.0,$1204,$1888,$1030
 2015,6037408303,Census Tract 4083.03,Industry,Los Angeles County,California,Industry,643.0,567.0,1158.0,770.0,1863.0,331.0,$1158,$1863,$643
@@ -167,7 +167,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037433302,Census Tract 4333.02,Industry,Los Angeles County,California,Industry,795.0,53.0,922.0,76.0,1098.0,82.0,$922,$1098,$795
 2017,6037434001,Census Tract 4340.01,Industry,Los Angeles County,California,Industry,880.0,113.0,1225.0,136.0,1447.0,100.0,$1225,$1447,$880
 2017,6037500300,Census Tract 5003,Industry,Los Angeles County,California,Industry,1340.0,214.0,1603.0,269.0,1884.0,623.0,$1603,$1884,$1340
-2018,6037403303,Census Tract 4033.03,Industry,Los Angeles County,California,Industry,,,2052.0,274.0,2276.0,108.0,$2052,$2276,Not Available!
+2018,6037403303,Census Tract 4033.03,Industry,Los Angeles County,California,Industry,,,2052.0,274.0,2276.0,108.0,$2052,$2276,
 2018,6037403312,Census Tract 4033.12,Industry,Los Angeles County,California,Industry,1565.0,163.0,1867.0,176.0,2212.0,182.0,$1867,$2212,$1565
 2018,6037404703,Census Tract 4047.03,Industry,Los Angeles County,California,Industry,1043.0,51.0,1195.0,62.0,1484.0,179.0,$1195,$1484,$1043
 2018,6037407001,Census Tract 4070.01,Industry,Los Angeles County,California,Industry,1199.0,140.0,1361.0,77.0,1498.0,208.0,$1361,$1498,$1199
@@ -178,7 +178,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037408140,Census Tract 4081.40,Industry,Los Angeles County,California,Industry,799.0,488.0,1665.0,337.0,2064.0,289.0,$1665,$2064,$799
 2018,6037408202,Census Tract 4082.02,Industry,Los Angeles County,California,Industry,837.0,113.0,993.0,221.0,1380.0,307.0,$993,$1380,$837
 2018,6037408211,Census Tract 4082.11,Industry,Los Angeles County,California,Industry,1189.0,102.0,1476.0,107.0,1784.0,82.0,$1476,$1784,$1189
-2018,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1719.0,236.0,2053.0,282.0,$1719,$2053,Not Available!
+2018,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1719.0,236.0,2053.0,282.0,$1719,$2053,
 2018,6037408301,Census Tract 4083.01,Industry,Los Angeles County,California,Industry,646.0,323.0,1225.0,224.0,1612.0,223.0,$1225,$1612,$646
 2018,6037408302,Census Tract 4083.02,Industry,Los Angeles County,California,Industry,1162.0,220.0,1486.0,793.0,2181.0,283.0,$1486,$2181,$1162
 2018,6037408303,Census Tract 4083.03,Industry,Los Angeles County,California,Industry,630.0,617.0,1415.0,985.0,1742.0,201.0,$1415,$1742,$630
@@ -199,7 +199,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037408140,Census Tract 4081.40,Industry,Los Angeles County,California,Industry,797.0,756.0,1584.0,425.0,1825.0,107.0,$1584,$1825,$797
 2019,6037408202,Census Tract 4082.02,Industry,Los Angeles County,California,Industry,875.0,106.0,1051.0,268.0,1448.0,268.0,$1051,$1448,$875
 2019,6037408211,Census Tract 4082.11,Industry,Los Angeles County,California,Industry,1267.0,125.0,1561.0,111.0,1817.0,69.0,$1561,$1817,$1267
-2019,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1712.0,310.0,2165.0,369.0,$1712,$2165,Not Available!
+2019,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1712.0,310.0,2165.0,369.0,$1712,$2165,
 2019,6037408301,Census Tract 4083.01,Industry,Los Angeles County,California,Industry,804.0,423.0,1222.0,195.0,1527.0,235.0,$1222,$1527,$804
 2019,6037408302,Census Tract 4083.02,Industry,Los Angeles County,California,Industry,1295.0,250.0,1931.0,696.0,2306.0,231.0,$1931,$2306,$1295
 2019,6037408303,Census Tract 4083.03,Industry,Los Angeles County,California,Industry,1466.0,270.0,1831.0,371.0,2182.0,301.0,$1831,$2182,$1466
@@ -209,13 +209,13 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037433302,Census Tract 4333.02,Industry,Los Angeles County,California,Industry,822.0,83.0,1018.0,95.0,1192.0,68.0,$1018,$1192,$822
 2019,6037434001,Census Tract 4340.01,Industry,Los Angeles County,California,Industry,1030.0,367.0,1349.0,74.0,1532.0,156.0,$1349,$1532,$1030
 2019,6037500300,Census Tract 5003,Industry,Los Angeles County,California,Industry,1340.0,64.0,1444.0,395.0,2069.0,999.0,$1444,$2069,$1340
-2020,6037403326,Census Tract 4033.26,Industry,Los Angeles County,California,Industry,,,2202.0,537.0,2686.0,368.0,$2202,$2686,Not Available!
+2020,6037403326,Census Tract 4033.26,Industry,Los Angeles County,California,Industry,,,2202.0,537.0,2686.0,368.0,$2202,$2686,
 2020,6037403327,Census Tract 4033.27,Industry,Los Angeles County,California,Industry,2089.0,144.0,2310.0,196.0,2563.0,318.0,$2310,$2563,$2089
 2020,6037407002,Census Tract 4070.02,Industry,Los Angeles County,California,Industry,1313.0,671.0,1646.0,238.0,1884.0,146.0,$1646,$1884,$1313
 2020,6037407602,Census Tract 4076.02,Industry,Los Angeles County,California,Industry,1304.0,52.0,1430.0,79.0,1669.0,198.0,$1430,$1669,$1304
 2020,6037407701,Census Tract 4077.01,Industry,Los Angeles County,California,Industry,1010.0,255.0,1191.0,82.0,1426.0,100.0,$1191,$1426,$1010
 2020,6037407802,Census Tract 4078.02,Industry,Los Angeles County,California,Industry,1329.0,369.0,1696.0,300.0,2047.0,405.0,$1696,$2047,$1329
-2020,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1667.0,497.0,2038.0,403.0,$1667,$2038,Not Available!
+2020,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1667.0,497.0,2038.0,403.0,$1667,$2038,
 2020,6037408301,Census Tract 4083.01,Industry,Los Angeles County,California,Industry,1024.0,352.0,1295.0,168.0,1604.0,243.0,$1295,$1604,$1024
 2020,6037408302,Census Tract 4083.02,Industry,Los Angeles County,California,Industry,1260.0,410.0,1682.0,302.0,1971.0,334.0,$1682,$1971,$1260
 2020,6037408303,Census Tract 4083.03,Industry,Los Angeles County,California,Industry,1472.0,328.0,1991.0,475.0,2248.0,195.0,$1991,$2248,$1472
@@ -230,16 +230,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037407602,Census Tract 4076.02,Industry,Los Angeles County,California,Industry,1287.0,71.0,1421.0,94.0,1694.0,277.0,$1421,$1694,$1287
 2021,6037407701,Census Tract 4077.01,Industry,Los Angeles County,California,Industry,1092.0,95.0,1360.0,126.0,1693.0,140.0,$1360,$1693,$1092
 2021,6037407802,Census Tract 4078.02,Industry,Los Angeles County,California,Industry,1621.0,158.0,1935.0,243.0,2264.0,218.0,$1935,$2264,$1621
-2021,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1779.0,313.0,2591.0,816.0,$1779,$2591,Not Available!
+2021,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,,,1779.0,313.0,2591.0,816.0,$1779,$2591,
 2021,6037408301,Census Tract 4083.01,Industry,Los Angeles County,California,Industry,1124.0,282.0,1385.0,79.0,1652.0,185.0,$1385,$1652,$1124
 2021,6037408302,Census Tract 4083.02,Industry,Los Angeles County,California,Industry,1538.0,544.0,1833.0,256.0,2444.0,621.0,$1833,$2444,$1538
-2021,6037408303,Census Tract 4083.03,Industry,Los Angeles County,California,Industry,,,1704.0,575.0,2548.0,883.0,$1704,$2548,Not Available!
+2021,6037408303,Census Tract 4083.03,Industry,Los Angeles County,California,Industry,,,1704.0,575.0,2548.0,883.0,$1704,$2548,
 2021,6037408401,Census Tract 4084.01,Industry,Los Angeles County,California,Industry,1351.0,124.0,1618.0,285.0,2053.0,264.0,$1618,$2053,$1351
 2021,6037408402,Census Tract 4084.02,Industry,Los Angeles County,California,Industry,1482.0,308.0,1940.0,725.0,2643.0,488.0,$1940,$2643,$1482
 2021,6037433302,Census Tract 4333.02,Industry,Los Angeles County,California,Industry,1009.0,244.0,1250.0,181.0,1682.0,390.0,$1250,$1682,$1009
 2021,6037500300,Census Tract 5003,Industry,Los Angeles County,California,Industry,1264.0,423.0,1675.0,440.0,2063.0,310.0,$1675,$2063,$1264
 2021,6037980035,Census Tract 9800.35,Industry,Los Angeles County,California,Industry,778.0,31.0,870.0,98.0,1135.0,580.0,$870,$1135,$778
-2022,6037403326,Census Tract 4033.26,Industry,Los Angeles County,California,Industry,,,2546.0,1022.0,3158.0,373.0,$2546,$3158,Not Available!
+2022,6037403326,Census Tract 4033.26,Industry,Los Angeles County,California,Industry,,,2546.0,1022.0,3158.0,373.0,$2546,$3158,
 2022,6037403327,Census Tract 4033.27,Industry,Los Angeles County,California,Industry,1794.0,197.0,2537.0,935.0,2769.0,144.0,$2537,$2769,$1794
 2022,6037407002,Census Tract 4070.02,Industry,Los Angeles County,California,Industry,1231.0,966.0,2065.0,308.0,2282.0,117.0,$2065,$2282,$1231
 2022,6037407701,Census Tract 4077.01,Industry,Los Angeles County,California,Industry,1226.0,236.0,1430.0,86.0,1720.0,122.0,$1430,$1720,$1226
@@ -247,15 +247,15 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,1540.0,508.0,2048.0,355.0,2398.0,607.0,$2048,$2398,$1540
 2022,6037408301,Census Tract 4083.01,Industry,Los Angeles County,California,Industry,1282.0,136.0,1467.0,136.0,1831.0,204.0,$1467,$1831,$1282
 2022,6037408302,Census Tract 4083.02,Industry,Los Angeles County,California,Industry,1212.0,1101.0,2196.0,447.0,2492.0,304.0,$2196,$2492,$1212
-2022,6037408303,Census Tract 4083.03,Industry,Los Angeles County,California,Industry,,,2195.0,525.0,2610.0,336.0,$2195,$2610,Not Available!
+2022,6037408303,Census Tract 4083.03,Industry,Los Angeles County,California,Industry,,,2195.0,525.0,2610.0,336.0,$2195,$2610,
 2022,6037408401,Census Tract 4084.01,Industry,Los Angeles County,California,Industry,1356.0,99.0,1598.0,243.0,1975.0,239.0,$1598,$1975,$1356
 2022,6037408402,Census Tract 4084.02,Industry,Los Angeles County,California,Industry,1454.0,384.0,2411.0,1019.0,2913.0,431.0,$2411,$2913,$1454
 2022,6037433302,Census Tract 4333.02,Industry,Los Angeles County,California,Industry,1139.0,106.0,1397.0,159.0,2008.0,608.0,$1397,$2008,$1139
 2022,6037500300,Census Tract 5003,Industry,Los Angeles County,California,Industry,1190.0,730.0,1734.0,569.0,2170.0,603.0,$1734,$2170,$1190
 2022,6037980035,Census Tract 9800.35,Industry,Los Angeles County,California,Industry,829.0,57.0,962.0,231.0,1508.0,359.0,$962,$1508,$829
-2023,6037403326,Census Tract 4033.26,Industry,Los Angeles County,California,Industry,,,2875.0,530.0,3293.0,308.0,$2875,$3293,Not Available!
+2023,6037403326,Census Tract 4033.26,Industry,Los Angeles County,California,Industry,,,2875.0,530.0,3293.0,308.0,$2875,$3293,
 2023,6037403327,Census Tract 4033.27,Industry,Los Angeles County,California,Industry,1698.0,79.0,1896.0,177.0,2482.0,678.0,$1896,$2482,$1698
-2023,6037407002,Census Tract 4070.02,Industry,Los Angeles County,California,Industry,,,2086.0,1024.0,2364.0,202.0,$2086,$2364,Not Available!
+2023,6037407002,Census Tract 4070.02,Industry,Los Angeles County,California,Industry,,,2086.0,1024.0,2364.0,202.0,$2086,$2364,
 2023,6037407701,Census Tract 4077.01,Industry,Los Angeles County,California,Industry,1276.0,198.0,1501.0,133.0,1793.0,95.0,$1501,$1793,$1276
 2023,6037407802,Census Tract 4078.02,Industry,Los Angeles County,California,Industry,2030.0,1205.0,2201.0,94.0,2371.0,65.0,$2201,$2371,$2030
 2023,6037408212,Census Tract 4082.12,Industry,Los Angeles County,California,Industry,1841.0,316.0,2189.0,140.0,2447.0,583.0,$2189,$2447,$1841

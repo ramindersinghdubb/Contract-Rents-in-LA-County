@@ -63,7 +63,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037401304,Census Tract 4013.04,San Dimas,Los Angeles County,California,SanDimas,1253.0,698.0,2113.0,642.0,2336.0,110.0,$2113,$2336,$1253
 2015,6037401311,Census Tract 4013.11,San Dimas,Los Angeles County,California,SanDimas,1167.0,128.0,1450.0,139.0,1789.0,166.0,$1450,$1789,$1167
 2015,6037401312,Census Tract 4013.12,San Dimas,Los Angeles County,California,SanDimas,1009.0,235.0,1138.0,93.0,1503.0,611.0,$1138,$1503,$1009
-2015,6037403703,Census Tract 4037.03,San Dimas,Los Angeles County,California,SanDimas,,,1417.0,176.0,1748.0,243.0,$1417,$1748,Not Available!
+2015,6037403703,Census Tract 4037.03,San Dimas,Los Angeles County,California,SanDimas,,,1417.0,176.0,1748.0,243.0,$1417,$1748,
 2015,6037403802,Census Tract 4038.02,San Dimas,Los Angeles County,California,SanDimas,975.0,285.0,1345.0,66.0,1547.0,151.0,$1345,$1547,$975
 2016,6037400207,Census Tract 4002.07,San Dimas,Los Angeles County,California,SanDimas,1720.0,434.0,2184.0,368.0,2601.0,286.0,$2184,$2601,$1720
 2016,6037400302,Census Tract 4003.02,San Dimas,Los Angeles County,California,SanDimas,446.0,356.0,961.0,140.0,1197.0,115.0,$961,$1197,$446
@@ -74,7 +74,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037401304,Census Tract 4013.04,San Dimas,Los Angeles County,California,SanDimas,1243.0,800.0,2160.0,763.0,2507.0,296.0,$2160,$2507,$1243
 2016,6037401311,Census Tract 4013.11,San Dimas,Los Angeles County,California,SanDimas,1167.0,113.0,1443.0,122.0,1770.0,147.0,$1443,$1770,$1167
 2016,6037401312,Census Tract 4013.12,San Dimas,Los Angeles County,California,SanDimas,1028.0,388.0,1165.0,224.0,1650.0,518.0,$1165,$1650,$1028
-2016,6037403703,Census Tract 4037.03,San Dimas,Los Angeles County,California,SanDimas,,,1557.0,319.0,2013.0,331.0,$1557,$2013,Not Available!
+2016,6037403703,Census Tract 4037.03,San Dimas,Los Angeles County,California,SanDimas,,,1557.0,319.0,2013.0,331.0,$1557,$2013,
 2016,6037403802,Census Tract 4038.02,San Dimas,Los Angeles County,California,SanDimas,878.0,371.0,1324.0,69.0,1528.0,158.0,$1324,$1528,$878
 2017,6037400207,Census Tract 4002.07,San Dimas,Los Angeles County,California,SanDimas,1520.0,736.0,1860.0,309.0,2294.0,458.0,$1860,$2294,$1520
 2017,6037400302,Census Tract 4003.02,San Dimas,Los Angeles County,California,SanDimas,396.0,96.0,1011.0,147.0,1297.0,188.0,$1011,$1297,$396
@@ -104,7 +104,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037400403,Census Tract 4004.03,San Dimas,Los Angeles County,California,SanDimas,1399.0,165.0,1861.0,248.0,2316.0,188.0,$1861,$2316,$1399
 2019,6037401202,Census Tract 4012.02,San Dimas,Los Angeles County,California,SanDimas,1164.0,237.0,1684.0,343.0,2119.0,360.0,$1684,$2119,$1164
 2019,6037401303,Census Tract 4013.03,San Dimas,Los Angeles County,California,SanDimas,2984.0,652.0,3277.0,347.0,3501.0,,$3277,Not available. Exceeds $3500!,$2984
-2019,6037401304,Census Tract 4013.04,San Dimas,Los Angeles County,California,SanDimas,,,2567.0,1070.0,2851.0,333.0,$2567,$2851,Not Available!
+2019,6037401304,Census Tract 4013.04,San Dimas,Los Angeles County,California,SanDimas,,,2567.0,1070.0,2851.0,333.0,$2567,$2851,
 2019,6037401311,Census Tract 4013.11,San Dimas,Los Angeles County,California,SanDimas,1480.0,294.0,1746.0,98.0,1998.0,167.0,$1746,$1998,$1480
 2019,6037401312,Census Tract 4013.12,San Dimas,Los Angeles County,California,SanDimas,1054.0,201.0,1228.0,241.0,2003.0,924.0,$1228,$2003,$1054
 2019,6037403703,Census Tract 4037.03,San Dimas,Los Angeles County,California,SanDimas,1225.0,922.0,2026.0,292.0,2319.0,132.0,$2026,$2319,$1225
@@ -113,7 +113,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037400403,Census Tract 4004.03,San Dimas,Los Angeles County,California,SanDimas,1346.0,223.0,1696.0,187.0,2043.0,297.0,$1696,$2043,$1346
 2020,6037401202,Census Tract 4012.02,San Dimas,Los Angeles County,California,SanDimas,1146.0,287.0,1687.0,463.0,2297.0,828.0,$1687,$2297,$1146
 2020,6037401303,Census Tract 4013.03,San Dimas,Los Angeles County,California,SanDimas,3188.0,945.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3188
-2020,6037401304,Census Tract 4013.04,San Dimas,Los Angeles County,California,SanDimas,1282.0,1008.0,,,2622.0,1004.0,Not Available!,$2622,$1282
+2020,6037401304,Census Tract 4013.04,San Dimas,Los Angeles County,California,SanDimas,1282.0,1008.0,,,2622.0,1004.0,,$2622,$1282
 2020,6037401311,Census Tract 4013.11,San Dimas,Los Angeles County,California,SanDimas,1538.0,176.0,1752.0,93.0,1965.0,166.0,$1752,$1965,$1538
 2020,6037401312,Census Tract 4013.12,San Dimas,Los Angeles County,California,SanDimas,1113.0,79.0,1256.0,229.0,2040.0,960.0,$1256,$2040,$1113
 2020,6037403703,Census Tract 4037.03,San Dimas,Los Angeles County,California,SanDimas,1208.0,974.0,2036.0,333.0,2315.0,149.0,$2036,$2315,$1208
@@ -138,10 +138,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037403802,Census Tract 4038.02,San Dimas,Los Angeles County,California,SanDimas,1379.0,324.0,1908.0,189.0,2235.0,74.0,$1908,$2235,$1379
 2023,6037400304,Census Tract 4003.04,San Dimas,Los Angeles County,California,SanDimas,1925.0,234.0,2191.0,81.0,2408.0,70.0,$2191,$2408,$1925
 2023,6037400403,Census Tract 4004.03,San Dimas,Los Angeles County,California,SanDimas,1768.0,137.0,2069.0,185.0,2357.0,96.0,$2069,$2357,$1768
-2023,6037401202,Census Tract 4012.02,San Dimas,Los Angeles County,California,SanDimas,,,2262.0,215.0,2597.0,478.0,$2262,$2597,Not Available!
+2023,6037401202,Census Tract 4012.02,San Dimas,Los Angeles County,California,SanDimas,,,2262.0,215.0,2597.0,478.0,$2262,$2597,
 2023,6037401303,Census Tract 4013.03,San Dimas,Los Angeles County,California,SanDimas,2375.0,410.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2375
 2023,6037401304,Census Tract 4013.04,San Dimas,Los Angeles County,California,SanDimas,1615.0,893.0,1865.0,1666.0,3304.0,1878.0,$1865,$3304,$1615
 2023,6037401311,Census Tract 4013.11,San Dimas,Los Angeles County,California,SanDimas,1707.0,110.0,2024.0,156.0,2279.0,84.0,$2024,$2279,$1707
 2023,6037401312,Census Tract 4013.12,San Dimas,Los Angeles County,California,SanDimas,1310.0,453.0,1944.0,659.0,2424.0,400.0,$1944,$2424,$1310
 2023,6037403703,Census Tract 4037.03,San Dimas,Los Angeles County,California,SanDimas,1238.0,657.0,2110.0,512.0,2530.0,311.0,$2110,$2530,$1238
-2023,6037403802,Census Tract 4038.02,San Dimas,Los Angeles County,California,SanDimas,,,1915.0,267.0,2277.0,123.0,$1915,$2277,Not Available!
+2023,6037403802,Census Tract 4038.02,San Dimas,Los Angeles County,California,SanDimas,,,1915.0,267.0,2277.0,123.0,$1915,$2277,

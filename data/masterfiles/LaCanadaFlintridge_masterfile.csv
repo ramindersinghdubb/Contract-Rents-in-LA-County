@@ -61,7 +61,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037300800,Census Tract 3008,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1070.0,92.0,1324.0,104.0,1769.0,385.0,$1324,$1769,$1070
 2015,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1138.0,173.0,1288.0,229.0,1494.0,624.0,$1288,$1494,$1138
 2015,6037460501,Census Tract 4605.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1572.0,575.0,1811.0,364.0,2181.0,1699.0,$1811,$2181,$1572
-2015,6037460502,Census Tract 4605.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,2266.0,735.0,2952.0,458.0,$2266,$2952,Not Available!
+2015,6037460502,Census Tract 4605.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,2266.0,735.0,2952.0,458.0,$2266,$2952,
 2015,6037460600,Census Tract 4606,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1703.0,558.0,2130.0,526.0,3091.0,1039.0,$2130,$3091,$1703
 2015,6037460700,Census Tract 4607,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1653.0,613.0,2560.0,730.0,2910.0,297.0,$2560,$2910,$1653
 2015,6037460800,Census Tract 4608,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,2756.0,438.0,3321.0,897.0,3501.0,,$3321,Not available. Exceeds $3500!,$2756
@@ -70,7 +70,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037300501,Census Tract 3005.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1689.0,356.0,2081.0,298.0,2402.0,186.0,$2081,$2402,$1689
 2016,6037300502,Census Tract 3005.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1102.0,77.0,1337.0,62.0,1624.0,228.0,$1337,$1624,$1102
 2016,6037300800,Census Tract 3008,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1148.0,117.0,1408.0,102.0,1836.0,189.0,$1408,$1836,$1148
-2016,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,1111.0,378.0,1288.0,196.0,$1111,$1288,Not Available!
+2016,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,1111.0,378.0,1288.0,196.0,$1111,$1288,
 2016,6037460501,Census Tract 4605.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1726.0,311.0,1953.0,1691.0,3501.0,,$1953,Not available. Exceeds $3500!,$1726
 2016,6037460502,Census Tract 4605.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1814.0,509.0,2343.0,708.0,3065.0,495.0,$2343,$3065,$1814
 2016,6037460600,Census Tract 4606,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1603.0,823.0,1919.0,1369.0,3149.0,780.0,$1919,$3149,$1603
@@ -81,7 +81,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037300501,Census Tract 3005.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1662.0,419.0,2130.0,178.0,2402.0,135.0,$2130,$2402,$1662
 2017,6037300502,Census Tract 3005.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1202.0,115.0,1406.0,52.0,1807.0,187.0,$1406,$1807,$1202
 2017,6037300800,Census Tract 3008,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1268.0,150.0,1607.0,173.0,1987.0,187.0,$1607,$1987,$1268
-2017,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,1195.0,206.0,1398.0,176.0,$1195,$1398,Not Available!
+2017,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,1195.0,206.0,1398.0,176.0,$1195,$1398,
 2017,6037460501,Census Tract 4605.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1743.0,290.0,1986.0,1296.0,3501.0,,$1986,Not available. Exceeds $3500!,$1743
 2017,6037460502,Census Tract 4605.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1821.0,492.0,2321.0,596.0,3208.0,501.0,$2321,$3208,$1821
 2017,6037460600,Census Tract 4606,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1600.0,1450.0,3039.0,1309.0,3329.0,347.0,$3039,$3329,$1600
@@ -92,7 +92,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037300501,Census Tract 3005.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1753.0,296.0,2135.0,238.0,2419.0,170.0,$2135,$2419,$1753
 2018,6037300502,Census Tract 3005.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1215.0,80.0,1437.0,80.0,1868.0,170.0,$1437,$1868,$1215
 2018,6037300800,Census Tract 3008,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1321.0,114.0,1675.0,160.0,2083.0,199.0,$1675,$2083,$1321
-2018,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,1301.0,123.0,1467.0,212.0,$1301,$1467,Not Available!
+2018,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,1301.0,123.0,1467.0,212.0,$1301,$1467,
 2018,6037460501,Census Tract 4605.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,3009.0,406.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3009
 2018,6037460502,Census Tract 4605.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,2240.0,590.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2240
 2018,6037460600,Census Tract 4606,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1670.0,744.0,3071.0,1238.0,3501.0,,$3071,Not available. Exceeds $3500!,$1670
@@ -103,10 +103,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037300501,Census Tract 3005.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1605.0,368.0,2137.0,339.0,2646.0,976.0,$2137,$2646,$1605
 2019,6037300502,Census Tract 3005.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1329.0,59.0,1588.0,115.0,1909.0,96.0,$1588,$1909,$1329
 2019,6037300800,Census Tract 3008,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1426.0,161.0,1804.0,146.0,2219.0,180.0,$1804,$2219,$1426
-2019,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,1364.0,211.0,1756.0,345.0,$1364,$1756,Not Available!
+2019,6037460401,Census Tract 4604.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,1364.0,211.0,1756.0,345.0,$1364,$1756,
 2019,6037460501,Census Tract 4605.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,3196.0,289.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3196
 2019,6037460502,Census Tract 4605.02,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
-2019,6037460600,Census Tract 4606,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,2688.0,1126.0,3246.0,270.0,$2688,$3246,Not Available!
+2019,6037460600,Census Tract 4606,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,,,2688.0,1126.0,3246.0,270.0,$2688,$3246,
 2019,6037460700,Census Tract 4607,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,1852.0,572.0,2292.0,446.0,2656.0,371.0,$2292,$2656,$1852
 2019,6037460800,Census Tract 4608,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,3347.0,401.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3347
 2020,6037460501,Census Tract 4605.01,La Cañada Flintridge,Los Angeles County,California,LaCanadaFlintridge,2955.0,635.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2955

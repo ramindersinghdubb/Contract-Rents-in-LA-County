@@ -220,7 +220,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037553100,Census Tract 5531,Bellflower,Los Angeles County,California,Bellflower,1559.0,79.0,1818.0,76.0,2114.0,130.0,$1818,$2114,$1559
 2021,6037553201,Census Tract 5532.01,Bellflower,Los Angeles County,California,Bellflower,1289.0,151.0,1488.0,205.0,1779.0,181.0,$1488,$1779,$1289
 2021,6037553202,Census Tract 5532.02,Bellflower,Los Angeles County,California,Bellflower,1264.0,615.0,1578.0,579.0,2207.0,362.0,$1578,$2207,$1264
-2021,6037553300,Census Tract 5533,Bellflower,Los Angeles County,California,Bellflower,581.0,83.0,763.0,259.0,,,$763,Not Available!,$581
+2021,6037553300,Census Tract 5533,Bellflower,Los Angeles County,California,Bellflower,581.0,83.0,763.0,259.0,,,$763,,$581
 2021,6037554001,Census Tract 5540.01,Bellflower,Los Angeles County,California,Bellflower,1255.0,187.0,1368.0,61.0,1481.0,416.0,$1368,$1481,$1255
 2021,6037554002,Census Tract 5540.02,Bellflower,Los Angeles County,California,Bellflower,1106.0,56.0,1328.0,68.0,1595.0,179.0,$1328,$1595,$1106
 2021,6037554101,Census Tract 5541.01,Bellflower,Los Angeles County,California,Bellflower,1116.0,86.0,1363.0,112.0,1665.0,152.0,$1363,$1665,$1116
@@ -238,7 +238,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037553100,Census Tract 5531,Bellflower,Los Angeles County,California,Bellflower,1674.0,53.0,1911.0,80.0,2246.0,120.0,$1911,$2246,$1674
 2022,6037553201,Census Tract 5532.01,Bellflower,Los Angeles County,California,Bellflower,1259.0,573.0,1722.0,133.0,1965.0,172.0,$1722,$1965,$1259
 2022,6037553202,Census Tract 5532.02,Bellflower,Los Angeles County,California,Bellflower,1261.0,345.0,1845.0,659.0,2370.0,330.0,$1845,$2370,$1261
-2022,6037553300,Census Tract 5533,Bellflower,Los Angeles County,California,Bellflower,625.0,292.0,964.0,333.0,,,$964,Not Available!,$625
+2022,6037553300,Census Tract 5533,Bellflower,Los Angeles County,California,Bellflower,625.0,292.0,964.0,333.0,,,$964,,$625
 2022,6037554001,Census Tract 5540.01,Bellflower,Los Angeles County,California,Bellflower,1190.0,184.0,1357.0,90.0,1488.0,322.0,$1357,$1488,$1190
 2022,6037554002,Census Tract 5540.02,Bellflower,Los Angeles County,California,Bellflower,1153.0,89.0,1477.0,142.0,1889.0,152.0,$1477,$1889,$1153
 2022,6037554101,Census Tract 5541.01,Bellflower,Los Angeles County,California,Bellflower,1107.0,71.0,1406.0,186.0,1738.0,99.0,$1406,$1738,$1107

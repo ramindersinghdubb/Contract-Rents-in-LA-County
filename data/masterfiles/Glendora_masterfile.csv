@@ -88,7 +88,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,1511.0,481.0,2033.0,358.0,2299.0,143.0,$2033,$2299,$1511
 2015,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,2019.0,1830.0,2259.0,470.0,2500.0,364.0,$2259,$2500,$2019
 2015,6037400604,Census Tract 4006.04,Glendora,Los Angeles County,California,Glendora,1014.0,101.0,1177.0,87.0,1422.0,148.0,$1177,$1422,$1014
-2015,6037400800,Census Tract 4008,Glendora,Los Angeles County,California,Glendora,,,1618.0,734.0,2297.0,379.0,$1618,$2297,Not Available!
+2015,6037400800,Census Tract 4008,Glendora,Los Angeles County,California,Glendora,,,1618.0,734.0,2297.0,379.0,$1618,$2297,
 2015,6037400900,Census Tract 4009,Glendora,Los Angeles County,California,Glendora,1315.0,278.0,1684.0,170.0,1997.0,251.0,$1684,$1997,$1315
 2015,6037401001,Census Tract 4010.01,Glendora,Los Angeles County,California,Glendora,1224.0,292.0,1893.0,912.0,2240.0,340.0,$1893,$2240,$1224
 2015,6037401002,Census Tract 4010.02,Glendora,Los Angeles County,California,Glendora,917.0,63.0,1281.0,113.0,1544.0,172.0,$1281,$1544,$917
@@ -105,7 +105,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,1475.0,356.0,2012.0,439.0,2288.0,175.0,$2012,$2288,$1475
 2016,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,1400.0,553.0,2542.0,1800.0,3250.0,1253.0,$2542,$3250,$1400
 2016,6037400604,Census Tract 4006.04,Glendora,Los Angeles County,California,Glendora,1023.0,97.0,1181.0,80.0,1443.0,179.0,$1181,$1443,$1023
-2016,6037400800,Census Tract 4008,Glendora,Los Angeles County,California,Glendora,,,1758.0,435.0,2266.0,288.0,$1758,$2266,Not Available!
+2016,6037400800,Census Tract 4008,Glendora,Los Angeles County,California,Glendora,,,1758.0,435.0,2266.0,288.0,$1758,$2266,
 2016,6037400900,Census Tract 4009,Glendora,Los Angeles County,California,Glendora,1176.0,248.0,1613.0,248.0,1987.0,249.0,$1613,$1987,$1176
 2016,6037401001,Census Tract 4010.01,Glendora,Los Angeles County,California,Glendora,1698.0,195.0,1948.0,268.0,2221.0,192.0,$1948,$2221,$1698
 2016,6037401002,Census Tract 4010.02,Glendora,Los Angeles County,California,Glendora,906.0,107.0,1312.0,99.0,1664.0,141.0,$1312,$1664,$906
@@ -120,7 +120,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1141.0,85.0,1305.0,87.0,1445.0,52.0,$1305,$1445,$1141
 2017,6037400402,Census Tract 4004.02,Glendora,Los Angeles County,California,Glendora,1043.0,521.0,1607.0,198.0,1900.0,141.0,$1607,$1900,$1043
 2017,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,1542.0,524.0,2060.0,362.0,2315.0,147.0,$2060,$2315,$1542
-2017,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,2667.0,1866.0,3501.0,,$2667,Not available. Exceeds $3500!,Not Available!
+2017,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,2667.0,1866.0,3501.0,,$2667,Not available. Exceeds $3500!,
 2017,6037400604,Census Tract 4006.04,Glendora,Los Angeles County,California,Glendora,999.0,231.0,1133.0,63.0,1298.0,175.0,$1133,$1298,$999
 2017,6037400800,Census Tract 4008,Glendora,Los Angeles County,California,Glendora,1344.0,617.0,1907.0,329.0,2476.0,513.0,$1907,$2476,$1344
 2017,6037400900,Census Tract 4009,Glendora,Los Angeles County,California,Glendora,1205.0,206.0,1681.0,165.0,2069.0,274.0,$1681,$2069,$1205
@@ -137,7 +137,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1246.0,114.0,1382.0,63.0,1556.0,193.0,$1382,$1556,$1246
 2018,6037400402,Census Tract 4004.02,Glendora,Los Angeles County,California,Glendora,1261.0,157.0,1465.0,187.0,1971.0,354.0,$1465,$1971,$1261
 2018,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,1629.0,114.0,1842.0,153.0,2602.0,896.0,$1842,$2602,$1629
-2018,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,1036.0,734.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1036
+2018,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,1036.0,734.0,,,3501.0,,,Not available. Exceeds $3500!,$1036
 2018,6037400604,Census Tract 4006.04,Glendora,Los Angeles County,California,Glendora,1033.0,94.0,1175.0,76.0,1552.0,324.0,$1175,$1552,$1033
 2018,6037400800,Census Tract 4008,Glendora,Los Angeles County,California,Glendora,1479.0,504.0,2017.0,360.0,2724.0,610.0,$2017,$2724,$1479
 2018,6037400900,Census Tract 4009,Glendora,Los Angeles County,California,Glendora,1334.0,132.0,1726.0,338.0,2227.0,241.0,$1726,$2227,$1334
@@ -154,7 +154,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1261.0,126.0,1422.0,89.0,1698.0,164.0,$1422,$1698,$1261
 2019,6037400402,Census Tract 4004.02,Glendora,Los Angeles County,California,Glendora,1298.0,134.0,1554.0,246.0,2038.0,290.0,$1554,$2038,$1298
 2019,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,1606.0,1257.0,1819.0,460.0,2667.0,1507.0,$1819,$2667,$1606
-2019,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,3417.0,1862.0,3501.0,,$3417,Not available. Exceeds $3500!,Not Available!
+2019,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,3417.0,1862.0,3501.0,,$3417,Not available. Exceeds $3500!,
 2019,6037400604,Census Tract 4006.04,Glendora,Los Angeles County,California,Glendora,1103.0,123.0,1323.0,156.0,1628.0,267.0,$1323,$1628,$1103
 2019,6037400800,Census Tract 4008,Glendora,Los Angeles County,California,Glendora,1229.0,846.0,2267.0,468.0,3000.0,397.0,$2267,$3000,$1229
 2019,6037400900,Census Tract 4009,Glendora,Los Angeles County,California,Glendora,1438.0,197.0,2010.0,316.0,2406.0,254.0,$2010,$2406,$1438
@@ -170,8 +170,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037403902,Census Tract 4039.02,Glendora,Los Angeles County,California,Glendora,1441.0,83.0,1735.0,144.0,2109.0,239.0,$1735,$2109,$1441
 2019,6037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1141.0,504.0,1445.0,133.0,1741.0,108.0,$1445,$1741,$1141
 2020,6037400402,Census Tract 4004.02,Glendora,Los Angeles County,California,Glendora,1365.0,235.0,1655.0,184.0,1909.0,139.0,$1655,$1909,$1365
-2020,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,,,1963.0,1541.0,3163.0,957.0,$1963,$3163,Not Available!
-2020,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not Available!
+2020,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,,,1963.0,1541.0,3163.0,957.0,$1963,$3163,
+2020,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
 2020,6037400801,Census Tract 4008.01,Glendora,Los Angeles County,California,Glendora,1288.0,163.0,1667.0,296.0,2141.0,238.0,$1667,$2141,$1288
 2020,6037401001,Census Tract 4010.01,Glendora,Los Angeles County,California,Glendora,1902.0,269.0,2239.0,234.0,2594.0,311.0,$2239,$2594,$1902
 2020,6037401002,Census Tract 4010.02,Glendora,Los Angeles County,California,Glendora,1204.0,238.0,1632.0,142.0,2030.0,271.0,$1632,$2030,$1204
@@ -185,8 +185,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037403902,Census Tract 4039.02,Glendora,Los Angeles County,California,Glendora,1457.0,148.0,1712.0,144.0,1971.0,178.0,$1712,$1971,$1457
 2020,6037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1078.0,468.0,1453.0,201.0,1838.0,175.0,$1453,$1838,$1078
 2021,6037400402,Census Tract 4004.02,Glendora,Los Angeles County,California,Glendora,1421.0,197.0,1660.0,94.0,1867.0,75.0,$1660,$1867,$1421
-2021,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,,,,,3156.0,989.0,Not Available!,$3156,Not Available!
-2021,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,,,,,3156.0,989.0,,$3156,
+2021,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,,,,,,,
 2021,6037400801,Census Tract 4008.01,Glendora,Los Angeles County,California,Glendora,1266.0,272.0,1865.0,420.0,2287.0,146.0,$1865,$2287,$1266
 2021,6037401001,Census Tract 4010.01,Glendora,Los Angeles County,California,Glendora,2214.0,139.0,2473.0,231.0,2777.0,201.0,$2473,$2777,$2214
 2021,6037401002,Census Tract 4010.02,Glendora,Los Angeles County,California,Glendora,1202.0,155.0,1721.0,210.0,2225.0,201.0,$1721,$2225,$1202
@@ -200,8 +200,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037403902,Census Tract 4039.02,Glendora,Los Angeles County,California,Glendora,1514.0,149.0,1726.0,117.0,1939.0,142.0,$1726,$1939,$1514
 2021,6037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1255.0,1031.0,1676.0,133.0,1971.0,172.0,$1676,$1971,$1255
 2022,6037400402,Census Tract 4004.02,Glendora,Los Angeles County,California,Glendora,1560.0,226.0,1945.0,291.0,2245.0,169.0,$1945,$2245,$1560
-2022,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,,,,,3181.0,884.0,Not Available!,$3181,Not Available!
-2022,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,,,,,3181.0,884.0,,$3181,
+2022,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,,,,,,,,,
 2022,6037400801,Census Tract 4008.01,Glendora,Los Angeles County,California,Glendora,1576.0,264.0,2011.0,387.0,2638.0,262.0,$2011,$2638,$1576
 2022,6037401001,Census Tract 4010.01,Glendora,Los Angeles County,California,Glendora,2231.0,677.0,2719.0,368.0,3085.0,392.0,$2719,$3085,$2231
 2022,6037401002,Census Tract 4010.02,Glendora,Los Angeles County,California,Glendora,1365.0,115.0,1837.0,250.0,2294.0,183.0,$1837,$2294,$1365
@@ -215,15 +215,15 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037403902,Census Tract 4039.02,Glendora,Los Angeles County,California,Glendora,1596.0,196.0,1883.0,226.0,2252.0,281.0,$1883,$2252,$1596
 2022,6037404000,Census Tract 4040,Glendora,Los Angeles County,California,Glendora,1500.0,495.0,1843.0,175.0,2206.0,176.0,$1843,$2206,$1500
 2023,6037400402,Census Tract 4004.02,Glendora,Los Angeles County,California,Glendora,1740.0,153.0,2049.0,181.0,2285.0,88.0,$2049,$2285,$1740
-2023,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,,,3306.0,360.0,3501.0,,$3306,Not available. Exceeds $3500!,Not Available!
-2023,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,1103.0,82.0,1205.0,576.0,,,$1205,Not Available!,$1103
+2023,6037400404,Census Tract 4004.04,Glendora,Los Angeles County,California,Glendora,,,3306.0,360.0,3501.0,,$3306,Not available. Exceeds $3500!,
+2023,6037400501,Census Tract 4005.01,Glendora,Los Angeles County,California,Glendora,1103.0,82.0,1205.0,576.0,,,$1205,,$1103
 2023,6037400801,Census Tract 4008.01,Glendora,Los Angeles County,California,Glendora,1552.0,356.0,1920.0,334.0,2801.0,494.0,$1920,$2801,$1552
 2023,6037401001,Census Tract 4010.01,Glendora,Los Angeles County,California,Glendora,2159.0,615.0,2727.0,479.0,3207.0,419.0,$2727,$3207,$2159
 2023,6037401002,Census Tract 4010.02,Glendora,Los Angeles County,California,Glendora,1525.0,221.0,1989.0,200.0,2455.0,220.0,$1989,$2455,$1525
 2023,6037401101,Census Tract 4011.01,Glendora,Los Angeles County,California,Glendora,1559.0,75.0,1771.0,58.0,1983.0,128.0,$1771,$1983,$1559
 2023,6037401102,Census Tract 4011.02,Glendora,Los Angeles County,California,Glendora,1654.0,435.0,2191.0,104.0,2458.0,140.0,$2191,$2458,$1654
 2023,6037401201,Census Tract 4012.01,Glendora,Los Angeles County,California,Glendora,1688.0,645.0,2521.0,370.0,2877.0,262.0,$2521,$2877,$1688
-2023,6037401202,Census Tract 4012.02,Glendora,Los Angeles County,California,Glendora,,,2262.0,215.0,2597.0,478.0,$2262,$2597,Not Available!
+2023,6037401202,Census Tract 4012.02,Glendora,Los Angeles County,California,Glendora,,,2262.0,215.0,2597.0,478.0,$2262,$2597,
 2023,6037401203,Census Tract 4012.03,Glendora,Los Angeles County,California,Glendora,1491.0,607.0,2096.0,235.0,2475.0,243.0,$2096,$2475,$1491
 2023,6037401311,Census Tract 4013.11,Glendora,Los Angeles County,California,Glendora,1707.0,110.0,2024.0,156.0,2279.0,84.0,$2024,$2279,$1707
 2023,6037403901,Census Tract 4039.01,Glendora,Los Angeles County,California,Glendora,1714.0,667.0,2534.0,307.0,2767.0,93.0,$2534,$2767,$1714

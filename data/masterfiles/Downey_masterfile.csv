@@ -20,7 +20,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,952.0,86.0,1070.0,89.0,1189.0,66.0,$1070,$1189,$952
 2010,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1021.0,47.0,1116.0,34.0,1211.0,45.0,$1116,$1211,$1021
 2010,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,855.0,40.0,933.0,67.0,1086.0,162.0,$933,$1086,$855
-2010,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2010,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,861.0,78.0,1080.0,89.0,1284.0,114.0,$1080,$1284,$861
 2010,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1006.0,87.0,1115.0,42.0,1223.0,54.0,$1115,$1223,$1006
 2010,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,762.0,88.0,882.0,258.0,1240.0,165.0,$882,$1240,$762
@@ -45,7 +45,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,1038.0,63.0,1143.0,63.0,1248.0,280.0,$1143,$1248,$1038
 2011,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1043.0,34.0,1133.0,30.0,1224.0,46.0,$1133,$1224,$1043
 2011,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,906.0,62.0,1008.0,125.0,1224.0,169.0,$1008,$1224,$906
-2011,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2011,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,966.0,161.0,1171.0,88.0,1390.0,86.0,$1171,$1390,$966
 2011,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1000.0,51.0,1127.0,51.0,1260.0,139.0,$1127,$1260,$1000
 2011,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,849.0,189.0,1034.0,125.0,1220.0,116.0,$1034,$1220,$849
@@ -70,7 +70,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,1044.0,66.0,1152.0,70.0,1409.0,613.0,$1152,$1409,$1044
 2012,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1041.0,33.0,1136.0,35.0,1232.0,71.0,$1136,$1232,$1041
 2012,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,859.0,54.0,940.0,85.0,1067.0,150.0,$940,$1067,$859
-2012,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2012,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,881.0,116.0,1174.0,120.0,1541.0,197.0,$1174,$1541,$881
 2012,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1024.0,48.0,1152.0,46.0,1382.0,218.0,$1152,$1382,$1024
 2012,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,838.0,201.0,1045.0,155.0,1235.0,124.0,$1045,$1235,$838
@@ -95,7 +95,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,1060.0,51.0,1173.0,72.0,1682.0,743.0,$1173,$1682,$1060
 2013,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1039.0,40.0,1155.0,45.0,1320.0,153.0,$1155,$1320,$1039
 2013,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,868.0,64.0,996.0,134.0,1224.0,125.0,$996,$1224,$868
-2013,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2013,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,960.0,180.0,1189.0,80.0,1517.0,176.0,$1189,$1517,$960
 2013,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1024.0,54.0,1168.0,52.0,1417.0,159.0,$1168,$1417,$1024
 2013,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,847.0,180.0,1070.0,91.0,1236.0,115.0,$1070,$1236,$847
@@ -120,7 +120,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,981.0,71.0,1157.0,185.0,1987.0,865.0,$1157,$1987,$981
 2014,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1068.0,34.0,1196.0,53.0,1422.0,128.0,$1196,$1422,$1068
 2014,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,926.0,94.0,1063.0,111.0,1213.0,113.0,$1063,$1213,$926
-2014,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2014,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,967.0,86.0,1175.0,92.0,1518.0,197.0,$1175,$1518,$967
 2014,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1008.0,55.0,1138.0,40.0,1322.0,170.0,$1138,$1322,$1008
 2014,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,857.0,143.0,1066.0,94.0,1242.0,136.0,$1066,$1242,$857
@@ -145,7 +145,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,1074.0,68.0,1229.0,547.0,2196.0,381.0,$1229,$2196,$1074
 2015,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1065.0,46.0,1222.0,72.0,1465.0,101.0,$1222,$1465,$1065
 2015,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,930.0,71.0,1085.0,118.0,1272.0,186.0,$1085,$1272,$930
-2015,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2015,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,924.0,145.0,1188.0,100.0,1558.0,192.0,$1188,$1558,$924
 2015,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1008.0,56.0,1133.0,45.0,1292.0,184.0,$1133,$1292,$1008
 2015,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,823.0,149.0,1131.0,115.0,1394.0,155.0,$1131,$1394,$823
@@ -170,7 +170,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,1072.0,100.0,1375.0,511.0,2021.0,300.0,$1375,$2021,$1072
 2016,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1029.0,70.0,1205.0,77.0,1423.0,84.0,$1205,$1423,$1029
 2016,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,1010.0,170.0,1284.0,94.0,1419.0,54.0,$1284,$1419,$1010
-2016,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2016,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,884.0,139.0,1276.0,118.0,1551.0,156.0,$1276,$1551,$884
 2016,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1025.0,65.0,1183.0,70.0,1575.0,191.0,$1183,$1575,$1025
 2016,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,763.0,177.0,1127.0,155.0,1408.0,151.0,$1127,$1408,$763
@@ -195,14 +195,14 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,1130.0,181.0,1488.0,359.0,2149.0,286.0,$1488,$2149,$1130
 2017,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1089.0,99.0,1326.0,83.0,1576.0,170.0,$1326,$1576,$1089
 2017,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,1095.0,125.0,1346.0,102.0,1589.0,242.0,$1346,$1589,$1095
-2017,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2017,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,972.0,169.0,1353.0,67.0,1613.0,211.0,$1353,$1613,$972
 2017,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,986.0,72.0,1169.0,90.0,1403.0,113.0,$1169,$1403,$986
 2017,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,851.0,236.0,1275.0,128.0,1573.0,281.0,$1275,$1573,$851
 2018,6037502801,Census Tract 5028.01,Downey,Los Angeles County,California,Downey,1342.0,243.0,1747.0,246.0,2139.0,199.0,$1747,$2139,$1342
 2018,6037534203,Census Tract 5342.03,Downey,Los Angeles County,California,Downey,866.0,182.0,1089.0,32.0,1220.0,32.0,$1089,$1220,$866
 2018,6037550300,Census Tract 5503,Downey,Los Angeles County,California,Downey,1262.0,165.0,1557.0,178.0,1875.0,150.0,$1557,$1875,$1262
-2018,6037550400,Census Tract 5504,Downey,Los Angeles County,California,Downey,,,1225.0,503.0,1448.0,1009.0,$1225,$1448,Not Available!
+2018,6037550400,Census Tract 5504,Downey,Los Angeles County,California,Downey,,,1225.0,503.0,1448.0,1009.0,$1225,$1448,
 2018,6037550500,Census Tract 5505,Downey,Los Angeles County,California,Downey,1163.0,191.0,1526.0,233.0,1938.0,245.0,$1526,$1938,$1163
 2018,6037550601,Census Tract 5506.01,Downey,Los Angeles County,California,Downey,1028.0,71.0,1237.0,104.0,1628.0,269.0,$1237,$1628,$1028
 2018,6037550602,Census Tract 5506.02,Downey,Los Angeles County,California,Downey,1535.0,391.0,2003.0,324.0,2252.0,166.0,$2003,$2252,$1535
@@ -220,14 +220,14 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,1134.0,114.0,1539.0,285.0,1978.0,233.0,$1539,$1978,$1134
 2018,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1120.0,271.0,1408.0,75.0,1736.0,153.0,$1408,$1736,$1120
 2018,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,1106.0,148.0,1350.0,84.0,1574.0,206.0,$1350,$1574,$1106
-2018,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2018,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,1021.0,158.0,1365.0,106.0,1736.0,173.0,$1365,$1736,$1021
 2018,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1134.0,131.0,1365.0,72.0,1609.0,180.0,$1365,$1609,$1134
 2018,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,898.0,224.0,1341.0,185.0,1753.0,153.0,$1341,$1753,$898
 2019,6037502801,Census Tract 5028.01,Downey,Los Angeles County,California,Downey,1311.0,280.0,1681.0,197.0,2005.0,227.0,$1681,$2005,$1311
 2019,6037534203,Census Tract 5342.03,Downey,Los Angeles County,California,Downey,732.0,176.0,1108.0,58.0,1338.0,84.0,$1108,$1338,$732
 2019,6037550300,Census Tract 5503,Downey,Los Angeles County,California,Downey,1469.0,175.0,1710.0,102.0,1938.0,111.0,$1710,$1938,$1469
-2019,6037550400,Census Tract 5504,Downey,Los Angeles County,California,Downey,,,1292.0,527.0,1750.0,1170.0,$1292,$1750,Not Available!
+2019,6037550400,Census Tract 5504,Downey,Los Angeles County,California,Downey,,,1292.0,527.0,1750.0,1170.0,$1292,$1750,
 2019,6037550500,Census Tract 5505,Downey,Los Angeles County,California,Downey,1229.0,151.0,1475.0,155.0,1859.0,186.0,$1475,$1859,$1229
 2019,6037550601,Census Tract 5506.01,Downey,Los Angeles County,California,Downey,1068.0,79.0,1288.0,172.0,1754.0,228.0,$1288,$1754,$1068
 2019,6037550602,Census Tract 5506.02,Downey,Los Angeles County,California,Downey,1435.0,243.0,1814.0,248.0,2165.0,203.0,$1814,$2165,$1435
@@ -245,7 +245,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037551402,Census Tract 5514.02,Downey,Los Angeles County,California,Downey,1185.0,113.0,1653.0,248.0,2059.0,251.0,$1653,$2059,$1185
 2019,6037551501,Census Tract 5515.01,Downey,Los Angeles County,California,Downey,1123.0,189.0,1425.0,101.0,1754.0,109.0,$1425,$1754,$1123
 2019,6037551502,Census Tract 5515.02,Downey,Los Angeles County,California,Downey,1349.0,93.0,1608.0,123.0,1875.0,97.0,$1608,$1875,$1349
-2019,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037551600,Census Tract 5516,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2019,6037551700,Census Tract 5517,Downey,Los Angeles County,California,Downey,1022.0,223.0,1379.0,93.0,1717.0,186.0,$1379,$1717,$1022
 2019,6037551800,Census Tract 5518,Downey,Los Angeles County,California,Downey,1301.0,98.0,1529.0,132.0,1810.0,93.0,$1529,$1810,$1301
 2019,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,1047.0,148.0,1488.0,220.0,1844.0,126.0,$1488,$1844,$1047
@@ -275,7 +275,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037551802,Census Tract 5518.02,Downey,Los Angeles County,California,Downey,1393.0,304.0,1648.0,100.0,1835.0,55.0,$1648,$1835,$1393
 2020,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,1132.0,266.0,1458.0,180.0,1856.0,226.0,$1458,$1856,$1132
 2020,6037577800,Census Tract 5778,Downey,Los Angeles County,California,Downey,1304.0,422.0,1499.0,368.0,1960.0,380.0,$1499,$1960,$1304
-2020,6037980012,Census Tract 9800.12,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037980012,Census Tract 9800.12,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2021,6037550501,Census Tract 5505.01,Downey,Los Angeles County,California,Downey,1184.0,270.0,1444.0,259.0,1813.0,342.0,$1444,$1813,$1184
 2021,6037550502,Census Tract 5505.02,Downey,Los Angeles County,California,Downey,1529.0,149.0,1752.0,166.0,1974.0,272.0,$1752,$1974,$1529
 2021,6037550601,Census Tract 5506.01,Downey,Los Angeles County,California,Downey,1294.0,82.0,1518.0,120.0,1831.0,83.0,$1518,$1831,$1294
@@ -302,7 +302,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037551802,Census Tract 5518.02,Downey,Los Angeles County,California,Downey,1456.0,196.0,1668.0,75.0,1855.0,50.0,$1668,$1855,$1456
 2021,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,1304.0,87.0,1526.0,217.0,1987.0,288.0,$1526,$1987,$1304
 2021,6037577800,Census Tract 5778,Downey,Los Angeles County,California,Downey,1573.0,638.0,1780.0,156.0,1988.0,414.0,$1780,$1988,$1573
-2021,6037980012,Census Tract 9800.12,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037980012,Census Tract 9800.12,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2022,6037550501,Census Tract 5505.01,Downey,Los Angeles County,California,Downey,1337.0,368.0,1667.0,180.0,1913.0,185.0,$1667,$1913,$1337
 2022,6037550502,Census Tract 5505.02,Downey,Los Angeles County,California,Downey,1714.0,355.0,2013.0,559.0,2481.0,570.0,$2013,$2481,$1714
 2022,6037550601,Census Tract 5506.01,Downey,Los Angeles County,California,Downey,1594.0,59.0,1797.0,61.0,1999.0,296.0,$1797,$1999,$1594
@@ -329,7 +329,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037551802,Census Tract 5518.02,Downey,Los Angeles County,California,Downey,1631.0,49.0,1830.0,73.0,2068.0,183.0,$1830,$2068,$1631
 2022,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,1337.0,114.0,1653.0,240.0,2074.0,403.0,$1653,$2074,$1337
 2022,6037577800,Census Tract 5778,Downey,Los Angeles County,California,Downey,1560.0,337.0,1734.0,106.0,1909.0,87.0,$1734,$1909,$1560
-2022,6037980012,Census Tract 9800.12,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037980012,Census Tract 9800.12,Downey,Los Angeles County,California,Downey,,,,,,,,,
 2023,6037550501,Census Tract 5505.01,Downey,Los Angeles County,California,Downey,1462.0,166.0,1703.0,155.0,1941.0,191.0,$1703,$1941,$1462
 2023,6037550502,Census Tract 5505.02,Downey,Los Angeles County,California,Downey,2005.0,1644.0,2216.0,167.0,2427.0,232.0,$2216,$2427,$2005
 2023,6037550601,Census Tract 5506.01,Downey,Los Angeles County,California,Downey,1581.0,67.0,1798.0,69.0,2067.0,303.0,$1798,$2067,$1581
@@ -356,4 +356,4 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037551802,Census Tract 5518.02,Downey,Los Angeles County,California,Downey,1660.0,55.0,1865.0,89.0,2142.0,192.0,$1865,$2142,$1660
 2023,6037553400,Census Tract 5534,Downey,Los Angeles County,California,Downey,1360.0,112.0,1634.0,231.0,2021.0,412.0,$1634,$2021,$1360
 2023,6037577800,Census Tract 5778,Downey,Los Angeles County,California,Downey,1683.0,95.0,1866.0,289.0,2327.0,780.0,$1866,$2327,$1683
-2023,6037980012,Census Tract 9800.12,Downey,Los Angeles County,California,Downey,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037980012,Census Tract 9800.12,Downey,Los Angeles County,California,Downey,,,,,,,,,

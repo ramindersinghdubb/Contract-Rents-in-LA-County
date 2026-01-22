@@ -88,7 +88,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037400602,Census Tract 4006.02,Azusa,Los Angeles County,California,Azusa,800.0,77.0,1024.0,104.0,1193.0,64.0,$1024,$1193,$800
 2015,6037400603,Census Tract 4006.03,Azusa,Los Angeles County,California,Azusa,1047.0,68.0,1220.0,87.0,1605.0,176.0,$1220,$1605,$1047
 2015,6037400604,Census Tract 4006.04,Azusa,Los Angeles County,California,Azusa,1014.0,101.0,1177.0,87.0,1422.0,148.0,$1177,$1422,$1014
-2015,6037400800,Census Tract 4008,Azusa,Los Angeles County,California,Azusa,,,1618.0,734.0,2297.0,379.0,$1618,$2297,Not Available!
+2015,6037400800,Census Tract 4008,Azusa,Los Angeles County,California,Azusa,,,1618.0,734.0,2297.0,379.0,$1618,$2297,
 2015,6037404000,Census Tract 4040,Azusa,Los Angeles County,California,Azusa,1126.0,64.0,1287.0,91.0,1449.0,67.0,$1287,$1449,$1126
 2015,6037404100,Census Tract 4041,Azusa,Los Angeles County,California,Azusa,1055.0,141.0,1272.0,235.0,1654.0,243.0,$1272,$1654,$1055
 2015,6037404201,Census Tract 4042.01,Azusa,Los Angeles County,California,Azusa,818.0,131.0,1033.0,83.0,1192.0,58.0,$1033,$1192,$818
@@ -105,7 +105,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037400602,Census Tract 4006.02,Azusa,Los Angeles County,California,Azusa,812.0,94.0,1071.0,115.0,1324.0,128.0,$1071,$1324,$812
 2016,6037400603,Census Tract 4006.03,Azusa,Los Angeles County,California,Azusa,1003.0,304.0,1209.0,135.0,1630.0,210.0,$1209,$1630,$1003
 2016,6037400604,Census Tract 4006.04,Azusa,Los Angeles County,California,Azusa,1023.0,97.0,1181.0,80.0,1443.0,179.0,$1181,$1443,$1023
-2016,6037400800,Census Tract 4008,Azusa,Los Angeles County,California,Azusa,,,1758.0,435.0,2266.0,288.0,$1758,$2266,Not Available!
+2016,6037400800,Census Tract 4008,Azusa,Los Angeles County,California,Azusa,,,1758.0,435.0,2266.0,288.0,$1758,$2266,
 2016,6037404000,Census Tract 4040,Azusa,Los Angeles County,California,Azusa,1141.0,85.0,1305.0,87.0,1445.0,52.0,$1305,$1445,$1141
 2016,6037404100,Census Tract 4041,Azusa,Los Angeles County,California,Azusa,1143.0,88.0,1453.0,221.0,1797.0,135.0,$1453,$1797,$1143
 2016,6037404201,Census Tract 4042.01,Azusa,Los Angeles County,California,Azusa,867.0,108.0,1065.0,56.0,1200.0,45.0,$1065,$1200,$867
@@ -118,7 +118,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037404503,Census Tract 4045.03,Azusa,Los Angeles County,California,Azusa,1003.0,723.0,1194.0,195.0,1640.0,261.0,$1194,$1640,$1003
 2016,6037404504,Census Tract 4045.04,Azusa,Los Angeles County,California,Azusa,891.0,53.0,1021.0,55.0,1189.0,43.0,$1021,$1189,$891
 2016,6037930301,Census Tract 9303.01,Azusa,Los Angeles County,California,Azusa,922.0,215.0,1013.0,338.0,1729.0,1634.0,$1013,$1729,$922
-2017,6037400501,Census Tract 4005.01,Azusa,Los Angeles County,California,Azusa,,,2667.0,1866.0,3501.0,,$2667,Not available. Exceeds $3500!,Not Available!
+2017,6037400501,Census Tract 4005.01,Azusa,Los Angeles County,California,Azusa,,,2667.0,1866.0,3501.0,,$2667,Not available. Exceeds $3500!,
 2017,6037400602,Census Tract 4006.02,Azusa,Los Angeles County,California,Azusa,830.0,107.0,1088.0,121.0,1361.0,134.0,$1088,$1361,$830
 2017,6037400603,Census Tract 4006.03,Azusa,Los Angeles County,California,Azusa,1028.0,236.0,1236.0,121.0,1616.0,170.0,$1236,$1616,$1028
 2017,6037400604,Census Tract 4006.04,Azusa,Los Angeles County,California,Azusa,999.0,231.0,1133.0,63.0,1298.0,175.0,$1133,$1298,$999
@@ -134,8 +134,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037404501,Census Tract 4045.01,Azusa,Los Angeles County,California,Azusa,1085.0,62.0,1248.0,115.0,1484.0,194.0,$1248,$1484,$1085
 2017,6037404503,Census Tract 4045.03,Azusa,Los Angeles County,California,Azusa,794.0,520.0,1339.0,528.0,1761.0,165.0,$1339,$1761,$794
 2017,6037404504,Census Tract 4045.04,Azusa,Los Angeles County,California,Azusa,953.0,59.0,1101.0,37.0,1240.0,55.0,$1101,$1240,$953
-2017,6037930301,Census Tract 9303.01,Azusa,Los Angeles County,California,Azusa,903.0,271.0,995.0,251.0,,,$995,Not Available!,$903
-2018,6037400501,Census Tract 4005.01,Azusa,Los Angeles County,California,Azusa,1036.0,734.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1036
+2017,6037930301,Census Tract 9303.01,Azusa,Los Angeles County,California,Azusa,903.0,271.0,995.0,251.0,,,$995,,$903
+2018,6037400501,Census Tract 4005.01,Azusa,Los Angeles County,California,Azusa,1036.0,734.0,,,3501.0,,,Not available. Exceeds $3500!,$1036
 2018,6037400602,Census Tract 4006.02,Azusa,Los Angeles County,California,Azusa,891.0,131.0,1225.0,126.0,1456.0,114.0,$1225,$1456,$891
 2018,6037400603,Census Tract 4006.03,Azusa,Los Angeles County,California,Azusa,1088.0,158.0,1349.0,131.0,1697.0,219.0,$1349,$1697,$1088
 2018,6037400604,Census Tract 4006.04,Azusa,Los Angeles County,California,Azusa,1033.0,94.0,1175.0,76.0,1552.0,324.0,$1175,$1552,$1033
@@ -151,8 +151,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037404501,Census Tract 4045.01,Azusa,Los Angeles County,California,Azusa,1133.0,80.0,1351.0,156.0,1700.0,217.0,$1351,$1700,$1133
 2018,6037404503,Census Tract 4045.03,Azusa,Los Angeles County,California,Azusa,1014.0,504.0,1586.0,178.0,1842.0,108.0,$1586,$1842,$1014
 2018,6037404504,Census Tract 4045.04,Azusa,Los Angeles County,California,Azusa,978.0,74.0,1158.0,63.0,1364.0,79.0,$1158,$1364,$978
-2018,6037930301,Census Tract 9303.01,Azusa,Los Angeles County,California,Azusa,,,,,2625.0,2123.0,Not Available!,$2625,Not Available!
-2019,6037400501,Census Tract 4005.01,Azusa,Los Angeles County,California,Azusa,,,3417.0,1862.0,3501.0,,$3417,Not available. Exceeds $3500!,Not Available!
+2018,6037930301,Census Tract 9303.01,Azusa,Los Angeles County,California,Azusa,,,,,2625.0,2123.0,,$2625,
+2019,6037400501,Census Tract 4005.01,Azusa,Los Angeles County,California,Azusa,,,3417.0,1862.0,3501.0,,$3417,Not available. Exceeds $3500!,
 2019,6037400602,Census Tract 4006.02,Azusa,Los Angeles County,California,Azusa,1022.0,131.0,1299.0,109.0,1520.0,265.0,$1299,$1520,$1022
 2019,6037400603,Census Tract 4006.03,Azusa,Los Angeles County,California,Azusa,1103.0,216.0,1500.0,219.0,1957.0,230.0,$1500,$1957,$1103
 2019,6037400604,Census Tract 4006.04,Azusa,Los Angeles County,California,Azusa,1103.0,123.0,1323.0,156.0,1628.0,267.0,$1323,$1628,$1103
@@ -166,9 +166,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037404401,Census Tract 4044.01,Azusa,Los Angeles County,California,Azusa,1063.0,127.0,1300.0,113.0,1485.0,139.0,$1300,$1485,$1063
 2019,6037404402,Census Tract 4044.02,Azusa,Los Angeles County,California,Azusa,1155.0,79.0,1461.0,220.0,1877.0,186.0,$1461,$1877,$1155
 2019,6037404501,Census Tract 4045.01,Azusa,Los Angeles County,California,Azusa,1132.0,124.0,1382.0,83.0,1653.0,141.0,$1382,$1653,$1132
-2019,6037404503,Census Tract 4045.03,Azusa,Los Angeles County,California,Azusa,,,1662.0,122.0,1875.0,72.0,$1662,$1875,Not Available!
+2019,6037404503,Census Tract 4045.03,Azusa,Los Angeles County,California,Azusa,,,1662.0,122.0,1875.0,72.0,$1662,$1875,
 2019,6037404504,Census Tract 4045.04,Azusa,Los Angeles County,California,Azusa,1111.0,87.0,1315.0,61.0,1453.0,56.0,$1315,$1453,$1111
-2019,6037930301,Census Tract 9303.01,Azusa,Los Angeles County,California,Azusa,868.0,312.0,,,2703.0,2180.0,Not Available!,$2703,$868
+2019,6037930301,Census Tract 9303.01,Azusa,Los Angeles County,California,Azusa,868.0,312.0,,,2703.0,2180.0,,$2703,$868
 2020,6037400602,Census Tract 4006.02,Azusa,Los Angeles County,California,Azusa,993.0,155.0,1319.0,117.0,1609.0,187.0,$1319,$1609,$993
 2020,6037400603,Census Tract 4006.03,Azusa,Los Angeles County,California,Azusa,1171.0,172.0,1476.0,178.0,1881.0,158.0,$1476,$1881,$1171
 2020,6037400605,Census Tract 4006.05,Azusa,Los Angeles County,California,Azusa,1188.0,151.0,1479.0,236.0,1952.0,286.0,$1479,$1952,$1188
@@ -205,7 +205,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037400801,Census Tract 4008.01,Azusa,Los Angeles County,California,Azusa,1576.0,264.0,2011.0,387.0,2638.0,262.0,$2011,$2638,$1576
 2022,6037404000,Census Tract 4040,Azusa,Los Angeles County,California,Azusa,1500.0,495.0,1843.0,175.0,2206.0,176.0,$1843,$2206,$1500
 2022,6037404100,Census Tract 4041,Azusa,Los Angeles County,California,Azusa,1531.0,124.0,1743.0,110.0,1956.0,170.0,$1743,$1956,$1531
-2022,6037404201,Census Tract 4042.01,Azusa,Los Angeles County,California,Azusa,,,1290.0,232.0,1842.0,215.0,$1290,$1842,Not Available!
+2022,6037404201,Census Tract 4042.01,Azusa,Los Angeles County,California,Azusa,,,1290.0,232.0,1842.0,215.0,$1290,$1842,
 2022,6037404203,Census Tract 4042.03,Azusa,Los Angeles County,California,Azusa,1022.0,198.0,1567.0,164.0,1901.0,112.0,$1567,$1901,$1022
 2022,6037404301,Census Tract 4043.01,Azusa,Los Angeles County,California,Azusa,1377.0,69.0,1616.0,105.0,1891.0,89.0,$1616,$1891,$1377
 2022,6037404302,Census Tract 4043.02,Azusa,Los Angeles County,California,Azusa,1565.0,274.0,2009.0,230.0,2254.0,95.0,$2009,$2254,$1565
@@ -220,7 +220,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037400801,Census Tract 4008.01,Azusa,Los Angeles County,California,Azusa,1552.0,356.0,1920.0,334.0,2801.0,494.0,$1920,$2801,$1552
 2023,6037404000,Census Tract 4040,Azusa,Los Angeles County,California,Azusa,1580.0,706.0,2031.0,207.0,2319.0,101.0,$2031,$2319,$1580
 2023,6037404100,Census Tract 4041,Azusa,Los Angeles County,California,Azusa,1621.0,89.0,1820.0,124.0,2045.0,242.0,$1820,$2045,$1621
-2023,6037404201,Census Tract 4042.01,Azusa,Los Angeles County,California,Azusa,,,1406.0,308.0,1824.0,119.0,$1406,$1824,Not Available!
+2023,6037404201,Census Tract 4042.01,Azusa,Los Angeles County,California,Azusa,,,1406.0,308.0,1824.0,119.0,$1406,$1824,
 2023,6037404203,Census Tract 4042.03,Azusa,Los Angeles County,California,Azusa,1078.0,277.0,1562.0,204.0,1943.0,163.0,$1562,$1943,$1078
 2023,6037404301,Census Tract 4043.01,Azusa,Los Angeles County,California,Azusa,1415.0,124.0,1671.0,83.0,1901.0,66.0,$1671,$1901,$1415
 2023,6037404302,Census Tract 4043.02,Azusa,Los Angeles County,California,Azusa,1575.0,247.0,1975.0,232.0,2242.0,118.0,$1975,$2242,$1575

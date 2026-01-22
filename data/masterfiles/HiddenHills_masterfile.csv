@@ -17,7 +17,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1706.0,260.0,2207.0,185.0,2734.0,400.0,$2207,$2734,$1706
 2019,6037137000,Census Tract 1370,Hidden Hills,Los Angeles County,California,HiddenHills,2028.0,593.0,2478.0,1048.0,3256.0,148.0,$2478,$3256,$2028
 2019,6037800203,Census Tract 8002.03,Hidden Hills,Los Angeles County,California,HiddenHills,1978.0,175.0,2280.0,107.0,2746.0,362.0,$2280,$2746,$1978
-2020,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,,,,,,,,,
 2021,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,2599.0,287.0,2733.0,68.0,2866.0,34.0,$2733,$2866,$2599
 2022,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,2644.0,139.0,2814.0,254.0,2984.0,374.0,$2814,$2984,$2644
 2023,6037800206,Census Tract 8002.06,Hidden Hills,Los Angeles County,California,HiddenHills,2655.0,222.0,2851.0,368.0,3109.0,431.0,$2851,$3109,$2655

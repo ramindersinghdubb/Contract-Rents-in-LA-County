@@ -9,13 +9,13 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037702901,Census Tract 7029.01,Marina del Rey,Los Angeles County,California,MarinadelRey,1735.0,53.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1735
 2014,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,945.0,1354.0,1767.0,351.0,2001.0,,$1767,Not available. Exceeds $2000!,$945
 2014,6037702901,Census Tract 7029.01,Marina del Rey,Los Angeles County,California,MarinadelRey,1824.0,70.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1824
-2015,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,,,1757.0,525.0,3189.0,896.0,$1757,$3189,Not Available!
+2015,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,,,1757.0,525.0,3189.0,896.0,$1757,$3189,
 2015,6037702901,Census Tract 7029.01,Marina del Rey,Los Angeles County,California,MarinadelRey,1886.0,99.0,2330.0,109.0,2816.0,107.0,$2330,$2816,$1886
-2016,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,,,1794.0,519.0,3099.0,745.0,$1794,$3099,Not Available!
+2016,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,,,1794.0,519.0,3099.0,745.0,$1794,$3099,
 2016,6037702901,Census Tract 7029.01,Marina del Rey,Los Angeles County,California,MarinadelRey,2018.0,112.0,2512.0,116.0,2930.0,78.0,$2512,$2930,$2018
-2017,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,,,1680.0,417.0,2700.0,744.0,$1680,$2700,Not Available!
+2017,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,,,1680.0,417.0,2700.0,744.0,$1680,$2700,
 2017,6037702901,Census Tract 7029.01,Marina del Rey,Los Angeles County,California,MarinadelRey,2205.0,99.0,2662.0,78.0,3093.0,186.0,$2662,$3093,$2205
-2018,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,,,1558.0,322.0,2955.0,675.0,$1558,$2955,Not Available!
+2018,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,,,1558.0,322.0,2955.0,675.0,$1558,$2955,
 2018,6037702901,Census Tract 7029.01,Marina del Rey,Los Angeles County,California,MarinadelRey,2478.0,136.0,2844.0,99.0,3284.0,114.0,$2844,$3284,$2478
 2019,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,786.0,727.0,1881.0,303.0,3021.0,754.0,$1881,$3021,$786
 2019,6037702901,Census Tract 7029.01,Marina del Rey,Los Angeles County,California,MarinadelRey,2604.0,77.0,2956.0,102.0,3388.0,101.0,$2956,$3388,$2604

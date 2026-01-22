@@ -113,7 +113,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037431400,Census Tract 4314,Arcadia,Los Angeles County,California,Arcadia,851.0,126.0,1234.0,303.0,1913.0,844.0,$1234,$1913,$851
 2015,6037431502,Census Tract 4315.02,Arcadia,Los Angeles County,California,Arcadia,979.0,200.0,1381.0,121.0,1693.0,155.0,$1381,$1693,$979
 2015,6037431600,Census Tract 4316,Arcadia,Los Angeles County,California,Arcadia,826.0,124.0,978.0,307.0,1769.0,201.0,$978,$1769,$826
-2015,6037431700,Census Tract 4317,Arcadia,Los Angeles County,California,Arcadia,,,1122.0,140.0,1631.0,735.0,$1122,$1631,Not Available!
+2015,6037431700,Census Tract 4317,Arcadia,Los Angeles County,California,Arcadia,,,1122.0,140.0,1631.0,735.0,$1122,$1631,
 2015,6037431800,Census Tract 4318,Arcadia,Los Angeles County,California,Arcadia,1095.0,109.0,1331.0,132.0,1700.0,276.0,$1331,$1700,$1095
 2015,6037431900,Census Tract 4319,Arcadia,Los Angeles County,California,Arcadia,855.0,44.0,1087.0,91.0,1319.0,128.0,$1087,$1319,$855
 2015,6037432500,Census Tract 4325,Arcadia,Los Angeles County,California,Arcadia,855.0,258.0,1172.0,94.0,1395.0,83.0,$1172,$1395,$855
@@ -153,7 +153,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037431400,Census Tract 4314,Arcadia,Los Angeles County,California,Arcadia,971.0,135.0,1150.0,85.0,1831.0,731.0,$1150,$1831,$971
 2017,6037431502,Census Tract 4315.02,Arcadia,Los Angeles County,California,Arcadia,980.0,85.0,1466.0,277.0,1827.0,177.0,$1466,$1827,$980
 2017,6037431600,Census Tract 4316,Arcadia,Los Angeles County,California,Arcadia,645.0,254.0,974.0,400.0,1859.0,293.0,$974,$1859,$645
-2017,6037431700,Census Tract 4317,Arcadia,Los Angeles County,California,Arcadia,,,1108.0,90.0,1256.0,375.0,$1108,$1256,Not Available!
+2017,6037431700,Census Tract 4317,Arcadia,Los Angeles County,California,Arcadia,,,1108.0,90.0,1256.0,375.0,$1108,$1256,
 2017,6037431800,Census Tract 4318,Arcadia,Los Angeles County,California,Arcadia,1185.0,137.0,1450.0,128.0,1832.0,116.0,$1450,$1832,$1185
 2017,6037431900,Census Tract 4319,Arcadia,Los Angeles County,California,Arcadia,974.0,106.0,1241.0,107.0,1467.0,102.0,$1241,$1467,$974
 2017,6037432500,Census Tract 4325,Arcadia,Los Angeles County,California,Arcadia,887.0,306.0,1126.0,92.0,1348.0,95.0,$1126,$1348,$887
@@ -173,7 +173,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037431400,Census Tract 4314,Arcadia,Los Angeles County,California,Arcadia,1047.0,94.0,1236.0,420.0,2263.0,772.0,$1236,$2263,$1047
 2018,6037431502,Census Tract 4315.02,Arcadia,Los Angeles County,California,Arcadia,1174.0,226.0,1564.0,181.0,1859.0,129.0,$1564,$1859,$1174
 2018,6037431600,Census Tract 4316,Arcadia,Los Angeles County,California,Arcadia,735.0,303.0,1226.0,652.0,2281.0,919.0,$1226,$2281,$735
-2018,6037431700,Census Tract 4317,Arcadia,Los Angeles County,California,Arcadia,,,1300.0,257.0,1949.0,540.0,$1300,$1949,Not Available!
+2018,6037431700,Census Tract 4317,Arcadia,Los Angeles County,California,Arcadia,,,1300.0,257.0,1949.0,540.0,$1300,$1949,
 2018,6037431800,Census Tract 4318,Arcadia,Los Angeles County,California,Arcadia,1263.0,132.0,1545.0,162.0,1904.0,109.0,$1545,$1904,$1263
 2018,6037431900,Census Tract 4319,Arcadia,Los Angeles County,California,Arcadia,1048.0,138.0,1340.0,71.0,1651.0,261.0,$1340,$1651,$1048
 2018,6037432500,Census Tract 4325,Arcadia,Los Angeles County,California,Arcadia,936.0,121.0,1268.0,106.0,1422.0,50.0,$1268,$1422,$936
@@ -193,7 +193,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037431400,Census Tract 4314,Arcadia,Los Angeles County,California,Arcadia,960.0,412.0,1239.0,379.0,2206.0,256.0,$1239,$2206,$960
 2019,6037431502,Census Tract 4315.02,Arcadia,Los Angeles County,California,Arcadia,1197.0,415.0,1735.0,133.0,2075.0,248.0,$1735,$2075,$1197
 2019,6037431600,Census Tract 4316,Arcadia,Los Angeles County,California,Arcadia,892.0,307.0,2016.0,892.0,2473.0,416.0,$2016,$2473,$892
-2019,6037431700,Census Tract 4317,Arcadia,Los Angeles County,California,Arcadia,,,1180.0,277.0,1988.0,807.0,$1180,$1988,Not Available!
+2019,6037431700,Census Tract 4317,Arcadia,Los Angeles County,California,Arcadia,,,1180.0,277.0,1988.0,807.0,$1180,$1988,
 2019,6037431800,Census Tract 4318,Arcadia,Los Angeles County,California,Arcadia,1237.0,192.0,1607.0,160.0,1930.0,157.0,$1607,$1930,$1237
 2019,6037431900,Census Tract 4319,Arcadia,Los Angeles County,California,Arcadia,1087.0,156.0,1388.0,88.0,1848.0,243.0,$1388,$1848,$1087
 2019,6037432500,Census Tract 4325,Arcadia,Los Angeles County,California,Arcadia,960.0,105.0,1300.0,98.0,1465.0,85.0,$1300,$1465,$960
@@ -212,7 +212,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037431400,Census Tract 4314,Arcadia,Los Angeles County,California,Arcadia,910.0,344.0,1099.0,322.0,2186.0,382.0,$1099,$2186,$910
 2020,6037431502,Census Tract 4315.02,Arcadia,Los Angeles County,California,Arcadia,1195.0,350.0,1805.0,210.0,2340.0,336.0,$1805,$2340,$1195
 2020,6037431600,Census Tract 4316,Arcadia,Los Angeles County,California,Arcadia,993.0,215.0,1435.0,629.0,2274.0,328.0,$1435,$2274,$993
-2020,6037431701,Census Tract 4317.01,Arcadia,Los Angeles County,California,Arcadia,,,,,3028.0,1724.0,Not Available!,$3028,Not Available!
+2020,6037431701,Census Tract 4317.01,Arcadia,Los Angeles County,California,Arcadia,,,,,3028.0,1724.0,,$3028,
 2020,6037431800,Census Tract 4318,Arcadia,Los Angeles County,California,Arcadia,1399.0,248.0,1710.0,109.0,1968.0,194.0,$1710,$1968,$1399
 2020,6037432502,Census Tract 4325.02,Arcadia,Los Angeles County,California,Arcadia,1012.0,342.0,1275.0,182.0,1467.0,224.0,$1275,$1467,$1012
 2021,6037430400,Census Tract 4304,Arcadia,Los Angeles County,California,Arcadia,1324.0,560.0,1736.0,924.0,2648.0,591.0,$1736,$2648,$1324
@@ -230,7 +230,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037431600,Census Tract 4316,Arcadia,Los Angeles County,California,Arcadia,1067.0,371.0,1982.0,972.0,2766.0,322.0,$1982,$2766,$1067
 2021,6037431701,Census Tract 4317.01,Arcadia,Los Angeles County,California,Arcadia,1053.0,628.0,1637.0,805.0,2848.0,1172.0,$1637,$2848,$1053
 2021,6037431800,Census Tract 4318,Arcadia,Los Angeles County,California,Arcadia,1434.0,226.0,1724.0,132.0,1984.0,272.0,$1724,$1984,$1434
-2021,6037432502,Census Tract 4325.02,Arcadia,Los Angeles County,California,Arcadia,,,1135.0,123.0,1377.0,421.0,$1135,$1377,Not Available!
+2021,6037432502,Census Tract 4325.02,Arcadia,Los Angeles County,California,Arcadia,,,1135.0,123.0,1377.0,421.0,$1135,$1377,
 2022,6037430400,Census Tract 4304,Arcadia,Los Angeles County,California,Arcadia,1207.0,708.0,1977.0,583.0,2694.0,760.0,$1977,$2694,$1207
 2022,6037430600,Census Tract 4306,Arcadia,Los Angeles County,California,Arcadia,2174.0,1077.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2174
 2022,6037430701,Census Tract 4307.01,Arcadia,Los Angeles County,California,Arcadia,1562.0,105.0,1860.0,139.0,2394.0,601.0,$1860,$2394,$1562

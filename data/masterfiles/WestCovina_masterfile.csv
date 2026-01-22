@@ -175,7 +175,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037406300,Census Tract 4063,West Covina,Los Angeles County,California,WestCovina,1215.0,134.0,1487.0,209.0,1957.0,557.0,$1487,$1957,$1215
 2015,6037406402,Census Tract 4064.02,West Covina,Los Angeles County,California,WestCovina,1893.0,699.0,2152.0,158.0,2326.0,79.0,$2152,$2326,$1893
 2015,6037406411,Census Tract 4064.11,West Covina,Los Angeles County,California,WestCovina,1075.0,156.0,1288.0,196.0,1514.0,287.0,$1288,$1514,$1075
-2015,6037406412,Census Tract 4064.12,West Covina,Los Angeles County,California,WestCovina,902.0,366.0,957.0,42.0,,,$957,Not Available!,$902
+2015,6037406412,Census Tract 4064.12,West Covina,Los Angeles County,California,WestCovina,902.0,366.0,957.0,42.0,,,$957,,$902
 2015,6037406500,Census Tract 4065,West Covina,Los Angeles County,California,WestCovina,1021.0,166.0,1278.0,162.0,1659.0,177.0,$1278,$1659,$1021
 2015,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,1122.0,591.0,1826.0,401.0,2191.0,234.0,$1826,$2191,$1122
 2015,6037406602,Census Tract 4066.02,West Covina,Los Angeles County,California,WestCovina,1066.0,74.0,1241.0,271.0,1689.0,139.0,$1241,$1689,$1066
@@ -276,7 +276,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037406411,Census Tract 4064.11,West Covina,Los Angeles County,California,WestCovina,1294.0,206.0,1590.0,211.0,1866.0,167.0,$1590,$1866,$1294
 2018,6037406412,Census Tract 4064.12,West Covina,Los Angeles County,California,WestCovina,935.0,18.0,979.0,39.0,1171.0,552.0,$979,$1171,$935
 2018,6037406500,Census Tract 4065,West Covina,Los Angeles County,California,WestCovina,1102.0,201.0,1504.0,181.0,1863.0,130.0,$1504,$1863,$1102
-2018,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,1411.0,882.0,2517.0,1283.0,$1411,$2517,Not Available!
+2018,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,1411.0,882.0,2517.0,1283.0,$1411,$2517,
 2018,6037406602,Census Tract 4066.02,West Covina,Los Angeles County,California,WestCovina,1014.0,179.0,1356.0,264.0,1893.0,354.0,$1356,$1893,$1014
 2018,6037406701,Census Tract 4067.01,West Covina,Los Angeles County,California,WestCovina,1259.0,122.0,1453.0,119.0,1750.0,128.0,$1453,$1750,$1259
 2018,6037406702,Census Tract 4067.02,West Covina,Los Angeles County,California,WestCovina,1165.0,127.0,1566.0,90.0,1828.0,50.0,$1566,$1828,$1165
@@ -309,7 +309,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037406411,Census Tract 4064.11,West Covina,Los Angeles County,California,WestCovina,1506.0,535.0,1794.0,190.0,2128.0,285.0,$1794,$2128,$1506
 2019,6037406412,Census Tract 4064.12,West Covina,Los Angeles County,California,WestCovina,1007.0,82.0,1112.0,69.0,1217.0,124.0,$1112,$1217,$1007
 2019,6037406500,Census Tract 4065,West Covina,Los Angeles County,California,WestCovina,1048.0,202.0,1455.0,214.0,1878.0,150.0,$1455,$1878,$1048
-2019,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,1403.0,591.0,2170.0,843.0,$1403,$2170,Not Available!
+2019,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,1403.0,591.0,2170.0,843.0,$1403,$2170,
 2019,6037406602,Census Tract 4066.02,West Covina,Los Angeles County,California,WestCovina,945.0,149.0,1295.0,281.0,1825.0,371.0,$1295,$1825,$945
 2019,6037406701,Census Tract 4067.01,West Covina,Los Angeles County,California,WestCovina,1340.0,117.0,1649.0,130.0,1978.0,140.0,$1649,$1978,$1340
 2019,6037406702,Census Tract 4067.02,West Covina,Los Angeles County,California,WestCovina,1485.0,175.0,1733.0,75.0,1971.0,99.0,$1733,$1971,$1485
@@ -340,7 +340,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037406300,Census Tract 4063,West Covina,Los Angeles County,California,WestCovina,1597.0,76.0,1784.0,58.0,1971.0,91.0,$1784,$1971,$1597
 2020,6037406413,Census Tract 4064.13,West Covina,Los Angeles County,California,WestCovina,1127.0,76.0,1362.0,165.0,1938.0,322.0,$1362,$1938,$1127
 2020,6037406500,Census Tract 4065,West Covina,Los Angeles County,California,WestCovina,1100.0,146.0,1558.0,335.0,1940.0,168.0,$1558,$1940,$1100
-2020,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,1975.0,875.0,2248.0,149.0,$1975,$2248,Not Available!
+2020,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,1975.0,875.0,2248.0,149.0,$1975,$2248,
 2020,6037406602,Census Tract 4066.02,West Covina,Los Angeles County,California,WestCovina,1069.0,281.0,1431.0,497.0,2071.0,262.0,$1431,$2071,$1069
 2020,6037406701,Census Tract 4067.01,West Covina,Los Angeles County,California,WestCovina,1469.0,232.0,1843.0,183.0,2253.0,187.0,$1843,$2253,$1469
 2020,6037406702,Census Tract 4067.02,West Covina,Los Angeles County,California,WestCovina,1546.0,85.0,1817.0,88.0,2182.0,186.0,$1817,$2182,$1546
@@ -370,7 +370,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037406300,Census Tract 4063,West Covina,Los Angeles County,California,WestCovina,1665.0,32.0,1830.0,64.0,1995.0,190.0,$1830,$1995,$1665
 2021,6037406413,Census Tract 4064.13,West Covina,Los Angeles County,California,WestCovina,1265.0,106.0,1442.0,127.0,2047.0,378.0,$1442,$2047,$1265
 2021,6037406500,Census Tract 4065,West Covina,Los Angeles County,California,WestCovina,1241.0,250.0,1577.0,313.0,2168.0,486.0,$1577,$2168,$1241
-2021,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,1978.0,648.0,2271.0,147.0,$1978,$2271,Not Available!
+2021,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,1978.0,648.0,2271.0,147.0,$1978,$2271,
 2021,6037406602,Census Tract 4066.02,West Covina,Los Angeles County,California,WestCovina,1277.0,200.0,1576.0,559.0,2187.0,177.0,$1576,$2187,$1277
 2021,6037406701,Census Tract 4067.01,West Covina,Los Angeles County,California,WestCovina,1699.0,159.0,2106.0,156.0,2429.0,161.0,$2106,$2429,$1699
 2021,6037406702,Census Tract 4067.02,West Covina,Los Angeles County,California,WestCovina,1678.0,90.0,2047.0,102.0,2353.0,67.0,$2047,$2353,$1678
@@ -390,7 +390,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037408137,Census Tract 4081.37,West Covina,Los Angeles County,California,WestCovina,1577.0,48.0,1785.0,55.0,1993.0,134.0,$1785,$1993,$1577
 2021,6037408141,Census Tract 4081.41,West Covina,Los Angeles County,California,WestCovina,850.0,456.0,1397.0,493.0,1865.0,654.0,$1397,$1865,$850
 2022,6037403500,Census Tract 4035,West Covina,Los Angeles County,California,WestCovina,1943.0,369.0,2375.0,374.0,2733.0,187.0,$2375,$2733,$1943
-2022,6037403601,Census Tract 4036.01,West Covina,Los Angeles County,California,WestCovina,,,1905.0,468.0,2253.0,214.0,$1905,$2253,Not Available!
+2022,6037403601,Census Tract 4036.01,West Covina,Los Angeles County,California,WestCovina,,,1905.0,468.0,2253.0,214.0,$1905,$2253,
 2022,6037405301,Census Tract 4053.01,West Covina,Los Angeles County,California,WestCovina,1374.0,98.0,1613.0,98.0,1846.0,69.0,$1613,$1846,$1374
 2022,6037405302,Census Tract 4053.02,West Covina,Los Angeles County,California,WestCovina,1484.0,119.0,1747.0,89.0,2019.0,238.0,$1747,$2019,$1484
 2022,6037405400,Census Tract 4054,West Covina,Los Angeles County,California,WestCovina,1308.0,178.0,1470.0,304.0,1779.0,282.0,$1470,$1779,$1308
@@ -400,7 +400,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037406300,Census Tract 4063,West Covina,Los Angeles County,California,WestCovina,1559.0,827.0,1786.0,90.0,2043.0,268.0,$1786,$2043,$1559
 2022,6037406413,Census Tract 4064.13,West Covina,Los Angeles County,California,WestCovina,1418.0,117.0,1945.0,499.0,2625.0,330.0,$1945,$2625,$1418
 2022,6037406500,Census Tract 4065,West Covina,Los Angeles County,California,WestCovina,1521.0,313.0,1938.0,276.0,2556.0,268.0,$1938,$2556,$1521
-2022,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,2185.0,159.0,2417.0,119.0,$2185,$2417,Not Available!
+2022,6037406601,Census Tract 4066.01,West Covina,Los Angeles County,California,WestCovina,,,2185.0,159.0,2417.0,119.0,$2185,$2417,
 2022,6037406602,Census Tract 4066.02,West Covina,Los Angeles County,California,WestCovina,1147.0,230.0,1399.0,176.0,2096.0,459.0,$1399,$2096,$1147
 2022,6037406701,Census Tract 4067.01,West Covina,Los Angeles County,California,WestCovina,1790.0,157.0,2244.0,267.0,2681.0,157.0,$2244,$2681,$1790
 2022,6037406702,Census Tract 4067.02,West Covina,Los Angeles County,California,WestCovina,1829.0,139.0,2161.0,79.0,2416.0,79.0,$2161,$2416,$1829
@@ -418,7 +418,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037408135,Census Tract 4081.35,West Covina,Los Angeles County,California,WestCovina,1696.0,105.0,1964.0,218.0,2327.0,217.0,$1964,$2327,$1696
 2022,6037408136,Census Tract 4081.36,West Covina,Los Angeles County,California,WestCovina,2508.0,2370.0,2672.0,119.0,2836.0,60.0,$2672,$2836,$2508
 2022,6037408137,Census Tract 4081.37,West Covina,Los Angeles County,California,WestCovina,1702.0,91.0,2036.0,120.0,2275.0,60.0,$2036,$2275,$1702
-2022,6037408141,Census Tract 4081.41,West Covina,Los Angeles County,California,WestCovina,,,1741.0,220.0,2107.0,892.0,$1741,$2107,Not Available!
+2022,6037408141,Census Tract 4081.41,West Covina,Los Angeles County,California,WestCovina,,,1741.0,220.0,2107.0,892.0,$1741,$2107,
 2023,6037403500,Census Tract 4035,West Covina,Los Angeles County,California,WestCovina,1639.0,602.0,2219.0,897.0,3015.0,475.0,$2219,$3015,$1639
 2023,6037403601,Census Tract 4036.01,West Covina,Los Angeles County,California,WestCovina,970.0,471.0,1882.0,1200.0,2270.0,345.0,$1882,$2270,$970
 2023,6037405301,Census Tract 4053.01,West Covina,Los Angeles County,California,WestCovina,1439.0,178.0,1684.0,85.0,1899.0,78.0,$1684,$1899,$1439

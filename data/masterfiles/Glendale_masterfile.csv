@@ -17,7 +17,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037301204,Census Tract 3012.04,Glendale,Los Angeles County,California,Glendale,1067.0,91.0,1415.0,120.0,1940.0,193.0,$1415,$1940,$1067
 2010,6037301205,Census Tract 3012.05,Glendale,Los Angeles County,California,Glendale,1024.0,482.0,1524.0,759.0,1762.0,274.0,$1524,$1762,$1024
 2010,6037301206,Census Tract 3012.06,Glendale,Los Angeles County,California,Glendale,1089.0,116.0,1367.0,108.0,1664.0,156.0,$1367,$1664,$1089
-2010,6037301300,Census Tract 3013,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037301300,Census Tract 3013,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2010,6037301400,Census Tract 3014,Glendale,Los Angeles County,California,Glendale,899.0,200.0,1147.0,554.0,1813.0,479.0,$1147,$1813,$899
 2010,6037301501,Census Tract 3015.01,Glendale,Los Angeles County,California,Glendale,795.0,145.0,1000.0,552.0,1490.0,611.0,$1000,$1490,$795
 2010,6037301502,Census Tract 3015.02,Glendale,Los Angeles County,California,Glendale,983.0,51.0,1301.0,39.0,1455.0,34.0,$1301,$1455,$983
@@ -44,7 +44,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,903.0,90.0,1033.0,67.0,1201.0,63.0,$1033,$1201,$903
 2010,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,807.0,128.0,1017.0,129.0,1344.0,120.0,$1017,$1344,$807
 2010,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
-2010,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2011,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,959.0,266.0,1221.0,185.0,1591.0,296.0,$1221,$1591,$959
 2011,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,899.0,99.0,1140.0,87.0,1471.0,161.0,$1140,$1471,$899
 2011,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1659.0,159.0,1946.0,225.0,2001.0,,$1946,Not available. Exceeds $2000!,$1659
@@ -90,7 +90,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,851.0,123.0,1058.0,71.0,1234.0,69.0,$1058,$1234,$851
 2011,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,879.0,76.0,1143.0,276.0,1448.0,129.0,$1143,$1448,$879
 2011,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
-2011,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2012,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,918.0,433.0,1330.0,188.0,1690.0,219.0,$1330,$1690,$918
 2012,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,985.0,97.0,1250.0,81.0,1556.0,181.0,$1250,$1556,$985
 2012,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1637.0,256.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1637
@@ -136,7 +136,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,932.0,45.0,1111.0,62.0,1326.0,88.0,$1111,$1326,$932
 2012,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,870.0,77.0,1130.0,112.0,1432.0,136.0,$1130,$1432,$870
 2012,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,1809.0,430.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1809
-2012,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2013,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,798.0,430.0,1375.0,295.0,1786.0,303.0,$1375,$1786,$798
 2013,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,964.0,82.0,1187.0,79.0,1450.0,106.0,$1187,$1450,$964
 2013,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1630.0,165.0,1917.0,220.0,2001.0,,$1917,Not available. Exceeds $2000!,$1630
@@ -182,7 +182,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,924.0,49.0,1123.0,71.0,1351.0,70.0,$1123,$1351,$924
 2013,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,888.0,64.0,1054.0,94.0,1343.0,156.0,$1054,$1343,$888
 2013,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,1825.0,311.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1825
-2013,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2014,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,780.0,317.0,1206.0,412.0,1486.0,292.0,$1206,$1486,$780
 2014,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,931.0,95.0,1199.0,101.0,1460.0,88.0,$1199,$1460,$931
 2014,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1549.0,192.0,1831.0,212.0,2001.0,,$1831,Not available. Exceeds $2000!,$1549
@@ -228,7 +228,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,943.0,36.0,1119.0,48.0,1334.0,62.0,$1119,$1334,$943
 2014,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,915.0,64.0,1086.0,71.0,1331.0,161.0,$1086,$1331,$915
 2014,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,1725.0,368.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1725
-2014,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2015,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,615.0,332.0,952.0,317.0,1402.0,203.0,$952,$1402,$615
 2015,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,953.0,112.0,1233.0,109.0,1488.0,126.0,$1233,$1488,$953
 2015,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1558.0,159.0,1800.0,153.0,2740.0,1306.0,$1800,$2740,$1558
@@ -237,7 +237,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037300502,Census Tract 3005.02,Glendale,Los Angeles County,California,Glendale,1057.0,66.0,1273.0,88.0,1645.0,264.0,$1273,$1645,$1057
 2015,6037300600,Census Tract 3006,Glendale,Los Angeles County,California,Glendale,1018.0,60.0,1249.0,78.0,1600.0,154.0,$1249,$1600,$1018
 2015,6037300701,Census Tract 3007.01,Glendale,Los Angeles County,California,Glendale,1205.0,169.0,1419.0,586.0,2581.0,1262.0,$1419,$2581,$1205
-2015,6037300702,Census Tract 3007.02,Glendale,Los Angeles County,California,Glendale,,,1690.0,649.0,2269.0,971.0,$1690,$2269,Not Available!
+2015,6037300702,Census Tract 3007.02,Glendale,Los Angeles County,California,Glendale,,,1690.0,649.0,2269.0,971.0,$1690,$2269,
 2015,6037300800,Census Tract 3008,Glendale,Los Angeles County,California,Glendale,1070.0,92.0,1324.0,104.0,1769.0,385.0,$1324,$1769,$1070
 2015,6037300901,Census Tract 3009.01,Glendale,Los Angeles County,California,Glendale,930.0,428.0,1612.0,1343.0,2285.0,592.0,$1612,$2285,$930
 2015,6037300902,Census Tract 3009.02,Glendale,Los Angeles County,California,Glendale,2595.0,527.0,2810.0,172.0,3100.0,598.0,$2810,$3100,$2595
@@ -274,7 +274,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,941.0,39.0,1111.0,55.0,1313.0,74.0,$1111,$1313,$941
 2015,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,947.0,45.0,1129.0,63.0,1466.0,225.0,$1129,$1466,$947
 2015,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,1653.0,613.0,2560.0,730.0,2910.0,297.0,$2560,$2910,$1653
-2015,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2016,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,784.0,221.0,991.0,417.0,1407.0,145.0,$991,$1407,$784
 2016,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,992.0,132.0,1313.0,80.0,1569.0,139.0,$1313,$1569,$992
 2016,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1504.0,162.0,1726.0,153.0,1948.0,737.0,$1726,$1948,$1504
@@ -320,7 +320,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,946.0,36.0,1105.0,42.0,1288.0,70.0,$1105,$1288,$946
 2016,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,972.0,57.0,1170.0,73.0,1511.0,379.0,$1170,$1511,$972
 2016,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,1659.0,414.0,2273.0,470.0,2783.0,238.0,$2273,$2783,$1659
-2016,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2017,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,846.0,124.0,1040.0,132.0,1260.0,208.0,$1040,$1260,$846
 2017,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,1064.0,137.0,1394.0,85.0,1744.0,95.0,$1394,$1744,$1064
 2017,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1509.0,250.0,1730.0,137.0,1951.0,362.0,$1730,$1951,$1509
@@ -366,7 +366,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,964.0,43.0,1140.0,50.0,1352.0,67.0,$1140,$1352,$964
 2017,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,1017.0,67.0,1199.0,71.0,1470.0,263.0,$1199,$1470,$1017
 2017,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,2035.0,502.0,2585.0,202.0,2818.0,90.0,$2585,$2818,$2035
-2017,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2018,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,901.0,134.0,1191.0,252.0,1855.0,429.0,$1191,$1855,$901
 2018,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,1211.0,132.0,1476.0,105.0,1876.0,113.0,$1476,$1876,$1211
 2018,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1557.0,196.0,1800.0,149.0,2321.0,785.0,$1800,$2321,$1557
@@ -375,7 +375,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037300502,Census Tract 3005.02,Glendale,Los Angeles County,California,Glendale,1215.0,80.0,1437.0,80.0,1868.0,170.0,$1437,$1868,$1215
 2018,6037300600,Census Tract 3006,Glendale,Los Angeles County,California,Glendale,1268.0,60.0,1472.0,63.0,1814.0,77.0,$1472,$1814,$1268
 2018,6037300701,Census Tract 3007.01,Glendale,Los Angeles County,California,Glendale,1346.0,235.0,1799.0,682.0,2697.0,884.0,$1799,$2697,$1346
-2018,6037300702,Census Tract 3007.02,Glendale,Los Angeles County,California,Glendale,,,2123.0,629.0,2885.0,936.0,$2123,$2885,Not Available!
+2018,6037300702,Census Tract 3007.02,Glendale,Los Angeles County,California,Glendale,,,2123.0,629.0,2885.0,936.0,$2123,$2885,
 2018,6037300800,Census Tract 3008,Glendale,Los Angeles County,California,Glendale,1321.0,114.0,1675.0,160.0,2083.0,199.0,$1675,$2083,$1321
 2018,6037300901,Census Tract 3009.01,Glendale,Los Angeles County,California,Glendale,1544.0,431.0,1757.0,155.0,1970.0,270.0,$1757,$1970,$1544
 2018,6037300902,Census Tract 3009.02,Glendale,Los Angeles County,California,Glendale,2519.0,1074.0,2692.0,207.0,2865.0,97.0,$2692,$2865,$2519
@@ -412,7 +412,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,1020.0,32.0,1177.0,34.0,1429.0,76.0,$1177,$1429,$1020
 2018,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,1063.0,64.0,1271.0,90.0,1553.0,279.0,$1271,$1553,$1063
 2018,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,2099.0,769.0,2607.0,212.0,2870.0,179.0,$2607,$2870,$2099
-2018,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2019,6037181000,Census Tract 1810,Glendale,Los Angeles County,California,Glendale,1003.0,158.0,1314.0,359.0,1961.0,770.0,$1314,$1961,$1003
 2019,6037188100,Census Tract 1881,Glendale,Los Angeles County,California,Glendale,1272.0,123.0,1613.0,115.0,1980.0,116.0,$1613,$1980,$1272
 2019,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1670.0,162.0,1975.0,705.0,2718.0,179.0,$1975,$2718,$1670
@@ -458,7 +458,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037302505,Census Tract 3025.05,Glendale,Los Angeles County,California,Glendale,1061.0,36.0,1231.0,44.0,1482.0,80.0,$1231,$1482,$1061
 2019,6037302506,Census Tract 3025.06,Glendale,Los Angeles County,California,Glendale,1170.0,120.0,1408.0,80.0,1802.0,186.0,$1408,$1802,$1170
 2019,6037460700,Census Tract 4607,Glendale,Los Angeles County,California,Glendale,1852.0,572.0,2292.0,446.0,2656.0,371.0,$2292,$2656,$1852
-2019,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037930101,Census Tract 9301.01,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
 2020,6037300301,Census Tract 3003.01,Glendale,Los Angeles County,California,Glendale,1716.0,299.0,2588.0,940.0,2906.0,285.0,$2588,$2906,$1716
 2020,6037300400,Census Tract 3004,Glendale,Los Angeles County,California,Glendale,1373.0,134.0,1971.0,616.0,2387.0,217.0,$1971,$2387,$1373
 2020,6037300601,Census Tract 3006.01,Glendale,Los Angeles County,California,Glendale,1501.0,104.0,1721.0,73.0,1942.0,73.0,$1721,$1942,$1501
@@ -474,7 +474,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037301204,Census Tract 3012.04,Glendale,Los Angeles County,California,Glendale,1451.0,137.0,1850.0,211.0,2462.0,324.0,$1850,$2462,$1451
 2020,6037301205,Census Tract 3012.05,Glendale,Los Angeles County,California,Glendale,1584.0,464.0,2138.0,851.0,3055.0,609.0,$2138,$3055,$1584
 2020,6037301206,Census Tract 3012.06,Glendale,Los Angeles County,California,Glendale,1312.0,179.0,1660.0,68.0,1900.0,51.0,$1660,$1900,$1312
-2020,6037301300,Census Tract 3013,Glendale,Los Angeles County,California,Glendale,1203.0,346.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1203
+2020,6037301300,Census Tract 3013,Glendale,Los Angeles County,California,Glendale,1203.0,346.0,,,3501.0,,,Not available. Exceeds $3500!,$1203
 2020,6037301400,Census Tract 3014,Glendale,Los Angeles County,California,Glendale,1419.0,208.0,2275.0,1728.0,3225.0,379.0,$2275,$3225,$1419
 2020,6037301501,Census Tract 3015.01,Glendale,Los Angeles County,California,Glendale,1348.0,955.0,2635.0,1075.0,3461.0,547.0,$2635,$3461,$1348
 2020,6037301502,Census Tract 3015.02,Glendale,Los Angeles County,California,Glendale,1231.0,83.0,1594.0,77.0,1880.0,60.0,$1594,$1880,$1231
@@ -505,7 +505,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037300400,Census Tract 3004,Glendale,Los Angeles County,California,Glendale,1487.0,307.0,2084.0,224.0,2418.0,200.0,$2084,$2418,$1487
 2021,6037300601,Census Tract 3006.01,Glendale,Los Angeles County,California,Glendale,1594.0,66.0,1827.0,70.0,2143.0,188.0,$1827,$2143,$1594
 2021,6037300602,Census Tract 3006.02,Glendale,Los Angeles County,California,Glendale,1236.0,155.0,1430.0,118.0,2019.0,624.0,$1430,$2019,$1236
-2021,6037300701,Census Tract 3007.01,Glendale,Los Angeles County,California,Glendale,1734.0,152.0,,,3501.0,,Not Available!,Not available. Exceeds $3500!,$1734
+2021,6037300701,Census Tract 3007.01,Glendale,Los Angeles County,California,Glendale,1734.0,152.0,,,3501.0,,,Not available. Exceeds $3500!,$1734
 2021,6037300702,Census Tract 3007.02,Glendale,Los Angeles County,California,Glendale,1777.0,658.0,2530.0,995.0,3159.0,741.0,$2530,$3159,$1777
 2021,6037300800,Census Tract 3008,Glendale,Los Angeles County,California,Glendale,1600.0,64.0,1822.0,83.0,2192.0,398.0,$1822,$2192,$1600
 2021,6037300901,Census Tract 3009.01,Glendale,Los Angeles County,California,Glendale,1501.0,563.0,1770.0,262.0,2090.0,395.0,$1770,$2090,$1501
@@ -600,8 +600,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037301204,Census Tract 3012.04,Glendale,Los Angeles County,California,Glendale,1754.0,93.0,2161.0,195.0,2723.0,243.0,$2161,$2723,$1754
 2023,6037301205,Census Tract 3012.05,Glendale,Los Angeles County,California,Glendale,1848.0,573.0,2420.0,823.0,3501.0,,$2420,Not available. Exceeds $3500!,$1848
 2023,6037301206,Census Tract 3012.06,Glendale,Los Angeles County,California,Glendale,1608.0,122.0,2014.0,144.0,2318.0,70.0,$2014,$2318,$1608
-2023,6037301300,Census Tract 3013,Glendale,Los Angeles County,California,Glendale,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037301400,Census Tract 3014,Glendale,Los Angeles County,California,Glendale,,,3077.0,1730.0,3366.0,275.0,$3077,$3366,Not Available!
+2023,6037301300,Census Tract 3013,Glendale,Los Angeles County,California,Glendale,,,,,,,,,
+2023,6037301400,Census Tract 3014,Glendale,Los Angeles County,California,Glendale,,,3077.0,1730.0,3366.0,275.0,$3077,$3366,
 2023,6037301501,Census Tract 3015.01,Glendale,Los Angeles County,California,Glendale,1732.0,180.0,2208.0,1433.0,3501.0,,$2208,Not available. Exceeds $3500!,$1732
 2023,6037301502,Census Tract 3015.02,Glendale,Los Angeles County,California,Glendale,1562.0,165.0,2084.0,82.0,2357.0,54.0,$2084,$2357,$1562
 2023,6037301601,Census Tract 3016.01,Glendale,Los Angeles County,California,Glendale,1295.0,231.0,1743.0,109.0,2125.0,128.0,$1743,$2125,$1295

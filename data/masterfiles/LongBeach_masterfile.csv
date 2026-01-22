@@ -66,9 +66,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,890.0,187.0,1114.0,144.0,1418.0,367.0,$1114,$1418,$890
 2010,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1537.0,255.0,1949.0,313.0,2001.0,,$1949,Not available. Exceeds $2000!,$1537
 2010,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1152.0,206.0,1443.0,446.0,1933.0,548.0,$1443,$1933,$1152
-2010,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2010,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,1503.0,753.0,1770.0,393.0,2001.0,,$1770,Not available. Exceeds $2000!,$1503
-2010,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2010,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,856.0,20.0,944.0,104.0,1182.0,138.0,$944,$1182,$856
 2010,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1049.0,236.0,1438.0,198.0,1987.0,360.0,$1438,$1987,$1049
 2010,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1157.0,74.0,1370.0,47.0,1624.0,123.0,$1370,$1624,$1157
@@ -82,7 +82,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,661.0,31.0,792.0,33.0,955.0,83.0,$792,$955,$661
 2010,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,717.0,28.0,801.0,40.0,949.0,99.0,$801,$949,$717
 2010,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,569.0,171.0,753.0,71.0,953.0,113.0,$753,$953,$569
-2010,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2010,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,684.0,45.0,815.0,44.0,973.0,195.0,$815,$973,$684
 2010,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,674.0,84.0,840.0,33.0,1049.0,120.0,$840,$1049,$674
 2010,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,471.0,126.0,678.0,63.0,933.0,169.0,$678,$933,$471
@@ -116,11 +116,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1123.0,133.0,1378.0,181.0,1737.0,197.0,$1378,$1737,$1123
 2010,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1064.0,108.0,1386.0,180.0,2001.0,,$1386,Not available. Exceeds $2000!,$1064
 2010,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1298.0,168.0,1449.0,525.0,2001.0,,$1449,Not available. Exceeds $2000!,$1298
-2010,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2010,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2010,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2010,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2010,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2010,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2010,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2010,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2010,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2011,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,729.0,346.0,795.0,255.0,1098.0,419.0,$795,$1098,$729
 2011,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,443.0,881.0,1022.0,359.0,1136.0,97.0,$1022,$1136,$443
 2011,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,782.0,360.0,967.0,108.0,1129.0,84.0,$967,$1129,$782
@@ -188,9 +188,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,1065.0,184.0,1240.0,254.0,1772.0,468.0,$1240,$1772,$1065
 2011,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1617.0,252.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1617
 2011,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1276.0,267.0,1608.0,612.0,2001.0,,$1608,Not available. Exceeds $2000!,$1276
-2011,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2011,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,1181.0,493.0,1618.0,413.0,1809.0,113.0,$1618,$1809,$1181
-2011,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2011,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,866.0,27.0,1024.0,124.0,1398.0,426.0,$1024,$1398,$866
 2011,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1002.0,256.0,1440.0,280.0,2001.0,,$1440,Not available. Exceeds $2000!,$1002
 2011,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1202.0,77.0,1390.0,45.0,1644.0,117.0,$1390,$1644,$1202
@@ -204,7 +204,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,678.0,43.0,824.0,48.0,998.0,111.0,$824,$998,$678
 2011,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,716.0,31.0,797.0,38.0,988.0,92.0,$797,$988,$716
 2011,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,649.0,49.0,796.0,59.0,1006.0,112.0,$796,$1006,$649
-2011,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2011,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,680.0,27.0,824.0,28.0,994.0,154.0,$824,$994,$680
 2011,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,735.0,79.0,856.0,30.0,1039.0,110.0,$856,$1039,$735
 2011,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,423.0,150.0,677.0,32.0,936.0,111.0,$677,$936,$423
@@ -238,11 +238,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1317.0,137.0,1572.0,158.0,1832.0,103.0,$1572,$1832,$1317
 2011,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1125.0,72.0,1393.0,139.0,2001.0,,$1393,Not available. Exceeds $2000!,$1125
 2011,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1381.0,380.0,1705.0,315.0,2001.0,,$1705,Not available. Exceeds $2000!,$1381
-2011,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2011,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2011,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2011,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2011,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2011,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2011,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2011,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2011,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2012,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,775.0,123.0,898.0,391.0,1329.0,255.0,$898,$1329,$775
 2012,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,1028.0,248.0,1102.0,65.0,1176.0,33.0,$1102,$1176,$1028
 2012,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,815.0,585.0,958.0,83.0,1139.0,180.0,$958,$1139,$815
@@ -310,9 +310,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,914.0,196.0,1173.0,227.0,2001.0,,$1173,Not available. Exceeds $2000!,$914
 2012,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1603.0,165.0,1936.0,232.0,2001.0,,$1936,Not available. Exceeds $2000!,$1603
 2012,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1216.0,234.0,1411.0,384.0,2001.0,,$1411,Not available. Exceeds $2000!,$1216
-2012,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2012,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,1559.0,140.0,1755.0,118.0,1952.0,183.0,$1755,$1952,$1559
-2012,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2012,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,874.0,42.0,994.0,103.0,1248.0,337.0,$994,$1248,$874
 2012,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1155.0,240.0,1588.0,182.0,1918.0,183.0,$1588,$1918,$1155
 2012,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1213.0,78.0,1404.0,36.0,1674.0,73.0,$1404,$1674,$1213
@@ -326,7 +326,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,654.0,123.0,824.0,63.0,1017.0,95.0,$824,$1017,$654
 2012,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,737.0,41.0,857.0,31.0,1049.0,86.0,$857,$1049,$737
 2012,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,689.0,37.0,830.0,52.0,1044.0,95.0,$830,$1044,$689
-2012,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2012,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,675.0,31.0,816.0,39.0,936.0,95.0,$816,$936,$675
 2012,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,718.0,79.0,860.0,33.0,1079.0,111.0,$860,$1079,$718
 2012,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,452.0,282.0,734.0,104.0,953.0,78.0,$734,$953,$452
@@ -360,11 +360,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1502.0,113.0,1692.0,73.0,1882.0,66.0,$1692,$1882,$1502
 2012,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1123.0,60.0,1379.0,193.0,2001.0,,$1379,Not available. Exceeds $2000!,$1123
 2012,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1653.0,240.0,1958.0,326.0,2001.0,,$1958,Not available. Exceeds $2000!,$1653
-2012,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2012,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2012,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2012,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2012,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2012,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2012,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2012,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2012,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2013,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,826.0,385.0,1110.0,198.0,1632.0,281.0,$1110,$1632,$826
 2013,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,854.0,153.0,950.0,240.0,1114.0,159.0,$950,$1114,$854
 2013,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,798.0,418.0,1082.0,127.0,1500.0,603.0,$1082,$1500,$798
@@ -432,9 +432,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,877.0,230.0,1116.0,175.0,1522.0,983.0,$1116,$1522,$877
 2013,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1574.0,198.0,1944.0,221.0,2001.0,,$1944,Not available. Exceeds $2000!,$1574
 2013,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1227.0,474.0,1731.0,512.0,2001.0,,$1731,Not available. Exceeds $2000!,$1227
-2013,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2013,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,1611.0,132.0,1843.0,156.0,2001.0,,$1843,Not available. Exceeds $2000!,$1611
-2013,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2013,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,892.0,62.0,1041.0,107.0,1242.0,269.0,$1041,$1242,$892
 2013,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1137.0,350.0,1669.0,183.0,1971.0,262.0,$1669,$1971,$1137
 2013,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1173.0,75.0,1397.0,40.0,1670.0,69.0,$1397,$1670,$1173
@@ -448,7 +448,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,692.0,40.0,837.0,43.0,1067.0,80.0,$837,$1067,$692
 2013,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,760.0,48.0,869.0,27.0,1063.0,58.0,$869,$1063,$760
 2013,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,742.0,21.0,886.0,55.0,1119.0,60.0,$886,$1119,$742
-2013,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2013,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,709.0,41.0,795.0,32.0,890.0,57.0,$795,$890,$709
 2013,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,733.0,58.0,845.0,25.0,1003.0,127.0,$845,$1003,$733
 2013,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,312.0,98.0,694.0,67.0,964.0,126.0,$694,$964,$312
@@ -482,11 +482,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1531.0,70.0,1719.0,55.0,1906.0,71.0,$1719,$1906,$1531
 2013,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1136.0,59.0,1411.0,155.0,1929.0,215.0,$1411,$1929,$1136
 2013,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1699.0,185.0,1977.0,269.0,2001.0,,$1977,Not available. Exceeds $2000!,$1699
-2013,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2013,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2013,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2013,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2013,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2013,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2013,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2013,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2013,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2014,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,886.0,150.0,1132.0,100.0,1543.0,287.0,$1132,$1543,$886
 2014,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,924.0,98.0,1015.0,111.0,1133.0,85.0,$1015,$1133,$924
 2014,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,940.0,156.0,1105.0,106.0,1504.0,493.0,$1105,$1504,$940
@@ -554,9 +554,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,932.0,212.0,1181.0,193.0,2001.0,,$1181,Not available. Exceeds $2000!,$932
 2014,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1559.0,785.0,1954.0,245.0,2001.0,,$1954,Not available. Exceeds $2000!,$1559
 2014,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1596.0,552.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1596
-2014,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2014,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,1695.0,82.0,1934.0,159.0,2001.0,,$1934,Not available. Exceeds $2000!,$1695
-2014,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2014,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,938.0,44.0,1080.0,105.0,1331.0,203.0,$1080,$1331,$938
 2014,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1350.0,334.0,1675.0,110.0,1903.0,100.0,$1675,$1903,$1350
 2014,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1271.0,37.0,1447.0,50.0,1723.0,68.0,$1447,$1723,$1271
@@ -570,7 +570,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,653.0,141.0,824.0,36.0,972.0,77.0,$824,$972,$653
 2014,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,747.0,52.0,870.0,36.0,1046.0,73.0,$870,$1046,$747
 2014,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,761.0,45.0,894.0,55.0,1142.0,79.0,$894,$1142,$761
-2014,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2014,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,752.0,55.0,825.0,35.0,1034.0,112.0,$825,$1034,$752
 2014,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,733.0,36.0,841.0,25.0,1032.0,94.0,$841,$1032,$733
 2014,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,306.0,111.0,722.0,93.0,953.0,125.0,$722,$953,$306
@@ -604,16 +604,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1557.0,70.0,1742.0,59.0,1927.0,69.0,$1742,$1927,$1557
 2014,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1155.0,88.0,1451.0,146.0,1889.0,159.0,$1451,$1889,$1155
 2014,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1661.0,89.0,1871.0,168.0,2001.0,,$1871,Not available. Exceeds $2000!,$1661
-2014,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2014,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2014,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2014,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2014,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2014,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2014,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2014,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2014,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2015,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,848.0,63.0,1069.0,157.0,1536.0,328.0,$1069,$1536,$848
 2015,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,900.0,152.0,1000.0,174.0,1125.0,162.0,$1000,$1125,$900
 2015,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,902.0,193.0,1069.0,164.0,1574.0,582.0,$1069,$1574,$902
 2015,6037544002,Census Tract 5440.02,Long Beach,Los Angeles County,California,LongBeach,1099.0,211.0,1408.0,283.0,1765.0,197.0,$1408,$1765,$1099
-2015,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,,,2042.0,1957.0,2271.0,574.0,$2042,$2271,Not Available!
+2015,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,,,2042.0,1957.0,2271.0,574.0,$2042,$2271,
 2015,6037555211,Census Tract 5552.11,Long Beach,Los Angeles County,California,LongBeach,933.0,106.0,1128.0,72.0,1332.0,130.0,$1128,$1332,$933
 2015,6037570100,Census Tract 5701,Long Beach,Los Angeles County,California,LongBeach,1123.0,211.0,1381.0,158.0,1826.0,506.0,$1381,$1826,$1123
 2015,6037570202,Census Tract 5702.02,Long Beach,Los Angeles County,California,LongBeach,738.0,110.0,1081.0,123.0,1422.0,181.0,$1081,$1422,$738
@@ -649,7 +649,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037572202,Census Tract 5722.02,Long Beach,Los Angeles County,California,LongBeach,902.0,114.0,1175.0,131.0,1716.0,248.0,$1175,$1716,$902
 2015,6037572301,Census Tract 5723.01,Long Beach,Los Angeles County,California,LongBeach,877.0,138.0,1112.0,60.0,1282.0,168.0,$1112,$1282,$877
 2015,6037572302,Census Tract 5723.02,Long Beach,Los Angeles County,California,LongBeach,938.0,144.0,1140.0,88.0,1657.0,227.0,$1140,$1657,$938
-2015,6037572400,Census Tract 5724,Long Beach,Los Angeles County,California,LongBeach,,,1269.0,346.0,1438.0,188.0,$1269,$1438,Not Available!
+2015,6037572400,Census Tract 5724,Long Beach,Los Angeles County,California,LongBeach,,,1269.0,346.0,1438.0,188.0,$1269,$1438,
 2015,6037572500,Census Tract 5725,Long Beach,Los Angeles County,California,LongBeach,243.0,45.0,345.0,38.0,475.0,41.0,$345,$475,$243
 2015,6037572600,Census Tract 5726,Long Beach,Los Angeles County,California,LongBeach,956.0,322.0,1182.0,142.0,1438.0,360.0,$1182,$1438,$956
 2015,6037572700,Census Tract 5727,Long Beach,Los Angeles County,California,LongBeach,835.0,99.0,1030.0,101.0,1203.0,94.0,$1030,$1203,$835
@@ -669,16 +669,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037573700,Census Tract 5737,Long Beach,Los Angeles County,California,LongBeach,1587.0,320.0,2009.0,274.0,2425.0,235.0,$2009,$2425,$1587
 2015,6037573800,Census Tract 5738,Long Beach,Los Angeles County,California,LongBeach,1453.0,500.0,2091.0,255.0,2344.0,116.0,$2091,$2344,$1453
 2015,6037573902,Census Tract 5739.02,Long Beach,Los Angeles County,California,LongBeach,1026.0,218.0,1235.0,314.0,1993.0,740.0,$1235,$1993,$1026
-2015,6037574000,Census Tract 5740,Long Beach,Los Angeles County,California,LongBeach,,,2070.0,910.0,2469.0,352.0,$2070,$2469,Not Available!
+2015,6037574000,Census Tract 5740,Long Beach,Los Angeles County,California,LongBeach,,,2070.0,910.0,2469.0,352.0,$2070,$2469,
 2015,6037574100,Census Tract 5741,Long Beach,Los Angeles County,California,LongBeach,1524.0,244.0,2018.0,184.0,2321.0,105.0,$2018,$2321,$1524
 2015,6037574201,Census Tract 5742.01,Long Beach,Los Angeles County,California,LongBeach,1556.0,288.0,1772.0,107.0,1989.0,208.0,$1772,$1989,$1556
 2015,6037574202,Census Tract 5742.02,Long Beach,Los Angeles County,California,LongBeach,1020.0,220.0,1278.0,43.0,1416.0,27.0,$1278,$1416,$1020
 2015,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,972.0,147.0,1228.0,345.0,2194.0,243.0,$1228,$2194,$972
 2015,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1623.0,94.0,1890.0,150.0,2196.0,129.0,$1890,$2196,$1623
 2015,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1880.0,243.0,2220.0,217.0,2596.0,367.0,$2220,$2596,$1880
-2015,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2015,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,1678.0,102.0,1942.0,166.0,2316.0,216.0,$1942,$2316,$1678
-2015,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2015,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,974.0,59.0,1157.0,83.0,1418.0,153.0,$1157,$1418,$974
 2015,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1215.0,205.0,1551.0,160.0,1829.0,102.0,$1551,$1829,$1215
 2015,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1209.0,130.0,1416.0,43.0,1690.0,70.0,$1416,$1690,$1209
@@ -692,7 +692,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,500.0,217.0,787.0,71.0,966.0,70.0,$787,$966,$500
 2015,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,702.0,43.0,841.0,40.0,1031.0,78.0,$841,$1031,$702
 2015,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,752.0,33.0,885.0,31.0,1093.0,65.0,$885,$1093,$752
-2015,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,1764.0,854.0,Not Available!,$1764,Not Available!
+2015,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,,,,,1764.0,854.0,,$1764,
 2015,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,745.0,55.0,829.0,33.0,1021.0,99.0,$829,$1021,$745
 2015,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,730.0,53.0,848.0,26.0,1023.0,89.0,$848,$1023,$730
 2015,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,297.0,92.0,687.0,163.0,988.0,142.0,$687,$988,$297
@@ -726,16 +726,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1580.0,87.0,1793.0,87.0,2015.0,183.0,$1793,$2015,$1580
 2015,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1118.0,87.0,1374.0,96.0,1781.0,165.0,$1374,$1781,$1118
 2015,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1693.0,114.0,1930.0,215.0,2306.0,344.0,$1930,$2306,$1693
-2015,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2015,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2015,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2015,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2015,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2015,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2015,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2015,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2015,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2016,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,859.0,70.0,1114.0,225.0,1498.0,227.0,$1114,$1498,$859
 2016,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,851.0,74.0,917.0,239.0,1114.0,167.0,$917,$1114,$851
 2016,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,939.0,126.0,1168.0,214.0,1642.0,201.0,$1168,$1642,$939
 2016,6037544002,Census Tract 5440.02,Long Beach,Los Angeles County,California,LongBeach,1219.0,247.0,1555.0,230.0,1858.0,147.0,$1555,$1858,$1219
-2016,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,,,1170.0,1019.0,1836.0,672.0,$1170,$1836,Not Available!
+2016,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,,,1170.0,1019.0,1836.0,672.0,$1170,$1836,
 2016,6037555211,Census Tract 5552.11,Long Beach,Los Angeles County,California,LongBeach,943.0,107.0,1133.0,66.0,1319.0,92.0,$1133,$1319,$943
 2016,6037570100,Census Tract 5701,Long Beach,Los Angeles County,California,LongBeach,1083.0,315.0,1381.0,198.0,1908.0,742.0,$1381,$1908,$1083
 2016,6037570202,Census Tract 5702.02,Long Beach,Los Angeles County,California,LongBeach,746.0,189.0,1094.0,99.0,1359.0,139.0,$1094,$1359,$746
@@ -791,16 +791,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037573700,Census Tract 5737,Long Beach,Los Angeles County,California,LongBeach,1596.0,224.0,1919.0,226.0,2248.0,212.0,$1919,$2248,$1596
 2016,6037573800,Census Tract 5738,Long Beach,Los Angeles County,California,LongBeach,1403.0,366.0,1984.0,513.0,2347.0,250.0,$1984,$2347,$1403
 2016,6037573902,Census Tract 5739.02,Long Beach,Los Angeles County,California,LongBeach,1015.0,269.0,1213.0,218.0,2297.0,1669.0,$1213,$2297,$1015
-2016,6037574000,Census Tract 5740,Long Beach,Los Angeles County,California,LongBeach,,,2040.0,372.0,2451.0,323.0,$2040,$2451,Not Available!
+2016,6037574000,Census Tract 5740,Long Beach,Los Angeles County,California,LongBeach,,,2040.0,372.0,2451.0,323.0,$2040,$2451,
 2016,6037574100,Census Tract 5741,Long Beach,Los Angeles County,California,LongBeach,1510.0,201.0,1888.0,186.0,2258.0,126.0,$1888,$2258,$1510
 2016,6037574201,Census Tract 5742.01,Long Beach,Los Angeles County,California,LongBeach,1217.0,591.0,1761.0,212.0,2086.0,267.0,$1761,$2086,$1217
 2016,6037574202,Census Tract 5742.02,Long Beach,Los Angeles County,California,LongBeach,1047.0,160.0,1308.0,49.0,1442.0,40.0,$1308,$1442,$1047
 2016,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,977.0,122.0,1430.0,758.0,2271.0,197.0,$1430,$2271,$977
 2016,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1643.0,256.0,1936.0,195.0,2478.0,253.0,$1936,$2478,$1643
 2016,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1817.0,241.0,2142.0,276.0,2479.0,357.0,$2142,$2479,$1817
-2016,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2016,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,1750.0,182.0,2115.0,152.0,2401.0,118.0,$2115,$2401,$1750
-2016,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2016,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,969.0,41.0,1139.0,75.0,1372.0,100.0,$1139,$1372,$969
 2016,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1234.0,249.0,1508.0,185.0,1862.0,166.0,$1508,$1862,$1234
 2016,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1270.0,73.0,1487.0,75.0,1782.0,57.0,$1487,$1782,$1270
@@ -814,7 +814,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,518.0,237.0,838.0,47.0,1042.0,84.0,$838,$1042,$518
 2016,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,695.0,88.0,867.0,41.0,1053.0,116.0,$867,$1053,$695
 2016,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,780.0,31.0,908.0,43.0,1115.0,54.0,$908,$1115,$780
-2016,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,481.0,54.0,516.0,60.0,,,$516,Not Available!,$481
+2016,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,481.0,54.0,516.0,60.0,,,$516,,$481
 2016,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,762.0,19.0,845.0,34.0,1039.0,89.0,$845,$1039,$762
 2016,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,756.0,42.0,852.0,23.0,999.0,73.0,$852,$999,$756
 2016,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,301.0,71.0,759.0,87.0,1021.0,125.0,$759,$1021,$301
@@ -848,16 +848,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1622.0,62.0,1824.0,67.0,2082.0,208.0,$1824,$2082,$1622
 2016,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1153.0,72.0,1405.0,88.0,1868.0,170.0,$1405,$1868,$1153
 2016,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1859.0,255.0,2199.0,198.0,2498.0,381.0,$2199,$2498,$1859
-2016,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2016,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2016,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2016,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2016,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2016,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2016,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2016,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2016,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2017,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,862.0,79.0,1073.0,191.0,1610.0,254.0,$1073,$1610,$862
 2017,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,906.0,75.0,967.0,113.0,1115.0,305.0,$967,$1115,$906
 2017,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,941.0,236.0,1301.0,355.0,1757.0,254.0,$1301,$1757,$941
 2017,6037544002,Census Tract 5440.02,Long Beach,Los Angeles County,California,LongBeach,1222.0,217.0,1551.0,189.0,1811.0,101.0,$1551,$1811,$1222
-2017,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,,,2107.0,1235.0,2674.0,684.0,$2107,$2674,Not Available!
+2017,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,,,2107.0,1235.0,2674.0,684.0,$2107,$2674,
 2017,6037555211,Census Tract 5552.11,Long Beach,Los Angeles County,California,LongBeach,956.0,97.0,1179.0,92.0,1380.0,67.0,$1179,$1380,$956
 2017,6037570100,Census Tract 5701,Long Beach,Los Angeles County,California,LongBeach,1331.0,235.0,1803.0,716.0,2523.0,403.0,$1803,$2523,$1331
 2017,6037570202,Census Tract 5702.02,Long Beach,Los Angeles County,California,LongBeach,983.0,241.0,1188.0,90.0,1389.0,85.0,$1188,$1389,$983
@@ -888,12 +888,12 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037571900,Census Tract 5719,Long Beach,Los Angeles County,California,LongBeach,918.0,105.0,1125.0,103.0,1365.0,121.0,$1125,$1365,$918
 2017,6037572001,Census Tract 5720.01,Long Beach,Los Angeles County,California,LongBeach,1032.0,99.0,1319.0,156.0,1827.0,272.0,$1319,$1827,$1032
 2017,6037572002,Census Tract 5720.02,Long Beach,Los Angeles County,California,LongBeach,1114.0,60.0,1424.0,138.0,2089.0,233.0,$1424,$2089,$1114
-2017,6037572100,Census Tract 5721,Long Beach,Los Angeles County,California,LongBeach,953.0,372.0,1063.0,176.0,,,$1063,Not Available!,$953
+2017,6037572100,Census Tract 5721,Long Beach,Los Angeles County,California,LongBeach,953.0,372.0,1063.0,176.0,,,$1063,,$953
 2017,6037572201,Census Tract 5722.01,Long Beach,Los Angeles County,California,LongBeach,742.0,320.0,1105.0,63.0,1422.0,369.0,$1105,$1422,$742
 2017,6037572202,Census Tract 5722.02,Long Beach,Los Angeles County,California,LongBeach,898.0,57.0,992.0,310.0,1469.0,540.0,$992,$1469,$898
 2017,6037572301,Census Tract 5723.01,Long Beach,Los Angeles County,California,LongBeach,1050.0,55.0,1211.0,67.0,1460.0,122.0,$1211,$1460,$1050
 2017,6037572302,Census Tract 5723.02,Long Beach,Los Angeles County,California,LongBeach,1066.0,89.0,1261.0,164.0,1629.0,190.0,$1261,$1629,$1066
-2017,6037572400,Census Tract 5724,Long Beach,Los Angeles County,California,LongBeach,,,1324.0,1171.0,1478.0,708.0,$1324,$1478,Not Available!
+2017,6037572400,Census Tract 5724,Long Beach,Los Angeles County,California,LongBeach,,,1324.0,1171.0,1478.0,708.0,$1324,$1478,
 2017,6037572500,Census Tract 5725,Long Beach,Los Angeles County,California,LongBeach,264.0,50.0,372.0,119.0,674.0,205.0,$372,$674,$264
 2017,6037572600,Census Tract 5726,Long Beach,Los Angeles County,California,LongBeach,1262.0,149.0,1423.0,146.0,1839.0,492.0,$1423,$1839,$1262
 2017,6037572700,Census Tract 5727,Long Beach,Los Angeles County,California,LongBeach,955.0,113.0,1101.0,62.0,1230.0,113.0,$1101,$1230,$955
@@ -920,9 +920,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,1057.0,134.0,1541.0,658.0,2243.0,245.0,$1541,$2243,$1057
 2017,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1696.0,210.0,2179.0,382.0,2664.0,135.0,$2179,$2664,$1696
 2017,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1964.0,547.0,2613.0,135.0,2842.0,84.0,$2613,$2842,$1964
-2017,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2017,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,1881.0,253.0,2194.0,119.0,2447.0,139.0,$2194,$2447,$1881
-2017,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2017,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,1022.0,75.0,1217.0,76.0,1472.0,166.0,$1217,$1472,$1022
 2017,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1120.0,153.0,1657.0,272.0,2160.0,202.0,$1657,$2160,$1120
 2017,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1331.0,56.0,1602.0,84.0,1904.0,72.0,$1602,$1904,$1331
@@ -936,7 +936,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,639.0,182.0,859.0,41.0,1070.0,91.0,$859,$1070,$639
 2017,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,756.0,69.0,900.0,41.0,1117.0,90.0,$900,$1117,$756
 2017,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,826.0,32.0,955.0,41.0,1158.0,52.0,$955,$1158,$826
-2017,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,481.0,53.0,516.0,463.0,,,$516,Not Available!,$481
+2017,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,481.0,53.0,516.0,463.0,,,$516,,$481
 2017,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,773.0,18.0,885.0,46.0,1107.0,95.0,$885,$1107,$773
 2017,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,779.0,46.0,874.0,22.0,1082.0,83.0,$874,$1082,$779
 2017,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,292.0,32.0,732.0,159.0,1025.0,97.0,$732,$1025,$292
@@ -970,11 +970,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1724.0,59.0,1967.0,116.0,2335.0,124.0,$1967,$2335,$1724
 2017,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1148.0,75.0,1412.0,124.0,1955.0,330.0,$1412,$1955,$1148
 2017,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1722.0,204.0,2065.0,401.0,2607.0,569.0,$2065,$2607,$1722
-2017,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2017,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2017,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2017,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2017,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2017,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2017,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2017,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2017,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2018,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,858.0,131.0,1031.0,210.0,1593.0,363.0,$1031,$1593,$858
 2018,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,1012.0,163.0,1100.0,66.0,1188.0,44.0,$1100,$1188,$1012
 2018,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,874.0,410.0,1394.0,143.0,1875.0,417.0,$1394,$1875,$874
@@ -1015,7 +1015,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037572202,Census Tract 5722.02,Long Beach,Los Angeles County,California,LongBeach,896.0,102.0,1141.0,211.0,2021.0,649.0,$1141,$2021,$896
 2018,6037572301,Census Tract 5723.01,Long Beach,Los Angeles County,California,LongBeach,1076.0,104.0,1314.0,64.0,1466.0,90.0,$1314,$1466,$1076
 2018,6037572302,Census Tract 5723.02,Long Beach,Los Angeles County,California,LongBeach,1072.0,69.0,1264.0,190.0,1686.0,143.0,$1264,$1686,$1072
-2018,6037572400,Census Tract 5724,Long Beach,Los Angeles County,California,LongBeach,518.0,368.0,,,1719.0,1632.0,Not Available!,$1719,$518
+2018,6037572400,Census Tract 5724,Long Beach,Los Angeles County,California,LongBeach,518.0,368.0,,,1719.0,1632.0,,$1719,$518
 2018,6037572500,Census Tract 5725,Long Beach,Los Angeles County,California,LongBeach,286.0,48.0,451.0,154.0,731.0,382.0,$451,$731,$286
 2018,6037572600,Census Tract 5726,Long Beach,Los Angeles County,California,LongBeach,1313.0,87.0,1449.0,114.0,1829.0,407.0,$1449,$1829,$1313
 2018,6037572700,Census Tract 5727,Long Beach,Los Angeles County,California,LongBeach,916.0,143.0,1101.0,65.0,1242.0,138.0,$1101,$1242,$916
@@ -1035,16 +1035,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037573700,Census Tract 5737,Long Beach,Los Angeles County,California,LongBeach,1609.0,174.0,1852.0,175.0,2250.0,496.0,$1852,$2250,$1609
 2018,6037573800,Census Tract 5738,Long Beach,Los Angeles County,California,LongBeach,1707.0,562.0,2153.0,258.0,2490.0,247.0,$2153,$2490,$1707
 2018,6037573902,Census Tract 5739.02,Long Beach,Los Angeles County,California,LongBeach,1113.0,382.0,1455.0,478.0,2842.0,821.0,$1455,$2842,$1113
-2018,6037574000,Census Tract 5740,Long Beach,Los Angeles County,California,LongBeach,,,2075.0,314.0,2385.0,262.0,$2075,$2385,Not Available!
+2018,6037574000,Census Tract 5740,Long Beach,Los Angeles County,California,LongBeach,,,2075.0,314.0,2385.0,262.0,$2075,$2385,
 2018,6037574100,Census Tract 5741,Long Beach,Los Angeles County,California,LongBeach,1714.0,133.0,2066.0,144.0,2323.0,87.0,$2066,$2323,$1714
 2018,6037574201,Census Tract 5742.01,Long Beach,Los Angeles County,California,LongBeach,1503.0,712.0,2012.0,333.0,2306.0,183.0,$2012,$2306,$1503
 2018,6037574202,Census Tract 5742.02,Long Beach,Los Angeles County,California,LongBeach,1277.0,66.0,1471.0,99.0,1763.0,95.0,$1471,$1763,$1277
 2018,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,1090.0,132.0,1669.0,632.0,2257.0,268.0,$1669,$2257,$1090
 2018,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1620.0,233.0,2107.0,363.0,2633.0,166.0,$2107,$2633,$1620
 2018,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1992.0,539.0,2621.0,129.0,2846.0,90.0,$2621,$2846,$1992
-2018,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2018,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,2058.0,107.0,2233.0,78.0,2408.0,78.0,$2233,$2408,$2058
-2018,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2018,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,1085.0,60.0,1272.0,84.0,1469.0,98.0,$1272,$1469,$1085
 2018,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1243.0,279.0,1798.0,287.0,2219.0,213.0,$1798,$2219,$1243
 2018,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1469.0,111.0,1752.0,72.0,2046.0,134.0,$1752,$2046,$1469
@@ -1058,7 +1058,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,491.0,238.0,900.0,65.0,1157.0,111.0,$900,$1157,$491
 2018,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,799.0,62.0,945.0,41.0,1197.0,87.0,$945,$1197,$799
 2018,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,913.0,23.0,996.0,37.0,1187.0,41.0,$996,$1187,$913
-2018,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,493.0,55.0,,,952.0,504.0,Not Available!,$952,$493
+2018,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,493.0,55.0,,,952.0,504.0,,$952,$493
 2018,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,795.0,38.0,965.0,70.0,1234.0,89.0,$965,$1234,$795
 2018,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,809.0,43.0,936.0,37.0,1173.0,77.0,$936,$1173,$809
 2018,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,332.0,101.0,830.0,82.0,1118.0,101.0,$830,$1118,$332
@@ -1092,11 +1092,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1736.0,70.0,2005.0,199.0,2480.0,161.0,$2005,$2480,$1736
 2018,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1153.0,86.0,1467.0,190.0,2369.0,598.0,$1467,$2369,$1153
 2018,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,1821.0,248.0,2203.0,327.0,2653.0,570.0,$2203,$2653,$1821
-2018,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2018,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2018,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2018,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2018,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2018,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2018,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2018,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2018,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2018,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2019,6037542402,Census Tract 5424.02,Long Beach,Los Angeles County,California,LongBeach,846.0,112.0,980.0,181.0,1660.0,305.0,$980,$1660,$846
 2019,6037543305,Census Tract 5433.05,Long Beach,Los Angeles County,California,LongBeach,1051.0,149.0,1178.0,200.0,1343.0,227.0,$1178,$1343,$1051
 2019,6037544001,Census Tract 5440.01,Long Beach,Los Angeles County,California,LongBeach,866.0,572.0,1428.0,239.0,2049.0,370.0,$1428,$2049,$866
@@ -1132,12 +1132,12 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037571900,Census Tract 5719,Long Beach,Los Angeles County,California,LongBeach,1086.0,74.0,1287.0,126.0,1632.0,235.0,$1287,$1632,$1086
 2019,6037572001,Census Tract 5720.01,Long Beach,Los Angeles County,California,LongBeach,1197.0,119.0,1455.0,118.0,1928.0,225.0,$1455,$1928,$1197
 2019,6037572002,Census Tract 5720.02,Long Beach,Los Angeles County,California,LongBeach,1084.0,37.0,1258.0,92.0,1769.0,423.0,$1258,$1769,$1084
-2019,6037572100,Census Tract 5721,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037572100,Census Tract 5721,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2019,6037572201,Census Tract 5722.01,Long Beach,Los Angeles County,California,LongBeach,531.0,215.0,1070.0,122.0,1414.0,163.0,$1070,$1414,$531
 2019,6037572202,Census Tract 5722.02,Long Beach,Los Angeles County,California,LongBeach,1112.0,135.0,1362.0,165.0,2083.0,627.0,$1362,$2083,$1112
 2019,6037572301,Census Tract 5723.01,Long Beach,Los Angeles County,California,LongBeach,1099.0,92.0,1321.0,71.0,1490.0,124.0,$1321,$1490,$1099
 2019,6037572302,Census Tract 5723.02,Long Beach,Los Angeles County,California,LongBeach,1097.0,77.0,1314.0,138.0,1647.0,164.0,$1314,$1647,$1097
-2019,6037572400,Census Tract 5724,Long Beach,Los Angeles County,California,LongBeach,519.0,368.0,,,,,Not Available!,Not Available!,$519
+2019,6037572400,Census Tract 5724,Long Beach,Los Angeles County,California,LongBeach,519.0,368.0,,,,,,,$519
 2019,6037572500,Census Tract 5725,Long Beach,Los Angeles County,California,LongBeach,270.0,54.0,471.0,46.0,719.0,228.0,$471,$719,$270
 2019,6037572600,Census Tract 5726,Long Beach,Los Angeles County,California,LongBeach,782.0,511.0,1376.0,157.0,1795.0,509.0,$1376,$1795,$782
 2019,6037572700,Census Tract 5727,Long Beach,Los Angeles County,California,LongBeach,896.0,162.0,1084.0,87.0,1241.0,186.0,$1084,$1241,$896
@@ -1164,9 +1164,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037574300,Census Tract 5743,Long Beach,Los Angeles County,California,LongBeach,1113.0,102.0,1561.0,254.0,1938.0,190.0,$1561,$1938,$1113
 2019,6037574400,Census Tract 5744,Long Beach,Los Angeles County,California,LongBeach,1742.0,296.0,2354.0,350.0,2742.0,136.0,$2354,$2742,$1742
 2019,6037574500,Census Tract 5745,Long Beach,Los Angeles County,California,LongBeach,1920.0,328.0,2490.0,380.0,2748.0,139.0,$2490,$2748,$1920
-2019,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037574601,Census Tract 5746.01,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2019,6037574602,Census Tract 5746.02,Long Beach,Los Angeles County,California,LongBeach,2157.0,141.0,2395.0,223.0,2679.0,241.0,$2395,$2679,$2157
-2019,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037574700,Census Tract 5747,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2019,6037574800,Census Tract 5748,Long Beach,Los Angeles County,California,LongBeach,1138.0,56.0,1305.0,72.0,1458.0,55.0,$1305,$1458,$1138
 2019,6037574901,Census Tract 5749.01,Long Beach,Los Angeles County,California,LongBeach,1252.0,314.0,1871.0,342.0,2272.0,177.0,$1871,$2272,$1252
 2019,6037574902,Census Tract 5749.02,Long Beach,Los Angeles County,California,LongBeach,1540.0,95.0,1817.0,76.0,2144.0,104.0,$1817,$2144,$1540
@@ -1180,7 +1180,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037575300,Census Tract 5753,Long Beach,Los Angeles County,California,LongBeach,568.0,310.0,958.0,55.0,1242.0,119.0,$958,$1242,$568
 2019,6037575401,Census Tract 5754.01,Long Beach,Los Angeles County,California,LongBeach,847.0,49.0,1010.0,102.0,1384.0,147.0,$1010,$1384,$847
 2019,6037575402,Census Tract 5754.02,Long Beach,Los Angeles County,California,LongBeach,935.0,30.0,1088.0,43.0,1277.0,71.0,$1088,$1277,$935
-2019,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,493.0,268.0,,,952.0,480.0,Not Available!,$952,$493
+2019,6037575500,Census Tract 5755,Long Beach,Los Angeles County,California,LongBeach,493.0,268.0,,,952.0,480.0,,$952,$493
 2019,6037575801,Census Tract 5758.01,Long Beach,Los Angeles County,California,LongBeach,841.0,49.0,1001.0,67.0,1244.0,69.0,$1001,$1244,$841
 2019,6037575802,Census Tract 5758.02,Long Beach,Los Angeles County,California,LongBeach,900.0,49.0,1057.0,84.0,1345.0,88.0,$1057,$1345,$900
 2019,6037575803,Census Tract 5758.03,Long Beach,Los Angeles County,California,LongBeach,340.0,94.0,805.0,190.0,1149.0,58.0,$805,$1149,$340
@@ -1214,14 +1214,14 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037577602,Census Tract 5776.02,Long Beach,Los Angeles County,California,LongBeach,1776.0,122.0,2133.0,216.0,2588.0,147.0,$2133,$2588,$1776
 2019,6037577603,Census Tract 5776.03,Long Beach,Los Angeles County,California,LongBeach,1149.0,83.0,1532.0,286.0,2573.0,518.0,$1532,$2573,$1149
 2019,6037577604,Census Tract 5776.04,Long Beach,Los Angeles County,California,LongBeach,2181.0,286.0,3049.0,796.0,3359.0,178.0,$3049,$3359,$2181
-2019,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2019,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2019,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2019,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2019,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2019,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2019,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2019,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2019,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2020,6037544002,Census Tract 5440.02,Long Beach,Los Angeles County,California,LongBeach,966.0,117.0,1253.0,261.0,1704.0,281.0,$1253,$1704,$966
 2020,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,2552.0,355.0,2854.0,459.0,3501.0,,$2854,Not available. Exceeds $3500!,$2552
-2020,6037570100,Census Tract 5701,Long Beach,Los Angeles County,California,LongBeach,,,1597.0,349.0,2030.0,514.0,$1597,$2030,Not Available!
+2020,6037570100,Census Tract 5701,Long Beach,Los Angeles County,California,LongBeach,,,1597.0,349.0,2030.0,514.0,$1597,$2030,
 2020,6037570202,Census Tract 5702.02,Long Beach,Los Angeles County,California,LongBeach,1043.0,322.0,1400.0,253.0,1725.0,146.0,$1400,$1725,$1043
 2020,6037570203,Census Tract 5702.03,Long Beach,Los Angeles County,California,LongBeach,1042.0,110.0,1313.0,136.0,1660.0,321.0,$1313,$1660,$1042
 2020,6037570204,Census Tract 5702.04,Long Beach,Los Angeles County,California,LongBeach,808.0,232.0,1162.0,109.0,1454.0,206.0,$1162,$1454,$808
@@ -1240,7 +1240,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037570603,Census Tract 5706.03,Long Beach,Los Angeles County,California,LongBeach,934.0,242.0,1322.0,114.0,1696.0,89.0,$1322,$1696,$934
 2020,6037571201,Census Tract 5712.01,Long Beach,Los Angeles County,California,LongBeach,1091.0,50.0,1224.0,102.0,1490.0,394.0,$1224,$1490,$1091
 2020,6037571202,Census Tract 5712.02,Long Beach,Los Angeles County,California,LongBeach,1108.0,85.0,1373.0,319.0,1728.0,132.0,$1373,$1728,$1108
-2020,6037571300,Census Tract 5713,Long Beach,Los Angeles County,California,LongBeach,,,2160.0,340.0,2430.0,322.0,$2160,$2430,Not Available!
+2020,6037571300,Census Tract 5713,Long Beach,Los Angeles County,California,LongBeach,,,2160.0,340.0,2430.0,322.0,$2160,$2430,
 2020,6037571502,Census Tract 5715.02,Long Beach,Los Angeles County,California,LongBeach,1147.0,72.0,1437.0,149.0,1806.0,123.0,$1437,$1806,$1147
 2020,6037571504,Census Tract 5715.04,Long Beach,Los Angeles County,California,LongBeach,1051.0,86.0,1302.0,98.0,1716.0,315.0,$1302,$1716,$1051
 2020,6037571505,Census Tract 5715.05,Long Beach,Los Angeles County,California,LongBeach,947.0,350.0,1337.0,160.0,1531.0,243.0,$1337,$1531,$947
@@ -1327,13 +1327,13 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037577700,Census Tract 5777,Long Beach,Los Angeles County,California,LongBeach,1104.0,72.0,1289.0,144.0,1564.0,212.0,$1289,$1564,$1104
 2020,6037577900,Census Tract 5779,Long Beach,Los Angeles County,California,LongBeach,1138.0,54.0,1351.0,88.0,1734.0,175.0,$1351,$1734,$1138
 2020,6037578000,Census Tract 5780,Long Beach,Los Angeles County,California,LongBeach,752.0,142.0,1042.0,71.0,1257.0,89.0,$1042,$1257,$752
-2020,6037578100,Census Tract 5781,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037980011,Census Tract 9800.11,Long Beach,Los Angeles County,California,LongBeach,,,921.0,815.0,977.0,318.0,$921,$977,Not Available!
-2020,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2020,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2020,6037578100,Census Tract 5781,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2020,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2020,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2020,6037980011,Census Tract 9800.11,Long Beach,Los Angeles County,California,LongBeach,,,921.0,815.0,977.0,318.0,$921,$977,
+2020,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2020,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2020,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2021,6037544002,Census Tract 5440.02,Long Beach,Los Angeles County,California,LongBeach,1043.0,140.0,1309.0,298.0,1778.0,215.0,$1309,$1778,$1043
 2021,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,2663.0,412.0,3117.0,893.0,3501.0,,$3117,Not available. Exceeds $3500!,$2663
 2021,6037570100,Census Tract 5701,Long Beach,Los Angeles County,California,LongBeach,1538.0,551.0,2000.0,313.0,2349.0,263.0,$2000,$2349,$1538
@@ -1442,13 +1442,13 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037577700,Census Tract 5777,Long Beach,Los Angeles County,California,LongBeach,1245.0,138.0,1420.0,81.0,1691.0,152.0,$1420,$1691,$1245
 2021,6037577900,Census Tract 5779,Long Beach,Los Angeles County,California,LongBeach,1233.0,108.0,1525.0,133.0,1882.0,97.0,$1525,$1882,$1233
 2021,6037578000,Census Tract 5780,Long Beach,Los Angeles County,California,LongBeach,920.0,159.0,1226.0,112.0,1507.0,125.0,$1226,$1507,$920
-2021,6037578100,Census Tract 5781,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037980011,Census Tract 9800.11,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2021,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2021,6037578100,Census Tract 5781,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2021,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2021,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2021,6037980011,Census Tract 9800.11,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2021,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2021,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2021,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2022,6037544002,Census Tract 5440.02,Long Beach,Los Angeles County,California,LongBeach,1120.0,202.0,1410.0,194.0,1864.0,301.0,$1410,$1864,$1120
 2022,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,2386.0,537.0,3159.0,1079.0,3501.0,,$3159,Not available. Exceeds $3500!,$2386
 2022,6037570100,Census Tract 5701,Long Beach,Los Angeles County,California,LongBeach,1622.0,673.0,1984.0,345.0,2244.0,230.0,$1984,$2244,$1622
@@ -1496,9 +1496,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037573202,Census Tract 5732.02,Long Beach,Los Angeles County,California,LongBeach,1210.0,139.0,1448.0,86.0,1813.0,122.0,$1448,$1813,$1210
 2022,6037573300,Census Tract 5733,Long Beach,Los Angeles County,California,LongBeach,1003.0,138.0,1357.0,148.0,1740.0,165.0,$1357,$1740,$1003
 2022,6037573601,Census Tract 5736.01,Long Beach,Los Angeles County,California,LongBeach,1780.0,338.0,2234.0,223.0,2661.0,320.0,$2234,$2661,$1780
-2022,6037573700,Census Tract 5737,Long Beach,Los Angeles County,California,LongBeach,,,2317.0,759.0,2936.0,604.0,$2317,$2936,Not Available!
+2022,6037573700,Census Tract 5737,Long Beach,Los Angeles County,California,LongBeach,,,2317.0,759.0,2936.0,604.0,$2317,$2936,
 2022,6037573800,Census Tract 5738,Long Beach,Los Angeles County,California,LongBeach,2574.0,139.0,2760.0,97.0,2946.0,166.0,$2760,$2946,$2574
-2022,6037573902,Census Tract 5739.02,Long Beach,Los Angeles County,California,LongBeach,1664.0,47.0,1829.0,92.0,,,$1829,Not Available!,$1664
+2022,6037573902,Census Tract 5739.02,Long Beach,Los Angeles County,California,LongBeach,1664.0,47.0,1829.0,92.0,,,$1829,,$1664
 2022,6037574000,Census Tract 5740,Long Beach,Los Angeles County,California,LongBeach,1826.0,448.0,2440.0,667.0,3277.0,828.0,$2440,$3277,$1826
 2022,6037574100,Census Tract 5741,Long Beach,Los Angeles County,California,LongBeach,2185.0,129.0,2458.0,832.0,3240.0,184.0,$2458,$3240,$2185
 2022,6037574201,Census Tract 5742.01,Long Beach,Los Angeles County,California,LongBeach,2043.0,727.0,2500.0,469.0,2973.0,530.0,$2500,$2973,$2043
@@ -1557,13 +1557,13 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037577700,Census Tract 5777,Long Beach,Los Angeles County,California,LongBeach,1258.0,113.0,1463.0,140.0,1788.0,167.0,$1463,$1788,$1258
 2022,6037577900,Census Tract 5779,Long Beach,Los Angeles County,California,LongBeach,1436.0,211.0,1715.0,93.0,1960.0,140.0,$1715,$1960,$1436
 2022,6037578000,Census Tract 5780,Long Beach,Los Angeles County,California,LongBeach,1030.0,86.0,1338.0,153.0,1723.0,122.0,$1338,$1723,$1030
-2022,6037578100,Census Tract 5781,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037980011,Census Tract 9800.11,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2022,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2022,6037578100,Census Tract 5781,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2022,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2022,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2022,6037980011,Census Tract 9800.11,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2022,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2022,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2022,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
 2023,6037544002,Census Tract 5440.02,Long Beach,Los Angeles County,California,LongBeach,1176.0,139.0,1558.0,292.0,1952.0,291.0,$1558,$1952,$1176
 2023,6037555202,Census Tract 5552.02,Long Beach,Los Angeles County,California,LongBeach,2442.0,388.0,2929.0,818.0,3501.0,,$2929,Not available. Exceeds $3500!,$2442
 2023,6037570100,Census Tract 5701,Long Beach,Los Angeles County,California,LongBeach,1754.0,329.0,2087.0,184.0,2293.0,91.0,$2087,$2293,$1754
@@ -1613,7 +1613,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037573601,Census Tract 5736.01,Long Beach,Los Angeles County,California,LongBeach,1747.0,417.0,2120.0,261.0,2353.0,137.0,$2120,$2353,$1747
 2023,6037573700,Census Tract 5737,Long Beach,Los Angeles County,California,LongBeach,1859.0,754.0,2484.0,433.0,2971.0,1096.0,$2484,$2971,$1859
 2023,6037573800,Census Tract 5738,Long Beach,Los Angeles County,California,LongBeach,2323.0,315.0,2662.0,165.0,2901.0,168.0,$2662,$2901,$2323
-2023,6037573902,Census Tract 5739.02,Long Beach,Los Angeles County,California,LongBeach,1676.0,62.0,1851.0,139.0,,,$1851,Not Available!,$1676
+2023,6037573902,Census Tract 5739.02,Long Beach,Los Angeles County,California,LongBeach,1676.0,62.0,1851.0,139.0,,,$1851,,$1676
 2023,6037574000,Census Tract 5740,Long Beach,Los Angeles County,California,LongBeach,1729.0,456.0,2641.0,1034.0,3397.0,630.0,$2641,$3397,$1729
 2023,6037574100,Census Tract 5741,Long Beach,Los Angeles County,California,LongBeach,2306.0,281.0,3006.0,608.0,3491.0,577.0,$3006,$3491,$2306
 2023,6037574201,Census Tract 5742.01,Long Beach,Los Angeles County,California,LongBeach,2211.0,554.0,3099.0,525.0,3403.0,326.0,$3099,$3403,$2211
@@ -1672,10 +1672,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037577700,Census Tract 5777,Long Beach,Los Angeles County,California,LongBeach,1337.0,76.0,1537.0,165.0,1839.0,117.0,$1537,$1839,$1337
 2023,6037577900,Census Tract 5779,Long Beach,Los Angeles County,California,LongBeach,1542.0,117.0,1802.0,91.0,2226.0,323.0,$1802,$2226,$1542
 2023,6037578000,Census Tract 5780,Long Beach,Los Angeles County,California,LongBeach,1015.0,237.0,1407.0,102.0,1743.0,119.0,$1407,$1743,$1015
-2023,6037578100,Census Tract 5781,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037980011,Census Tract 9800.11,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
-2023,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,Not Available!,Not Available!,Not Available!
+2023,6037578100,Census Tract 5781,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2023,6037980006,Census Tract 9800.06,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2023,6037980007,Census Tract 9800.07,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2023,6037980011,Census Tract 9800.11,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2023,6037980018,Census Tract 9800.18,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2023,6037980033,Census Tract 9800.33,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,
+2023,6037990300,Census Tract 9903,Long Beach,Los Angeles County,California,LongBeach,,,,,,,,,

@@ -48,16 +48,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2019,6037300200,Census Tract 3002,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1522.0,202.0,1902.0,232.0,2931.0,979.0,$1902,$2931,$1522
 2019,6037300501,Census Tract 3005.01,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1605.0,368.0,2137.0,339.0,2646.0,976.0,$2137,$2646,$1605
 2019,6037300502,Census Tract 3005.02,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1329.0,59.0,1588.0,115.0,1909.0,96.0,$1588,$1909,$1329
-2019,6037460600,Census Tract 4606,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,,,2688.0,1126.0,3246.0,270.0,$2688,$3246,Not Available!
-2020,6037300100,Census Tract 3001,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,,,1755.0,680.0,2645.0,1360.0,$1755,$2645,Not Available!
+2019,6037460600,Census Tract 4606,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,,,2688.0,1126.0,3246.0,270.0,$2688,$3246,
+2020,6037300100,Census Tract 3001,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,,,1755.0,680.0,2645.0,1360.0,$1755,$2645,
 2020,6037300200,Census Tract 3002,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1617.0,146.0,1971.0,350.0,3163.0,363.0,$1971,$3163,$1617
 2020,6037300501,Census Tract 3005.01,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1608.0,197.0,1927.0,305.0,2361.0,350.0,$1927,$2361,$1608
 2020,6037300503,Census Tract 3005.03,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1303.0,123.0,1597.0,154.0,1958.0,404.0,$1597,$1958,$1303
-2021,6037300100,Census Tract 3001,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,,,1753.0,1214.0,2933.0,1565.0,$1753,$2933,Not Available!
+2021,6037300100,Census Tract 3001,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,,,1753.0,1214.0,2933.0,1565.0,$1753,$2933,
 2021,6037300200,Census Tract 3002,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1324.0,106.0,1977.0,415.0,3173.0,421.0,$1977,$3173,$1324
 2021,6037300501,Census Tract 3005.01,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1524.0,396.0,1898.0,395.0,2636.0,596.0,$1898,$2636,$1524
 2021,6037300503,Census Tract 3005.03,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1391.0,174.0,1745.0,136.0,2211.0,397.0,$1745,$2211,$1391
-2022,6037300100,Census Tract 3001,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,,,2432.0,892.0,3501.0,,$2432,Not available. Exceeds $3500!,Not Available!
+2022,6037300100,Census Tract 3001,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,,,2432.0,892.0,3501.0,,$2432,Not available. Exceeds $3500!,
 2022,6037300200,Census Tract 3002,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1294.0,172.0,2013.0,593.0,3384.0,999.0,$2013,$3384,$1294
 2022,6037300501,Census Tract 3005.01,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1438.0,203.0,1903.0,526.0,2681.0,442.0,$1903,$2681,$1438
 2022,6037300503,Census Tract 3005.03,La Crescenta-Montrose,Los Angeles County,California,LaCrescenta-Montrose,1493.0,212.0,1882.0,165.0,2532.0,445.0,$1882,$2532,$1493

@@ -1,5 +1,5 @@
 YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_001E,B25058_001M,B25059_001E,B25059_001M,Median,75th,25th
-2010,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2010,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2010,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,1540.0,565.0,1693.0,112.0,1847.0,56.0,$1693,$1847,$1540
 2010,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,1690.0,307.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1690
 2010,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,1135.0,778.0,1605.0,590.0,2001.0,,$1605,Not available. Exceeds $2000!,$1135
@@ -13,7 +13,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2010,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1289.0,171.0,1453.0,328.0,2001.0,,$1453,Not available. Exceeds $2000!,$1289
 2010,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1332.0,666.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1332
 2010,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
-2011,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2011,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2011,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,1597.0,75.0,1750.0,64.0,1903.0,86.0,$1750,$1903,$1597
 2011,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,1804.0,236.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1804
 2011,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,1225.0,600.0,1773.0,340.0,2001.0,,$1773,Not available. Exceeds $2000!,$1225
@@ -27,7 +27,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2011,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1301.0,166.0,1453.0,337.0,2001.0,,$1453,Not available. Exceeds $2000!,$1301
 2011,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1462.0,682.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1462
 2011,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,1381.0,1288.0,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,$1381
-2012,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2012,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2012,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,1277.0,835.0,1651.0,168.0,1847.0,88.0,$1651,$1847,$1277
 2012,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,749.0,734.0,1325.0,1010.0,2001.0,,$1325,Not available. Exceeds $2000!,$749
 2012,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,1346.0,317.0,1702.0,193.0,2001.0,,$1702,Not available. Exceeds $2000!,$1346
@@ -41,7 +41,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2012,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1369.0,271.0,1667.0,278.0,1960.0,355.0,$1667,$1960,$1369
 2012,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1470.0,291.0,1934.0,402.0,2001.0,,$1934,Not available. Exceeds $2000!,$1470
 2012,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
-2013,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2013,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2013,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,993.0,917.0,1650.0,200.0,1875.0,130.0,$1650,$1875,$993
 2013,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,829.0,630.0,1833.0,1022.0,2001.0,,$1833,Not available. Exceeds $2000!,$829
 2013,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,1510.0,237.0,1770.0,125.0,2001.0,,$1770,Not available. Exceeds $2000!,$1510
@@ -55,7 +55,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2013,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1415.0,151.0,1688.0,173.0,1969.0,294.0,$1688,$1969,$1415
 2013,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1502.0,285.0,1914.0,393.0,2001.0,,$1914,Not available. Exceeds $2000!,$1502
 2013,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
-2014,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2014,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2014,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,983.0,713.0,1596.0,294.0,1856.0,129.0,$1596,$1856,$983
 2014,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,743.0,464.0,1625.0,1102.0,2001.0,,$1625,Not available. Exceeds $2000!,$743
 2014,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,1582.0,136.0,1841.0,163.0,2001.0,,$1841,Not available. Exceeds $2000!,$1582
@@ -69,7 +69,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1406.0,180.0,1640.0,175.0,1860.0,104.0,$1640,$1860,$1406
 2014,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1609.0,153.0,1878.0,243.0,2001.0,,$1878,Not available. Exceeds $2000!,$1609
 2014,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2001.0,,2001.0,,2001.0,,Not available. Exceeds $2000!,Not available. Exceeds $2000!,Not available. Exceeds $2000!
-2015,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2015,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2015,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,960.0,745.0,1652.0,516.0,1893.0,167.0,$1652,$1893,$960
 2015,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,775.0,435.0,1769.0,988.0,2358.0,267.0,$1769,$2358,$775
 2015,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,1634.0,141.0,1942.0,235.0,2325.0,238.0,$1942,$2325,$1634
@@ -83,7 +83,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2015,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1379.0,120.0,1563.0,209.0,1827.0,141.0,$1563,$1827,$1379
 2015,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1661.0,84.0,1878.0,146.0,2237.0,359.0,$1878,$2237,$1661
 2015,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2000.0,453.0,2306.0,281.0,2743.0,519.0,$2306,$2743,$2000
-2016,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2016,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2016,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,1539.0,1097.0,1868.0,362.0,2188.0,311.0,$1868,$2188,$1539
 2016,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,848.0,571.0,1941.0,693.0,2347.0,200.0,$1941,$2347,$848
 2016,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,1738.0,221.0,2120.0,191.0,2420.0,180.0,$2120,$2420,$1738
@@ -97,7 +97,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2016,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1404.0,143.0,1623.0,171.0,1849.0,100.0,$1623,$1849,$1404
 2016,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1676.0,80.0,1882.0,154.0,2240.0,424.0,$1882,$2240,$1676
 2016,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2075.0,264.0,2368.0,288.0,2841.0,516.0,$2368,$2841,$2075
-2017,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2017,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2017,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,1686.0,235.0,2013.0,288.0,2257.0,190.0,$2013,$2257,$1686
 2017,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,1504.0,1309.0,2196.0,288.0,2566.0,234.0,$2196,$2566,$1504
 2017,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,1795.0,166.0,2190.0,177.0,2588.0,264.0,$2190,$2588,$1795
@@ -111,8 +111,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1430.0,168.0,1659.0,140.0,1875.0,92.0,$1659,$1875,$1430
 2017,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1781.0,152.0,2080.0,258.0,2447.0,292.0,$2080,$2447,$1781
 2017,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2105.0,289.0,2472.0,325.0,2845.0,308.0,$2472,$2845,$2105
-2018,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
-2018,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,,,2052.0,274.0,2276.0,108.0,$2052,$2276,Not Available!
+2018,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
+2018,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,,,2052.0,274.0,2276.0,108.0,$2052,$2276,
 2018,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,1250.0,1098.0,2165.0,256.0,2470.0,238.0,$2165,$2470,$1250
 2018,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,2007.0,377.0,2291.0,150.0,2634.0,276.0,$2291,$2634,$2007
 2018,6037403312,Census Tract 4033.12,Diamond Bar,Los Angeles County,California,DiamondBar,1565.0,163.0,1867.0,176.0,2212.0,182.0,$1867,$2212,$1565
@@ -125,7 +125,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2018,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1536.0,130.0,1714.0,77.0,1892.0,59.0,$1714,$1892,$1536
 2018,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1736.0,113.0,1997.0,243.0,2399.0,289.0,$1997,$2399,$1736
 2018,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2088.0,327.0,2563.0,400.0,3031.0,342.0,$2563,$3031,$2088
-2019,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,Not Available!,Not Available!,Not Available!
+2019,6037403200,Census Tract 4032,Diamond Bar,Los Angeles County,California,DiamondBar,,,,,,,,,
 2019,6037403303,Census Tract 4033.03,Diamond Bar,Los Angeles County,California,DiamondBar,1707.0,530.0,2225.0,319.0,2615.0,282.0,$2225,$2615,$1707
 2019,6037403304,Census Tract 4033.04,Diamond Bar,Los Angeles County,California,DiamondBar,1620.0,1323.0,2190.0,203.0,2475.0,246.0,$2190,$2475,$1620
 2019,6037403305,Census Tract 4033.05,Diamond Bar,Los Angeles County,California,DiamondBar,2159.0,126.0,2423.0,161.0,2748.0,187.0,$2423,$2748,$2159
@@ -147,7 +147,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2020,6037403323,Census Tract 4033.23,Diamond Bar,Los Angeles County,California,DiamondBar,2007.0,226.0,2429.0,204.0,2727.0,90.0,$2429,$2727,$2007
 2020,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1662.0,87.0,1869.0,152.0,2178.0,310.0,$1869,$2178,$1662
 2020,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1825.0,227.0,2262.0,380.0,2859.0,418.0,$2262,$2859,$1825
-2020,6037403326,Census Tract 4033.26,Diamond Bar,Los Angeles County,California,DiamondBar,,,2202.0,537.0,2686.0,368.0,$2202,$2686,Not Available!
+2020,6037403326,Census Tract 4033.26,Diamond Bar,Los Angeles County,California,DiamondBar,,,2202.0,537.0,2686.0,368.0,$2202,$2686,
 2020,6037403327,Census Tract 4033.27,Diamond Bar,Los Angeles County,California,DiamondBar,2089.0,144.0,2310.0,196.0,2563.0,318.0,$2310,$2563,$2089
 2020,6037403328,Census Tract 4033.28,Diamond Bar,Los Angeles County,California,DiamondBar,1628.0,87.0,1896.0,117.0,2315.0,223.0,$1896,$2315,$1628
 2020,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2031.0,997.0,2764.0,503.0,3132.0,389.0,$2764,$3132,$2031
@@ -173,7 +173,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037403323,Census Tract 4033.23,Diamond Bar,Los Angeles County,California,DiamondBar,2313.0,372.0,2675.0,112.0,2911.0,123.0,$2675,$2911,$2313
 2022,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,1761.0,199.0,2060.0,222.0,2323.0,118.0,$2060,$2323,$1761
 2022,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1699.0,226.0,2446.0,974.0,2957.0,807.0,$2446,$2957,$1699
-2022,6037403326,Census Tract 4033.26,Diamond Bar,Los Angeles County,California,DiamondBar,,,2546.0,1022.0,3158.0,373.0,$2546,$3158,Not Available!
+2022,6037403326,Census Tract 4033.26,Diamond Bar,Los Angeles County,California,DiamondBar,,,2546.0,1022.0,3158.0,373.0,$2546,$3158,
 2022,6037403327,Census Tract 4033.27,Diamond Bar,Los Angeles County,California,DiamondBar,1794.0,197.0,2537.0,935.0,2769.0,144.0,$2537,$2769,$1794
 2022,6037403328,Census Tract 4033.28,Diamond Bar,Los Angeles County,California,DiamondBar,1835.0,220.0,2181.0,170.0,2470.0,194.0,$2181,$2470,$1835
 2022,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2368.0,357.0,2898.0,1332.0,3501.0,,$2898,Not available. Exceeds $3500!,$2368
@@ -186,8 +186,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037403323,Census Tract 4033.23,Diamond Bar,Los Angeles County,California,DiamondBar,2226.0,196.0,2602.0,241.0,2984.0,421.0,$2602,$2984,$2226
 2023,6037403324,Census Tract 4033.24,Diamond Bar,Los Angeles County,California,DiamondBar,2122.0,167.0,2375.0,265.0,2801.0,555.0,$2375,$2801,$2122
 2023,6037403325,Census Tract 4033.25,Diamond Bar,Los Angeles County,California,DiamondBar,1171.0,751.0,2351.0,652.0,3271.0,747.0,$2351,$3271,$1171
-2023,6037403326,Census Tract 4033.26,Diamond Bar,Los Angeles County,California,DiamondBar,,,2875.0,530.0,3293.0,308.0,$2875,$3293,Not Available!
+2023,6037403326,Census Tract 4033.26,Diamond Bar,Los Angeles County,California,DiamondBar,,,2875.0,530.0,3293.0,308.0,$2875,$3293,
 2023,6037403327,Census Tract 4033.27,Diamond Bar,Los Angeles County,California,DiamondBar,1698.0,79.0,1896.0,177.0,2482.0,678.0,$1896,$2482,$1698
 2023,6037403328,Census Tract 4033.28,Diamond Bar,Los Angeles County,California,DiamondBar,2153.0,107.0,2449.0,198.0,2888.0,306.0,$2449,$2888,$2153
 2023,6037408703,Census Tract 4087.03,Diamond Bar,Los Angeles County,California,DiamondBar,2479.0,402.0,2940.0,1514.0,3501.0,,$2940,Not available. Exceeds $3500!,$2479
-2023,6037408707,Census Tract 4087.07,Diamond Bar,Los Angeles County,California,DiamondBar,,,2129.0,833.0,2314.0,112.0,$2129,$2314,Not Available!
+2023,6037408707,Census Tract 4087.07,Diamond Bar,Los Angeles County,California,DiamondBar,,,2129.0,833.0,2314.0,112.0,$2129,$2314,

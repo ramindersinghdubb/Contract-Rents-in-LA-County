@@ -332,7 +332,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037530301,Census Tract 5303.01,East Los Angeles,Los Angeles County,California,EastLosAngeles,946.0,64.0,1270.0,157.0,1479.0,125.0,$1270,$1479,$946
 2021,6037530302,Census Tract 5303.02,East Los Angeles,Los Angeles County,California,EastLosAngeles,927.0,54.0,1078.0,93.0,1445.0,248.0,$1078,$1445,$927
 2021,6037530400,Census Tract 5304,East Los Angeles,Los Angeles County,California,EastLosAngeles,377.0,234.0,988.0,425.0,1561.0,227.0,$988,$1561,$377
-2021,6037530500,Census Tract 5305,East Los Angeles,Los Angeles County,California,EastLosAngeles,,,1155.0,171.0,1438.0,121.0,$1155,$1438,Not Available!
+2021,6037530500,Census Tract 5305,East Los Angeles,Los Angeles County,California,EastLosAngeles,,,1155.0,171.0,1438.0,121.0,$1155,$1438,
 2021,6037530603,Census Tract 5306.03,East Los Angeles,Los Angeles County,California,EastLosAngeles,1057.0,76.0,1283.0,141.0,1681.0,198.0,$1283,$1681,$1057
 2021,6037530700,Census Tract 5307,East Los Angeles,Los Angeles County,California,EastLosAngeles,935.0,107.0,1144.0,122.0,1426.0,140.0,$1144,$1426,$935
 2021,6037530801,Census Tract 5308.01,East Los Angeles,Los Angeles County,California,EastLosAngeles,980.0,77.0,1150.0,79.0,1404.0,180.0,$1150,$1404,$980
@@ -390,7 +390,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037530301,Census Tract 5303.01,East Los Angeles,Los Angeles County,California,EastLosAngeles,981.0,288.0,1300.0,131.0,1635.0,230.0,$1300,$1635,$981
 2023,6037530302,Census Tract 5303.02,East Los Angeles,Los Angeles County,California,EastLosAngeles,1034.0,84.0,1218.0,88.0,1644.0,209.0,$1218,$1644,$1034
 2023,6037530400,Census Tract 5304,East Los Angeles,Los Angeles County,California,EastLosAngeles,318.0,66.0,539.0,339.0,1408.0,437.0,$539,$1408,$318
-2023,6037530500,Census Tract 5305,East Los Angeles,Los Angeles County,California,EastLosAngeles,,,1283.0,207.0,1681.0,162.0,$1283,$1681,Not Available!
+2023,6037530500,Census Tract 5305,East Los Angeles,Los Angeles County,California,EastLosAngeles,,,1283.0,207.0,1681.0,162.0,$1283,$1681,
 2023,6037530603,Census Tract 5306.03,East Los Angeles,Los Angeles County,California,EastLosAngeles,1048.0,188.0,1422.0,128.0,1799.0,142.0,$1422,$1799,$1048
 2023,6037530700,Census Tract 5307,East Los Angeles,Los Angeles County,California,EastLosAngeles,1084.0,52.0,1256.0,162.0,1828.0,343.0,$1256,$1828,$1084
 2023,6037530801,Census Tract 5308.01,East Los Angeles,Los Angeles County,California,EastLosAngeles,1157.0,105.0,1468.0,209.0,1854.0,175.0,$1468,$1854,$1157

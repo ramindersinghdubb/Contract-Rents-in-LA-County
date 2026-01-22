@@ -54,7 +54,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2014,6037431200,Census Tract 4312,Monrovia,Los Angeles County,California,Monrovia,754.0,386.0,1167.0,214.0,1667.0,159.0,$1167,$1667,$754
 2014,6037431300,Census Tract 4313,Monrovia,Los Angeles County,California,Monrovia,1338.0,275.0,1698.0,150.0,1991.0,229.0,$1698,$1991,$1338
 2014,6037431400,Census Tract 4314,Monrovia,Los Angeles County,California,Monrovia,872.0,295.0,1278.0,233.0,1714.0,331.0,$1278,$1714,$872
-2015,6037430200,Census Tract 4302,Monrovia,Los Angeles County,California,Monrovia,,,3008.0,379.0,3426.0,202.0,$3008,$3426,Not Available!
+2015,6037430200,Census Tract 4302,Monrovia,Los Angeles County,California,Monrovia,,,3008.0,379.0,3426.0,202.0,$3008,$3426,
 2015,6037430301,Census Tract 4303.01,Monrovia,Los Angeles County,California,Monrovia,1233.0,759.0,1869.0,437.0,3056.0,1398.0,$1869,$3056,$1233
 2015,6037430302,Census Tract 4303.02,Monrovia,Los Angeles County,California,Monrovia,945.0,176.0,1280.0,202.0,1723.0,270.0,$1280,$1723,$945
 2015,6037430901,Census Tract 4309.01,Monrovia,Los Angeles County,California,Monrovia,1010.0,88.0,1242.0,74.0,1478.0,97.0,$1242,$1478,$1010
@@ -87,7 +87,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2017,6037431200,Census Tract 4312,Monrovia,Los Angeles County,California,Monrovia,640.0,517.0,1146.0,130.0,1579.0,206.0,$1146,$1579,$640
 2017,6037431300,Census Tract 4313,Monrovia,Los Angeles County,California,Monrovia,1269.0,282.0,1668.0,156.0,2000.0,169.0,$1668,$2000,$1269
 2017,6037431400,Census Tract 4314,Monrovia,Los Angeles County,California,Monrovia,971.0,135.0,1150.0,85.0,1831.0,731.0,$1150,$1831,$971
-2018,6037430200,Census Tract 4302,Monrovia,Los Angeles County,California,Monrovia,,,2777.0,487.0,3501.0,,$2777,Not available. Exceeds $3500!,Not Available!
+2018,6037430200,Census Tract 4302,Monrovia,Los Angeles County,California,Monrovia,,,2777.0,487.0,3501.0,,$2777,Not available. Exceeds $3500!,
 2018,6037430301,Census Tract 4303.01,Monrovia,Los Angeles County,California,Monrovia,1600.0,178.0,1872.0,201.0,2302.0,367.0,$1872,$2302,$1600
 2018,6037430302,Census Tract 4303.02,Monrovia,Los Angeles County,California,Monrovia,1069.0,131.0,1410.0,323.0,1786.0,141.0,$1410,$1786,$1069
 2018,6037430901,Census Tract 4309.01,Monrovia,Los Angeles County,California,Monrovia,1061.0,103.0,1378.0,73.0,1716.0,111.0,$1378,$1716,$1061
