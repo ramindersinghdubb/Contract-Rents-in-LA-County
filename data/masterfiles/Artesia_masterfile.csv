@@ -81,3 +81,6 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037554801,Census Tract 5548.01,Artesia,Los Angeles County,California,Artesia,1295.0,348.0,1647.0,183.0,1984.0,1529.0,$1647,$1984,$1295
 2023,6037554802,Census Tract 5548.02,Artesia,Los Angeles County,California,Artesia,1433.0,130.0,1761.0,136.0,2199.0,328.0,$1761,$2199,$1433
 2023,6037554900,Census Tract 5549,Artesia,Los Angeles County,California,Artesia,1932.0,297.0,2301.0,151.0,2657.0,169.0,$2301,$2657,$1932
+2024,6037554801,Census Tract 5548.01,Artesia,Los Angeles County,California,Artesia,948.0,62.0,1405.0,412.0,1815.0,225.0,$1405,$1815,$948
+2024,6037554802,Census Tract 5548.02,Artesia,Los Angeles County,California,Artesia,1552.0,150.0,1892.0,158.0,2434.0,265.0,$1892,$2434,$1552
+2024,6037554900,Census Tract 5549,Artesia,Los Angeles County,California,Artesia,1854.0,252.0,2217.0,123.0,2510.0,209.0,$2217,$2510,$1854

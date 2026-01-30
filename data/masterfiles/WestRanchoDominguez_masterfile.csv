@@ -97,3 +97,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037541100,Census Tract 5411,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,751.0,523.0,959.0,115.0,1656.0,636.0,$959,$1656,$751
 2023,6037541200,Census Tract 5412,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,1318.0,672.0,1661.0,129.0,1873.0,83.0,$1661,$1873,$1318
 2023,6037543000,Census Tract 5430,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,1650.0,181.0,1910.0,275.0,2305.0,467.0,$1910,$2305,$1650
+2024,6037540800,Census Tract 5408,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,443.0,391.0,1245.0,530.0,2042.0,895.0,$1245,$2042,$443
+2024,6037540901,Census Tract 5409.01,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,974.0,403.0,1655.0,500.0,2447.0,524.0,$1655,$2447,$974
+2024,6037540902,Census Tract 5409.02,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,361.0,278.0,1270.0,641.0,1936.0,343.0,$1270,$1936,$361
+2024,6037541003,Census Tract 5410.03,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,577.0,555.0,1338.0,724.0,2114.0,902.0,$1338,$2114,$577
+2024,6037541100,Census Tract 5411,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,783.0,480.0,1263.0,259.0,1745.0,482.0,$1263,$1745,$783
+2024,6037541200,Census Tract 5412,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,1161.0,485.0,1715.0,158.0,1989.0,335.0,$1715,$1989,$1161
+2024,6037543000,Census Tract 5430,West Rancho Dominguez,Los Angeles County,California,WestRanchoDominguez,1596.0,149.0,1840.0,185.0,2203.0,434.0,$1840,$2203,$1596

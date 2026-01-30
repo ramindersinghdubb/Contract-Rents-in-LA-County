@@ -41,3 +41,6 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037482404,Census Tract 4824.04,South San Gabriel,Los Angeles County,California,SouthSanGabriel,1653.0,1152.0,2564.0,1152.0,2782.0,207.0,$2564,$2782,$1653
 2023,6037482521,Census Tract 4825.21,South San Gabriel,Los Angeles County,California,SouthSanGabriel,,,2100.0,350.0,2472.0,523.0,$2100,$2472,
 2023,6037482522,Census Tract 4825.22,South San Gabriel,Los Angeles County,California,SouthSanGabriel,1399.0,174.0,1739.0,161.0,2100.0,217.0,$1739,$2100,$1399
+2024,6037482404,Census Tract 4824.04,South San Gabriel,Los Angeles County,California,SouthSanGabriel,1672.0,1651.0,2800.0,672.0,3171.0,223.0,$2800,$3171,$1672
+2024,6037482521,Census Tract 4825.21,South San Gabriel,Los Angeles County,California,SouthSanGabriel,1063.0,289.0,1957.0,774.0,2520.0,338.0,$1957,$2520,$1063
+2024,6037482522,Census Tract 4825.22,South San Gabriel,Los Angeles County,California,SouthSanGabriel,1424.0,242.0,1826.0,250.0,2284.0,328.0,$1826,$2284,$1424

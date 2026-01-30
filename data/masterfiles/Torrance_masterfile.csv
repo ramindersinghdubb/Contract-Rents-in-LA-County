@@ -489,3 +489,38 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037651402,Census Tract 6514.02,Torrance,Los Angeles County,California,Torrance,1729.0,89.0,2095.0,308.0,2761.0,239.0,$2095,$2761,$1729
 2023,6037980005,Census Tract 9800.05,Torrance,Los Angeles County,California,Torrance,,,,,,,,,
 2023,6037990200,Census Tract 9902,Torrance,Los Angeles County,California,Torrance,,,,,,,,,
+2024,6037650001,Census Tract 6500.01,Torrance,Los Angeles County,California,Torrance,1557.0,604.0,1986.0,377.0,2770.0,532.0,$1986,$2770,$1557
+2024,6037650003,Census Tract 6500.03,Torrance,Los Angeles County,California,Torrance,1411.0,240.0,1907.0,209.0,2407.0,208.0,$1907,$2407,$1411
+2024,6037650004,Census Tract 6500.04,Torrance,Los Angeles County,California,Torrance,1555.0,125.0,1817.0,87.0,2198.0,236.0,$1817,$2198,$1555
+2024,6037650101,Census Tract 6501.01,Torrance,Los Angeles County,California,Torrance,2311.0,620.0,3105.0,781.0,3355.0,252.0,$3105,$3355,$2311
+2024,6037650102,Census Tract 6501.02,Torrance,Los Angeles County,California,Torrance,2065.0,335.0,3072.0,1154.0,3501.0,,$3072,Not available. Exceeds $3500!,$2065
+2024,6037650200,Census Tract 6502,Torrance,Los Angeles County,California,Torrance,2339.0,439.0,2919.0,364.0,3345.0,186.0,$2919,$3345,$2339
+2024,6037650300,Census Tract 6503,Torrance,Los Angeles County,California,Torrance,1417.0,129.0,1935.0,268.0,2560.0,387.0,$1935,$2560,$1417
+2024,6037650401,Census Tract 6504.01,Torrance,Los Angeles County,California,Torrance,1776.0,160.0,2183.0,858.0,3216.0,671.0,$2183,$3216,$1776
+2024,6037650501,Census Tract 6505.01,Torrance,Los Angeles County,California,Torrance,3012.0,271.0,3194.0,126.0,3375.0,93.0,$3194,$3375,$3012
+2024,6037650502,Census Tract 6505.02,Torrance,Los Angeles County,California,Torrance,2102.0,109.0,2352.0,136.0,3501.0,,$2352,Not available. Exceeds $3500!,$2102
+2024,6037650603,Census Tract 6506.03,Torrance,Los Angeles County,California,Torrance,1568.0,226.0,1988.0,333.0,2924.0,1249.0,$1988,$2924,$1568
+2024,6037650604,Census Tract 6506.04,Torrance,Los Angeles County,California,Torrance,1479.0,297.0,1861.0,145.0,2331.0,164.0,$1861,$2331,$1479
+2024,6037650605,Census Tract 6506.05,Torrance,Los Angeles County,California,Torrance,1799.0,144.0,2218.0,162.0,2675.0,261.0,$2218,$2675,$1799
+2024,6037650606,Census Tract 6506.06,Torrance,Los Angeles County,California,Torrance,1646.0,95.0,1970.0,138.0,2349.0,111.0,$1970,$2349,$1646
+2024,6037650607,Census Tract 6506.07,Torrance,Los Angeles County,California,Torrance,2122.0,169.0,2544.0,262.0,3006.0,265.0,$2544,$3006,$2122
+2024,6037650701,Census Tract 6507.01,Torrance,Los Angeles County,California,Torrance,2982.0,2202.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2982
+2024,6037650702,Census Tract 6507.02,Torrance,Los Angeles County,California,Torrance,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037650801,Census Tract 6508.01,Torrance,Los Angeles County,California,Torrance,2203.0,838.0,3217.0,188.0,3501.0,,$3217,Not available. Exceeds $3500!,$2203
+2024,6037650802,Census Tract 6508.02,Torrance,Los Angeles County,California,Torrance,2692.0,429.0,3291.0,299.0,3501.0,,$3291,Not available. Exceeds $3500!,$2692
+2024,6037650901,Census Tract 6509.01,Torrance,Los Angeles County,California,Torrance,1453.0,293.0,1746.0,111.0,2044.0,246.0,$1746,$2044,$1453
+2024,6037650903,Census Tract 6509.03,Torrance,Los Angeles County,California,Torrance,1689.0,252.0,2154.0,139.0,2466.0,803.0,$2154,$2466,$1689
+2024,6037650904,Census Tract 6509.04,Torrance,Los Angeles County,California,Torrance,1661.0,189.0,2149.0,506.0,2951.0,448.0,$2149,$2951,$1661
+2024,6037651001,Census Tract 6510.01,Torrance,Los Angeles County,California,Torrance,1574.0,127.0,1823.0,134.0,2482.0,670.0,$1823,$2482,$1574
+2024,6037651002,Census Tract 6510.02,Torrance,Los Angeles County,California,Torrance,1470.0,259.0,1822.0,148.0,2464.0,1215.0,$1822,$2464,$1470
+2024,6037651101,Census Tract 6511.01,Torrance,Los Angeles County,California,Torrance,2097.0,112.0,2354.0,108.0,3013.0,375.0,$2354,$3013,$2097
+2024,6037651102,Census Tract 6511.02,Torrance,Los Angeles County,California,Torrance,1708.0,122.0,2090.0,159.0,2436.0,124.0,$2090,$2436,$1708
+2024,6037651201,Census Tract 6512.01,Torrance,Los Angeles County,California,Torrance,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037651221,Census Tract 6512.21,Torrance,Los Angeles County,California,Torrance,1701.0,70.0,2017.0,112.0,2332.0,60.0,$2017,$2332,$1701
+2024,6037651222,Census Tract 6512.22,Torrance,Los Angeles County,California,Torrance,2142.0,141.0,2541.0,181.0,2875.0,165.0,$2541,$2875,$2142
+2024,6037651302,Census Tract 6513.02,Torrance,Los Angeles County,California,Torrance,1689.0,1363.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1689
+2024,6037651304,Census Tract 6513.04,Torrance,Los Angeles County,California,Torrance,1761.0,432.0,2228.0,164.0,2701.0,516.0,$2228,$2701,$1761
+2024,6037651401,Census Tract 6514.01,Torrance,Los Angeles County,California,Torrance,1065.0,78.0,1217.0,433.0,2163.0,334.0,$1217,$2163,$1065
+2024,6037651402,Census Tract 6514.02,Torrance,Los Angeles County,California,Torrance,1756.0,126.0,2177.0,369.0,2989.0,464.0,$2177,$2989,$1756
+2024,6037980005,Census Tract 9800.05,Torrance,Los Angeles County,California,Torrance,,,,,,,,,
+2024,6037990200,Census Tract 9902,Torrance,Los Angeles County,California,Torrance,,,,,,,,,

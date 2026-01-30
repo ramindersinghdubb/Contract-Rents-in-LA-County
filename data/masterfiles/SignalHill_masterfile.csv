@@ -75,3 +75,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,1314.0,165.0,1649.0,152.0,1976.0,207.0,$1649,$1976,$1314
 2023,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,2028.0,263.0,2242.0,161.0,2456.0,191.0,$2242,$2456,$2028
 2023,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,,,
+2024,6037573401,Census Tract 5734.01,Signal Hill,Los Angeles County,California,SignalHill,1270.0,524.0,1607.0,269.0,2205.0,1129.0,$1607,$2205,$1270
+2024,6037573402,Census Tract 5734.02,Signal Hill,Los Angeles County,California,SignalHill,1468.0,364.0,1756.0,102.0,2083.0,409.0,$1756,$2083,$1468
+2024,6037573403,Census Tract 5734.03,Signal Hill,Los Angeles County,California,SignalHill,2034.0,515.0,2352.0,268.0,3071.0,570.0,$2352,$3071,$2034
+2024,6037980018,Census Tract 9800.18,Signal Hill,Los Angeles County,California,SignalHill,,,,,,,,,

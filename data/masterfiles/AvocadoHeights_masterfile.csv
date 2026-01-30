@@ -65,3 +65,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037408302,Census Tract 4083.02,Avocado Heights,Los Angeles County,California,AvocadoHeights,1932.0,929.0,2245.0,213.0,2497.0,388.0,$2245,$2497,$1932
 2023,6037408303,Census Tract 4083.03,Avocado Heights,Los Angeles County,California,AvocadoHeights,2056.0,1412.0,2301.0,209.0,2578.0,287.0,$2301,$2578,$2056
 2023,6037980035,Census Tract 9800.35,Avocado Heights,Los Angeles County,California,AvocadoHeights,821.0,102.0,1255.0,816.0,1505.0,238.0,$1255,$1505,$821
+2024,6037408301,Census Tract 4083.01,Avocado Heights,Los Angeles County,California,AvocadoHeights,1318.0,174.0,1566.0,183.0,1842.0,142.0,$1566,$1842,$1318
+2024,6037408302,Census Tract 4083.02,Avocado Heights,Los Angeles County,California,AvocadoHeights,2032.0,755.0,2305.0,256.0,2739.0,617.0,$2305,$2739,$2032
+2024,6037408303,Census Tract 4083.03,Avocado Heights,Los Angeles County,California,AvocadoHeights,,,2111.0,1381.0,2305.0,142.0,$2111,$2305,
+2024,6037980035,Census Tract 9800.35,Avocado Heights,Los Angeles County,California,AvocadoHeights,901.0,100.0,968.0,41.0,1410.0,264.0,$968,$1410,$901

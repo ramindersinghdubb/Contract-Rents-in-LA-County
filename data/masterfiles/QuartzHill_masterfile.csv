@@ -69,3 +69,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037901102,Census Tract 9011.02,Quartz Hill,Los Angeles County,California,QuartzHill,1120.0,89.0,1350.0,172.0,1719.0,266.0,$1350,$1719,$1120
 2023,6037910211,Census Tract 9102.11,Quartz Hill,Los Angeles County,California,QuartzHill,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
 2023,6037910301,Census Tract 9103.01,Quartz Hill,Los Angeles County,California,QuartzHill,1074.0,37.0,1159.0,225.0,1245.0,1063.0,$1159,$1245,$1074
+2024,6037901013,Census Tract 9010.13,Quartz Hill,Los Angeles County,California,QuartzHill,1756.0,336.0,2146.0,298.0,2463.0,301.0,$2146,$2463,$1756
+2024,6037901101,Census Tract 9011.01,Quartz Hill,Los Angeles County,California,QuartzHill,952.0,610.0,1423.0,203.0,1890.0,977.0,$1423,$1890,$952
+2024,6037901102,Census Tract 9011.02,Quartz Hill,Los Angeles County,California,QuartzHill,1222.0,180.0,1499.0,229.0,1858.0,274.0,$1499,$1858,$1222
+2024,6037910211,Census Tract 9102.11,Quartz Hill,Los Angeles County,California,QuartzHill,2308.0,1827.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2308
+2024,6037910301,Census Tract 9103.01,Quartz Hill,Los Angeles County,California,QuartzHill,1066.0,28.0,1150.0,64.0,1233.0,586.0,$1150,$1233,$1066

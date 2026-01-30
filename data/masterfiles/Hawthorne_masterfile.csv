@@ -349,3 +349,28 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037603702,Census Tract 6037.02,Hawthorne,Los Angeles County,California,Hawthorne,1875.0,633.0,2478.0,482.0,2878.0,897.0,$2478,$2878,$1875
 2023,6037603703,Census Tract 6037.03,Hawthorne,Los Angeles County,California,Hawthorne,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
 2023,6037603705,Census Tract 6037.05,Hawthorne,Los Angeles County,California,Hawthorne,1521.0,250.0,1732.0,86.0,1944.0,101.0,$1732,$1944,$1521
+2024,6037601600,Census Tract 6016,Hawthorne,Los Angeles County,California,Hawthorne,1064.0,41.0,1176.0,59.0,1404.0,261.0,$1176,$1404,$1064
+2024,6037601700,Census Tract 6017,Hawthorne,Los Angeles County,California,Hawthorne,991.0,449.0,1433.0,89.0,1814.0,155.0,$1433,$1814,$991
+2024,6037602002,Census Tract 6020.02,Hawthorne,Los Angeles County,California,Hawthorne,1452.0,327.0,1713.0,73.0,1935.0,79.0,$1713,$1935,$1452
+2024,6037602103,Census Tract 6021.03,Hawthorne,Los Angeles County,California,Hawthorne,1352.0,396.0,1804.0,126.0,2187.0,159.0,$1804,$2187,$1352
+2024,6037602104,Census Tract 6021.04,Hawthorne,Los Angeles County,California,Hawthorne,1539.0,83.0,1778.0,78.0,2041.0,177.0,$1778,$2041,$1539
+2024,6037602105,Census Tract 6021.05,Hawthorne,Los Angeles County,California,Hawthorne,1251.0,112.0,1563.0,186.0,2049.0,230.0,$1563,$2049,$1251
+2024,6037602106,Census Tract 6021.06,Hawthorne,Los Angeles County,California,Hawthorne,1343.0,47.0,1497.0,116.0,1869.0,166.0,$1497,$1869,$1343
+2024,6037602201,Census Tract 6022.01,Hawthorne,Los Angeles County,California,Hawthorne,2679.0,155.0,3054.0,206.0,3415.0,221.0,$3054,$3415,$2679
+2024,6037602202,Census Tract 6022.02,Hawthorne,Los Angeles County,California,Hawthorne,1367.0,138.0,1638.0,108.0,1884.0,91.0,$1638,$1884,$1367
+2024,6037602301,Census Tract 6023.01,Hawthorne,Los Angeles County,California,Hawthorne,1275.0,318.0,1665.0,143.0,1945.0,176.0,$1665,$1945,$1275
+2024,6037602302,Census Tract 6023.02,Hawthorne,Los Angeles County,California,Hawthorne,3078.0,879.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3078
+2024,6037602402,Census Tract 6024.02,Hawthorne,Los Angeles County,California,Hawthorne,1586.0,135.0,1866.0,141.0,2270.0,237.0,$1866,$2270,$1586
+2024,6037602403,Census Tract 6024.03,Hawthorne,Los Angeles County,California,Hawthorne,1361.0,78.0,1693.0,127.0,2115.0,200.0,$1693,$2115,$1361
+2024,6037602404,Census Tract 6024.04,Hawthorne,Los Angeles County,California,Hawthorne,1407.0,100.0,1702.0,74.0,1971.0,160.0,$1702,$1971,$1407
+2024,6037602504,Census Tract 6025.04,Hawthorne,Los Angeles County,California,Hawthorne,1394.0,67.0,1644.0,62.0,1882.0,54.0,$1644,$1882,$1394
+2024,6037602505,Census Tract 6025.05,Hawthorne,Los Angeles County,California,Hawthorne,1363.0,73.0,1637.0,59.0,1875.0,50.0,$1637,$1875,$1363
+2024,6037602506,Census Tract 6025.06,Hawthorne,Los Angeles County,California,Hawthorne,1411.0,123.0,1700.0,111.0,1973.0,169.0,$1700,$1973,$1411
+2024,6037602507,Census Tract 6025.07,Hawthorne,Los Angeles County,California,Hawthorne,1451.0,150.0,1690.0,56.0,1899.0,57.0,$1690,$1899,$1451
+2024,6037602510,Census Tract 6025.10,Hawthorne,Los Angeles County,California,Hawthorne,1362.0,56.0,1522.0,140.0,1789.0,88.0,$1522,$1789,$1362
+2024,6037602511,Census Tract 6025.11,Hawthorne,Los Angeles County,California,Hawthorne,1348.0,235.0,1684.0,140.0,1970.0,173.0,$1684,$1970,$1348
+2024,6037602513,Census Tract 6025.13,Hawthorne,Los Angeles County,California,Hawthorne,1415.0,168.0,1701.0,119.0,1958.0,194.0,$1701,$1958,$1415
+2024,6037602700,Census Tract 6027,Hawthorne,Los Angeles County,California,Hawthorne,1657.0,359.0,1977.0,581.0,3084.0,861.0,$1977,$3084,$1657
+2024,6037603702,Census Tract 6037.02,Hawthorne,Los Angeles County,California,Hawthorne,1934.0,431.0,2481.0,466.0,2927.0,1206.0,$2481,$2927,$1934
+2024,6037603703,Census Tract 6037.03,Hawthorne,Los Angeles County,California,Hawthorne,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037603705,Census Tract 6037.05,Hawthorne,Los Angeles County,California,Hawthorne,1513.0,111.0,1783.0,90.0,2111.0,204.0,$1783,$2111,$1513

@@ -161,3 +161,16 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037670702,Census Tract 6707.02,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
 2023,6037990200,Census Tract 9902,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,,,,,,,,,
 2023,6037990300,Census Tract 9903,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,,,,,,,,,
+2024,6037670328,Census Tract 6703.28,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,,,3321.0,457.0,3501.0,,$3321,Not available. Exceeds $3500!,
+2024,6037670405,Census Tract 6704.05,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037670407,Census Tract 6704.07,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,2264.0,198.0,2903.0,567.0,3501.0,,$2903,Not available. Exceeds $3500!,$2264
+2024,6037670413,Census Tract 6704.13,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,3019.0,390.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3019
+2024,6037670416,Census Tract 6704.16,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,2352.0,161.0,3096.0,570.0,3501.0,,$3096,Not available. Exceeds $3500!,$2352
+2024,6037670417,Census Tract 6704.17,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037670418,Census Tract 6704.18,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037670603,Census Tract 6706.03,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,2283.0,1033.0,3143.0,1502.0,3501.0,,$3143,Not available. Exceeds $3500!,$2283
+2024,6037670604,Census Tract 6706.04,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,2507.0,1249.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2507
+2024,6037670701,Census Tract 6707.01,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,1659.0,655.0,3063.0,2338.0,3476.0,735.0,$3063,$3476,$1659
+2024,6037670702,Census Tract 6707.02,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037990200,Census Tract 9902,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,,,,,,,,,
+2024,6037990300,Census Tract 9903,Rancho Palos Verdes,Los Angeles County,California,RanchoPalosVerdes,,,,,,,,,

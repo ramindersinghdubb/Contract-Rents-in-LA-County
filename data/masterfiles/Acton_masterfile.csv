@@ -65,3 +65,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037910804,Census Tract 9108.04,Acton,Los Angeles County,California,Acton,,,1662.0,803.0,1831.0,125.0,$1662,$1831,
 2023,6037910814,Census Tract 9108.14,Acton,Los Angeles County,California,Acton,1087.0,274.0,,,2969.0,2616.0,,$2969,$1087
 2023,6037910815,Census Tract 9108.15,Acton,Los Angeles County,California,Acton,,,,,2463.0,1808.0,,$2463,
+2024,6037910213,Census Tract 9102.13,Acton,Los Angeles County,California,Acton,2526.0,2055.0,2684.0,99.0,2842.0,49.0,$2684,$2842,$2526
+2024,6037910804,Census Tract 9108.04,Acton,Los Angeles County,California,Acton,,,,,,,,,
+2024,6037910814,Census Tract 9108.14,Acton,Los Angeles County,California,Acton,1115.0,339.0,,,3501.0,,,Not available. Exceeds $3500!,$1115
+2024,6037910815,Census Tract 9108.15,Acton,Los Angeles County,California,Acton,,,1881.0,1139.0,2683.0,770.0,$1881,$2683,

@@ -55,3 +55,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037670326,Census Tract 6703.26,Palos Verdes Estates,Los Angeles County,California,PalosVerdesEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
 2023,6037670328,Census Tract 6703.28,Palos Verdes Estates,Los Angeles County,California,PalosVerdesEstates,1890.0,1052.0,2750.0,455.0,3260.0,578.0,$2750,$3260,$1890
 2023,6037990200,Census Tract 9902,Palos Verdes Estates,Los Angeles County,California,PalosVerdesEstates,,,,,,,,,
+2024,6037670324,Census Tract 6703.24,Palos Verdes Estates,Los Angeles County,California,PalosVerdesEstates,2239.0,95.0,2478.0,1202.0,3501.0,,$2478,Not available. Exceeds $3500!,$2239
+2024,6037670326,Census Tract 6703.26,Palos Verdes Estates,Los Angeles County,California,PalosVerdesEstates,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037670328,Census Tract 6703.28,Palos Verdes Estates,Los Angeles County,California,PalosVerdesEstates,,,3321.0,457.0,3501.0,,$3321,Not available. Exceeds $3500!,
+2024,6037990200,Census Tract 9902,Palos Verdes Estates,Los Angeles County,California,PalosVerdesEstates,,,,,,,,,

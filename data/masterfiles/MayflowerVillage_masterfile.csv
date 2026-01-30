@@ -27,3 +27,5 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037431400,Census Tract 4314,Mayflower Village,Los Angeles County,California,MayflowerVillage,938.0,380.0,1596.0,909.0,2566.0,418.0,$1596,$2566,$938
 2023,6037431300,Census Tract 4313,Mayflower Village,Los Angeles County,California,MayflowerVillage,1648.0,158.0,2005.0,256.0,2376.0,207.0,$2005,$2376,$1648
 2023,6037431400,Census Tract 4314,Mayflower Village,Los Angeles County,California,MayflowerVillage,1031.0,317.0,1544.0,845.0,2410.0,365.0,$1544,$2410,$1031
+2024,6037431300,Census Tract 4313,Mayflower Village,Los Angeles County,California,MayflowerVillage,1799.0,315.0,2174.0,134.0,2432.0,272.0,$2174,$2432,$1799
+2024,6037431400,Census Tract 4314,Mayflower Village,Los Angeles County,California,MayflowerVillage,1131.0,263.0,1949.0,974.0,3236.0,619.0,$1949,$3236,$1131

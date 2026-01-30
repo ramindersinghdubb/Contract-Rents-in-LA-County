@@ -127,3 +127,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1397.0,617.0,2116.0,170.0,2431.0,159.0,$2116,$2431,$1397
 2023,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1654.0,96.0,1976.0,154.0,2453.0,194.0,$1976,$2453,$1654
 2023,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1769.0,295.0,2672.0,594.0,$1769,$2672,
+2024,6037400207,Census Tract 4002.07,La Verne,Los Angeles County,California,LaVerne,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037400208,Census Tract 4002.08,La Verne,Los Angeles County,California,LaVerne,3015.0,375.0,3294.0,486.0,3501.0,,$3294,Not available. Exceeds $3500!,$3015
+2024,6037400209,Census Tract 4002.09,La Verne,Los Angeles County,California,LaVerne,3038.0,279.0,3212.0,154.0,3386.0,103.0,$3212,$3386,$3038
+2024,6037401500,Census Tract 4015,La Verne,Los Angeles County,California,LaVerne,1596.0,115.0,1908.0,138.0,2718.0,355.0,$1908,$2718,$1596
+2024,6037401601,Census Tract 4016.01,La Verne,Los Angeles County,California,LaVerne,1775.0,226.0,2193.0,156.0,2509.0,304.0,$2193,$2509,$1775
+2024,6037401602,Census Tract 4016.02,La Verne,Los Angeles County,California,LaVerne,1724.0,143.0,2134.0,205.0,2549.0,190.0,$2134,$2549,$1724
+2024,6037408900,Census Tract 4089,La Verne,Los Angeles County,California,LaVerne,,,1802.0,384.0,3092.0,1095.0,$1802,$3092,

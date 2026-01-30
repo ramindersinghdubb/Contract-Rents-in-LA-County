@@ -167,3 +167,15 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037480101,Census Tract 4801.01,Temple City,Los Angeles County,California,TempleCity,1672.0,239.0,2104.0,198.0,2446.0,150.0,$2104,$2446,$1672
 2023,6037480102,Census Tract 4801.02,Temple City,Los Angeles County,California,TempleCity,1856.0,264.0,2248.0,190.0,3085.0,825.0,$2248,$3085,$1856
 2023,6037481201,Census Tract 4812.01,Temple City,Los Angeles County,California,TempleCity,1384.0,258.0,2059.0,148.0,2373.0,94.0,$2059,$2373,$1384
+2024,6037431501,Census Tract 4315.01,Temple City,Los Angeles County,California,TempleCity,1272.0,335.0,1865.0,282.0,2461.0,260.0,$1865,$2461,$1272
+2024,6037431502,Census Tract 4315.02,Temple City,Los Angeles County,California,TempleCity,1643.0,139.0,1969.0,239.0,2684.0,487.0,$1969,$2684,$1643
+2024,6037431800,Census Tract 4318,Temple City,Los Angeles County,California,TempleCity,1730.0,70.0,1973.0,192.0,2822.0,778.0,$1973,$2822,$1730
+2024,6037431900,Census Tract 4319,Temple City,Los Angeles County,California,TempleCity,1302.0,427.0,1738.0,161.0,2185.0,965.0,$1738,$2185,$1302
+2024,6037432001,Census Tract 4320.01,Temple City,Los Angeles County,California,TempleCity,1683.0,378.0,2194.0,599.0,2745.0,327.0,$2194,$2745,$1683
+2024,6037432002,Census Tract 4320.02,Temple City,Los Angeles County,California,TempleCity,1423.0,127.0,1786.0,254.0,2468.0,1215.0,$1786,$2468,$1423
+2024,6037432101,Census Tract 4321.01,Temple City,Los Angeles County,California,TempleCity,1769.0,228.0,2488.0,565.0,3239.0,602.0,$2488,$3239,$1769
+2024,6037432102,Census Tract 4321.02,Temple City,Los Angeles County,California,TempleCity,2137.0,423.0,2867.0,1011.0,3501.0,,$2867,Not available. Exceeds $3500!,$2137
+2024,6037480012,Census Tract 4800.12,Temple City,Los Angeles County,California,TempleCity,1527.0,90.0,1742.0,70.0,1958.0,83.0,$1742,$1958,$1527
+2024,6037480101,Census Tract 4801.01,Temple City,Los Angeles County,California,TempleCity,1791.0,225.0,2212.0,151.0,2705.0,418.0,$2212,$2705,$1791
+2024,6037480102,Census Tract 4801.02,Temple City,Los Angeles County,California,TempleCity,1760.0,276.0,2281.0,352.0,3000.0,378.0,$2281,$3000,$1760
+2024,6037481201,Census Tract 4812.01,Temple City,Los Angeles County,California,TempleCity,1342.0,289.0,1950.0,241.0,2322.0,103.0,$1950,$2322,$1342

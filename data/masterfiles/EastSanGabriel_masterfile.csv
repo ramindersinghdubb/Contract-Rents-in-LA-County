@@ -77,3 +77,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037480102,Census Tract 4801.02,East San Gabriel,Los Angeles County,California,EastSanGabriel,1856.0,264.0,2248.0,190.0,3085.0,825.0,$2248,$3085,$1856
 2023,6037481102,Census Tract 4811.02,East San Gabriel,Los Angeles County,California,EastSanGabriel,1543.0,98.0,1823.0,91.0,2189.0,171.0,$1823,$2189,$1543
 2023,6037481203,Census Tract 4812.03,East San Gabriel,Los Angeles County,California,EastSanGabriel,1406.0,104.0,1658.0,111.0,1914.0,94.0,$1658,$1914,$1406
+2024,6037431800,Census Tract 4318,East San Gabriel,Los Angeles County,California,EastSanGabriel,1730.0,70.0,1973.0,192.0,2822.0,778.0,$1973,$2822,$1730
+2024,6037480002,Census Tract 4800.02,East San Gabriel,Los Angeles County,California,EastSanGabriel,2093.0,689.0,3458.0,905.0,3501.0,,$3458,Not available. Exceeds $3500!,$2093
+2024,6037480011,Census Tract 4800.11,East San Gabriel,Los Angeles County,California,EastSanGabriel,1530.0,119.0,1828.0,132.0,2322.0,431.0,$1828,$2322,$1530
+2024,6037480012,Census Tract 4800.12,East San Gabriel,Los Angeles County,California,EastSanGabriel,1527.0,90.0,1742.0,70.0,1958.0,83.0,$1742,$1958,$1527
+2024,6037480102,Census Tract 4801.02,East San Gabriel,Los Angeles County,California,EastSanGabriel,1760.0,276.0,2281.0,352.0,3000.0,378.0,$2281,$3000,$1760
+2024,6037481102,Census Tract 4811.02,East San Gabriel,Los Angeles County,California,EastSanGabriel,1473.0,194.0,1814.0,116.0,2201.0,146.0,$1814,$2201,$1473
+2024,6037481203,Census Tract 4812.03,East San Gabriel,Los Angeles County,California,EastSanGabriel,1434.0,124.0,1697.0,99.0,1951.0,134.0,$1697,$1951,$1434

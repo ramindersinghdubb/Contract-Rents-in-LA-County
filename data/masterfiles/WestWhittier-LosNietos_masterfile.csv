@@ -103,3 +103,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037502100,Census Tract 5021,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,,,1367.0,202.0,2109.0,660.0,$1367,$2109,
 2023,6037502200,Census Tract 5022,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,1353.0,104.0,1696.0,376.0,2209.0,221.0,$1696,$2209,$1353
 2023,6037502303,Census Tract 5023.03,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,1467.0,231.0,1902.0,288.0,2302.0,178.0,$1902,$2302,$1467
+2024,6037501001,Census Tract 5010.01,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,,,2007.0,1199.0,2309.0,187.0,$2007,$2309,
+2024,6037501002,Census Tract 5010.02,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,2016.0,323.0,2326.0,277.0,2706.0,348.0,$2326,$2706,$2016
+2024,6037501200,Census Tract 5012,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,1530.0,148.0,1894.0,238.0,2253.0,186.0,$1894,$2253,$1530
+2024,6037502100,Census Tract 5021,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,840.0,715.0,1256.0,315.0,1879.0,545.0,$1256,$1879,$840
+2024,6037502200,Census Tract 5022,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,1441.0,254.0,1782.0,194.0,2144.0,264.0,$1782,$2144,$1441
+2024,6037502303,Census Tract 5023.03,West Whittier-Los Nietos,Los Angeles County,California,WestWhittier-LosNietos,1537.0,241.0,2028.0,212.0,2352.0,281.0,$2028,$2352,$1537

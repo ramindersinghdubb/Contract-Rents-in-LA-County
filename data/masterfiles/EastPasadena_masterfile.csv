@@ -23,3 +23,4 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037463103,Census Tract 4631.03,East Pasadena,Los Angeles County,California,EastPasadena,1364.0,146.0,1831.0,226.0,2380.0,279.0,$1831,$2380,$1364
 2022,6037463103,Census Tract 4631.03,East Pasadena,Los Angeles County,California,EastPasadena,1419.0,180.0,1891.0,276.0,2542.0,1343.0,$1891,$2542,$1419
 2023,6037463103,Census Tract 4631.03,East Pasadena,Los Angeles County,California,EastPasadena,1384.0,112.0,1951.0,533.0,2442.0,1136.0,$1951,$2442,$1384
+2024,6037463103,Census Tract 4631.03,East Pasadena,Los Angeles County,California,EastPasadena,1425.0,188.0,2161.0,372.0,3123.0,978.0,$2161,$3123,$1425

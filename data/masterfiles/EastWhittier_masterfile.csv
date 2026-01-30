@@ -23,3 +23,5 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1349.0,200.0,1652.0,96.0,1894.0,72.0,$1652,$1894,$1349
 2023,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,1330.0,75.0,1498.0,140.0,1840.0,137.0,$1498,$1840,$1330
 2023,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1246.0,194.0,1666.0,195.0,2030.0,293.0,$1666,$2030,$1246
+2024,6037503701,Census Tract 5037.01,East Whittier,Los Angeles County,California,EastWhittier,1404.0,106.0,1658.0,118.0,1919.0,105.0,$1658,$1919,$1404
+2024,6037503702,Census Tract 5037.02,East Whittier,Los Angeles County,California,EastWhittier,1461.0,309.0,1736.0,130.0,1984.0,219.0,$1736,$1984,$1461

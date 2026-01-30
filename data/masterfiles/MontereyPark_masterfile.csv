@@ -209,3 +209,18 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037482702,Census Tract 4827.02,Monterey Park,Los Angeles County,California,MontereyPark,1491.0,232.0,1738.0,153.0,1979.0,658.0,$1738,$1979,$1491
 2023,6037482801,Census Tract 4828.01,Monterey Park,Los Angeles County,California,MontereyPark,639.0,282.0,1410.0,550.0,2093.0,248.0,$1410,$2093,$639
 2023,6037530400,Census Tract 5304,Monterey Park,Los Angeles County,California,MontereyPark,318.0,66.0,539.0,339.0,1408.0,437.0,$539,$1408,$318
+2024,6037481711,Census Tract 4817.11,Monterey Park,Los Angeles County,California,MontereyPark,1394.0,262.0,1696.0,75.0,1924.0,75.0,$1696,$1924,$1394
+2024,6037481712,Census Tract 4817.12,Monterey Park,Los Angeles County,California,MontereyPark,1311.0,436.0,1712.0,87.0,1996.0,223.0,$1712,$1996,$1311
+2024,6037481713,Census Tract 4817.13,Monterey Park,Los Angeles County,California,MontereyPark,1448.0,232.0,1953.0,261.0,2395.0,401.0,$1953,$2395,$1448
+2024,6037481714,Census Tract 4817.14,Monterey Park,Los Angeles County,California,MontereyPark,945.0,355.0,1365.0,279.0,1895.0,141.0,$1365,$1895,$945
+2024,6037482001,Census Tract 4820.01,Monterey Park,Los Angeles County,California,MontereyPark,1440.0,617.0,2250.0,1341.0,3501.0,,$2250,Not available. Exceeds $3500!,$1440
+2024,6037482002,Census Tract 4820.02,Monterey Park,Los Angeles County,California,MontereyPark,1638.0,202.0,2123.0,334.0,2791.0,457.0,$2123,$2791,$1638
+2024,6037482101,Census Tract 4821.01,Monterey Park,Los Angeles County,California,MontereyPark,1367.0,168.0,1688.0,150.0,2035.0,322.0,$1688,$2035,$1367
+2024,6037482102,Census Tract 4821.02,Monterey Park,Los Angeles County,California,MontereyPark,1809.0,789.0,2731.0,384.0,3190.0,278.0,$2731,$3190,$1809
+2024,6037482201,Census Tract 4822.01,Monterey Park,Los Angeles County,California,MontereyPark,1444.0,250.0,1826.0,145.0,2216.0,130.0,$1826,$2216,$1444
+2024,6037482202,Census Tract 4822.02,Monterey Park,Los Angeles County,California,MontereyPark,1453.0,172.0,1797.0,170.0,2284.0,352.0,$1797,$2284,$1453
+2024,6037482600,Census Tract 4826,Monterey Park,Los Angeles County,California,MontereyPark,955.0,771.0,2014.0,637.0,2466.0,422.0,$2014,$2466,$955
+2024,6037482701,Census Tract 4827.01,Monterey Park,Los Angeles County,California,MontereyPark,1521.0,407.0,1740.0,96.0,1958.0,694.0,$1740,$1958,$1521
+2024,6037482702,Census Tract 4827.02,Monterey Park,Los Angeles County,California,MontereyPark,1555.0,266.0,1730.0,91.0,1904.0,110.0,$1730,$1904,$1555
+2024,6037482801,Census Tract 4828.01,Monterey Park,Los Angeles County,California,MontereyPark,1111.0,506.0,1870.0,548.0,2279.0,124.0,$1870,$2279,$1111
+2024,6037530400,Census Tract 5304,Monterey Park,Los Angeles County,California,MontereyPark,339.0,167.0,868.0,340.0,1546.0,345.0,$868,$1546,$339

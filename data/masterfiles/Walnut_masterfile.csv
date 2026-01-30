@@ -141,3 +141,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037403408,Census Tract 4034.08,Walnut,Los Angeles County,California,Walnut,2438.0,376.0,2902.0,387.0,3277.0,264.0,$2902,$3277,$2438
 2023,6037403409,Census Tract 4034.09,Walnut,Los Angeles County,California,Walnut,2004.0,205.0,2287.0,149.0,2623.0,232.0,$2287,$2623,$2004
 2023,6037403500,Census Tract 4035,Walnut,Los Angeles County,California,Walnut,1639.0,602.0,2219.0,897.0,3015.0,475.0,$2219,$3015,$1639
+2024,6037403401,Census Tract 4034.01,Walnut,Los Angeles County,California,Walnut,2664.0,326.0,3097.0,325.0,3501.0,,$3097,Not available. Exceeds $3500!,$2664
+2024,6037403402,Census Tract 4034.02,Walnut,Los Angeles County,California,Walnut,2349.0,549.0,3239.0,998.0,3501.0,,$3239,Not available. Exceeds $3500!,$2349
+2024,6037403403,Census Tract 4034.03,Walnut,Los Angeles County,California,Walnut,3176.0,1479.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3176
+2024,6037403404,Census Tract 4034.04,Walnut,Los Angeles County,California,Walnut,2198.0,1254.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2198
+2024,6037403407,Census Tract 4034.07,Walnut,Los Angeles County,California,Walnut,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037403408,Census Tract 4034.08,Walnut,Los Angeles County,California,Walnut,2258.0,248.0,2716.0,422.0,3240.0,318.0,$2716,$3240,$2258
+2024,6037403409,Census Tract 4034.09,Walnut,Los Angeles County,California,Walnut,1895.0,232.0,2290.0,223.0,2939.0,603.0,$2290,$2939,$1895
+2024,6037403500,Census Tract 4035,Walnut,Los Angeles County,California,Walnut,1546.0,802.0,2156.0,1123.0,3113.0,370.0,$2156,$3113,$1546

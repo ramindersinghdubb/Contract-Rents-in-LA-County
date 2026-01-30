@@ -55,3 +55,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037534802,Census Tract 5348.02,Walnut Park,Los Angeles County,California,WalnutPark,1100.0,79.0,1301.0,130.0,1736.0,426.0,$1301,$1736,$1100
 2023,6037534803,Census Tract 5348.03,Walnut Park,Los Angeles County,California,WalnutPark,1083.0,105.0,1357.0,141.0,1834.0,282.0,$1357,$1834,$1083
 2023,6037534804,Census Tract 5348.04,Walnut Park,Los Angeles County,California,WalnutPark,945.0,168.0,1328.0,170.0,1640.0,230.0,$1328,$1640,$945
+2024,6037534700,Census Tract 5347,Walnut Park,Los Angeles County,California,WalnutPark,1031.0,422.0,1635.0,660.0,2239.0,273.0,$1635,$2239,$1031
+2024,6037534802,Census Tract 5348.02,Walnut Park,Los Angeles County,California,WalnutPark,1132.0,96.0,1355.0,126.0,1692.0,246.0,$1355,$1692,$1132
+2024,6037534803,Census Tract 5348.03,Walnut Park,Los Angeles County,California,WalnutPark,1070.0,101.0,1341.0,125.0,1799.0,269.0,$1341,$1799,$1070
+2024,6037534804,Census Tract 5348.04,Walnut Park,Los Angeles County,California,WalnutPark,931.0,128.0,1399.0,292.0,1839.0,150.0,$1399,$1839,$931

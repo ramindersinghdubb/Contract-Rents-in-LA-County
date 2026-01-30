@@ -265,3 +265,17 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037533504,Census Tract 5335.04,Huntington Park,Los Angeles County,California,HuntingtonPark,1152.0,142.0,1381.0,77.0,1660.0,152.0,$1381,$1660,$1152
 2023,6037534501,Census Tract 5345.01,Huntington Park,Los Angeles County,California,HuntingtonPark,1224.0,123.0,1406.0,72.0,1724.0,200.0,$1406,$1724,$1224
 2023,6037534502,Census Tract 5345.02,Huntington Park,Los Angeles County,California,HuntingtonPark,938.0,192.0,1328.0,101.0,1489.0,400.0,$1328,$1489,$938
+2024,6037532500,Census Tract 5325,Huntington Park,Los Angeles County,California,HuntingtonPark,1049.0,230.0,1379.0,119.0,1760.0,235.0,$1379,$1760,$1049
+2024,6037532605,Census Tract 5326.05,Huntington Park,Los Angeles County,California,HuntingtonPark,950.0,154.0,1401.0,202.0,1841.0,454.0,$1401,$1841,$950
+2024,6037532606,Census Tract 5326.06,Huntington Park,Los Angeles County,California,HuntingtonPark,1081.0,69.0,1314.0,85.0,1627.0,164.0,$1314,$1627,$1081
+2024,6037532607,Census Tract 5326.07,Huntington Park,Los Angeles County,California,HuntingtonPark,1022.0,70.0,1229.0,93.0,1668.0,175.0,$1229,$1668,$1022
+2024,6037533103,Census Tract 5331.03,Huntington Park,Los Angeles County,California,HuntingtonPark,1161.0,85.0,1441.0,126.0,1778.0,91.0,$1441,$1778,$1161
+2024,6037533104,Census Tract 5331.04,Huntington Park,Los Angeles County,California,HuntingtonPark,1051.0,51.0,1248.0,97.0,1602.0,193.0,$1248,$1602,$1051
+2024,6037533105,Census Tract 5331.05,Huntington Park,Los Angeles County,California,HuntingtonPark,1269.0,225.0,1614.0,135.0,1898.0,118.0,$1614,$1898,$1269
+2024,6037533108,Census Tract 5331.08,Huntington Park,Los Angeles County,California,HuntingtonPark,1132.0,68.0,1371.0,84.0,1676.0,120.0,$1371,$1676,$1132
+2024,6037533201,Census Tract 5332.01,Huntington Park,Los Angeles County,California,HuntingtonPark,1102.0,93.0,1440.0,282.0,1748.0,86.0,$1440,$1748,$1102
+2024,6037533204,Census Tract 5332.04,Huntington Park,Los Angeles County,California,HuntingtonPark,1051.0,86.0,1283.0,413.0,1822.0,122.0,$1283,$1822,$1051
+2024,6037533501,Census Tract 5335.01,Huntington Park,Los Angeles County,California,HuntingtonPark,1115.0,74.0,1390.0,175.0,1723.0,99.0,$1390,$1723,$1115
+2024,6037533504,Census Tract 5335.04,Huntington Park,Los Angeles County,California,HuntingtonPark,1282.0,107.0,1443.0,70.0,1778.0,159.0,$1443,$1778,$1282
+2024,6037534501,Census Tract 5345.01,Huntington Park,Los Angeles County,California,HuntingtonPark,1238.0,120.0,1408.0,76.0,1708.0,163.0,$1408,$1708,$1238
+2024,6037534502,Census Tract 5345.02,Huntington Park,Los Angeles County,California,HuntingtonPark,942.0,379.0,1432.0,254.0,1989.0,402.0,$1432,$1989,$942

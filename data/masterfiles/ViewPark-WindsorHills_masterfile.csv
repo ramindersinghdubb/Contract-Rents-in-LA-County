@@ -27,3 +27,5 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037703200,Census Tract 7032,View Park-Windsor Hills,Los Angeles County,California,ViewPark-WindsorHills,1323.0,109.0,1566.0,310.0,3501.0,,$1566,Not available. Exceeds $3500!,$1323
 2023,6037703100,Census Tract 7031,View Park-Windsor Hills,Los Angeles County,California,ViewPark-WindsorHills,1237.0,218.0,1572.0,226.0,1942.0,186.0,$1572,$1942,$1237
 2023,6037703200,Census Tract 7032,View Park-Windsor Hills,Los Angeles County,California,ViewPark-WindsorHills,1337.0,105.0,1573.0,328.0,3501.0,,$1573,Not available. Exceeds $3500!,$1337
+2024,6037703100,Census Tract 7031,View Park-Windsor Hills,Los Angeles County,California,ViewPark-WindsorHills,1166.0,239.0,1454.0,280.0,1907.0,396.0,$1454,$1907,$1166
+2024,6037703200,Census Tract 7032,View Park-Windsor Hills,Los Angeles County,California,ViewPark-WindsorHills,1589.0,283.0,2695.0,1799.0,3501.0,,$2695,Not available. Exceeds $3500!,$1589

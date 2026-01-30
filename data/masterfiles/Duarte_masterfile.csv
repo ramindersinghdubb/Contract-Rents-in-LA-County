@@ -59,3 +59,8 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037430005,Census Tract 4300.05,Duarte,Los Angeles County,California,Duarte,2062.0,595.0,2791.0,959.0,3228.0,401.0,$2791,$3228,$2062
 2023,6037430101,Census Tract 4301.01,Duarte,Los Angeles County,California,Duarte,775.0,526.0,1392.0,184.0,1951.0,253.0,$1392,$1951,$775
 2023,6037430102,Census Tract 4301.02,Duarte,Los Angeles County,California,Duarte,1205.0,205.0,1717.0,521.0,2254.0,276.0,$1717,$2254,$1205
+2024,6037430003,Census Tract 4300.03,Duarte,Los Angeles County,California,Duarte,2308.0,320.0,3315.0,508.0,3501.0,,$3315,Not available. Exceeds $3500!,$2308
+2024,6037430004,Census Tract 4300.04,Duarte,Los Angeles County,California,Duarte,1635.0,146.0,1980.0,253.0,2477.0,329.0,$1980,$2477,$1635
+2024,6037430005,Census Tract 4300.05,Duarte,Los Angeles County,California,Duarte,2238.0,307.0,3030.0,979.0,3281.0,206.0,$3030,$3281,$2238
+2024,6037430101,Census Tract 4301.01,Duarte,Los Angeles County,California,Duarte,845.0,672.0,1416.0,139.0,2004.0,298.0,$1416,$2004,$845
+2024,6037430102,Census Tract 4301.02,Duarte,Los Angeles County,California,Duarte,1150.0,164.0,1699.0,487.0,2237.0,293.0,$1699,$2237,$1150

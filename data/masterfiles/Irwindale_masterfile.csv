@@ -33,3 +33,4 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2021,6037404600,Census Tract 4046,Irwindale,Los Angeles County,California,Irwindale,380.0,46.0,900.0,705.0,1475.0,498.0,$900,$1475,$380
 2022,6037404600,Census Tract 4046,Irwindale,Los Angeles County,California,Irwindale,380.0,348.0,1446.0,1219.0,2330.0,252.0,$1446,$2330,$380
 2023,6037404600,Census Tract 4046,Irwindale,Los Angeles County,California,Irwindale,1050.0,838.0,2022.0,1024.0,2435.0,252.0,$2022,$2435,$1050
+2024,6037404600,Census Tract 4046,Irwindale,Los Angeles County,California,Irwindale,1172.0,370.0,1494.0,900.0,2308.0,191.0,$1494,$2308,$1172

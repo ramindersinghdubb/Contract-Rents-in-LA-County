@@ -14883,3 +14883,1124 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037980031,Census Tract 9800.31,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
 2023,6037980039,Census Tract 9800.39,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
 2023,6037990200,Census Tract 9902,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037101110,Census Tract 1011.10,Los Angeles,Los Angeles County,California,LosAngeles,1255.0,348.0,1776.0,360.0,2440.0,393.0,$1776,$2440,$1255
+2024,6037101122,Census Tract 1011.22,Los Angeles,Los Angeles County,California,LosAngeles,1695.0,1186.0,3153.0,1039.0,3501.0,,$3153,Not available. Exceeds $3500!,$1695
+2024,6037101220,Census Tract 1012.20,Los Angeles,Los Angeles County,California,LosAngeles,892.0,229.0,1367.0,104.0,2072.0,438.0,$1367,$2072,$892
+2024,6037101221,Census Tract 1012.21,Los Angeles,Los Angeles County,California,LosAngeles,1348.0,150.0,1693.0,126.0,2100.0,333.0,$1693,$2100,$1348
+2024,6037101222,Census Tract 1012.22,Los Angeles,Los Angeles County,California,LosAngeles,1155.0,126.0,1521.0,233.0,2071.0,222.0,$1521,$2071,$1155
+2024,6037101300,Census Tract 1013,Los Angeles,Los Angeles County,California,LosAngeles,2011.0,405.0,2468.0,311.0,2955.0,477.0,$2468,$2955,$2011
+2024,6037101400,Census Tract 1014,Los Angeles,Los Angeles County,California,LosAngeles,1525.0,225.0,1836.0,292.0,2467.0,699.0,$1836,$2467,$1525
+2024,6037102103,Census Tract 1021.03,Los Angeles,Los Angeles County,California,LosAngeles,1450.0,209.0,1865.0,359.0,2745.0,181.0,$1865,$2745,$1450
+2024,6037102104,Census Tract 1021.04,Los Angeles,Los Angeles County,California,LosAngeles,2679.0,254.0,3142.0,321.0,3501.0,,$3142,Not available. Exceeds $3500!,$2679
+2024,6037102105,Census Tract 1021.05,Los Angeles,Los Angeles County,California,LosAngeles,1375.0,426.0,1706.0,129.0,1936.0,122.0,$1706,$1936,$1375
+2024,6037102107,Census Tract 1021.07,Los Angeles,Los Angeles County,California,LosAngeles,,,2125.0,1670.0,2929.0,1201.0,$2125,$2929,
+2024,6037103101,Census Tract 1031.01,Los Angeles,Los Angeles County,California,LosAngeles,1122.0,126.0,1243.0,228.0,1469.0,1262.0,$1243,$1469,$1122
+2024,6037103102,Census Tract 1031.02,Los Angeles,Los Angeles County,California,LosAngeles,,,1418.0,307.0,2205.0,472.0,$1418,$2205,
+2024,6037103201,Census Tract 1032.01,Los Angeles,Los Angeles County,California,LosAngeles,934.0,378.0,1518.0,349.0,2174.0,391.0,$1518,$2174,$934
+2024,6037103202,Census Tract 1032.02,Los Angeles,Los Angeles County,California,LosAngeles,,,,,3231.0,1091.0,,$3231,
+2024,6037103300,Census Tract 1033,Los Angeles,Los Angeles County,California,LosAngeles,1679.0,190.0,1945.0,1139.0,3481.0,1774.0,$1945,$3481,$1679
+2024,6037103401,Census Tract 1034.01,Los Angeles,Los Angeles County,California,LosAngeles,1589.0,233.0,2037.0,407.0,2591.0,281.0,$2037,$2591,$1589
+2024,6037103402,Census Tract 1034.02,Los Angeles,Los Angeles County,California,LosAngeles,799.0,208.0,1234.0,192.0,1659.0,336.0,$1234,$1659,$799
+2024,6037104103,Census Tract 1041.03,Los Angeles,Los Angeles County,California,LosAngeles,1431.0,853.0,2175.0,364.0,2456.0,342.0,$2175,$2456,$1431
+2024,6037104105,Census Tract 1041.05,Los Angeles,Los Angeles County,California,LosAngeles,617.0,361.0,1290.0,189.0,1814.0,246.0,$1290,$1814,$617
+2024,6037104108,Census Tract 1041.08,Los Angeles,Los Angeles County,California,LosAngeles,1301.0,376.0,1708.0,110.0,1983.0,236.0,$1708,$1983,$1301
+2024,6037104124,Census Tract 1041.24,Los Angeles,Los Angeles County,California,LosAngeles,850.0,62.0,,,2748.0,397.0,,$2748,$850
+2024,6037104201,Census Tract 1042.01,Los Angeles,Los Angeles County,California,LosAngeles,1720.0,555.0,2189.0,167.0,2465.0,983.0,$2189,$2465,$1720
+2024,6037104203,Census Tract 1042.03,Los Angeles,Los Angeles County,California,LosAngeles,1178.0,167.0,1556.0,257.0,1946.0,228.0,$1556,$1946,$1178
+2024,6037104204,Census Tract 1042.04,Los Angeles,Los Angeles County,California,LosAngeles,411.0,148.0,,,1668.0,246.0,,$1668,$411
+2024,6037104310,Census Tract 1043.10,Los Angeles,Los Angeles County,California,LosAngeles,1250.0,307.0,1653.0,214.0,1943.0,287.0,$1653,$1943,$1250
+2024,6037104321,Census Tract 1043.21,Los Angeles,Los Angeles County,California,LosAngeles,825.0,105.0,883.0,493.0,1355.0,814.0,$883,$1355,$825
+2024,6037104322,Census Tract 1043.22,Los Angeles,Los Angeles County,California,LosAngeles,926.0,37.0,976.0,349.0,1431.0,1246.0,$976,$1431,$926
+2024,6037104401,Census Tract 1044.01,Los Angeles,Los Angeles County,California,LosAngeles,1249.0,348.0,1755.0,246.0,2318.0,556.0,$1755,$2318,$1249
+2024,6037104403,Census Tract 1044.03,Los Angeles,Los Angeles County,California,LosAngeles,1714.0,717.0,2260.0,224.0,2636.0,316.0,$2260,$2636,$1714
+2024,6037104404,Census Tract 1044.04,Los Angeles,Los Angeles County,California,LosAngeles,1206.0,205.0,1655.0,310.0,2114.0,244.0,$1655,$2114,$1206
+2024,6037104500,Census Tract 1045,Los Angeles,Los Angeles County,California,LosAngeles,1413.0,1269.0,2250.0,283.0,2805.0,837.0,$2250,$2805,$1413
+2024,6037104610,Census Tract 1046.10,Los Angeles,Los Angeles County,California,LosAngeles,1069.0,126.0,1688.0,729.0,2412.0,514.0,$1688,$2412,$1069
+2024,6037104620,Census Tract 1046.20,Los Angeles,Los Angeles County,California,LosAngeles,1193.0,418.0,1643.0,236.0,1883.0,129.0,$1643,$1883,$1193
+2024,6037104701,Census Tract 1047.01,Los Angeles,Los Angeles County,California,LosAngeles,544.0,232.0,1088.0,171.0,1476.0,258.0,$1088,$1476,$544
+2024,6037104703,Census Tract 1047.03,Los Angeles,Los Angeles County,California,LosAngeles,1101.0,111.0,1671.0,179.0,2065.0,261.0,$1671,$2065,$1101
+2024,6037104704,Census Tract 1047.04,Los Angeles,Los Angeles County,California,LosAngeles,1627.0,90.0,1851.0,97.0,2233.0,352.0,$1851,$2233,$1627
+2024,6037104821,Census Tract 1048.21,Los Angeles,Los Angeles County,California,LosAngeles,835.0,392.0,1481.0,192.0,1922.0,179.0,$1481,$1922,$835
+2024,6037104822,Census Tract 1048.22,Los Angeles,Los Angeles County,California,LosAngeles,531.0,499.0,1461.0,562.0,2100.0,245.0,$1461,$2100,$531
+2024,6037104823,Census Tract 1048.23,Los Angeles,Los Angeles County,California,LosAngeles,1551.0,919.0,2300.0,1921.0,3501.0,,$2300,Not available. Exceeds $3500!,$1551
+2024,6037104824,Census Tract 1048.24,Los Angeles,Los Angeles County,California,LosAngeles,854.0,92.0,1046.0,293.0,,,$1046,,$854
+2024,6037106010,Census Tract 1060.10,Los Angeles,Los Angeles County,California,LosAngeles,1159.0,494.0,1953.0,677.0,2650.0,261.0,$1953,$2650,$1159
+2024,6037106020,Census Tract 1060.20,Los Angeles,Los Angeles County,California,LosAngeles,1746.0,233.0,1993.0,1130.0,2991.0,556.0,$1993,$2991,$1746
+2024,6037106111,Census Tract 1061.11,Los Angeles,Los Angeles County,California,LosAngeles,518.0,11.0,,,,,,,$518
+2024,6037106112,Census Tract 1061.12,Los Angeles,Los Angeles County,California,LosAngeles,1769.0,657.0,2332.0,411.0,2694.0,232.0,$2332,$2694,$1769
+2024,6037106113,Census Tract 1061.13,Los Angeles,Los Angeles County,California,LosAngeles,1179.0,693.0,1672.0,439.0,1909.0,271.0,$1672,$1909,$1179
+2024,6037106114,Census Tract 1061.14,Los Angeles,Los Angeles County,California,LosAngeles,1279.0,278.0,1578.0,204.0,2066.0,165.0,$1578,$2066,$1279
+2024,6037106403,Census Tract 1064.03,Los Angeles,Los Angeles County,California,LosAngeles,1054.0,590.0,1774.0,713.0,2255.0,273.0,$1774,$2255,$1054
+2024,6037106405,Census Tract 1064.05,Los Angeles,Los Angeles County,California,LosAngeles,387.0,127.0,,,1638.0,1174.0,,$1638,$387
+2024,6037106406,Census Tract 1064.06,Los Angeles,Los Angeles County,California,LosAngeles,1410.0,857.0,2297.0,560.0,2806.0,432.0,$2297,$2806,$1410
+2024,6037106407,Census Tract 1064.07,Los Angeles,Los Angeles County,California,LosAngeles,347.0,280.0,1646.0,256.0,2165.0,125.0,$1646,$2165,$347
+2024,6037106408,Census Tract 1064.08,Los Angeles,Los Angeles County,California,LosAngeles,1227.0,155.0,1747.0,129.0,2157.0,98.0,$1747,$2157,$1227
+2024,6037106510,Census Tract 1065.10,Los Angeles,Los Angeles County,California,LosAngeles,1631.0,413.0,2165.0,370.0,2758.0,723.0,$2165,$2758,$1631
+2024,6037106520,Census Tract 1065.20,Los Angeles,Los Angeles County,California,LosAngeles,1577.0,269.0,1900.0,283.0,2677.0,530.0,$1900,$2677,$1577
+2024,6037106603,Census Tract 1066.03,Los Angeles,Los Angeles County,California,LosAngeles,1112.0,646.0,1679.0,458.0,1943.0,372.0,$1679,$1943,$1112
+2024,6037106604,Census Tract 1066.04,Los Angeles,Los Angeles County,California,LosAngeles,1269.0,370.0,1696.0,182.0,2451.0,991.0,$1696,$2451,$1269
+2024,6037106641,Census Tract 1066.41,Los Angeles,Los Angeles County,California,LosAngeles,3188.0,917.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3188
+2024,6037106642,Census Tract 1066.42,Los Angeles,Los Angeles County,California,LosAngeles,2263.0,693.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2263
+2024,6037106643,Census Tract 1066.43,Los Angeles,Los Angeles County,California,LosAngeles,,,,,3501.0,,,Not available. Exceeds $3500!,
+2024,6037106645,Census Tract 1066.45,Los Angeles,Los Angeles County,California,LosAngeles,2288.0,1918.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2288
+2024,6037106646,Census Tract 1066.46,Los Angeles,Los Angeles County,California,LosAngeles,1163.0,571.0,2050.0,885.0,2450.0,2397.0,$2050,$2450,$1163
+2024,6037106648,Census Tract 1066.48,Los Angeles,Los Angeles County,California,LosAngeles,1001.0,329.0,1537.0,489.0,1973.0,259.0,$1537,$1973,$1001
+2024,6037106649,Census Tract 1066.49,Los Angeles,Los Angeles County,California,LosAngeles,1558.0,1439.0,2703.0,1058.0,3092.0,429.0,$2703,$3092,$1558
+2024,6037107010,Census Tract 1070.10,Los Angeles,Los Angeles County,California,LosAngeles,1642.0,285.0,2047.0,284.0,2437.0,291.0,$2047,$2437,$1642
+2024,6037107020,Census Tract 1070.20,Los Angeles,Los Angeles County,California,LosAngeles,1490.0,346.0,2012.0,379.0,2329.0,206.0,$2012,$2329,$1490
+2024,6037108101,Census Tract 1081.01,Los Angeles,Los Angeles County,California,LosAngeles,2702.0,220.0,2903.0,828.0,3501.0,,$2903,Not available. Exceeds $3500!,$2702
+2024,6037108102,Census Tract 1081.02,Los Angeles,Los Angeles County,California,LosAngeles,1951.0,501.0,2795.0,1015.0,3501.0,,$2795,Not available. Exceeds $3500!,$1951
+2024,6037108103,Census Tract 1081.03,Los Angeles,Los Angeles County,California,LosAngeles,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037108104,Census Tract 1081.04,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037108202,Census Tract 1082.02,Los Angeles,Los Angeles County,California,LosAngeles,2255.0,752.0,3284.0,509.0,3501.0,,$3284,Not available. Exceeds $3500!,$2255
+2024,6037108203,Census Tract 1082.03,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037108204,Census Tract 1082.04,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037109100,Census Tract 1091,Los Angeles,Los Angeles County,California,LosAngeles,964.0,200.0,1426.0,560.0,2253.0,275.0,$1426,$2253,$964
+2024,6037109200,Census Tract 1092,Los Angeles,Los Angeles County,California,LosAngeles,2271.0,364.0,2681.0,440.0,3138.0,445.0,$2681,$3138,$2271
+2024,6037109300,Census Tract 1093,Los Angeles,Los Angeles County,California,LosAngeles,2098.0,281.0,2466.0,319.0,2927.0,325.0,$2466,$2927,$2098
+2024,6037109400,Census Tract 1094,Los Angeles,Los Angeles County,California,LosAngeles,1553.0,371.0,2000.0,408.0,2350.0,297.0,$2000,$2350,$1553
+2024,6037109500,Census Tract 1095,Los Angeles,Los Angeles County,California,LosAngeles,1570.0,113.0,1771.0,96.0,1973.0,273.0,$1771,$1973,$1570
+2024,6037109601,Census Tract 1096.01,Los Angeles,Los Angeles County,California,LosAngeles,2207.0,405.0,2628.0,356.0,2974.0,410.0,$2628,$2974,$2207
+2024,6037109603,Census Tract 1096.03,Los Angeles,Los Angeles County,California,LosAngeles,1327.0,192.0,1671.0,113.0,1949.0,107.0,$1671,$1949,$1327
+2024,6037109604,Census Tract 1096.04,Los Angeles,Los Angeles County,California,LosAngeles,956.0,106.0,1174.0,171.0,1543.0,519.0,$1174,$1543,$956
+2024,6037109700,Census Tract 1097,Los Angeles,Los Angeles County,California,LosAngeles,1697.0,271.0,2128.0,355.0,2718.0,744.0,$2128,$2718,$1697
+2024,6037109800,Census Tract 1098,Los Angeles,Los Angeles County,California,LosAngeles,,,1772.0,338.0,2304.0,404.0,$1772,$2304,
+2024,6037111100,Census Tract 1111,Los Angeles,Los Angeles County,California,LosAngeles,1697.0,117.0,1966.0,453.0,2959.0,803.0,$1966,$2959,$1697
+2024,6037111201,Census Tract 1112.01,Los Angeles,Los Angeles County,California,LosAngeles,2558.0,764.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2558
+2024,6037111202,Census Tract 1112.02,Los Angeles,Los Angeles County,California,LosAngeles,1842.0,242.0,2531.0,353.0,2928.0,194.0,$2531,$2928,$1842
+2024,6037111204,Census Tract 1112.04,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037111205,Census Tract 1112.05,Los Angeles,Los Angeles County,California,LosAngeles,1699.0,124.0,1951.0,335.0,2571.0,475.0,$1951,$2571,$1699
+2024,6037111206,Census Tract 1112.06,Los Angeles,Los Angeles County,California,LosAngeles,2607.0,218.0,2859.0,444.0,3501.0,,$2859,Not available. Exceeds $3500!,$2607
+2024,6037111302,Census Tract 1113.02,Los Angeles,Los Angeles County,California,LosAngeles,1639.0,60.0,1869.0,117.0,2324.0,376.0,$1869,$2324,$1639
+2024,6037111303,Census Tract 1113.03,Los Angeles,Los Angeles County,California,LosAngeles,1701.0,486.0,2220.0,253.0,2972.0,1588.0,$2220,$2972,$1701
+2024,6037111304,Census Tract 1113.04,Los Angeles,Los Angeles County,California,LosAngeles,1320.0,89.0,1510.0,186.0,1928.0,168.0,$1510,$1928,$1320
+2024,6037111401,Census Tract 1114.01,Los Angeles,Los Angeles County,California,LosAngeles,1773.0,537.0,2426.0,724.0,3287.0,446.0,$2426,$3287,$1773
+2024,6037111402,Census Tract 1114.02,Los Angeles,Los Angeles County,California,LosAngeles,753.0,627.0,1429.0,165.0,1853.0,181.0,$1429,$1853,$753
+2024,6037113101,Census Tract 1131.01,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037113102,Census Tract 1131.02,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037113211,Census Tract 1132.11,Los Angeles,Los Angeles County,California,LosAngeles,2508.0,2174.0,2912.0,325.0,3305.0,215.0,$2912,$3305,$2508
+2024,6037113212,Census Tract 1132.12,Los Angeles,Los Angeles County,California,LosAngeles,1715.0,96.0,1961.0,246.0,2558.0,345.0,$1961,$2558,$1715
+2024,6037113213,Census Tract 1132.13,Los Angeles,Los Angeles County,California,LosAngeles,1678.0,217.0,2214.0,187.0,2699.0,249.0,$2214,$2699,$1678
+2024,6037113231,Census Tract 1132.31,Los Angeles,Los Angeles County,California,LosAngeles,1657.0,885.0,2676.0,1409.0,3391.0,888.0,$2676,$3391,$1657
+2024,6037113232,Census Tract 1132.32,Los Angeles,Los Angeles County,California,LosAngeles,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037113234,Census Tract 1132.34,Los Angeles,Los Angeles County,California,LosAngeles,1014.0,600.0,1674.0,185.0,2115.0,298.0,$1674,$2115,$1014
+2024,6037113235,Census Tract 1132.35,Los Angeles,Los Angeles County,California,LosAngeles,2033.0,486.0,2243.0,107.0,2452.0,135.0,$2243,$2452,$2033
+2024,6037113237,Census Tract 1132.37,Los Angeles,Los Angeles County,California,LosAngeles,1670.0,1487.0,2346.0,321.0,3143.0,544.0,$2346,$3143,$1670
+2024,6037113238,Census Tract 1132.38,Los Angeles,Los Angeles County,California,LosAngeles,1424.0,114.0,1741.0,145.0,2428.0,627.0,$1741,$2428,$1424
+2024,6037113239,Census Tract 1132.39,Los Angeles,Los Angeles County,California,LosAngeles,1096.0,150.0,1506.0,250.0,1798.0,86.0,$1506,$1798,$1096
+2024,6037113301,Census Tract 1133.01,Los Angeles,Los Angeles County,California,LosAngeles,2614.0,111.0,2938.0,135.0,3501.0,,$2938,Not available. Exceeds $3500!,$2614
+2024,6037113303,Census Tract 1133.03,Los Angeles,Los Angeles County,California,LosAngeles,2225.0,1678.0,3258.0,236.0,3501.0,,$3258,Not available. Exceeds $3500!,$2225
+2024,6037113322,Census Tract 1133.22,Los Angeles,Los Angeles County,California,LosAngeles,1691.0,82.0,1882.0,496.0,3214.0,1505.0,$1882,$3214,$1691
+2024,6037113323,Census Tract 1133.23,Los Angeles,Los Angeles County,California,LosAngeles,1104.0,124.0,1607.0,161.0,1977.0,178.0,$1607,$1977,$1104
+2024,6037113324,Census Tract 1133.24,Los Angeles,Los Angeles County,California,LosAngeles,1749.0,168.0,2050.0,204.0,2281.0,115.0,$2050,$2281,$1749
+2024,6037113423,Census Tract 1134.23,Los Angeles,Los Angeles County,California,LosAngeles,1096.0,167.0,1444.0,478.0,2039.0,688.0,$1444,$2039,$1096
+2024,6037113424,Census Tract 1134.24,Los Angeles,Los Angeles County,California,LosAngeles,,,2240.0,166.0,2588.0,292.0,$2240,$2588,
+2024,6037113425,Census Tract 1134.25,Los Angeles,Los Angeles County,California,LosAngeles,1611.0,99.0,1996.0,142.0,2381.0,130.0,$1996,$2381,$1611
+2024,6037113426,Census Tract 1134.26,Los Angeles,Los Angeles County,California,LosAngeles,,,1692.0,174.0,2091.0,316.0,$1692,$2091,
+2024,6037113427,Census Tract 1134.27,Los Angeles,Los Angeles County,California,LosAngeles,1574.0,87.0,1790.0,89.0,2031.0,413.0,$1790,$2031,$1574
+2024,6037113428,Census Tract 1134.28,Los Angeles,Los Angeles County,California,LosAngeles,2226.0,291.0,2497.0,453.0,2930.0,1603.0,$2497,$2930,$2226
+2024,6037115101,Census Tract 1151.01,Los Angeles,Los Angeles County,California,LosAngeles,,,2165.0,1187.0,3009.0,1359.0,$2165,$3009,
+2024,6037115103,Census Tract 1151.03,Los Angeles,Los Angeles County,California,LosAngeles,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037115104,Census Tract 1151.04,Los Angeles,Los Angeles County,California,LosAngeles,1603.0,243.0,2115.0,114.0,2419.0,91.0,$2115,$2419,$1603
+2024,6037115202,Census Tract 1152.02,Los Angeles,Los Angeles County,California,LosAngeles,1608.0,142.0,1998.0,290.0,2706.0,188.0,$1998,$2706,$1608
+2024,6037115203,Census Tract 1152.03,Los Angeles,Los Angeles County,California,LosAngeles,1528.0,286.0,2011.0,218.0,2421.0,216.0,$2011,$2421,$1528
+2024,6037115204,Census Tract 1152.04,Los Angeles,Los Angeles County,California,LosAngeles,1567.0,89.0,1821.0,85.0,2260.0,367.0,$1821,$2260,$1567
+2024,6037115301,Census Tract 1153.01,Los Angeles,Los Angeles County,California,LosAngeles,1578.0,402.0,2140.0,146.0,2457.0,222.0,$2140,$2457,$1578
+2024,6037115302,Census Tract 1153.02,Los Angeles,Los Angeles County,California,LosAngeles,1314.0,137.0,1670.0,171.0,2077.0,266.0,$1670,$2077,$1314
+2024,6037115401,Census Tract 1154.01,Los Angeles,Los Angeles County,California,LosAngeles,1505.0,206.0,1743.0,81.0,1981.0,212.0,$1743,$1981,$1505
+2024,6037115403,Census Tract 1154.03,Los Angeles,Los Angeles County,California,LosAngeles,1230.0,161.0,1419.0,85.0,2124.0,330.0,$1419,$2124,$1230
+2024,6037115404,Census Tract 1154.04,Los Angeles,Los Angeles County,California,LosAngeles,1500.0,466.0,1821.0,142.0,2483.0,449.0,$1821,$2483,$1500
+2024,6037117101,Census Tract 1171.01,Los Angeles,Los Angeles County,California,LosAngeles,1062.0,77.0,1237.0,743.0,2105.0,376.0,$1237,$2105,$1062
+2024,6037117102,Census Tract 1171.02,Los Angeles,Los Angeles County,California,LosAngeles,1660.0,330.0,2016.0,370.0,2492.0,330.0,$2016,$2492,$1660
+2024,6037117201,Census Tract 1172.01,Los Angeles,Los Angeles County,California,LosAngeles,1103.0,223.0,1448.0,137.0,2123.0,521.0,$1448,$2123,$1103
+2024,6037117202,Census Tract 1172.02,Los Angeles,Los Angeles County,California,LosAngeles,606.0,385.0,825.0,680.0,2384.0,1403.0,$825,$2384,$606
+2024,6037117301,Census Tract 1173.01,Los Angeles,Los Angeles County,California,LosAngeles,2881.0,378.0,3462.0,469.0,3501.0,,$3462,Not available. Exceeds $3500!,$2881
+2024,6037117302,Census Tract 1173.02,Los Angeles,Los Angeles County,California,LosAngeles,1177.0,787.0,1764.0,135.0,2161.0,606.0,$1764,$2161,$1177
+2024,6037117303,Census Tract 1173.03,Los Angeles,Los Angeles County,California,LosAngeles,2071.0,1516.0,2343.0,535.0,3501.0,,$2343,Not available. Exceeds $3500!,$2071
+2024,6037117404,Census Tract 1174.04,Los Angeles,Los Angeles County,California,LosAngeles,1322.0,152.0,1897.0,805.0,2388.0,309.0,$1897,$2388,$1322
+2024,6037117405,Census Tract 1174.05,Los Angeles,Los Angeles County,California,LosAngeles,1161.0,133.0,1553.0,214.0,2070.0,200.0,$1553,$2070,$1161
+2024,6037117407,Census Tract 1174.07,Los Angeles,Los Angeles County,California,LosAngeles,1317.0,67.0,1564.0,110.0,1887.0,104.0,$1564,$1887,$1317
+2024,6037117408,Census Tract 1174.08,Los Angeles,Los Angeles County,California,LosAngeles,1140.0,65.0,1536.0,130.0,1877.0,83.0,$1536,$1877,$1140
+2024,6037117510,Census Tract 1175.10,Los Angeles,Los Angeles County,California,LosAngeles,1580.0,175.0,1962.0,189.0,2273.0,100.0,$1962,$2273,$1580
+2024,6037117520,Census Tract 1175.20,Los Angeles,Los Angeles County,California,LosAngeles,1280.0,118.0,1578.0,149.0,1925.0,119.0,$1578,$1925,$1280
+2024,6037117530,Census Tract 1175.30,Los Angeles,Los Angeles County,California,LosAngeles,1188.0,96.0,1564.0,139.0,1979.0,133.0,$1564,$1979,$1188
+2024,6037119001,Census Tract 1190.01,Los Angeles,Los Angeles County,California,LosAngeles,1566.0,596.0,2337.0,551.0,2715.0,193.0,$2337,$2715,$1566
+2024,6037119003,Census Tract 1190.03,Los Angeles,Los Angeles County,California,LosAngeles,1121.0,468.0,1523.0,529.0,2121.0,357.0,$1523,$2121,$1121
+2024,6037119004,Census Tract 1190.04,Los Angeles,Los Angeles County,California,LosAngeles,1670.0,504.0,2250.0,974.0,2975.0,650.0,$2250,$2975,$1670
+2024,6037119201,Census Tract 1192.01,Los Angeles,Los Angeles County,California,LosAngeles,1028.0,352.0,1365.0,638.0,2113.0,384.0,$1365,$2113,$1028
+2024,6037119202,Census Tract 1192.02,Los Angeles,Los Angeles County,California,LosAngeles,1116.0,92.0,1512.0,539.0,1853.0,199.0,$1512,$1853,$1116
+2024,6037119310,Census Tract 1193.10,Los Angeles,Los Angeles County,California,LosAngeles,926.0,610.0,1086.0,115.0,1319.0,740.0,$1086,$1319,$926
+2024,6037119320,Census Tract 1193.20,Los Angeles,Los Angeles County,California,LosAngeles,1490.0,978.0,1844.0,202.0,2215.0,172.0,$1844,$2215,$1490
+2024,6037119340,Census Tract 1193.40,Los Angeles,Los Angeles County,California,LosAngeles,1126.0,61.0,1458.0,121.0,1860.0,110.0,$1458,$1860,$1126
+2024,6037119341,Census Tract 1193.41,Los Angeles,Los Angeles County,California,LosAngeles,382.0,291.0,1587.0,217.0,1988.0,202.0,$1587,$1988,$382
+2024,6037119342,Census Tract 1193.42,Los Angeles,Los Angeles County,California,LosAngeles,1223.0,526.0,1715.0,102.0,1969.0,127.0,$1715,$1969,$1223
+2024,6037119400,Census Tract 1194,Los Angeles,Los Angeles County,California,LosAngeles,1285.0,492.0,2129.0,1177.0,2910.0,1601.0,$2129,$2910,$1285
+2024,6037119700,Census Tract 1197,Los Angeles,Los Angeles County,California,LosAngeles,,,1399.0,459.0,2417.0,1620.0,$1399,$2417,
+2024,6037119801,Census Tract 1198.01,Los Angeles,Los Angeles County,California,LosAngeles,1957.0,538.0,2648.0,658.0,3250.0,764.0,$2648,$3250,$1957
+2024,6037119802,Census Tract 1198.02,Los Angeles,Los Angeles County,California,LosAngeles,839.0,294.0,1147.0,462.0,1914.0,722.0,$1147,$1914,$839
+2024,6037119900,Census Tract 1199,Los Angeles,Los Angeles County,California,LosAngeles,1914.0,287.0,2194.0,182.0,2436.0,233.0,$2194,$2436,$1914
+2024,6037120010,Census Tract 1200.10,Los Angeles,Los Angeles County,California,LosAngeles,854.0,705.0,1398.0,306.0,2279.0,872.0,$1398,$2279,$854
+2024,6037120020,Census Tract 1200.20,Los Angeles,Los Angeles County,California,LosAngeles,1118.0,274.0,1468.0,171.0,1853.0,124.0,$1468,$1853,$1118
+2024,6037120030,Census Tract 1200.30,Los Angeles,Los Angeles County,California,LosAngeles,984.0,65.0,1173.0,67.0,1511.0,177.0,$1173,$1511,$984
+2024,6037120103,Census Tract 1201.03,Los Angeles,Los Angeles County,California,LosAngeles,1268.0,98.0,1606.0,106.0,1968.0,136.0,$1606,$1968,$1268
+2024,6037120104,Census Tract 1201.04,Los Angeles,Los Angeles County,California,LosAngeles,1492.0,188.0,1760.0,77.0,2055.0,171.0,$1760,$2055,$1492
+2024,6037120105,Census Tract 1201.05,Los Angeles,Los Angeles County,California,LosAngeles,764.0,268.0,1173.0,155.0,1816.0,320.0,$1173,$1816,$764
+2024,6037120106,Census Tract 1201.06,Los Angeles,Los Angeles County,California,LosAngeles,1108.0,52.0,1379.0,270.0,1753.0,92.0,$1379,$1753,$1108
+2024,6037120107,Census Tract 1201.07,Los Angeles,Los Angeles County,California,LosAngeles,1102.0,91.0,1519.0,159.0,1827.0,81.0,$1519,$1827,$1102
+2024,6037120108,Census Tract 1201.08,Los Angeles,Los Angeles County,California,LosAngeles,993.0,156.0,1453.0,289.0,1853.0,157.0,$1453,$1853,$993
+2024,6037120300,Census Tract 1203,Los Angeles,Los Angeles County,California,LosAngeles,1044.0,767.0,1573.0,330.0,2132.0,705.0,$1573,$2132,$1044
+2024,6037120400,Census Tract 1204,Los Angeles,Los Angeles County,California,LosAngeles,1181.0,69.0,1499.0,179.0,1945.0,179.0,$1499,$1945,$1181
+2024,6037121010,Census Tract 1210.10,Los Angeles,Los Angeles County,California,LosAngeles,1405.0,469.0,1779.0,293.0,2195.0,356.0,$1779,$2195,$1405
+2024,6037121020,Census Tract 1210.20,Los Angeles,Los Angeles County,California,LosAngeles,1295.0,86.0,1510.0,234.0,2040.0,366.0,$1510,$2040,$1295
+2024,6037121101,Census Tract 1211.01,Los Angeles,Los Angeles County,California,LosAngeles,1056.0,105.0,1526.0,443.0,1982.0,213.0,$1526,$1982,$1056
+2024,6037121102,Census Tract 1211.02,Los Angeles,Los Angeles County,California,LosAngeles,1050.0,785.0,1617.0,809.0,2251.0,154.0,$1617,$2251,$1050
+2024,6037121210,Census Tract 1212.10,Los Angeles,Los Angeles County,California,LosAngeles,1037.0,395.0,1788.0,869.0,2833.0,483.0,$1788,$2833,$1037
+2024,6037121221,Census Tract 1212.21,Los Angeles,Los Angeles County,California,LosAngeles,1303.0,193.0,1650.0,523.0,2169.0,299.0,$1650,$2169,$1303
+2024,6037121222,Census Tract 1212.22,Los Angeles,Los Angeles County,California,LosAngeles,1160.0,230.0,1636.0,156.0,1967.0,178.0,$1636,$1967,$1160
+2024,6037121600,Census Tract 1216,Los Angeles,Los Angeles County,California,LosAngeles,783.0,668.0,1734.0,1137.0,2345.0,511.0,$1734,$2345,$783
+2024,6037121801,Census Tract 1218.01,Los Angeles,Los Angeles County,California,LosAngeles,1313.0,231.0,1794.0,214.0,2230.0,158.0,$1794,$2230,$1313
+2024,6037121802,Census Tract 1218.02,Los Angeles,Los Angeles County,California,LosAngeles,,,1354.0,668.0,2157.0,212.0,$1354,$2157,
+2024,6037121900,Census Tract 1219,Los Angeles,Los Angeles County,California,LosAngeles,762.0,399.0,1291.0,240.0,1500.0,480.0,$1291,$1500,$762
+2024,6037122000,Census Tract 1220,Los Angeles,Los Angeles County,California,LosAngeles,1441.0,232.0,1784.0,198.0,2204.0,293.0,$1784,$2204,$1441
+2024,6037122120,Census Tract 1221.20,Los Angeles,Los Angeles County,California,LosAngeles,1076.0,1075.0,1672.0,158.0,1939.0,194.0,$1672,$1939,$1076
+2024,6037122121,Census Tract 1221.21,Los Angeles,Los Angeles County,California,LosAngeles,1027.0,963.0,1518.0,183.0,1812.0,103.0,$1518,$1812,$1027
+2024,6037122122,Census Tract 1221.22,Los Angeles,Los Angeles County,California,LosAngeles,895.0,79.0,1222.0,286.0,1854.0,190.0,$1222,$1854,$895
+2024,6037122200,Census Tract 1222,Los Angeles,Los Angeles County,California,LosAngeles,1484.0,523.0,1770.0,119.0,2125.0,315.0,$1770,$2125,$1484
+2024,6037122410,Census Tract 1224.10,Los Angeles,Los Angeles County,California,LosAngeles,1250.0,257.0,1739.0,113.0,2133.0,202.0,$1739,$2133,$1250
+2024,6037122420,Census Tract 1224.20,Los Angeles,Los Angeles County,California,LosAngeles,1271.0,104.0,1498.0,129.0,1852.0,123.0,$1498,$1852,$1271
+2024,6037123010,Census Tract 1230.10,Los Angeles,Los Angeles County,California,LosAngeles,1222.0,117.0,1556.0,182.0,1928.0,213.0,$1556,$1928,$1222
+2024,6037123020,Census Tract 1230.20,Los Angeles,Los Angeles County,California,LosAngeles,1303.0,171.0,1608.0,306.0,2276.0,568.0,$1608,$2276,$1303
+2024,6037123103,Census Tract 1231.03,Los Angeles,Los Angeles County,California,LosAngeles,1368.0,258.0,1687.0,102.0,1931.0,93.0,$1687,$1931,$1368
+2024,6037123104,Census Tract 1231.04,Los Angeles,Los Angeles County,California,LosAngeles,1304.0,151.0,1651.0,151.0,1994.0,215.0,$1651,$1994,$1304
+2024,6037123203,Census Tract 1232.03,Los Angeles,Los Angeles County,California,LosAngeles,1183.0,185.0,1683.0,227.0,2185.0,231.0,$1683,$2185,$1183
+2024,6037123204,Census Tract 1232.04,Los Angeles,Los Angeles County,California,LosAngeles,1096.0,142.0,1487.0,175.0,1829.0,94.0,$1487,$1829,$1096
+2024,6037123205,Census Tract 1232.05,Los Angeles,Los Angeles County,California,LosAngeles,1306.0,62.0,1542.0,133.0,1881.0,107.0,$1542,$1881,$1306
+2024,6037123206,Census Tract 1232.06,Los Angeles,Los Angeles County,California,LosAngeles,1015.0,76.0,1235.0,77.0,1456.0,74.0,$1235,$1456,$1015
+2024,6037123301,Census Tract 1233.01,Los Angeles,Los Angeles County,California,LosAngeles,1472.0,193.0,1801.0,117.0,2218.0,209.0,$1801,$2218,$1472
+2024,6037123303,Census Tract 1233.03,Los Angeles,Los Angeles County,California,LosAngeles,1375.0,110.0,1684.0,100.0,1987.0,143.0,$1684,$1987,$1375
+2024,6037123304,Census Tract 1233.04,Los Angeles,Los Angeles County,California,LosAngeles,986.0,202.0,1365.0,98.0,1804.0,193.0,$1365,$1804,$986
+2024,6037123410,Census Tract 1234.10,Los Angeles,Los Angeles County,California,LosAngeles,1253.0,136.0,1567.0,135.0,1850.0,98.0,$1567,$1850,$1253
+2024,6037123420,Census Tract 1234.20,Los Angeles,Los Angeles County,California,LosAngeles,1340.0,94.0,1580.0,121.0,1838.0,59.0,$1580,$1838,$1340
+2024,6037123510,Census Tract 1235.10,Los Angeles,Los Angeles County,California,LosAngeles,1110.0,204.0,1483.0,149.0,1969.0,237.0,$1483,$1969,$1110
+2024,6037123520,Census Tract 1235.20,Los Angeles,Los Angeles County,California,LosAngeles,1374.0,145.0,1813.0,244.0,2339.0,239.0,$1813,$2339,$1374
+2024,6037123601,Census Tract 1236.01,Los Angeles,Los Angeles County,California,LosAngeles,1385.0,288.0,1767.0,117.0,2134.0,209.0,$1767,$2134,$1385
+2024,6037123602,Census Tract 1236.02,Los Angeles,Los Angeles County,California,LosAngeles,1291.0,94.0,1490.0,170.0,1928.0,242.0,$1490,$1928,$1291
+2024,6037123700,Census Tract 1237,Los Angeles,Los Angeles County,California,LosAngeles,1622.0,51.0,1833.0,61.0,2165.0,292.0,$1833,$2165,$1622
+2024,6037123800,Census Tract 1238,Los Angeles,Los Angeles County,California,LosAngeles,1396.0,185.0,1788.0,173.0,2205.0,176.0,$1788,$2205,$1396
+2024,6037123901,Census Tract 1239.01,Los Angeles,Los Angeles County,California,LosAngeles,1535.0,192.0,1898.0,151.0,2361.0,212.0,$1898,$2361,$1535
+2024,6037123902,Census Tract 1239.02,Los Angeles,Los Angeles County,California,LosAngeles,1457.0,184.0,1854.0,240.0,2385.0,389.0,$1854,$2385,$1457
+2024,6037124000,Census Tract 1240,Los Angeles,Los Angeles County,California,LosAngeles,1432.0,117.0,1885.0,220.0,2407.0,218.0,$1885,$2407,$1432
+2024,6037124102,Census Tract 1241.02,Los Angeles,Los Angeles County,California,LosAngeles,1429.0,145.0,1788.0,92.0,2226.0,182.0,$1788,$2226,$1429
+2024,6037124103,Census Tract 1241.03,Los Angeles,Los Angeles County,California,LosAngeles,1139.0,132.0,1444.0,143.0,1801.0,123.0,$1444,$1801,$1139
+2024,6037124104,Census Tract 1241.04,Los Angeles,Los Angeles County,California,LosAngeles,1369.0,168.0,1672.0,86.0,1925.0,69.0,$1672,$1925,$1369
+2024,6037124105,Census Tract 1241.05,Los Angeles,Los Angeles County,California,LosAngeles,1202.0,179.0,1682.0,133.0,2079.0,192.0,$1682,$2079,$1202
+2024,6037124201,Census Tract 1242.01,Los Angeles,Los Angeles County,California,LosAngeles,1298.0,169.0,1614.0,223.0,1944.0,220.0,$1614,$1944,$1298
+2024,6037124203,Census Tract 1242.03,Los Angeles,Los Angeles County,California,LosAngeles,1310.0,134.0,1663.0,114.0,1999.0,174.0,$1663,$1999,$1310
+2024,6037124204,Census Tract 1242.04,Los Angeles,Los Angeles County,California,LosAngeles,1070.0,152.0,1325.0,137.0,1649.0,198.0,$1325,$1649,$1070
+2024,6037124300,Census Tract 1243,Los Angeles,Los Angeles County,California,LosAngeles,1146.0,121.0,1602.0,143.0,1957.0,325.0,$1602,$1957,$1146
+2024,6037124400,Census Tract 1244,Los Angeles,Los Angeles County,California,LosAngeles,1496.0,268.0,2117.0,212.0,2604.0,613.0,$2117,$2604,$1496
+2024,6037124500,Census Tract 1245,Los Angeles,Los Angeles County,California,LosAngeles,1575.0,178.0,1998.0,468.0,3039.0,939.0,$1998,$3039,$1575
+2024,6037124600,Census Tract 1246,Los Angeles,Los Angeles County,California,LosAngeles,2069.0,126.0,2404.0,153.0,2874.0,257.0,$2404,$2874,$2069
+2024,6037124700,Census Tract 1247,Los Angeles,Los Angeles County,California,LosAngeles,1497.0,190.0,1878.0,242.0,2835.0,279.0,$1878,$2835,$1497
+2024,6037124902,Census Tract 1249.02,Los Angeles,Los Angeles County,California,LosAngeles,1291.0,112.0,1705.0,155.0,2163.0,202.0,$1705,$2163,$1291
+2024,6037124903,Census Tract 1249.03,Los Angeles,Los Angeles County,California,LosAngeles,1491.0,119.0,1932.0,150.0,2352.0,114.0,$1932,$2352,$1491
+2024,6037125101,Census Tract 1251.01,Los Angeles,Los Angeles County,California,LosAngeles,1568.0,78.0,1808.0,68.0,2110.0,178.0,$1808,$2110,$1568
+2024,6037125102,Census Tract 1251.02,Los Angeles,Los Angeles County,California,LosAngeles,1686.0,124.0,1994.0,581.0,2975.0,1740.0,$1994,$2975,$1686
+2024,6037125200,Census Tract 1252,Los Angeles,Los Angeles County,California,LosAngeles,1574.0,125.0,2006.0,215.0,2662.0,255.0,$2006,$2662,$1574
+2024,6037125310,Census Tract 1253.10,Los Angeles,Los Angeles County,California,LosAngeles,1161.0,497.0,1970.0,213.0,2510.0,241.0,$1970,$2510,$1161
+2024,6037125321,Census Tract 1253.21,Los Angeles,Los Angeles County,California,LosAngeles,1369.0,321.0,1860.0,164.0,2271.0,122.0,$1860,$2271,$1369
+2024,6037125322,Census Tract 1253.22,Los Angeles,Los Angeles County,California,LosAngeles,,,2370.0,269.0,2838.0,129.0,$2370,$2838,
+2024,6037125402,Census Tract 1254.02,Los Angeles,Los Angeles County,California,LosAngeles,1603.0,122.0,1969.0,182.0,2428.0,187.0,$1969,$2428,$1603
+2024,6037125403,Census Tract 1254.03,Los Angeles,Los Angeles County,California,LosAngeles,1756.0,96.0,2165.0,167.0,2719.0,436.0,$2165,$2719,$1756
+2024,6037125404,Census Tract 1254.04,Los Angeles,Los Angeles County,California,LosAngeles,2056.0,129.0,2474.0,204.0,2962.0,185.0,$2474,$2962,$2056
+2024,6037125501,Census Tract 1255.01,Los Angeles,Los Angeles County,California,LosAngeles,1323.0,216.0,1748.0,196.0,2223.0,134.0,$1748,$2223,$1323
+2024,6037125502,Census Tract 1255.02,Los Angeles,Los Angeles County,California,LosAngeles,1494.0,319.0,1867.0,129.0,2318.0,131.0,$1867,$2318,$1494
+2024,6037125600,Census Tract 1256,Los Angeles,Los Angeles County,California,LosAngeles,1494.0,249.0,1999.0,256.0,2334.0,132.0,$1999,$2334,$1494
+2024,6037127102,Census Tract 1271.02,Los Angeles,Los Angeles County,California,LosAngeles,1337.0,163.0,1796.0,218.0,2360.0,221.0,$1796,$2360,$1337
+2024,6037127103,Census Tract 1271.03,Los Angeles,Los Angeles County,California,LosAngeles,1224.0,187.0,1673.0,111.0,1986.0,213.0,$1673,$1986,$1224
+2024,6037127104,Census Tract 1271.04,Los Angeles,Los Angeles County,California,LosAngeles,1307.0,174.0,1682.0,225.0,2128.0,298.0,$1682,$2128,$1307
+2024,6037127210,Census Tract 1272.10,Los Angeles,Los Angeles County,California,LosAngeles,1069.0,225.0,1534.0,172.0,2081.0,175.0,$1534,$2081,$1069
+2024,6037127220,Census Tract 1272.20,Los Angeles,Los Angeles County,California,LosAngeles,1112.0,137.0,1655.0,172.0,2093.0,287.0,$1655,$2093,$1112
+2024,6037127300,Census Tract 1273,Los Angeles,Los Angeles County,California,LosAngeles,1426.0,167.0,1738.0,128.0,2130.0,458.0,$1738,$2130,$1426
+2024,6037127400,Census Tract 1274,Los Angeles,Los Angeles County,California,LosAngeles,1166.0,184.0,1505.0,145.0,1890.0,137.0,$1505,$1890,$1166
+2024,6037127520,Census Tract 1275.20,Los Angeles,Los Angeles County,California,LosAngeles,1140.0,61.0,1422.0,133.0,1754.0,87.0,$1422,$1754,$1140
+2024,6037127603,Census Tract 1276.03,Los Angeles,Los Angeles County,California,LosAngeles,1380.0,158.0,1751.0,104.0,2112.0,195.0,$1751,$2112,$1380
+2024,6037127604,Census Tract 1276.04,Los Angeles,Los Angeles County,California,LosAngeles,1146.0,513.0,1689.0,133.0,2070.0,208.0,$1689,$2070,$1146
+2024,6037127605,Census Tract 1276.05,Los Angeles,Los Angeles County,California,LosAngeles,1299.0,201.0,1698.0,158.0,2106.0,204.0,$1698,$2106,$1299
+2024,6037127606,Census Tract 1276.06,Los Angeles,Los Angeles County,California,LosAngeles,1398.0,90.0,1679.0,119.0,1997.0,183.0,$1679,$1997,$1398
+2024,6037127711,Census Tract 1277.11,Los Angeles,Los Angeles County,California,LosAngeles,1463.0,224.0,1862.0,181.0,2219.0,114.0,$1862,$2219,$1463
+2024,6037127712,Census Tract 1277.12,Los Angeles,Los Angeles County,California,LosAngeles,1336.0,107.0,1628.0,102.0,1899.0,83.0,$1628,$1899,$1336
+2024,6037127803,Census Tract 1278.03,Los Angeles,Los Angeles County,California,LosAngeles,1163.0,119.0,1724.0,141.0,2359.0,404.0,$1724,$2359,$1163
+2024,6037127804,Census Tract 1278.04,Los Angeles,Los Angeles County,California,LosAngeles,1306.0,86.0,1566.0,135.0,1880.0,81.0,$1566,$1880,$1306
+2024,6037127805,Census Tract 1278.05,Los Angeles,Los Angeles County,California,LosAngeles,1080.0,86.0,1283.0,308.0,2159.0,405.0,$1283,$2159,$1080
+2024,6037127806,Census Tract 1278.06,Los Angeles,Los Angeles County,California,LosAngeles,1273.0,175.0,1739.0,217.0,2234.0,166.0,$1739,$2234,$1273
+2024,6037127910,Census Tract 1279.10,Los Angeles,Los Angeles County,California,LosAngeles,1181.0,204.0,1690.0,112.0,2006.0,168.0,$1690,$2006,$1181
+2024,6037127920,Census Tract 1279.20,Los Angeles,Los Angeles County,California,LosAngeles,1285.0,150.0,1687.0,571.0,2658.0,690.0,$1687,$2658,$1285
+2024,6037128101,Census Tract 1281.01,Los Angeles,Los Angeles County,California,LosAngeles,1551.0,83.0,1788.0,73.0,2106.0,317.0,$1788,$2106,$1551
+2024,6037128102,Census Tract 1281.02,Los Angeles,Los Angeles County,California,LosAngeles,1097.0,79.0,1415.0,266.0,1874.0,164.0,$1415,$1874,$1097
+2024,6037128210,Census Tract 1282.10,Los Angeles,Los Angeles County,California,LosAngeles,1243.0,130.0,1533.0,142.0,1928.0,109.0,$1533,$1928,$1243
+2024,6037128220,Census Tract 1282.20,Los Angeles,Los Angeles County,California,LosAngeles,1362.0,273.0,1742.0,107.0,2088.0,215.0,$1742,$2088,$1362
+2024,6037128302,Census Tract 1283.02,Los Angeles,Los Angeles County,California,LosAngeles,1222.0,127.0,1576.0,138.0,1924.0,113.0,$1576,$1924,$1222
+2024,6037128303,Census Tract 1283.03,Los Angeles,Los Angeles County,California,LosAngeles,970.0,164.0,1282.0,138.0,1691.0,159.0,$1282,$1691,$970
+2024,6037128400,Census Tract 1284,Los Angeles,Los Angeles County,California,LosAngeles,1548.0,184.0,1924.0,210.0,2676.0,547.0,$1924,$2676,$1548
+2024,6037128500,Census Tract 1285,Los Angeles,Los Angeles County,California,LosAngeles,1494.0,176.0,1950.0,181.0,2549.0,217.0,$1950,$2549,$1494
+2024,6037128601,Census Tract 1286.01,Los Angeles,Los Angeles County,California,LosAngeles,1302.0,84.0,1579.0,114.0,1860.0,71.0,$1579,$1860,$1302
+2024,6037128602,Census Tract 1286.02,Los Angeles,Los Angeles County,California,LosAngeles,1580.0,145.0,1957.0,180.0,2475.0,511.0,$1957,$2475,$1580
+2024,6037128703,Census Tract 1287.03,Los Angeles,Los Angeles County,California,LosAngeles,1745.0,210.0,2184.0,144.0,2562.0,424.0,$2184,$2562,$1745
+2024,6037128704,Census Tract 1287.04,Los Angeles,Los Angeles County,California,LosAngeles,1654.0,155.0,1967.0,566.0,2995.0,553.0,$1967,$2995,$1654
+2024,6037128801,Census Tract 1288.01,Los Angeles,Los Angeles County,California,LosAngeles,1604.0,124.0,2023.0,148.0,2438.0,167.0,$2023,$2438,$1604
+2024,6037128802,Census Tract 1288.02,Los Angeles,Los Angeles County,California,LosAngeles,1667.0,152.0,2111.0,232.0,2651.0,309.0,$2111,$2651,$1667
+2024,6037128910,Census Tract 1289.10,Los Angeles,Los Angeles County,California,LosAngeles,1494.0,201.0,2068.0,210.0,2612.0,239.0,$2068,$2612,$1494
+2024,6037131021,Census Tract 1310.21,Los Angeles,Los Angeles County,California,LosAngeles,1219.0,199.0,1530.0,227.0,1917.0,222.0,$1530,$1917,$1219
+2024,6037131022,Census Tract 1310.22,Los Angeles,Los Angeles County,California,LosAngeles,1298.0,154.0,1655.0,177.0,2037.0,245.0,$1655,$2037,$1298
+2024,6037131023,Census Tract 1310.23,Los Angeles,Los Angeles County,California,LosAngeles,1604.0,129.0,1883.0,160.0,2314.0,206.0,$1883,$2314,$1604
+2024,6037131024,Census Tract 1310.24,Los Angeles,Los Angeles County,California,LosAngeles,1770.0,162.0,2220.0,373.0,3148.0,488.0,$2220,$3148,$1770
+2024,6037131100,Census Tract 1311,Los Angeles,Los Angeles County,California,LosAngeles,,,2705.0,747.0,3501.0,,$2705,Not available. Exceeds $3500!,
+2024,6037131200,Census Tract 1312,Los Angeles,Los Angeles County,California,LosAngeles,,,1442.0,884.0,2324.0,1626.0,$1442,$2324,
+2024,6037131300,Census Tract 1313,Los Angeles,Los Angeles County,California,LosAngeles,1016.0,142.0,1239.0,706.0,2635.0,1687.0,$1239,$2635,$1016
+2024,6037131400,Census Tract 1314,Los Angeles,Los Angeles County,California,LosAngeles,1367.0,225.0,1835.0,220.0,2392.0,325.0,$1835,$2392,$1367
+2024,6037131600,Census Tract 1316,Los Angeles,Los Angeles County,California,LosAngeles,1603.0,320.0,2301.0,516.0,2890.0,394.0,$2301,$2890,$1603
+2024,6037131701,Census Tract 1317.01,Los Angeles,Los Angeles County,California,LosAngeles,1331.0,262.0,1753.0,139.0,2258.0,316.0,$1753,$2258,$1331
+2024,6037131702,Census Tract 1317.02,Los Angeles,Los Angeles County,California,LosAngeles,1653.0,243.0,2086.0,367.0,3060.0,969.0,$2086,$3060,$1653
+2024,6037131801,Census Tract 1318.01,Los Angeles,Los Angeles County,California,LosAngeles,1093.0,149.0,1426.0,145.0,1829.0,158.0,$1426,$1829,$1093
+2024,6037131802,Census Tract 1318.02,Los Angeles,Los Angeles County,California,LosAngeles,1256.0,209.0,1668.0,345.0,2639.0,1162.0,$1668,$2639,$1256
+2024,6037131900,Census Tract 1319,Los Angeles,Los Angeles County,California,LosAngeles,2187.0,114.0,2398.0,245.0,2821.0,1156.0,$2398,$2821,$2187
+2024,6037132001,Census Tract 1320.01,Los Angeles,Los Angeles County,California,LosAngeles,1365.0,55.0,1609.0,605.0,2448.0,1013.0,$1609,$2448,$1365
+2024,6037132002,Census Tract 1320.02,Los Angeles,Los Angeles County,California,LosAngeles,1972.0,366.0,2486.0,853.0,3357.0,278.0,$2486,$3357,$1972
+2024,6037132101,Census Tract 1321.01,Los Angeles,Los Angeles County,California,LosAngeles,1453.0,446.0,1965.0,295.0,2430.0,230.0,$1965,$2430,$1453
+2024,6037132102,Census Tract 1321.02,Los Angeles,Los Angeles County,California,LosAngeles,1266.0,480.0,1804.0,232.0,2217.0,261.0,$1804,$2217,$1266
+2024,6037132301,Census Tract 1323.01,Los Angeles,Los Angeles County,California,LosAngeles,1076.0,125.0,1479.0,178.0,1816.0,89.0,$1479,$1816,$1076
+2024,6037132302,Census Tract 1323.02,Los Angeles,Los Angeles County,California,LosAngeles,1275.0,142.0,1478.0,269.0,1961.0,1855.0,$1478,$1961,$1275
+2024,6037132501,Census Tract 1325.01,Los Angeles,Los Angeles County,California,LosAngeles,1434.0,212.0,1934.0,218.0,2407.0,370.0,$1934,$2407,$1434
+2024,6037132502,Census Tract 1325.02,Los Angeles,Los Angeles County,California,LosAngeles,,,1814.0,299.0,2644.0,362.0,$1814,$2644,
+2024,6037132700,Census Tract 1327,Los Angeles,Los Angeles County,California,LosAngeles,1043.0,224.0,1460.0,287.0,1996.0,307.0,$1460,$1996,$1043
+2024,6037132900,Census Tract 1329,Los Angeles,Los Angeles County,California,LosAngeles,1665.0,233.0,2071.0,219.0,2407.0,171.0,$2071,$2407,$1665
+2024,6037133000,Census Tract 1330,Los Angeles,Los Angeles County,California,LosAngeles,1605.0,350.0,2071.0,565.0,2784.0,529.0,$2071,$2784,$1605
+2024,6037133101,Census Tract 1331.01,Los Angeles,Los Angeles County,California,LosAngeles,1083.0,919.0,1837.0,528.0,3092.0,954.0,$1837,$3092,$1083
+2024,6037133102,Census Tract 1331.02,Los Angeles,Los Angeles County,California,LosAngeles,1238.0,268.0,1711.0,154.0,2250.0,326.0,$1711,$2250,$1238
+2024,6037134001,Census Tract 1340.01,Los Angeles,Los Angeles County,California,LosAngeles,1354.0,207.0,1798.0,150.0,2233.0,170.0,$1798,$2233,$1354
+2024,6037134002,Census Tract 1340.02,Los Angeles,Los Angeles County,California,LosAngeles,,,1565.0,174.0,1904.0,166.0,$1565,$1904,
+2024,6037134101,Census Tract 1341.01,Los Angeles,Los Angeles County,California,LosAngeles,1225.0,310.0,2099.0,519.0,2638.0,194.0,$2099,$2638,$1225
+2024,6037134103,Census Tract 1341.03,Los Angeles,Los Angeles County,California,LosAngeles,1082.0,549.0,1909.0,370.0,2382.0,342.0,$1909,$2382,$1082
+2024,6037134104,Census Tract 1341.04,Los Angeles,Los Angeles County,California,LosAngeles,1188.0,167.0,1618.0,191.0,1905.0,163.0,$1618,$1905,$1188
+2024,6037134201,Census Tract 1342.01,Los Angeles,Los Angeles County,California,LosAngeles,1157.0,363.0,1470.0,1353.0,2850.0,732.0,$1470,$2850,$1157
+2024,6037134302,Census Tract 1343.02,Los Angeles,Los Angeles County,California,LosAngeles,2778.0,701.0,3252.0,198.0,3501.0,,$3252,Not available. Exceeds $3500!,$2778
+2024,6037134303,Census Tract 1343.03,Los Angeles,Los Angeles County,California,LosAngeles,1710.0,179.0,2196.0,559.0,2818.0,223.0,$2196,$2818,$1710
+2024,6037134304,Census Tract 1343.04,Los Angeles,Los Angeles County,California,LosAngeles,1629.0,98.0,1868.0,179.0,2439.0,663.0,$1868,$2439,$1629
+2024,6037134305,Census Tract 1343.05,Los Angeles,Los Angeles County,California,LosAngeles,1400.0,144.0,1650.0,90.0,1864.0,57.0,$1650,$1864,$1400
+2024,6037134306,Census Tract 1343.06,Los Angeles,Los Angeles County,California,LosAngeles,1420.0,191.0,1774.0,147.0,2235.0,294.0,$1774,$2235,$1420
+2024,6037134421,Census Tract 1344.21,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037134422,Census Tract 1344.22,Los Angeles,Los Angeles County,California,LosAngeles,,,3229.0,905.0,3501.0,,$3229,Not available. Exceeds $3500!,
+2024,6037134423,Census Tract 1344.23,Los Angeles,Los Angeles County,California,LosAngeles,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037134424,Census Tract 1344.24,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037134520,Census Tract 1345.20,Los Angeles,Los Angeles County,California,LosAngeles,1125.0,302.0,1593.0,106.0,1888.0,76.0,$1593,$1888,$1125
+2024,6037134521,Census Tract 1345.21,Los Angeles,Los Angeles County,California,LosAngeles,1195.0,118.0,1428.0,92.0,1799.0,135.0,$1428,$1799,$1195
+2024,6037134522,Census Tract 1345.22,Los Angeles,Los Angeles County,California,LosAngeles,1175.0,119.0,1689.0,341.0,2291.0,207.0,$1689,$2291,$1175
+2024,6037134710,Census Tract 1347.10,Los Angeles,Los Angeles County,California,LosAngeles,1258.0,86.0,1498.0,144.0,1981.0,192.0,$1498,$1981,$1258
+2024,6037134720,Census Tract 1347.20,Los Angeles,Los Angeles County,California,LosAngeles,1699.0,97.0,2011.0,141.0,2284.0,84.0,$2011,$2284,$1699
+2024,6037134801,Census Tract 1348.01,Los Angeles,Los Angeles County,California,LosAngeles,1798.0,282.0,2179.0,177.0,2473.0,318.0,$2179,$2473,$1798
+2024,6037134802,Census Tract 1348.02,Los Angeles,Los Angeles County,California,LosAngeles,1727.0,756.0,2707.0,303.0,3266.0,386.0,$2707,$3266,$1727
+2024,6037134901,Census Tract 1349.01,Los Angeles,Los Angeles County,California,LosAngeles,1089.0,77.0,1253.0,325.0,1883.0,426.0,$1253,$1883,$1089
+2024,6037134904,Census Tract 1349.04,Los Angeles,Los Angeles County,California,LosAngeles,1190.0,91.0,1431.0,126.0,1869.0,215.0,$1431,$1869,$1190
+2024,6037134905,Census Tract 1349.05,Los Angeles,Los Angeles County,California,LosAngeles,2539.0,158.0,3033.0,178.0,3371.0,88.0,$3033,$3371,$2539
+2024,6037134906,Census Tract 1349.06,Los Angeles,Los Angeles County,California,LosAngeles,1515.0,157.0,1833.0,99.0,2265.0,136.0,$1833,$2265,$1515
+2024,6037134907,Census Tract 1349.07,Los Angeles,Los Angeles County,California,LosAngeles,2237.0,124.0,2633.0,103.0,2958.0,126.0,$2633,$2958,$2237
+2024,6037135102,Census Tract 1351.02,Los Angeles,Los Angeles County,California,LosAngeles,1940.0,488.0,2474.0,377.0,3501.0,,$2474,Not available. Exceeds $3500!,$1940
+2024,6037135111,Census Tract 1351.11,Los Angeles,Los Angeles County,California,LosAngeles,1655.0,76.0,1875.0,123.0,2286.0,378.0,$1875,$2286,$1655
+2024,6037135113,Census Tract 1351.13,Los Angeles,Los Angeles County,California,LosAngeles,2227.0,142.0,2686.0,161.0,3133.0,152.0,$2686,$3133,$2227
+2024,6037135115,Census Tract 1351.15,Los Angeles,Los Angeles County,California,LosAngeles,1741.0,65.0,2010.0,141.0,2376.0,115.0,$2010,$2376,$1741
+2024,6037135116,Census Tract 1351.16,Los Angeles,Los Angeles County,California,LosAngeles,,,1880.0,444.0,2259.0,151.0,$1880,$2259,
+2024,6037135201,Census Tract 1352.01,Los Angeles,Los Angeles County,California,LosAngeles,1772.0,288.0,2368.0,527.0,3196.0,949.0,$2368,$3196,$1772
+2024,6037135202,Census Tract 1352.02,Los Angeles,Los Angeles County,California,LosAngeles,2632.0,697.0,3309.0,636.0,3501.0,,$3309,Not available. Exceeds $3500!,$2632
+2024,6037135204,Census Tract 1352.04,Los Angeles,Los Angeles County,California,LosAngeles,2286.0,636.0,3260.0,628.0,3501.0,,$3260,Not available. Exceeds $3500!,$2286
+2024,6037135205,Census Tract 1352.05,Los Angeles,Los Angeles County,California,LosAngeles,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037137000,Census Tract 1370,Los Angeles,Los Angeles County,California,LosAngeles,2209.0,714.0,3095.0,1045.0,3483.0,640.0,$3095,$3483,$2209
+2024,6037137103,Census Tract 1371.03,Los Angeles,Los Angeles County,California,LosAngeles,2194.0,88.0,2500.0,155.0,2869.0,101.0,$2500,$2869,$2194
+2024,6037137104,Census Tract 1371.04,Los Angeles,Los Angeles County,California,LosAngeles,,,1719.0,1040.0,,,$1719,,
+2024,6037137202,Census Tract 1372.02,Los Angeles,Los Angeles County,California,LosAngeles,1835.0,241.0,2219.0,106.0,2527.0,160.0,$2219,$2527,$1835
+2024,6037137203,Census Tract 1372.03,Los Angeles,Los Angeles County,California,LosAngeles,1629.0,320.0,2159.0,317.0,3135.0,741.0,$2159,$3135,$1629
+2024,6037137301,Census Tract 1373.01,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037137302,Census Tract 1373.02,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037137401,Census Tract 1374.01,Los Angeles,Los Angeles County,California,LosAngeles,2197.0,370.0,2757.0,251.0,3278.0,286.0,$2757,$3278,$2197
+2024,6037137402,Census Tract 1374.02,Los Angeles,Los Angeles County,California,LosAngeles,914.0,646.0,2408.0,1892.0,3501.0,,$2408,Not available. Exceeds $3500!,$914
+2024,6037137501,Census Tract 1375.01,Los Angeles,Los Angeles County,California,LosAngeles,1982.0,202.0,2363.0,165.0,2823.0,179.0,$2363,$2823,$1982
+2024,6037137502,Census Tract 1375.02,Los Angeles,Los Angeles County,California,LosAngeles,1857.0,897.0,2550.0,443.0,3420.0,1056.0,$2550,$3420,$1857
+2024,6037137504,Census Tract 1375.04,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037138000,Census Tract 1380,Los Angeles,Los Angeles County,California,LosAngeles,2684.0,146.0,2959.0,1238.0,3501.0,,$2959,Not available. Exceeds $3500!,$2684
+2024,6037139001,Census Tract 1390.01,Los Angeles,Los Angeles County,California,LosAngeles,1937.0,195.0,2468.0,254.0,3194.0,405.0,$2468,$3194,$1937
+2024,6037139200,Census Tract 1392,Los Angeles,Los Angeles County,California,LosAngeles,1667.0,185.0,2164.0,239.0,2976.0,728.0,$2164,$2976,$1667
+2024,6037139301,Census Tract 1393.01,Los Angeles,Los Angeles County,California,LosAngeles,1514.0,648.0,3008.0,1589.0,3501.0,,$3008,Not available. Exceeds $3500!,$1514
+2024,6037139302,Census Tract 1393.02,Los Angeles,Los Angeles County,California,LosAngeles,1560.0,176.0,1948.0,187.0,2287.0,105.0,$1948,$2287,$1560
+2024,6037139303,Census Tract 1393.03,Los Angeles,Los Angeles County,California,LosAngeles,1193.0,193.0,1613.0,156.0,1969.0,169.0,$1613,$1969,$1193
+2024,6037139401,Census Tract 1394.01,Los Angeles,Los Angeles County,California,LosAngeles,1232.0,241.0,1866.0,365.0,2590.0,838.0,$1866,$2590,$1232
+2024,6037139402,Census Tract 1394.02,Los Angeles,Los Angeles County,California,LosAngeles,2738.0,1480.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2738
+2024,6037139502,Census Tract 1395.02,Los Angeles,Los Angeles County,California,LosAngeles,1443.0,229.0,2186.0,685.0,3195.0,529.0,$2186,$3195,$1443
+2024,6037139504,Census Tract 1395.04,Los Angeles,Los Angeles County,California,LosAngeles,1547.0,111.0,1861.0,116.0,2247.0,136.0,$1861,$2247,$1547
+2024,6037139505,Census Tract 1395.05,Los Angeles,Los Angeles County,California,LosAngeles,1304.0,610.0,1676.0,110.0,1897.0,71.0,$1676,$1897,$1304
+2024,6037139506,Census Tract 1395.06,Los Angeles,Los Angeles County,California,LosAngeles,1587.0,802.0,1918.0,229.0,2465.0,364.0,$1918,$2465,$1587
+2024,6037139600,Census Tract 1396,Los Angeles,Los Angeles County,California,LosAngeles,1587.0,145.0,1854.0,129.0,2865.0,902.0,$1854,$2865,$1587
+2024,6037139701,Census Tract 1397.01,Los Angeles,Los Angeles County,California,LosAngeles,,,2300.0,435.0,3404.0,868.0,$2300,$3404,
+2024,6037139703,Census Tract 1397.03,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037139704,Census Tract 1397.04,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037139705,Census Tract 1397.05,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037139801,Census Tract 1398.01,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037139802,Census Tract 1398.02,Los Angeles,Los Angeles County,California,LosAngeles,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037141101,Census Tract 1411.01,Los Angeles,Los Angeles County,California,LosAngeles,1768.0,229.0,2303.0,217.0,2810.0,199.0,$2303,$2810,$1768
+2024,6037141102,Census Tract 1411.02,Los Angeles,Los Angeles County,California,LosAngeles,1630.0,335.0,2209.0,231.0,2671.0,172.0,$2209,$2671,$1630
+2024,6037141201,Census Tract 1412.01,Los Angeles,Los Angeles County,California,LosAngeles,1647.0,59.0,1894.0,87.0,2245.0,115.0,$1894,$2245,$1647
+2024,6037141202,Census Tract 1412.02,Los Angeles,Los Angeles County,California,LosAngeles,2001.0,158.0,2419.0,181.0,2988.0,352.0,$2419,$2988,$2001
+2024,6037141303,Census Tract 1413.03,Los Angeles,Los Angeles County,California,LosAngeles,1792.0,167.0,2271.0,179.0,2731.0,150.0,$2271,$2731,$1792
+2024,6037141304,Census Tract 1413.04,Los Angeles,Los Angeles County,California,LosAngeles,1338.0,401.0,1903.0,204.0,2466.0,382.0,$1903,$2466,$1338
+2024,6037141305,Census Tract 1413.05,Los Angeles,Los Angeles County,California,LosAngeles,1383.0,345.0,2021.0,303.0,2582.0,331.0,$2021,$2582,$1383
+2024,6037141306,Census Tract 1413.06,Los Angeles,Los Angeles County,California,LosAngeles,1959.0,282.0,2498.0,246.0,3088.0,282.0,$2498,$3088,$1959
+2024,6037141400,Census Tract 1414,Los Angeles,Los Angeles County,California,LosAngeles,1596.0,165.0,2043.0,230.0,2692.0,671.0,$2043,$2692,$1596
+2024,6037141500,Census Tract 1415,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037141600,Census Tract 1416,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037141700,Census Tract 1417,Los Angeles,Los Angeles County,California,LosAngeles,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037143101,Census Tract 1431.01,Los Angeles,Los Angeles County,California,LosAngeles,1634.0,352.0,2141.0,237.0,2645.0,303.0,$2141,$2645,$1634
+2024,6037143102,Census Tract 1431.02,Los Angeles,Los Angeles County,California,LosAngeles,1829.0,250.0,2327.0,220.0,2885.0,233.0,$2327,$2885,$1829
+2024,6037143200,Census Tract 1432,Los Angeles,Los Angeles County,California,LosAngeles,1527.0,200.0,2040.0,273.0,2784.0,442.0,$2040,$2784,$1527
+2024,6037143301,Census Tract 1433.01,Los Angeles,Los Angeles County,California,LosAngeles,1525.0,165.0,1925.0,264.0,3501.0,,$1925,Not available. Exceeds $3500!,$1525
+2024,6037143302,Census Tract 1433.02,Los Angeles,Los Angeles County,California,LosAngeles,1355.0,358.0,1878.0,315.0,2470.0,398.0,$1878,$2470,$1355
+2024,6037143401,Census Tract 1434.01,Los Angeles,Los Angeles County,California,LosAngeles,1963.0,260.0,2498.0,339.0,3146.0,248.0,$2498,$3146,$1963
+2024,6037143402,Census Tract 1434.02,Los Angeles,Los Angeles County,California,LosAngeles,1679.0,124.0,2085.0,192.0,2685.0,652.0,$2085,$2685,$1679
+2024,6037143500,Census Tract 1435,Los Angeles,Los Angeles County,California,LosAngeles,1997.0,308.0,2574.0,379.0,3501.0,,$2574,Not available. Exceeds $3500!,$1997
+2024,6037143602,Census Tract 1436.02,Los Angeles,Los Angeles County,California,LosAngeles,1428.0,231.0,1894.0,423.0,2790.0,505.0,$1894,$2790,$1428
+2024,6037143603,Census Tract 1436.03,Los Angeles,Los Angeles County,California,LosAngeles,1634.0,128.0,2016.0,231.0,2636.0,200.0,$2016,$2636,$1634
+2024,6037143605,Census Tract 1436.05,Los Angeles,Los Angeles County,California,LosAngeles,2212.0,268.0,2904.0,324.0,3501.0,,$2904,Not available. Exceeds $3500!,$2212
+2024,6037143606,Census Tract 1436.06,Los Angeles,Los Angeles County,California,LosAngeles,1768.0,87.0,2165.0,214.0,2823.0,300.0,$2165,$2823,$1768
+2024,6037143700,Census Tract 1437,Los Angeles,Los Angeles County,California,LosAngeles,1651.0,107.0,1934.0,306.0,3434.0,1008.0,$1934,$3434,$1651
+2024,6037143801,Census Tract 1438.01,Los Angeles,Los Angeles County,California,LosAngeles,2069.0,657.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2069
+2024,6037143802,Census Tract 1438.02,Los Angeles,Los Angeles County,California,LosAngeles,1697.0,129.0,2123.0,591.0,3305.0,880.0,$2123,$3305,$1697
+2024,6037143901,Census Tract 1439.01,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037143902,Census Tract 1439.02,Los Angeles,Los Angeles County,California,LosAngeles,2120.0,132.0,2507.0,149.0,2861.0,93.0,$2507,$2861,$2120
+2024,6037181000,Census Tract 1810,Los Angeles,Los Angeles County,California,LosAngeles,1452.0,259.0,1971.0,314.0,2375.0,220.0,$1971,$2375,$1452
+2024,6037181300,Census Tract 1813,Los Angeles,Los Angeles County,California,LosAngeles,1119.0,124.0,2020.0,1052.0,2368.0,150.0,$2020,$2368,$1119
+2024,6037181400,Census Tract 1814,Los Angeles,Los Angeles County,California,LosAngeles,1366.0,286.0,1747.0,111.0,2136.0,234.0,$1747,$2136,$1366
+2024,6037181500,Census Tract 1815,Los Angeles,Los Angeles County,California,LosAngeles,1055.0,577.0,1940.0,680.0,3396.0,1199.0,$1940,$3396,$1055
+2024,6037181600,Census Tract 1816,Los Angeles,Los Angeles County,California,LosAngeles,,,1644.0,299.0,2069.0,522.0,$1644,$2069,
+2024,6037183101,Census Tract 1831.01,Los Angeles,Los Angeles County,California,LosAngeles,1364.0,129.0,1686.0,199.0,2147.0,369.0,$1686,$2147,$1364
+2024,6037183103,Census Tract 1831.03,Los Angeles,Los Angeles County,California,LosAngeles,1281.0,135.0,1678.0,168.0,2173.0,275.0,$1678,$2173,$1281
+2024,6037183104,Census Tract 1831.04,Los Angeles,Los Angeles County,California,LosAngeles,1526.0,146.0,1805.0,124.0,2186.0,259.0,$1805,$2186,$1526
+2024,6037183220,Census Tract 1832.20,Los Angeles,Los Angeles County,California,LosAngeles,1499.0,892.0,2430.0,1163.0,3501.0,,$2430,Not available. Exceeds $3500!,$1499
+2024,6037183221,Census Tract 1832.21,Los Angeles,Los Angeles County,California,LosAngeles,1373.0,100.0,1670.0,312.0,2129.0,234.0,$1670,$2129,$1373
+2024,6037183222,Census Tract 1832.22,Los Angeles,Los Angeles County,California,LosAngeles,323.0,48.0,1072.0,738.0,2773.0,2014.0,$1072,$2773,$323
+2024,6037183300,Census Tract 1833,Los Angeles,Los Angeles County,California,LosAngeles,1240.0,666.0,2109.0,260.0,2399.0,138.0,$2109,$2399,$1240
+2024,6037183401,Census Tract 1834.01,Los Angeles,Los Angeles County,California,LosAngeles,1500.0,462.0,1905.0,227.0,2355.0,161.0,$1905,$2355,$1500
+2024,6037183402,Census Tract 1834.02,Los Angeles,Los Angeles County,California,LosAngeles,1235.0,142.0,1661.0,210.0,2664.0,459.0,$1661,$2664,$1235
+2024,6037183510,Census Tract 1835.10,Los Angeles,Los Angeles County,California,LosAngeles,1337.0,550.0,1680.0,123.0,1926.0,122.0,$1680,$1926,$1337
+2024,6037183520,Census Tract 1835.20,Los Angeles,Los Angeles County,California,LosAngeles,1134.0,91.0,1395.0,138.0,1936.0,296.0,$1395,$1936,$1134
+2024,6037183610,Census Tract 1836.10,Los Angeles,Los Angeles County,California,LosAngeles,1297.0,220.0,2153.0,232.0,2737.0,289.0,$2153,$2737,$1297
+2024,6037183620,Census Tract 1836.20,Los Angeles,Los Angeles County,California,LosAngeles,1175.0,128.0,1857.0,389.0,2505.0,288.0,$1857,$2505,$1175
+2024,6037183701,Census Tract 1837.01,Los Angeles,Los Angeles County,California,LosAngeles,1071.0,111.0,1614.0,298.0,2113.0,220.0,$1614,$2113,$1071
+2024,6037183702,Census Tract 1837.02,Los Angeles,Los Angeles County,California,LosAngeles,1455.0,376.0,1788.0,138.0,2443.0,553.0,$1788,$2443,$1455
+2024,6037183810,Census Tract 1838.10,Los Angeles,Los Angeles County,California,LosAngeles,1274.0,148.0,1639.0,149.0,2054.0,197.0,$1639,$2054,$1274
+2024,6037183820,Census Tract 1838.20,Los Angeles,Los Angeles County,California,LosAngeles,1067.0,75.0,1345.0,307.0,1831.0,124.0,$1345,$1831,$1067
+2024,6037185101,Census Tract 1851.01,Los Angeles,Los Angeles County,California,LosAngeles,1272.0,163.0,1587.0,500.0,2314.0,269.0,$1587,$2314,$1272
+2024,6037185102,Census Tract 1851.02,Los Angeles,Los Angeles County,California,LosAngeles,2988.0,499.0,3175.0,130.0,3353.0,61.0,$3175,$3353,$2988
+2024,6037185202,Census Tract 1852.02,Los Angeles,Los Angeles County,California,LosAngeles,1365.0,417.0,1944.0,284.0,2435.0,1207.0,$1944,$2435,$1365
+2024,6037185203,Census Tract 1852.03,Los Angeles,Los Angeles County,California,LosAngeles,944.0,219.0,1841.0,442.0,2571.0,720.0,$1841,$2571,$944
+2024,6037185204,Census Tract 1852.04,Los Angeles,Los Angeles County,California,LosAngeles,1298.0,162.0,,,3320.0,1142.0,,$3320,$1298
+2024,6037185310,Census Tract 1853.10,Los Angeles,Los Angeles County,California,LosAngeles,1223.0,276.0,1662.0,101.0,1932.0,80.0,$1662,$1932,$1223
+2024,6037185320,Census Tract 1853.20,Los Angeles,Los Angeles County,California,LosAngeles,822.0,73.0,987.0,98.0,1309.0,190.0,$987,$1309,$822
+2024,6037186100,Census Tract 1861,Los Angeles,Los Angeles County,California,LosAngeles,1303.0,92.0,1544.0,158.0,1924.0,147.0,$1544,$1924,$1303
+2024,6037186201,Census Tract 1862.01,Los Angeles,Los Angeles County,California,LosAngeles,,,1345.0,138.0,1761.0,193.0,$1345,$1761,
+2024,6037186202,Census Tract 1862.02,Los Angeles,Los Angeles County,California,LosAngeles,1162.0,356.0,1824.0,204.0,2422.0,263.0,$1824,$2422,$1162
+2024,6037186203,Census Tract 1862.03,Los Angeles,Los Angeles County,California,LosAngeles,2607.0,1236.0,3301.0,352.0,3501.0,,$3301,Not available. Exceeds $3500!,$2607
+2024,6037186301,Census Tract 1863.01,Los Angeles,Los Angeles County,California,LosAngeles,1225.0,168.0,1640.0,195.0,2094.0,190.0,$1640,$2094,$1225
+2024,6037186302,Census Tract 1863.02,Los Angeles,Los Angeles County,California,LosAngeles,1366.0,109.0,1792.0,346.0,2339.0,208.0,$1792,$2339,$1366
+2024,6037186401,Census Tract 1864.01,Los Angeles,Los Angeles County,California,LosAngeles,536.0,307.0,1323.0,292.0,2188.0,320.0,$1323,$2188,$536
+2024,6037186403,Census Tract 1864.03,Los Angeles,Los Angeles County,California,LosAngeles,1213.0,251.0,1497.0,320.0,3153.0,1285.0,$1497,$3153,$1213
+2024,6037186404,Census Tract 1864.04,Los Angeles,Los Angeles County,California,LosAngeles,1350.0,184.0,1883.0,217.0,2467.0,191.0,$1883,$2467,$1350
+2024,6037187101,Census Tract 1871.01,Los Angeles,Los Angeles County,California,LosAngeles,1393.0,167.0,1875.0,437.0,2427.0,586.0,$1875,$2427,$1393
+2024,6037187102,Census Tract 1871.02,Los Angeles,Los Angeles County,California,LosAngeles,992.0,112.0,1354.0,205.0,1880.0,176.0,$1354,$1880,$992
+2024,6037187200,Census Tract 1872,Los Angeles,Los Angeles County,California,LosAngeles,1318.0,508.0,2253.0,606.0,2891.0,262.0,$2253,$2891,$1318
+2024,6037187300,Census Tract 1873,Los Angeles,Los Angeles County,California,LosAngeles,1639.0,468.0,2366.0,226.0,3117.0,393.0,$2366,$3117,$1639
+2024,6037188100,Census Tract 1881,Los Angeles,Los Angeles County,California,LosAngeles,1600.0,432.0,2230.0,290.0,2755.0,150.0,$2230,$2755,$1600
+2024,6037188201,Census Tract 1882.01,Los Angeles,Los Angeles County,California,LosAngeles,1644.0,184.0,2192.0,111.0,2728.0,246.0,$2192,$2728,$1644
+2024,6037188202,Census Tract 1882.02,Los Angeles,Los Angeles County,California,LosAngeles,1952.0,231.0,2286.0,164.0,3060.0,1094.0,$2286,$3060,$1952
+2024,6037188300,Census Tract 1883,Los Angeles,Los Angeles County,California,LosAngeles,1055.0,454.0,2333.0,675.0,2911.0,253.0,$2333,$2911,$1055
+2024,6037189101,Census Tract 1891.01,Los Angeles,Los Angeles County,California,LosAngeles,1770.0,278.0,2241.0,118.0,2702.0,288.0,$2241,$2702,$1770
+2024,6037189102,Census Tract 1891.02,Los Angeles,Los Angeles County,California,LosAngeles,1629.0,104.0,2049.0,233.0,2748.0,160.0,$2049,$2748,$1629
+2024,6037189201,Census Tract 1892.01,Los Angeles,Los Angeles County,California,LosAngeles,1301.0,88.0,1716.0,151.0,2324.0,196.0,$1716,$2324,$1301
+2024,6037189202,Census Tract 1892.02,Los Angeles,Los Angeles County,California,LosAngeles,1237.0,509.0,2278.0,346.0,3052.0,452.0,$2278,$3052,$1237
+2024,6037189300,Census Tract 1893,Los Angeles,Los Angeles County,California,LosAngeles,1246.0,203.0,1389.0,421.0,2203.0,1353.0,$1389,$2203,$1246
+2024,6037189400,Census Tract 1894,Los Angeles,Los Angeles County,California,LosAngeles,1909.0,350.0,2308.0,142.0,2883.0,414.0,$2308,$2883,$1909
+2024,6037189501,Census Tract 1895.01,Los Angeles,Los Angeles County,California,LosAngeles,1551.0,105.0,1898.0,130.0,2531.0,288.0,$1898,$2531,$1551
+2024,6037189502,Census Tract 1895.02,Los Angeles,Los Angeles County,California,LosAngeles,1380.0,192.0,1759.0,108.0,2208.0,297.0,$1759,$2208,$1380
+2024,6037189600,Census Tract 1896,Los Angeles,Los Angeles County,California,LosAngeles,1581.0,79.0,1831.0,91.0,2164.0,203.0,$1831,$2164,$1581
+2024,6037189702,Census Tract 1897.02,Los Angeles,Los Angeles County,California,LosAngeles,1567.0,158.0,1873.0,167.0,2828.0,724.0,$1873,$2828,$1567
+2024,6037189703,Census Tract 1897.03,Los Angeles,Los Angeles County,California,LosAngeles,2101.0,112.0,2384.0,161.0,2917.0,367.0,$2384,$2917,$2101
+2024,6037189704,Census Tract 1897.04,Los Angeles,Los Angeles County,California,LosAngeles,1923.0,211.0,2327.0,206.0,3103.0,654.0,$2327,$3103,$1923
+2024,6037189801,Census Tract 1898.01,Los Angeles,Los Angeles County,California,LosAngeles,1799.0,177.0,2255.0,161.0,2778.0,291.0,$2255,$2778,$1799
+2024,6037189802,Census Tract 1898.02,Los Angeles,Los Angeles County,California,LosAngeles,1842.0,218.0,2276.0,241.0,2838.0,382.0,$2276,$2838,$1842
+2024,6037189903,Census Tract 1899.03,Los Angeles,Los Angeles County,California,LosAngeles,1962.0,214.0,2275.0,100.0,2635.0,226.0,$2275,$2635,$1962
+2024,6037189904,Census Tract 1899.04,Los Angeles,Los Angeles County,California,LosAngeles,1583.0,150.0,2047.0,152.0,2483.0,204.0,$2047,$2483,$1583
+2024,6037189905,Census Tract 1899.05,Los Angeles,Los Angeles County,California,LosAngeles,1681.0,73.0,1995.0,130.0,2341.0,89.0,$1995,$2341,$1681
+2024,6037189906,Census Tract 1899.06,Los Angeles,Los Angeles County,California,LosAngeles,1642.0,164.0,2146.0,161.0,2668.0,252.0,$2146,$2668,$1642
+2024,6037189907,Census Tract 1899.07,Los Angeles,Los Angeles County,California,LosAngeles,1452.0,238.0,1888.0,166.0,2344.0,148.0,$1888,$2344,$1452
+2024,6037190101,Census Tract 1901.01,Los Angeles,Los Angeles County,California,LosAngeles,1391.0,68.0,1614.0,107.0,1865.0,78.0,$1614,$1865,$1391
+2024,6037190102,Census Tract 1901.02,Los Angeles,Los Angeles County,California,LosAngeles,1489.0,171.0,1923.0,187.0,2294.0,99.0,$1923,$2294,$1489
+2024,6037190201,Census Tract 1902.01,Los Angeles,Los Angeles County,California,LosAngeles,1238.0,148.0,1634.0,158.0,2090.0,136.0,$1634,$2090,$1238
+2024,6037190202,Census Tract 1902.02,Los Angeles,Los Angeles County,California,LosAngeles,1456.0,347.0,1889.0,146.0,2428.0,229.0,$1889,$2428,$1456
+2024,6037190302,Census Tract 1903.02,Los Angeles,Los Angeles County,California,LosAngeles,1610.0,143.0,1930.0,177.0,2259.0,131.0,$1930,$2259,$1610
+2024,6037190303,Census Tract 1903.03,Los Angeles,Los Angeles County,California,LosAngeles,1134.0,143.0,1403.0,183.0,1840.0,239.0,$1403,$1840,$1134
+2024,6037190401,Census Tract 1904.01,Los Angeles,Los Angeles County,California,LosAngeles,1338.0,139.0,1692.0,83.0,1983.0,96.0,$1692,$1983,$1338
+2024,6037190402,Census Tract 1904.02,Los Angeles,Los Angeles County,California,LosAngeles,1056.0,137.0,1664.0,149.0,2135.0,161.0,$1664,$2135,$1056
+2024,6037190510,Census Tract 1905.10,Los Angeles,Los Angeles County,California,LosAngeles,1217.0,233.0,1640.0,158.0,2214.0,224.0,$1640,$2214,$1217
+2024,6037190520,Census Tract 1905.20,Los Angeles,Los Angeles County,California,LosAngeles,976.0,226.0,1574.0,90.0,1863.0,73.0,$1574,$1863,$976
+2024,6037190701,Census Tract 1907.01,Los Angeles,Los Angeles County,California,LosAngeles,714.0,519.0,1236.0,356.0,2124.0,415.0,$1236,$2124,$714
+2024,6037190702,Census Tract 1907.02,Los Angeles,Los Angeles County,California,LosAngeles,1337.0,69.0,1596.0,139.0,1929.0,171.0,$1596,$1929,$1337
+2024,6037190801,Census Tract 1908.01,Los Angeles,Los Angeles County,California,LosAngeles,774.0,592.0,1323.0,102.0,1847.0,237.0,$1323,$1847,$774
+2024,6037190802,Census Tract 1908.02,Los Angeles,Los Angeles County,California,LosAngeles,1310.0,190.0,1873.0,196.0,2445.0,443.0,$1873,$2445,$1310
+2024,6037190901,Census Tract 1909.01,Los Angeles,Los Angeles County,California,LosAngeles,744.0,336.0,1252.0,174.0,1699.0,191.0,$1252,$1699,$744
+2024,6037190902,Census Tract 1909.02,Los Angeles,Los Angeles County,California,LosAngeles,1299.0,145.0,1677.0,100.0,2045.0,300.0,$1677,$2045,$1299
+2024,6037191000,Census Tract 1910,Los Angeles,Los Angeles County,California,LosAngeles,1382.0,301.0,2296.0,224.0,3326.0,431.0,$2296,$3326,$1382
+2024,6037191110,Census Tract 1911.10,Los Angeles,Los Angeles County,California,LosAngeles,706.0,484.0,1276.0,450.0,1875.0,130.0,$1276,$1875,$706
+2024,6037191120,Census Tract 1911.20,Los Angeles,Los Angeles County,California,LosAngeles,957.0,171.0,1346.0,112.0,1731.0,156.0,$1346,$1731,$957
+2024,6037191201,Census Tract 1912.01,Los Angeles,Los Angeles County,California,LosAngeles,1099.0,136.0,1555.0,206.0,2127.0,353.0,$1555,$2127,$1099
+2024,6037191203,Census Tract 1912.03,Los Angeles,Los Angeles County,California,LosAngeles,992.0,87.0,1331.0,181.0,1768.0,215.0,$1331,$1768,$992
+2024,6037191204,Census Tract 1912.04,Los Angeles,Los Angeles County,California,LosAngeles,1141.0,114.0,1541.0,152.0,1847.0,81.0,$1541,$1847,$1141
+2024,6037191301,Census Tract 1913.01,Los Angeles,Los Angeles County,California,LosAngeles,884.0,105.0,1610.0,241.0,2296.0,176.0,$1610,$2296,$884
+2024,6037191302,Census Tract 1913.02,Los Angeles,Los Angeles County,California,LosAngeles,1266.0,127.0,1600.0,136.0,1993.0,190.0,$1600,$1993,$1266
+2024,6037191410,Census Tract 1914.10,Los Angeles,Los Angeles County,California,LosAngeles,990.0,89.0,1307.0,132.0,1976.0,309.0,$1307,$1976,$990
+2024,6037191420,Census Tract 1914.20,Los Angeles,Los Angeles County,California,LosAngeles,1535.0,273.0,1912.0,203.0,2449.0,277.0,$1912,$2449,$1535
+2024,6037191500,Census Tract 1915,Los Angeles,Los Angeles County,California,LosAngeles,1189.0,167.0,1556.0,151.0,1952.0,114.0,$1556,$1952,$1189
+2024,6037191610,Census Tract 1916.10,Los Angeles,Los Angeles County,California,LosAngeles,1202.0,107.0,1644.0,129.0,1977.0,182.0,$1644,$1977,$1202
+2024,6037191620,Census Tract 1916.20,Los Angeles,Los Angeles County,California,LosAngeles,1129.0,198.0,1605.0,117.0,1889.0,98.0,$1605,$1889,$1129
+2024,6037191710,Census Tract 1917.10,Los Angeles,Los Angeles County,California,LosAngeles,886.0,553.0,1196.0,164.0,1485.0,175.0,$1196,$1485,$886
+2024,6037191720,Census Tract 1917.20,Los Angeles,Los Angeles County,California,LosAngeles,1036.0,91.0,1290.0,103.0,1619.0,147.0,$1290,$1619,$1036
+2024,6037191810,Census Tract 1918.10,Los Angeles,Los Angeles County,California,LosAngeles,1395.0,128.0,1716.0,99.0,2065.0,443.0,$1716,$2065,$1395
+2024,6037191820,Census Tract 1918.20,Los Angeles,Los Angeles County,California,LosAngeles,1332.0,148.0,2095.0,266.0,3235.0,561.0,$2095,$3235,$1332
+2024,6037191901,Census Tract 1919.01,Los Angeles,Los Angeles County,California,LosAngeles,1721.0,98.0,2113.0,189.0,2685.0,255.0,$2113,$2685,$1721
+2024,6037191902,Census Tract 1919.02,Los Angeles,Los Angeles County,California,LosAngeles,1874.0,195.0,2329.0,208.0,2849.0,265.0,$2329,$2849,$1874
+2024,6037192001,Census Tract 1920.01,Los Angeles,Los Angeles County,California,LosAngeles,1610.0,111.0,1969.0,204.0,2838.0,393.0,$1969,$2838,$1610
+2024,6037192002,Census Tract 1920.02,Los Angeles,Los Angeles County,California,LosAngeles,1986.0,305.0,2599.0,505.0,3501.0,,$2599,Not available. Exceeds $3500!,$1986
+2024,6037192300,Census Tract 1923,Los Angeles,Los Angeles County,California,LosAngeles,1574.0,256.0,2187.0,501.0,3340.0,769.0,$2187,$3340,$1574
+2024,6037192410,Census Tract 1924.10,Los Angeles,Los Angeles County,California,LosAngeles,1677.0,112.0,2189.0,646.0,3501.0,,$2189,Not available. Exceeds $3500!,$1677
+2024,6037192420,Census Tract 1924.20,Los Angeles,Los Angeles County,California,LosAngeles,1631.0,106.0,2005.0,211.0,2578.0,380.0,$2005,$2578,$1631
+2024,6037192510,Census Tract 1925.10,Los Angeles,Los Angeles County,California,LosAngeles,1399.0,143.0,1817.0,168.0,2336.0,185.0,$1817,$2336,$1399
+2024,6037192520,Census Tract 1925.20,Los Angeles,Los Angeles County,California,LosAngeles,1313.0,103.0,1756.0,182.0,2295.0,189.0,$1756,$2295,$1313
+2024,6037192610,Census Tract 1926.10,Los Angeles,Los Angeles County,California,LosAngeles,1203.0,159.0,1686.0,241.0,2236.0,115.0,$1686,$2236,$1203
+2024,6037192620,Census Tract 1926.20,Los Angeles,Los Angeles County,California,LosAngeles,1084.0,103.0,1360.0,81.0,1774.0,215.0,$1360,$1774,$1084
+2024,6037192700,Census Tract 1927,Los Angeles,Los Angeles County,California,LosAngeles,1289.0,328.0,1708.0,94.0,1998.0,175.0,$1708,$1998,$1289
+2024,6037194101,Census Tract 1941.01,Los Angeles,Los Angeles County,California,LosAngeles,1542.0,344.0,2005.0,221.0,2622.0,270.0,$2005,$2622,$1542
+2024,6037194102,Census Tract 1941.02,Los Angeles,Los Angeles County,California,LosAngeles,1628.0,257.0,2141.0,353.0,3375.0,1169.0,$2141,$3375,$1628
+2024,6037194200,Census Tract 1942,Los Angeles,Los Angeles County,California,LosAngeles,2159.0,366.0,2663.0,1274.0,3501.0,,$2663,Not available. Exceeds $3500!,$2159
+2024,6037194300,Census Tract 1943,Los Angeles,Los Angeles County,California,LosAngeles,2383.0,1224.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2383
+2024,6037194401,Census Tract 1944.01,Los Angeles,Los Angeles County,California,LosAngeles,1793.0,131.0,2303.0,241.0,2980.0,283.0,$2303,$2980,$1793
+2024,6037194402,Census Tract 1944.02,Los Angeles,Los Angeles County,California,LosAngeles,1973.0,175.0,2402.0,208.0,3034.0,262.0,$2402,$3034,$1973
+2024,6037194500,Census Tract 1945,Los Angeles,Los Angeles County,California,LosAngeles,1978.0,348.0,2811.0,612.0,3501.0,,$2811,Not available. Exceeds $3500!,$1978
+2024,6037195100,Census Tract 1951,Los Angeles,Los Angeles County,California,LosAngeles,1692.0,159.0,,,3501.0,,,Not available. Exceeds $3500!,$1692
+2024,6037195201,Census Tract 1952.01,Los Angeles,Los Angeles County,California,LosAngeles,1479.0,166.0,2031.0,181.0,2488.0,300.0,$2031,$2488,$1479
+2024,6037195202,Census Tract 1952.02,Los Angeles,Los Angeles County,California,LosAngeles,1509.0,889.0,2483.0,347.0,3334.0,316.0,$2483,$3334,$1509
+2024,6037195300,Census Tract 1953,Los Angeles,Los Angeles County,California,LosAngeles,1101.0,214.0,1782.0,185.0,2409.0,175.0,$1782,$2409,$1101
+2024,6037195400,Census Tract 1954,Los Angeles,Los Angeles County,California,LosAngeles,1508.0,342.0,1893.0,200.0,2560.0,759.0,$1893,$2560,$1508
+2024,6037195500,Census Tract 1955,Los Angeles,Los Angeles County,California,LosAngeles,981.0,644.0,1860.0,394.0,2825.0,324.0,$1860,$2825,$981
+2024,6037195600,Census Tract 1956,Los Angeles,Los Angeles County,California,LosAngeles,1046.0,202.0,1772.0,609.0,3089.0,744.0,$1772,$3089,$1046
+2024,6037195710,Census Tract 1957.10,Los Angeles,Los Angeles County,California,LosAngeles,1155.0,207.0,1723.0,477.0,2624.0,924.0,$1723,$2624,$1155
+2024,6037195720,Census Tract 1957.20,Los Angeles,Los Angeles County,California,LosAngeles,1413.0,359.0,2061.0,198.0,2676.0,229.0,$2061,$2676,$1413
+2024,6037195802,Census Tract 1958.02,Los Angeles,Los Angeles County,California,LosAngeles,1343.0,128.0,1737.0,169.0,2337.0,286.0,$1737,$2337,$1343
+2024,6037195803,Census Tract 1958.03,Los Angeles,Los Angeles County,California,LosAngeles,1350.0,348.0,1896.0,182.0,2433.0,217.0,$1896,$2433,$1350
+2024,6037195804,Census Tract 1958.04,Los Angeles,Los Angeles County,California,LosAngeles,942.0,99.0,1409.0,388.0,2109.0,321.0,$1409,$2109,$942
+2024,6037195901,Census Tract 1959.01,Los Angeles,Los Angeles County,California,LosAngeles,1376.0,113.0,1900.0,333.0,2427.0,147.0,$1900,$2427,$1376
+2024,6037195902,Census Tract 1959.02,Los Angeles,Los Angeles County,California,LosAngeles,1441.0,345.0,2145.0,173.0,2461.0,174.0,$2145,$2461,$1441
+2024,6037195903,Census Tract 1959.03,Los Angeles,Los Angeles County,California,LosAngeles,1474.0,155.0,2062.0,198.0,2697.0,211.0,$2062,$2697,$1474
+2024,6037197200,Census Tract 1972,Los Angeles,Los Angeles County,California,LosAngeles,1068.0,85.0,1245.0,1045.0,2438.0,425.0,$1245,$2438,$1068
+2024,6037197300,Census Tract 1973,Los Angeles,Los Angeles County,California,LosAngeles,1308.0,230.0,1972.0,217.0,2570.0,286.0,$1972,$2570,$1308
+2024,6037197410,Census Tract 1974.10,Los Angeles,Los Angeles County,California,LosAngeles,1385.0,923.0,2156.0,351.0,2791.0,680.0,$2156,$2791,$1385
+2024,6037197420,Census Tract 1974.20,Los Angeles,Los Angeles County,California,LosAngeles,1392.0,120.0,1864.0,199.0,2747.0,613.0,$1864,$2747,$1392
+2024,6037197500,Census Tract 1975,Los Angeles,Los Angeles County,California,LosAngeles,1166.0,83.0,1640.0,130.0,2133.0,415.0,$1640,$2133,$1166
+2024,6037197600,Census Tract 1976,Los Angeles,Los Angeles County,California,LosAngeles,1345.0,215.0,1844.0,192.0,2544.0,355.0,$1844,$2544,$1345
+2024,6037197700,Census Tract 1977,Los Angeles,Los Angeles County,California,LosAngeles,1191.0,169.0,1867.0,322.0,2627.0,279.0,$1867,$2627,$1191
+2024,6037199001,Census Tract 1990.01,Los Angeles,Los Angeles County,California,LosAngeles,1057.0,84.0,1305.0,258.0,1714.0,109.0,$1305,$1714,$1057
+2024,6037199002,Census Tract 1990.02,Los Angeles,Los Angeles County,California,LosAngeles,1268.0,315.0,1705.0,376.0,2703.0,903.0,$1705,$2703,$1268
+2024,6037199110,Census Tract 1991.10,Los Angeles,Los Angeles County,California,LosAngeles,1201.0,220.0,1445.0,199.0,1950.0,561.0,$1445,$1950,$1201
+2024,6037199120,Census Tract 1991.20,Los Angeles,Los Angeles County,California,LosAngeles,945.0,81.0,1198.0,133.0,1639.0,296.0,$1198,$1639,$945
+2024,6037199201,Census Tract 1992.01,Los Angeles,Los Angeles County,California,LosAngeles,879.0,200.0,1165.0,95.0,1665.0,193.0,$1165,$1665,$879
+2024,6037199202,Census Tract 1992.02,Los Angeles,Los Angeles County,California,LosAngeles,1070.0,81.0,1230.0,335.0,1865.0,542.0,$1230,$1865,$1070
+2024,6037199300,Census Tract 1993,Los Angeles,Los Angeles County,California,LosAngeles,943.0,137.0,1447.0,583.0,2258.0,219.0,$1447,$2258,$943
+2024,6037199400,Census Tract 1994,Los Angeles,Los Angeles County,California,LosAngeles,944.0,133.0,1338.0,217.0,1742.0,139.0,$1338,$1742,$944
+2024,6037199700,Census Tract 1997,Los Angeles,Los Angeles County,California,LosAngeles,1056.0,490.0,1500.0,359.0,2229.0,153.0,$1500,$2229,$1056
+2024,6037199801,Census Tract 1998.01,Los Angeles,Los Angeles County,California,LosAngeles,1010.0,223.0,1326.0,152.0,1799.0,389.0,$1326,$1799,$1010
+2024,6037199802,Census Tract 1998.02,Los Angeles,Los Angeles County,California,LosAngeles,1011.0,263.0,1509.0,583.0,1859.0,119.0,$1509,$1859,$1011
+2024,6037199900,Census Tract 1999,Los Angeles,Los Angeles County,California,LosAngeles,798.0,82.0,1094.0,222.0,1654.0,178.0,$1094,$1654,$798
+2024,6037201110,Census Tract 2011.10,Los Angeles,Los Angeles County,California,LosAngeles,1056.0,80.0,1241.0,150.0,2553.0,1138.0,$1241,$2553,$1056
+2024,6037201120,Census Tract 2011.20,Los Angeles,Los Angeles County,California,LosAngeles,876.0,136.0,1428.0,242.0,1932.0,244.0,$1428,$1932,$876
+2024,6037201200,Census Tract 2012,Los Angeles,Los Angeles County,California,LosAngeles,1010.0,92.0,1208.0,113.0,1646.0,766.0,$1208,$1646,$1010
+2024,6037201301,Census Tract 2013.01,Los Angeles,Los Angeles County,California,LosAngeles,642.0,399.0,983.0,228.0,1230.0,469.0,$983,$1230,$642
+2024,6037201302,Census Tract 2013.02,Los Angeles,Los Angeles County,California,LosAngeles,,,2381.0,668.0,2853.0,814.0,$2381,$2853,
+2024,6037201401,Census Tract 2014.01,Los Angeles,Los Angeles County,California,LosAngeles,746.0,466.0,1599.0,156.0,1915.0,132.0,$1599,$1915,$746
+2024,6037201402,Census Tract 2014.02,Los Angeles,Los Angeles County,California,LosAngeles,1296.0,1190.0,1744.0,243.0,2225.0,445.0,$1744,$2225,$1296
+2024,6037201501,Census Tract 2015.01,Los Angeles,Los Angeles County,California,LosAngeles,1171.0,188.0,1476.0,132.0,1903.0,166.0,$1476,$1903,$1171
+2024,6037201503,Census Tract 2015.03,Los Angeles,Los Angeles County,California,LosAngeles,1067.0,82.0,1296.0,146.0,1781.0,361.0,$1296,$1781,$1067
+2024,6037201504,Census Tract 2015.04,Los Angeles,Los Angeles County,California,LosAngeles,1112.0,107.0,1350.0,134.0,1678.0,296.0,$1350,$1678,$1112
+2024,6037201601,Census Tract 2016.01,Los Angeles,Los Angeles County,California,LosAngeles,834.0,86.0,1250.0,374.0,1605.0,530.0,$1250,$1605,$834
+2024,6037201602,Census Tract 2016.02,Los Angeles,Los Angeles County,California,LosAngeles,1085.0,265.0,1557.0,254.0,1971.0,264.0,$1557,$1971,$1085
+2024,6037201700,Census Tract 2017,Los Angeles,Los Angeles County,California,LosAngeles,1158.0,67.0,1467.0,196.0,1910.0,168.0,$1467,$1910,$1158
+2024,6037203100,Census Tract 2031,Los Angeles,Los Angeles County,California,LosAngeles,614.0,171.0,990.0,96.0,1261.0,241.0,$990,$1261,$614
+2024,6037203200,Census Tract 2032,Los Angeles,Los Angeles County,California,LosAngeles,1080.0,89.0,1398.0,198.0,1830.0,136.0,$1398,$1830,$1080
+2024,6037203300,Census Tract 2033,Los Angeles,Los Angeles County,California,LosAngeles,1106.0,223.0,1569.0,282.0,1844.0,93.0,$1569,$1844,$1106
+2024,6037203500,Census Tract 2035,Los Angeles,Los Angeles County,California,LosAngeles,1072.0,118.0,1407.0,176.0,1935.0,218.0,$1407,$1935,$1072
+2024,6037203601,Census Tract 2036.01,Los Angeles,Los Angeles County,California,LosAngeles,850.0,108.0,1188.0,164.0,1703.0,338.0,$1188,$1703,$850
+2024,6037203602,Census Tract 2036.02,Los Angeles,Los Angeles County,California,LosAngeles,1301.0,189.0,1579.0,194.0,2009.0,273.0,$1579,$2009,$1301
+2024,6037203710,Census Tract 2037.10,Los Angeles,Los Angeles County,California,LosAngeles,964.0,115.0,1344.0,188.0,1763.0,117.0,$1344,$1763,$964
+2024,6037203720,Census Tract 2037.20,Los Angeles,Los Angeles County,California,LosAngeles,983.0,96.0,1193.0,109.0,1798.0,441.0,$1193,$1798,$983
+2024,6037203800,Census Tract 2038,Los Angeles,Los Angeles County,California,LosAngeles,808.0,267.0,1121.0,223.0,1510.0,296.0,$1121,$1510,$808
+2024,6037203900,Census Tract 2039,Los Angeles,Los Angeles County,California,LosAngeles,910.0,61.0,1134.0,139.0,1452.0,180.0,$1134,$1452,$910
+2024,6037204110,Census Tract 2041.10,Los Angeles,Los Angeles County,California,LosAngeles,575.0,409.0,1045.0,266.0,1573.0,316.0,$1045,$1573,$575
+2024,6037204120,Census Tract 2041.20,Los Angeles,Los Angeles County,California,LosAngeles,1150.0,344.0,1593.0,165.0,1843.0,95.0,$1593,$1843,$1150
+2024,6037204200,Census Tract 2042,Los Angeles,Los Angeles County,California,LosAngeles,1045.0,59.0,1207.0,98.0,1843.0,316.0,$1207,$1843,$1045
+2024,6037204300,Census Tract 2043,Los Angeles,Los Angeles County,California,LosAngeles,841.0,102.0,1139.0,116.0,1432.0,89.0,$1139,$1432,$841
+2024,6037204410,Census Tract 2044.10,Los Angeles,Los Angeles County,California,LosAngeles,1043.0,205.0,1626.0,372.0,2255.0,206.0,$1626,$2255,$1043
+2024,6037204420,Census Tract 2044.20,Los Angeles,Los Angeles County,California,LosAngeles,905.0,70.0,1095.0,156.0,1551.0,216.0,$1095,$1551,$905
+2024,6037204600,Census Tract 2046,Los Angeles,Los Angeles County,California,LosAngeles,1067.0,83.0,1337.0,178.0,1840.0,279.0,$1337,$1840,$1067
+2024,6037204700,Census Tract 2047,Los Angeles,Los Angeles County,California,LosAngeles,950.0,221.0,1206.0,150.0,1578.0,219.0,$1206,$1578,$950
+2024,6037204810,Census Tract 2048.10,Los Angeles,Los Angeles County,California,LosAngeles,1144.0,169.0,1489.0,149.0,1759.0,78.0,$1489,$1759,$1144
+2024,6037204820,Census Tract 2048.20,Los Angeles,Los Angeles County,California,LosAngeles,879.0,286.0,1618.0,498.0,2107.0,271.0,$1618,$2107,$879
+2024,6037204910,Census Tract 2049.10,Los Angeles,Los Angeles County,California,LosAngeles,713.0,390.0,994.0,150.0,1409.0,158.0,$994,$1409,$713
+2024,6037204920,Census Tract 2049.20,Los Angeles,Los Angeles County,California,LosAngeles,910.0,245.0,1273.0,180.0,1569.0,207.0,$1273,$1569,$910
+2024,6037205110,Census Tract 2051.10,Los Angeles,Los Angeles County,California,LosAngeles,1163.0,85.0,1459.0,137.0,1804.0,92.0,$1459,$1804,$1163
+2024,6037205120,Census Tract 2051.20,Los Angeles,Los Angeles County,California,LosAngeles,493.0,492.0,1130.0,185.0,1573.0,189.0,$1130,$1573,$493
+2024,6037206010,Census Tract 2060.10,Los Angeles,Los Angeles County,California,LosAngeles,866.0,518.0,1234.0,216.0,2096.0,309.0,$1234,$2096,$866
+2024,6037206020,Census Tract 2060.20,Los Angeles,Los Angeles County,California,LosAngeles,2505.0,188.0,2866.0,203.0,3208.0,141.0,$2866,$3208,$2505
+2024,6037206050,Census Tract 2060.50,Los Angeles,Los Angeles County,California,LosAngeles,350.0,45.0,922.0,249.0,1273.0,261.0,$922,$1273,$350
+2024,6037206051,Census Tract 2060.51,Los Angeles,Los Angeles County,California,LosAngeles,1847.0,1050.0,2764.0,356.0,3501.0,,$2764,Not available. Exceeds $3500!,$1847
+2024,6037206052,Census Tract 2060.52,Los Angeles,Los Angeles County,California,LosAngeles,2373.0,179.0,2800.0,144.0,3254.0,141.0,$2800,$3254,$2373
+2024,6037206053,Census Tract 2060.53,Los Angeles,Los Angeles County,California,LosAngeles,694.0,263.0,1181.0,275.0,1717.0,365.0,$1181,$1717,$694
+2024,6037206054,Census Tract 2060.54,Los Angeles,Los Angeles County,California,LosAngeles,536.0,58.0,1230.0,356.0,1789.0,191.0,$1230,$1789,$536
+2024,6037206201,Census Tract 2062.01,Los Angeles,Los Angeles County,California,LosAngeles,,,2570.0,465.0,3501.0,,$2570,Not available. Exceeds $3500!,
+2024,6037206202,Census Tract 2062.02,Los Angeles,Los Angeles County,California,LosAngeles,345.0,88.0,742.0,586.0,1241.0,546.0,$742,$1241,$345
+2024,6037206301,Census Tract 2063.01,Los Angeles,Los Angeles County,California,LosAngeles,308.0,167.0,399.0,117.0,493.0,140.0,$399,$493,$308
+2024,6037206302,Census Tract 2063.02,Los Angeles,Los Angeles County,California,LosAngeles,99.0,,302.0,80.0,501.0,168.0,$302,$501,$99
+2024,6037206303,Census Tract 2063.03,Los Angeles,Los Angeles County,California,LosAngeles,99.0,,340.0,111.0,,,$340,,$99
+2024,6037207101,Census Tract 2071.01,Los Angeles,Los Angeles County,California,LosAngeles,1259.0,311.0,1903.0,194.0,2443.0,246.0,$1903,$2443,$1259
+2024,6037207102,Census Tract 2071.02,Los Angeles,Los Angeles County,California,LosAngeles,634.0,609.0,1427.0,212.0,2193.0,146.0,$1427,$2193,$634
+2024,6037207103,Census Tract 2071.03,Los Angeles,Los Angeles County,California,LosAngeles,883.0,87.0,1185.0,216.0,1673.0,265.0,$1185,$1673,$883
+2024,6037207303,Census Tract 2073.03,Los Angeles,Los Angeles County,California,LosAngeles,601.0,363.0,1517.0,938.0,2925.0,684.0,$1517,$2925,$601
+2024,6037207304,Census Tract 2073.04,Los Angeles,Los Angeles County,California,LosAngeles,331.0,21.0,846.0,283.0,1693.0,330.0,$846,$1693,$331
+2024,6037207305,Census Tract 2073.05,Los Angeles,Los Angeles County,California,LosAngeles,1509.0,802.0,1828.0,163.0,2213.0,200.0,$1828,$2213,$1509
+2024,6037207306,Census Tract 2073.06,Los Angeles,Los Angeles County,California,LosAngeles,699.0,397.0,1787.0,515.0,2555.0,223.0,$1787,$2555,$699
+2024,6037207307,Census Tract 2073.07,Los Angeles,Los Angeles County,California,LosAngeles,329.0,296.0,,,2090.0,292.0,,$2090,$329
+2024,6037207308,Census Tract 2073.08,Los Angeles,Los Angeles County,California,LosAngeles,1937.0,231.0,2314.0,186.0,2795.0,278.0,$2314,$2795,$1937
+2024,6037207400,Census Tract 2074,Los Angeles,Los Angeles County,California,LosAngeles,2184.0,524.0,2992.0,222.0,3330.0,84.0,$2992,$3330,$2184
+2024,6037207501,Census Tract 2075.01,Los Angeles,Los Angeles County,California,LosAngeles,2074.0,118.0,2354.0,116.0,2854.0,327.0,$2354,$2854,$2074
+2024,6037207502,Census Tract 2075.02,Los Angeles,Los Angeles County,California,LosAngeles,330.0,14.0,,,2881.0,272.0,,$2881,$330
+2024,6037207711,Census Tract 2077.11,Los Angeles,Los Angeles County,California,LosAngeles,2572.0,175.0,3088.0,293.0,3501.0,,$3088,Not available. Exceeds $3500!,$2572
+2024,6037207712,Census Tract 2077.12,Los Angeles,Los Angeles County,California,LosAngeles,,,2488.0,277.0,3406.0,298.0,$2488,$3406,
+2024,6037207901,Census Tract 2079.01,Los Angeles,Los Angeles County,California,LosAngeles,2476.0,386.0,3062.0,242.0,3501.0,,$3062,Not available. Exceeds $3500!,$2476
+2024,6037207902,Census Tract 2079.02,Los Angeles,Los Angeles County,California,LosAngeles,2334.0,179.0,2733.0,102.0,3216.0,390.0,$2733,$3216,$2334
+2024,6037208001,Census Tract 2080.01,Los Angeles,Los Angeles County,California,LosAngeles,1668.0,442.0,2229.0,177.0,2625.0,188.0,$2229,$2625,$1668
+2024,6037208002,Census Tract 2080.02,Los Angeles,Los Angeles County,California,LosAngeles,1027.0,189.0,1322.0,149.0,2009.0,250.0,$1322,$2009,$1027
+2024,6037208301,Census Tract 2083.01,Los Angeles,Los Angeles County,California,LosAngeles,934.0,391.0,1316.0,133.0,1612.0,199.0,$1316,$1612,$934
+2024,6037208302,Census Tract 2083.02,Los Angeles,Los Angeles County,California,LosAngeles,469.0,364.0,1091.0,155.0,1609.0,206.0,$1091,$1609,$469
+2024,6037208401,Census Tract 2084.01,Los Angeles,Los Angeles County,California,LosAngeles,822.0,172.0,1269.0,151.0,1613.0,178.0,$1269,$1613,$822
+2024,6037208402,Census Tract 2084.02,Los Angeles,Los Angeles County,California,LosAngeles,1316.0,154.0,1739.0,158.0,2263.0,150.0,$1739,$2263,$1316
+2024,6037208501,Census Tract 2085.01,Los Angeles,Los Angeles County,California,LosAngeles,1396.0,205.0,1917.0,174.0,2434.0,181.0,$1917,$2434,$1396
+2024,6037208502,Census Tract 2085.02,Los Angeles,Los Angeles County,California,LosAngeles,758.0,72.0,995.0,144.0,1486.0,220.0,$995,$1486,$758
+2024,6037208610,Census Tract 2086.10,Los Angeles,Los Angeles County,California,LosAngeles,1213.0,153.0,1554.0,125.0,1886.0,75.0,$1554,$1886,$1213
+2024,6037208620,Census Tract 2086.20,Los Angeles,Los Angeles County,California,LosAngeles,1330.0,159.0,1659.0,67.0,1905.0,57.0,$1659,$1905,$1330
+2024,6037208710,Census Tract 2087.10,Los Angeles,Los Angeles County,California,LosAngeles,1418.0,140.0,1791.0,143.0,2201.0,150.0,$1791,$2201,$1418
+2024,6037208720,Census Tract 2087.20,Los Angeles,Los Angeles County,California,LosAngeles,907.0,67.0,1145.0,114.0,1481.0,158.0,$1145,$1481,$907
+2024,6037208801,Census Tract 2088.01,Los Angeles,Los Angeles County,California,LosAngeles,1008.0,180.0,1357.0,109.0,1916.0,388.0,$1357,$1916,$1008
+2024,6037208802,Census Tract 2088.02,Los Angeles,Los Angeles County,California,LosAngeles,867.0,407.0,1411.0,137.0,1904.0,184.0,$1411,$1904,$867
+2024,6037208902,Census Tract 2089.02,Los Angeles,Los Angeles County,California,LosAngeles,1047.0,289.0,1394.0,90.0,1679.0,90.0,$1394,$1679,$1047
+2024,6037208903,Census Tract 2089.03,Los Angeles,Los Angeles County,California,LosAngeles,975.0,77.0,1275.0,160.0,1762.0,343.0,$1275,$1762,$975
+2024,6037208904,Census Tract 2089.04,Los Angeles,Los Angeles County,California,LosAngeles,,,932.0,163.0,1313.0,226.0,$932,$1313,
+2024,6037209103,Census Tract 2091.03,Los Angeles,Los Angeles County,California,LosAngeles,968.0,54.0,1177.0,83.0,1461.0,113.0,$1177,$1461,$968
+2024,6037209104,Census Tract 2091.04,Los Angeles,Los Angeles County,California,LosAngeles,641.0,194.0,995.0,156.0,1416.0,178.0,$995,$1416,$641
+2024,6037209105,Census Tract 2091.05,Los Angeles,Los Angeles County,California,LosAngeles,,,1064.0,196.0,1375.0,100.0,$1064,$1375,
+2024,6037209106,Census Tract 2091.06,Los Angeles,Los Angeles County,California,LosAngeles,867.0,119.0,1285.0,146.0,1885.0,264.0,$1285,$1885,$867
+2024,6037209201,Census Tract 2092.01,Los Angeles,Los Angeles County,California,LosAngeles,2183.0,102.0,2565.0,145.0,2935.0,140.0,$2565,$2935,$2183
+2024,6037209202,Census Tract 2092.02,Los Angeles,Los Angeles County,California,LosAngeles,1085.0,100.0,1535.0,343.0,2093.0,245.0,$1535,$2093,$1085
+2024,6037209300,Census Tract 2093,Los Angeles,Los Angeles County,California,LosAngeles,830.0,137.0,1194.0,212.0,2105.0,191.0,$1194,$2105,$830
+2024,6037209401,Census Tract 2094.01,Los Angeles,Los Angeles County,California,LosAngeles,778.0,328.0,1157.0,79.0,1541.0,193.0,$1157,$1541,$778
+2024,6037209402,Census Tract 2094.02,Los Angeles,Los Angeles County,California,LosAngeles,785.0,80.0,1019.0,140.0,1361.0,140.0,$1019,$1361,$785
+2024,6037209403,Census Tract 2094.03,Los Angeles,Los Angeles County,California,LosAngeles,754.0,82.0,971.0,181.0,1180.0,59.0,$971,$1180,$754
+2024,6037209510,Census Tract 2095.10,Los Angeles,Los Angeles County,California,LosAngeles,929.0,90.0,1402.0,221.0,1901.0,182.0,$1402,$1901,$929
+2024,6037209520,Census Tract 2095.20,Los Angeles,Los Angeles County,California,LosAngeles,1005.0,88.0,1240.0,97.0,1492.0,130.0,$1240,$1492,$1005
+2024,6037209810,Census Tract 2098.10,Los Angeles,Los Angeles County,California,LosAngeles,776.0,158.0,1017.0,151.0,1372.0,119.0,$1017,$1372,$776
+2024,6037209820,Census Tract 2098.20,Los Angeles,Los Angeles County,California,LosAngeles,902.0,64.0,1003.0,107.0,1336.0,147.0,$1003,$1336,$902
+2024,6037210010,Census Tract 2100.10,Los Angeles,Los Angeles County,California,LosAngeles,,,1018.0,257.0,1462.0,245.0,$1018,$1462,
+2024,6037211000,Census Tract 2110,Los Angeles,Los Angeles County,California,LosAngeles,2810.0,340.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2810
+2024,6037211121,Census Tract 2111.21,Los Angeles,Los Angeles County,California,LosAngeles,1376.0,236.0,1794.0,165.0,2207.0,157.0,$1794,$2207,$1376
+2024,6037211122,Census Tract 2111.22,Los Angeles,Los Angeles County,California,LosAngeles,1492.0,172.0,1858.0,158.0,2214.0,108.0,$1858,$2214,$1492
+2024,6037211123,Census Tract 2111.23,Los Angeles,Los Angeles County,California,LosAngeles,1568.0,288.0,2453.0,276.0,2955.0,246.0,$2453,$2955,$1568
+2024,6037211124,Census Tract 2111.24,Los Angeles,Los Angeles County,California,LosAngeles,1557.0,70.0,1799.0,72.0,2079.0,157.0,$1799,$2079,$1557
+2024,6037211201,Census Tract 2112.01,Los Angeles,Los Angeles County,California,LosAngeles,1191.0,135.0,1503.0,146.0,1926.0,169.0,$1503,$1926,$1191
+2024,6037211202,Census Tract 2112.02,Los Angeles,Los Angeles County,California,LosAngeles,1048.0,199.0,1497.0,270.0,2310.0,564.0,$1497,$2310,$1048
+2024,6037211310,Census Tract 2113.10,Los Angeles,Los Angeles County,California,LosAngeles,1262.0,133.0,1518.0,135.0,1885.0,114.0,$1518,$1885,$1262
+2024,6037211320,Census Tract 2113.20,Los Angeles,Los Angeles County,California,LosAngeles,1101.0,98.0,1436.0,162.0,1826.0,157.0,$1436,$1826,$1101
+2024,6037211410,Census Tract 2114.10,Los Angeles,Los Angeles County,California,LosAngeles,1173.0,110.0,1526.0,139.0,1884.0,114.0,$1526,$1884,$1173
+2024,6037211420,Census Tract 2114.20,Los Angeles,Los Angeles County,California,LosAngeles,1301.0,123.0,1597.0,134.0,1914.0,111.0,$1597,$1914,$1301
+2024,6037211500,Census Tract 2115,Los Angeles,Los Angeles County,California,LosAngeles,1252.0,174.0,1770.0,308.0,2349.0,195.0,$1770,$2349,$1252
+2024,6037211701,Census Tract 2117.01,Los Angeles,Los Angeles County,California,LosAngeles,1239.0,681.0,2218.0,239.0,2857.0,408.0,$2218,$2857,$1239
+2024,6037211703,Census Tract 2117.03,Los Angeles,Los Angeles County,California,LosAngeles,1208.0,114.0,1609.0,99.0,1945.0,86.0,$1609,$1945,$1208
+2024,6037211704,Census Tract 2117.04,Los Angeles,Los Angeles County,California,LosAngeles,1282.0,271.0,1608.0,125.0,1936.0,95.0,$1608,$1936,$1282
+2024,6037211802,Census Tract 2118.02,Los Angeles,Los Angeles County,California,LosAngeles,1296.0,121.0,1678.0,106.0,2136.0,292.0,$1678,$2136,$1296
+2024,6037211803,Census Tract 2118.03,Los Angeles,Los Angeles County,California,LosAngeles,1555.0,52.0,1769.0,48.0,1984.0,100.0,$1769,$1984,$1555
+2024,6037211804,Census Tract 2118.04,Los Angeles,Los Angeles County,California,LosAngeles,1309.0,117.0,1625.0,83.0,1893.0,79.0,$1625,$1893,$1309
+2024,6037211910,Census Tract 2119.10,Los Angeles,Los Angeles County,California,LosAngeles,1309.0,72.0,1585.0,97.0,1863.0,69.0,$1585,$1863,$1309
+2024,6037211921,Census Tract 2119.21,Los Angeles,Los Angeles County,California,LosAngeles,1165.0,93.0,1481.0,164.0,1796.0,95.0,$1481,$1796,$1165
+2024,6037211922,Census Tract 2119.22,Los Angeles,Los Angeles County,California,LosAngeles,1221.0,89.0,1528.0,135.0,2018.0,193.0,$1528,$2018,$1221
+2024,6037212101,Census Tract 2121.01,Los Angeles,Los Angeles County,California,LosAngeles,1461.0,136.0,1889.0,153.0,2400.0,154.0,$1889,$2400,$1461
+2024,6037212102,Census Tract 2121.02,Los Angeles,Los Angeles County,California,LosAngeles,1020.0,199.0,1534.0,224.0,1995.0,178.0,$1534,$1995,$1020
+2024,6037212202,Census Tract 2122.02,Los Angeles,Los Angeles County,California,LosAngeles,1299.0,242.0,1678.0,146.0,2017.0,201.0,$1678,$2017,$1299
+2024,6037212203,Census Tract 2122.03,Los Angeles,Los Angeles County,California,LosAngeles,624.0,304.0,1171.0,222.0,1824.0,200.0,$1171,$1824,$624
+2024,6037212204,Census Tract 2122.04,Los Angeles,Los Angeles County,California,LosAngeles,1087.0,88.0,1524.0,303.0,2108.0,400.0,$1524,$2108,$1087
+2024,6037212303,Census Tract 2123.03,Los Angeles,Los Angeles County,California,LosAngeles,1276.0,388.0,1692.0,397.0,2307.0,155.0,$1692,$2307,$1276
+2024,6037212304,Census Tract 2123.04,Los Angeles,Los Angeles County,California,LosAngeles,1259.0,145.0,1598.0,123.0,1917.0,108.0,$1598,$1917,$1259
+2024,6037212305,Census Tract 2123.05,Los Angeles,Los Angeles County,California,LosAngeles,1056.0,109.0,1353.0,116.0,1705.0,96.0,$1353,$1705,$1056
+2024,6037212306,Census Tract 2123.06,Los Angeles,Los Angeles County,California,LosAngeles,1444.0,243.0,1864.0,139.0,2363.0,175.0,$1864,$2363,$1444
+2024,6037212410,Census Tract 2124.10,Los Angeles,Los Angeles County,California,LosAngeles,1291.0,149.0,1707.0,144.0,2228.0,340.0,$1707,$2228,$1291
+2024,6037212420,Census Tract 2124.20,Los Angeles,Los Angeles County,California,LosAngeles,1143.0,226.0,1598.0,116.0,1954.0,153.0,$1598,$1954,$1143
+2024,6037212501,Census Tract 2125.01,Los Angeles,Los Angeles County,California,LosAngeles,1297.0,148.0,1639.0,105.0,1938.0,68.0,$1639,$1938,$1297
+2024,6037212502,Census Tract 2125.02,Los Angeles,Los Angeles County,California,LosAngeles,1590.0,176.0,2115.0,114.0,2495.0,156.0,$2115,$2495,$1590
+2024,6037212610,Census Tract 2126.10,Los Angeles,Los Angeles County,California,LosAngeles,1414.0,137.0,1756.0,106.0,2238.0,394.0,$1756,$2238,$1414
+2024,6037212620,Census Tract 2126.20,Los Angeles,Los Angeles County,California,LosAngeles,1152.0,148.0,1534.0,126.0,1875.0,78.0,$1534,$1875,$1152
+2024,6037212701,Census Tract 2127.01,Los Angeles,Los Angeles County,California,LosAngeles,1326.0,71.0,1665.0,256.0,2389.0,425.0,$1665,$2389,$1326
+2024,6037212702,Census Tract 2127.02,Los Angeles,Los Angeles County,California,LosAngeles,1406.0,113.0,1790.0,192.0,2743.0,972.0,$1790,$2743,$1406
+2024,6037212800,Census Tract 2128,Los Angeles,Los Angeles County,California,LosAngeles,1177.0,205.0,1603.0,338.0,2285.0,444.0,$1603,$2285,$1177
+2024,6037212900,Census Tract 2129,Los Angeles,Los Angeles County,California,LosAngeles,1064.0,92.0,1358.0,111.0,1889.0,219.0,$1358,$1889,$1064
+2024,6037213100,Census Tract 2131,Los Angeles,Los Angeles County,California,LosAngeles,1017.0,198.0,1609.0,173.0,1972.0,322.0,$1609,$1972,$1017
+2024,6037213201,Census Tract 2132.01,Los Angeles,Los Angeles County,California,LosAngeles,1043.0,167.0,1507.0,193.0,2175.0,213.0,$1507,$2175,$1043
+2024,6037213202,Census Tract 2132.02,Los Angeles,Los Angeles County,California,LosAngeles,908.0,241.0,1524.0,219.0,1985.0,221.0,$1524,$1985,$908
+2024,6037213310,Census Tract 2133.10,Los Angeles,Los Angeles County,California,LosAngeles,1129.0,185.0,1543.0,196.0,1943.0,348.0,$1543,$1943,$1129
+2024,6037213320,Census Tract 2133.20,Los Angeles,Los Angeles County,California,LosAngeles,906.0,222.0,1337.0,158.0,1772.0,241.0,$1337,$1772,$906
+2024,6037213401,Census Tract 2134.01,Los Angeles,Los Angeles County,California,LosAngeles,1092.0,62.0,1338.0,125.0,1698.0,112.0,$1338,$1698,$1092
+2024,6037213402,Census Tract 2134.02,Los Angeles,Los Angeles County,California,LosAngeles,1070.0,75.0,1456.0,190.0,1818.0,89.0,$1456,$1818,$1070
+2024,6037214000,Census Tract 2140,Los Angeles,Los Angeles County,California,LosAngeles,2156.0,482.0,2940.0,368.0,3501.0,,$2940,Not available. Exceeds $3500!,$2156
+2024,6037214100,Census Tract 2141,Los Angeles,Los Angeles County,California,LosAngeles,2027.0,251.0,2708.0,264.0,3501.0,,$2708,Not available. Exceeds $3500!,$2027
+2024,6037214400,Census Tract 2144,Los Angeles,Los Angeles County,California,LosAngeles,1942.0,215.0,2548.0,206.0,3081.0,234.0,$2548,$3081,$1942
+2024,6037214501,Census Tract 2145.01,Los Angeles,Los Angeles County,California,LosAngeles,2551.0,213.0,3344.0,337.0,3501.0,,$3344,Not available. Exceeds $3500!,$2551
+2024,6037214503,Census Tract 2145.03,Los Angeles,Los Angeles County,California,LosAngeles,2309.0,136.0,2729.0,107.0,3165.0,164.0,$2729,$3165,$2309
+2024,6037214504,Census Tract 2145.04,Los Angeles,Los Angeles County,California,LosAngeles,2267.0,139.0,2659.0,90.0,2966.0,105.0,$2659,$2966,$2267
+2024,6037214505,Census Tract 2145.05,Los Angeles,Los Angeles County,California,LosAngeles,2367.0,426.0,3407.0,293.0,3501.0,,$3407,Not available. Exceeds $3500!,$2367
+2024,6037214600,Census Tract 2146,Los Angeles,Los Angeles County,California,LosAngeles,1631.0,278.0,2227.0,170.0,2908.0,426.0,$2227,$2908,$1631
+2024,6037214700,Census Tract 2147,Los Angeles,Los Angeles County,California,LosAngeles,1858.0,178.0,2518.0,300.0,3501.0,,$2518,Not available. Exceeds $3500!,$1858
+2024,6037214800,Census Tract 2148,Los Angeles,Los Angeles County,California,LosAngeles,1678.0,566.0,2253.0,135.0,2906.0,551.0,$2253,$2906,$1678
+2024,6037214902,Census Tract 2149.02,Los Angeles,Los Angeles County,California,LosAngeles,2006.0,396.0,2418.0,173.0,3080.0,506.0,$2418,$3080,$2006
+2024,6037214903,Census Tract 2149.03,Los Angeles,Los Angeles County,California,LosAngeles,1708.0,136.0,2084.0,430.0,2841.0,351.0,$2084,$2841,$1708
+2024,6037214904,Census Tract 2149.04,Los Angeles,Los Angeles County,California,LosAngeles,2090.0,189.0,2470.0,431.0,3501.0,,$2470,Not available. Exceeds $3500!,$2090
+2024,6037215101,Census Tract 2151.01,Los Angeles,Los Angeles County,California,LosAngeles,1705.0,143.0,2410.0,318.0,3024.0,214.0,$2410,$3024,$1705
+2024,6037215102,Census Tract 2151.02,Los Angeles,Los Angeles County,California,LosAngeles,1674.0,101.0,2099.0,211.0,2687.0,172.0,$2099,$2687,$1674
+2024,6037216100,Census Tract 2161,Los Angeles,Los Angeles County,California,LosAngeles,1712.0,129.0,2000.0,788.0,3381.0,456.0,$2000,$3381,$1712
+2024,6037216201,Census Tract 2162.01,Los Angeles,Los Angeles County,California,LosAngeles,1903.0,520.0,2838.0,363.0,3501.0,,$2838,Not available. Exceeds $3500!,$1903
+2024,6037216202,Census Tract 2162.02,Los Angeles,Los Angeles County,California,LosAngeles,1534.0,158.0,1884.0,134.0,2473.0,447.0,$1884,$2473,$1534
+2024,6037216301,Census Tract 2163.01,Los Angeles,Los Angeles County,California,LosAngeles,2125.0,922.0,3094.0,1054.0,3501.0,,$3094,Not available. Exceeds $3500!,$2125
+2024,6037216302,Census Tract 2163.02,Los Angeles,Los Angeles County,California,LosAngeles,1568.0,309.0,2221.0,150.0,2878.0,311.0,$2221,$2878,$1568
+2024,6037216401,Census Tract 2164.01,Los Angeles,Los Angeles County,California,LosAngeles,2162.0,115.0,2563.0,223.0,3164.0,252.0,$2563,$3164,$2162
+2024,6037216402,Census Tract 2164.02,Los Angeles,Los Angeles County,California,LosAngeles,2028.0,199.0,2512.0,181.0,2910.0,109.0,$2512,$2910,$2028
+2024,6037216700,Census Tract 2167,Los Angeles,Los Angeles County,California,LosAngeles,1488.0,156.0,1894.0,207.0,2525.0,575.0,$1894,$2525,$1488
+2024,6037216800,Census Tract 2168,Los Angeles,Los Angeles County,California,LosAngeles,1694.0,320.0,2465.0,289.0,3414.0,445.0,$2465,$3414,$1694
+2024,6037216901,Census Tract 2169.01,Los Angeles,Los Angeles County,California,LosAngeles,1710.0,371.0,2219.0,197.0,2689.0,345.0,$2219,$2689,$1710
+2024,6037216902,Census Tract 2169.02,Los Angeles,Los Angeles County,California,LosAngeles,1376.0,244.0,1873.0,292.0,2830.0,506.0,$1873,$2830,$1376
+2024,6037217001,Census Tract 2170.01,Los Angeles,Los Angeles County,California,LosAngeles,1704.0,172.0,2225.0,331.0,3277.0,328.0,$2225,$3277,$1704
+2024,6037217002,Census Tract 2170.02,Los Angeles,Los Angeles County,California,LosAngeles,1918.0,297.0,2264.0,88.0,2783.0,530.0,$2264,$2783,$1918
+2024,6037217101,Census Tract 2171.01,Los Angeles,Los Angeles County,California,LosAngeles,1334.0,116.0,1662.0,354.0,2555.0,645.0,$1662,$2555,$1334
+2024,6037217102,Census Tract 2171.02,Los Angeles,Los Angeles County,California,LosAngeles,1581.0,280.0,2068.0,211.0,2587.0,395.0,$2068,$2587,$1581
+2024,6037217200,Census Tract 2172,Los Angeles,Los Angeles County,California,LosAngeles,1122.0,466.0,1728.0,303.0,2605.0,512.0,$1728,$2605,$1122
+2024,6037218110,Census Tract 2181.10,Los Angeles,Los Angeles County,California,LosAngeles,964.0,104.0,1432.0,234.0,2169.0,290.0,$1432,$2169,$964
+2024,6037218120,Census Tract 2181.20,Los Angeles,Los Angeles County,California,LosAngeles,862.0,629.0,1288.0,222.0,1823.0,301.0,$1288,$1823,$862
+2024,6037218210,Census Tract 2182.10,Los Angeles,Los Angeles County,California,LosAngeles,1024.0,235.0,1472.0,165.0,1937.0,227.0,$1472,$1937,$1024
+2024,6037218220,Census Tract 2182.20,Los Angeles,Los Angeles County,California,LosAngeles,1264.0,221.0,1645.0,221.0,2180.0,281.0,$1645,$2180,$1264
+2024,6037218300,Census Tract 2183,Los Angeles,Los Angeles County,California,LosAngeles,1303.0,220.0,1687.0,232.0,2277.0,632.0,$1687,$2277,$1303
+2024,6037218400,Census Tract 2184,Los Angeles,Los Angeles County,California,LosAngeles,1407.0,257.0,2105.0,304.0,2802.0,598.0,$2105,$2802,$1407
+2024,6037218500,Census Tract 2185,Los Angeles,Los Angeles County,California,LosAngeles,896.0,198.0,1334.0,203.0,2200.0,219.0,$1334,$2200,$896
+2024,6037218600,Census Tract 2186,Los Angeles,Los Angeles County,California,LosAngeles,1207.0,258.0,1698.0,331.0,2182.0,228.0,$1698,$2182,$1207
+2024,6037218701,Census Tract 2187.01,Los Angeles,Los Angeles County,California,LosAngeles,874.0,445.0,1650.0,179.0,1961.0,185.0,$1650,$1961,$874
+2024,6037218702,Census Tract 2187.02,Los Angeles,Los Angeles County,California,LosAngeles,1032.0,294.0,1491.0,238.0,2148.0,410.0,$1491,$2148,$1032
+2024,6037218800,Census Tract 2188,Los Angeles,Los Angeles County,California,LosAngeles,1186.0,146.0,1846.0,242.0,2336.0,135.0,$1846,$2336,$1186
+2024,6037218900,Census Tract 2189,Los Angeles,Los Angeles County,California,LosAngeles,1158.0,470.0,1534.0,133.0,1842.0,72.0,$1534,$1842,$1158
+2024,6037219010,Census Tract 2190.10,Los Angeles,Los Angeles County,California,LosAngeles,1038.0,106.0,1336.0,210.0,1893.0,325.0,$1336,$1893,$1038
+2024,6037219020,Census Tract 2190.20,Los Angeles,Los Angeles County,California,LosAngeles,1050.0,134.0,1263.0,183.0,1787.0,411.0,$1263,$1787,$1050
+2024,6037219300,Census Tract 2193,Los Angeles,Los Angeles County,California,LosAngeles,1001.0,205.0,1362.0,98.0,1699.0,207.0,$1362,$1699,$1001
+2024,6037219500,Census Tract 2195,Los Angeles,Los Angeles County,California,LosAngeles,1487.0,226.0,1811.0,283.0,3071.0,1086.0,$1811,$3071,$1487
+2024,6037219700,Census Tract 2197,Los Angeles,Los Angeles County,California,LosAngeles,1183.0,248.0,1582.0,254.0,2215.0,481.0,$1582,$2215,$1183
+2024,6037219800,Census Tract 2198,Los Angeles,Los Angeles County,California,LosAngeles,1088.0,183.0,1448.0,179.0,1847.0,144.0,$1448,$1847,$1088
+2024,6037219901,Census Tract 2199.01,Los Angeles,Los Angeles County,California,LosAngeles,1158.0,77.0,1668.0,227.0,2263.0,347.0,$1668,$2263,$1158
+2024,6037219902,Census Tract 2199.02,Los Angeles,Los Angeles County,California,LosAngeles,1862.0,992.0,3430.0,518.0,3501.0,,$3430,Not available. Exceeds $3500!,$1862
+2024,6037220000,Census Tract 2200,Los Angeles,Los Angeles County,California,LosAngeles,1099.0,187.0,1568.0,200.0,1881.0,120.0,$1568,$1881,$1099
+2024,6037220100,Census Tract 2201,Los Angeles,Los Angeles County,California,LosAngeles,825.0,375.0,1142.0,109.0,1807.0,439.0,$1142,$1807,$825
+2024,6037221110,Census Tract 2211.10,Los Angeles,Los Angeles County,California,LosAngeles,778.0,222.0,1061.0,101.0,1301.0,130.0,$1061,$1301,$778
+2024,6037221120,Census Tract 2211.20,Los Angeles,Los Angeles County,California,LosAngeles,1093.0,52.0,1298.0,90.0,1608.0,160.0,$1298,$1608,$1093
+2024,6037221210,Census Tract 2212.10,Los Angeles,Los Angeles County,California,LosAngeles,990.0,74.0,1228.0,153.0,2032.0,453.0,$1228,$2032,$990
+2024,6037221220,Census Tract 2212.20,Los Angeles,Los Angeles County,California,LosAngeles,918.0,134.0,1273.0,156.0,1704.0,275.0,$1273,$1704,$918
+2024,6037221302,Census Tract 2213.02,Los Angeles,Los Angeles County,California,LosAngeles,845.0,159.0,1301.0,289.0,1818.0,168.0,$1301,$1818,$845
+2024,6037221303,Census Tract 2213.03,Los Angeles,Los Angeles County,California,LosAngeles,1038.0,95.0,1287.0,155.0,1697.0,169.0,$1287,$1697,$1038
+2024,6037221304,Census Tract 2213.04,Los Angeles,Los Angeles County,California,LosAngeles,1012.0,186.0,1353.0,87.0,1650.0,243.0,$1353,$1650,$1012
+2024,6037221401,Census Tract 2214.01,Los Angeles,Los Angeles County,California,LosAngeles,511.0,313.0,1362.0,183.0,2080.0,236.0,$1362,$2080,$511
+2024,6037221402,Census Tract 2214.02,Los Angeles,Los Angeles County,California,LosAngeles,623.0,120.0,1105.0,165.0,1726.0,171.0,$1105,$1726,$623
+2024,6037221500,Census Tract 2215,Los Angeles,Los Angeles County,California,LosAngeles,446.0,199.0,1015.0,196.0,1292.0,169.0,$1015,$1292,$446
+2024,6037221601,Census Tract 2216.01,Los Angeles,Los Angeles County,California,LosAngeles,953.0,56.0,1175.0,150.0,1590.0,239.0,$1175,$1590,$953
+2024,6037221602,Census Tract 2216.02,Los Angeles,Los Angeles County,California,LosAngeles,710.0,260.0,1093.0,171.0,1560.0,259.0,$1093,$1560,$710
+2024,6037221710,Census Tract 2217.10,Los Angeles,Los Angeles County,California,LosAngeles,891.0,108.0,1250.0,277.0,1824.0,149.0,$1250,$1824,$891
+2024,6037221810,Census Tract 2218.10,Los Angeles,Los Angeles County,California,LosAngeles,1047.0,173.0,1558.0,138.0,1904.0,115.0,$1558,$1904,$1047
+2024,6037221820,Census Tract 2218.20,Los Angeles,Los Angeles County,California,LosAngeles,1470.0,440.0,1811.0,126.0,2287.0,289.0,$1811,$2287,$1470
+2024,6037221900,Census Tract 2219,Los Angeles,Los Angeles County,California,LosAngeles,729.0,201.0,1481.0,193.0,1902.0,154.0,$1481,$1902,$729
+2024,6037222001,Census Tract 2220.01,Los Angeles,Los Angeles County,California,LosAngeles,866.0,82.0,1179.0,237.0,1752.0,311.0,$1179,$1752,$866
+2024,6037222002,Census Tract 2220.02,Los Angeles,Los Angeles County,California,LosAngeles,968.0,312.0,1295.0,200.0,1708.0,226.0,$1295,$1708,$968
+2024,6037222100,Census Tract 2221,Los Angeles,Los Angeles County,California,LosAngeles,1155.0,119.0,1644.0,201.0,2020.0,316.0,$1644,$2020,$1155
+2024,6037222200,Census Tract 2222,Los Angeles,Los Angeles County,California,LosAngeles,776.0,314.0,1396.0,225.0,1783.0,155.0,$1396,$1783,$776
+2024,6037222500,Census Tract 2225,Los Angeles,Los Angeles County,California,LosAngeles,1010.0,112.0,1322.0,150.0,1827.0,259.0,$1322,$1827,$1010
+2024,6037222600,Census Tract 2226,Los Angeles,Los Angeles County,California,LosAngeles,889.0,192.0,1494.0,365.0,2224.0,203.0,$1494,$2224,$889
+2024,6037222700,Census Tract 2227,Los Angeles,Los Angeles County,California,LosAngeles,1617.0,90.0,1805.0,96.0,1993.0,1584.0,$1805,$1993,$1617
+2024,6037224010,Census Tract 2240.10,Los Angeles,Los Angeles County,California,LosAngeles,629.0,130.0,1907.0,369.0,2290.0,59.0,$1907,$2290,$629
+2024,6037224020,Census Tract 2240.20,Los Angeles,Los Angeles County,California,LosAngeles,872.0,200.0,1167.0,77.0,1543.0,237.0,$1167,$1543,$872
+2024,6037224200,Census Tract 2242,Los Angeles,Los Angeles County,California,LosAngeles,945.0,54.0,1137.0,137.0,1413.0,145.0,$1137,$1413,$945
+2024,6037224310,Census Tract 2243.10,Los Angeles,Los Angeles County,California,LosAngeles,929.0,57.0,1116.0,112.0,1451.0,209.0,$1116,$1451,$929
+2024,6037224320,Census Tract 2243.20,Los Angeles,Los Angeles County,California,LosAngeles,924.0,188.0,1172.0,79.0,1460.0,185.0,$1172,$1460,$924
+2024,6037224410,Census Tract 2244.10,Los Angeles,Los Angeles County,California,LosAngeles,1056.0,179.0,1404.0,110.0,1860.0,243.0,$1404,$1860,$1056
+2024,6037224420,Census Tract 2244.20,Los Angeles,Los Angeles County,California,LosAngeles,554.0,239.0,845.0,136.0,1085.0,81.0,$845,$1085,$554
+2024,6037224600,Census Tract 2246,Los Angeles,Los Angeles County,California,LosAngeles,820.0,125.0,1110.0,87.0,1393.0,131.0,$1110,$1393,$820
+2024,6037224701,Census Tract 2247.01,Los Angeles,Los Angeles County,California,LosAngeles,1634.0,154.0,2016.0,467.0,3109.0,487.0,$2016,$3109,$1634
+2024,6037224702,Census Tract 2247.02,Los Angeles,Los Angeles County,California,LosAngeles,1116.0,136.0,1695.0,433.0,2516.0,402.0,$1695,$2516,$1116
+2024,6037226001,Census Tract 2260.01,Los Angeles,Los Angeles County,California,LosAngeles,832.0,113.0,1030.0,201.0,1621.0,275.0,$1030,$1621,$832
+2024,6037226002,Census Tract 2260.02,Los Angeles,Los Angeles County,California,LosAngeles,842.0,591.0,1678.0,395.0,2322.0,187.0,$1678,$2322,$842
+2024,6037226410,Census Tract 2264.10,Los Angeles,Los Angeles County,California,LosAngeles,817.0,215.0,1144.0,105.0,1463.0,109.0,$1144,$1463,$817
+2024,6037226420,Census Tract 2264.20,Los Angeles,Los Angeles County,California,LosAngeles,936.0,448.0,1176.0,75.0,1503.0,232.0,$1176,$1503,$936
+2024,6037226701,Census Tract 2267.01,Los Angeles,Los Angeles County,California,LosAngeles,1070.0,145.0,1348.0,185.0,1716.0,241.0,$1348,$1716,$1070
+2024,6037226702,Census Tract 2267.02,Los Angeles,Los Angeles County,California,LosAngeles,861.0,115.0,1207.0,179.0,1507.0,212.0,$1207,$1507,$861
+2024,6037227010,Census Tract 2270.10,Los Angeles,Los Angeles County,California,LosAngeles,999.0,98.0,1152.0,74.0,1537.0,359.0,$1152,$1537,$999
+2024,6037227020,Census Tract 2270.20,Los Angeles,Los Angeles County,California,LosAngeles,1113.0,158.0,1434.0,217.0,1906.0,316.0,$1434,$1906,$1113
+2024,6037228100,Census Tract 2281,Los Angeles,Los Angeles County,California,LosAngeles,1142.0,236.0,1367.0,90.0,1648.0,532.0,$1367,$1648,$1142
+2024,6037228210,Census Tract 2282.10,Los Angeles,Los Angeles County,California,LosAngeles,952.0,68.0,1149.0,81.0,1667.0,207.0,$1149,$1667,$952
+2024,6037228220,Census Tract 2282.20,Los Angeles,Los Angeles County,California,LosAngeles,778.0,414.0,1412.0,264.0,1883.0,137.0,$1412,$1883,$778
+2024,6037228310,Census Tract 2283.10,Los Angeles,Los Angeles County,California,LosAngeles,1003.0,184.0,1215.0,134.0,1645.0,238.0,$1215,$1645,$1003
+2024,6037228320,Census Tract 2283.20,Los Angeles,Los Angeles County,California,LosAngeles,1074.0,84.0,1301.0,105.0,1762.0,462.0,$1301,$1762,$1074
+2024,6037228410,Census Tract 2284.10,Los Angeles,Los Angeles County,California,LosAngeles,964.0,183.0,1473.0,344.0,1889.0,155.0,$1473,$1889,$964
+2024,6037228420,Census Tract 2284.20,Los Angeles,Los Angeles County,California,LosAngeles,1035.0,108.0,1364.0,225.0,1966.0,239.0,$1364,$1966,$1035
+2024,6037228500,Census Tract 2285,Los Angeles,Los Angeles County,California,LosAngeles,786.0,91.0,1216.0,314.0,1765.0,561.0,$1216,$1765,$786
+2024,6037228600,Census Tract 2286,Los Angeles,Los Angeles County,California,LosAngeles,1208.0,170.0,1689.0,231.0,2104.0,199.0,$1689,$2104,$1208
+2024,6037228710,Census Tract 2287.10,Los Angeles,Los Angeles County,California,LosAngeles,955.0,148.0,1362.0,268.0,2191.0,568.0,$1362,$2191,$955
+2024,6037228720,Census Tract 2287.20,Los Angeles,Los Angeles County,California,LosAngeles,1041.0,139.0,1322.0,175.0,1852.0,305.0,$1322,$1852,$1041
+2024,6037228800,Census Tract 2288,Los Angeles,Los Angeles County,California,LosAngeles,1058.0,160.0,1380.0,207.0,1773.0,161.0,$1380,$1773,$1058
+2024,6037228900,Census Tract 2289,Los Angeles,Los Angeles County,California,LosAngeles,510.0,506.0,1115.0,119.0,1506.0,229.0,$1115,$1506,$510
+2024,6037229100,Census Tract 2291,Los Angeles,Los Angeles County,California,LosAngeles,1079.0,86.0,1521.0,253.0,1925.0,176.0,$1521,$1925,$1079
+2024,6037229200,Census Tract 2292,Los Angeles,Los Angeles County,California,LosAngeles,999.0,275.0,1354.0,135.0,1709.0,239.0,$1354,$1709,$999
+2024,6037229300,Census Tract 2293,Los Angeles,Los Angeles County,California,LosAngeles,993.0,112.0,1227.0,126.0,1680.0,197.0,$1227,$1680,$993
+2024,6037229410,Census Tract 2294.10,Los Angeles,Los Angeles County,California,LosAngeles,1036.0,244.0,1560.0,256.0,2096.0,244.0,$1560,$2096,$1036
+2024,6037229420,Census Tract 2294.20,Los Angeles,Los Angeles County,California,LosAngeles,892.0,405.0,1329.0,153.0,1751.0,347.0,$1329,$1751,$892
+2024,6037231100,Census Tract 2311,Los Angeles,Los Angeles County,California,LosAngeles,857.0,159.0,1152.0,137.0,1668.0,356.0,$1152,$1668,$857
+2024,6037231210,Census Tract 2312.10,Los Angeles,Los Angeles County,California,LosAngeles,955.0,59.0,1196.0,96.0,1549.0,250.0,$1196,$1549,$955
+2024,6037231220,Census Tract 2312.20,Los Angeles,Los Angeles County,California,LosAngeles,616.0,175.0,1151.0,316.0,1732.0,275.0,$1151,$1732,$616
+2024,6037231301,Census Tract 2313.01,Los Angeles,Los Angeles County,California,LosAngeles,1133.0,77.0,1412.0,149.0,1836.0,169.0,$1412,$1836,$1133
+2024,6037231302,Census Tract 2313.02,Los Angeles,Los Angeles County,California,LosAngeles,891.0,497.0,1323.0,274.0,1658.0,231.0,$1323,$1658,$891
+2024,6037231400,Census Tract 2314,Los Angeles,Los Angeles County,California,LosAngeles,930.0,632.0,1328.0,319.0,2041.0,361.0,$1328,$2041,$930
+2024,6037231500,Census Tract 2315,Los Angeles,Los Angeles County,California,LosAngeles,1113.0,126.0,1495.0,394.0,2049.0,334.0,$1495,$2049,$1113
+2024,6037231601,Census Tract 2316.01,Los Angeles,Los Angeles County,California,LosAngeles,588.0,210.0,1260.0,792.0,1656.0,544.0,$1260,$1656,$588
+2024,6037231602,Census Tract 2316.02,Los Angeles,Los Angeles County,California,LosAngeles,1041.0,404.0,1607.0,100.0,1832.0,51.0,$1607,$1832,$1041
+2024,6037231603,Census Tract 2316.03,Los Angeles,Los Angeles County,California,LosAngeles,848.0,79.0,1175.0,130.0,1615.0,203.0,$1175,$1615,$848
+2024,6037231710,Census Tract 2317.10,Los Angeles,Los Angeles County,California,LosAngeles,933.0,202.0,1350.0,296.0,1764.0,112.0,$1350,$1764,$933
+2024,6037231720,Census Tract 2317.20,Los Angeles,Los Angeles County,California,LosAngeles,725.0,185.0,1079.0,135.0,1409.0,183.0,$1079,$1409,$725
+2024,6037231800,Census Tract 2318,Los Angeles,Los Angeles County,California,LosAngeles,1046.0,81.0,1226.0,119.0,1767.0,117.0,$1226,$1767,$1046
+2024,6037231901,Census Tract 2319.01,Los Angeles,Los Angeles County,California,LosAngeles,1025.0,525.0,1434.0,309.0,1941.0,1016.0,$1434,$1941,$1025
+2024,6037231902,Census Tract 2319.02,Los Angeles,Los Angeles County,California,LosAngeles,813.0,222.0,1126.0,143.0,1430.0,179.0,$1126,$1430,$813
+2024,6037232110,Census Tract 2321.10,Los Angeles,Los Angeles County,California,LosAngeles,977.0,94.0,1351.0,175.0,1797.0,164.0,$1351,$1797,$977
+2024,6037232120,Census Tract 2321.20,Los Angeles,Los Angeles County,California,LosAngeles,929.0,222.0,1178.0,84.0,1604.0,227.0,$1178,$1604,$929
+2024,6037232200,Census Tract 2322,Los Angeles,Los Angeles County,California,LosAngeles,1128.0,193.0,1549.0,196.0,1865.0,124.0,$1549,$1865,$1128
+2024,6037232300,Census Tract 2323,Los Angeles,Los Angeles County,California,LosAngeles,946.0,222.0,1533.0,284.0,1904.0,212.0,$1533,$1904,$946
+2024,6037232401,Census Tract 2324.01,Los Angeles,Los Angeles County,California,LosAngeles,983.0,209.0,1810.0,419.0,2509.0,273.0,$1810,$2509,$983
+2024,6037232402,Census Tract 2324.02,Los Angeles,Los Angeles County,California,LosAngeles,660.0,202.0,858.0,185.0,1305.0,496.0,$858,$1305,$660
+2024,6037232500,Census Tract 2325,Los Angeles,Los Angeles County,California,LosAngeles,1031.0,146.0,1359.0,230.0,2090.0,331.0,$1359,$2090,$1031
+2024,6037232601,Census Tract 2326.01,Los Angeles,Los Angeles County,California,LosAngeles,1088.0,88.0,1242.0,118.0,1460.0,132.0,$1242,$1460,$1088
+2024,6037232602,Census Tract 2326.02,Los Angeles,Los Angeles County,California,LosAngeles,1024.0,214.0,1392.0,265.0,1872.0,244.0,$1392,$1872,$1024
+2024,6037232701,Census Tract 2327.01,Los Angeles,Los Angeles County,California,LosAngeles,902.0,492.0,1197.0,261.0,1686.0,255.0,$1197,$1686,$902
+2024,6037232702,Census Tract 2327.02,Los Angeles,Los Angeles County,California,LosAngeles,1091.0,89.0,1350.0,216.0,1730.0,157.0,$1350,$1730,$1091
+2024,6037232800,Census Tract 2328,Los Angeles,Los Angeles County,California,LosAngeles,680.0,147.0,921.0,175.0,1580.0,340.0,$921,$1580,$680
+2024,6037234001,Census Tract 2340.01,Los Angeles,Los Angeles County,California,LosAngeles,1307.0,493.0,1765.0,307.0,2372.0,516.0,$1765,$2372,$1307
+2024,6037234002,Census Tract 2340.02,Los Angeles,Los Angeles County,California,LosAngeles,865.0,257.0,1526.0,238.0,1984.0,561.0,$1526,$1984,$865
+2024,6037234200,Census Tract 2342,Los Angeles,Los Angeles County,California,LosAngeles,1148.0,169.0,1455.0,512.0,2233.0,365.0,$1455,$2233,$1148
+2024,6037234301,Census Tract 2343.01,Los Angeles,Los Angeles County,California,LosAngeles,995.0,86.0,1232.0,130.0,1686.0,178.0,$1232,$1686,$995
+2024,6037234302,Census Tract 2343.02,Los Angeles,Los Angeles County,California,LosAngeles,1050.0,102.0,1391.0,308.0,1963.0,358.0,$1391,$1963,$1050
+2024,6037234501,Census Tract 2345.01,Los Angeles,Los Angeles County,California,LosAngeles,1137.0,485.0,1460.0,232.0,1861.0,381.0,$1460,$1861,$1137
+2024,6037234502,Census Tract 2345.02,Los Angeles,Los Angeles County,California,LosAngeles,358.0,333.0,1145.0,420.0,2589.0,1214.0,$1145,$2589,$358
+2024,6037234600,Census Tract 2346,Los Angeles,Los Angeles County,California,LosAngeles,1262.0,238.0,1458.0,165.0,1973.0,646.0,$1458,$1973,$1262
+2024,6037234700,Census Tract 2347,Los Angeles,Los Angeles County,California,LosAngeles,1296.0,53.0,1435.0,120.0,1896.0,377.0,$1435,$1896,$1296
+2024,6037234800,Census Tract 2348,Los Angeles,Los Angeles County,California,LosAngeles,,,1637.0,215.0,1946.0,464.0,$1637,$1946,
+2024,6037234901,Census Tract 2349.01,Los Angeles,Los Angeles County,California,LosAngeles,538.0,429.0,936.0,76.0,1233.0,628.0,$936,$1233,$538
+2024,6037234902,Census Tract 2349.02,Los Angeles,Los Angeles County,California,LosAngeles,711.0,171.0,1114.0,304.0,1721.0,119.0,$1114,$1721,$711
+2024,6037235100,Census Tract 2351,Los Angeles,Los Angeles County,California,LosAngeles,968.0,156.0,1484.0,479.0,1977.0,477.0,$1484,$1977,$968
+2024,6037235201,Census Tract 2352.01,Los Angeles,Los Angeles County,California,LosAngeles,498.0,445.0,1100.0,172.0,1985.0,1698.0,$1100,$1985,$498
+2024,6037235202,Census Tract 2352.02,Los Angeles,Los Angeles County,California,LosAngeles,865.0,395.0,1606.0,138.0,1937.0,122.0,$1606,$1937,$865
+2024,6037236001,Census Tract 2360.01,Los Angeles,Los Angeles County,California,LosAngeles,2583.0,745.0,3102.0,466.0,3501.0,,$3102,Not available. Exceeds $3500!,$2583
+2024,6037236101,Census Tract 2361.01,Los Angeles,Los Angeles County,California,LosAngeles,,,1301.0,212.0,2003.0,641.0,$1301,$2003,
+2024,6037236102,Census Tract 2361.02,Los Angeles,Los Angeles County,California,LosAngeles,959.0,137.0,1362.0,272.0,1763.0,170.0,$1362,$1763,$959
+2024,6037236203,Census Tract 2362.03,Los Angeles,Los Angeles County,California,LosAngeles,1043.0,87.0,1324.0,114.0,1663.0,103.0,$1324,$1663,$1043
+2024,6037236204,Census Tract 2362.04,Los Angeles,Los Angeles County,California,LosAngeles,1160.0,116.0,1494.0,129.0,1862.0,98.0,$1494,$1862,$1160
+2024,6037236205,Census Tract 2362.05,Los Angeles,Los Angeles County,California,LosAngeles,781.0,403.0,1296.0,167.0,1803.0,353.0,$1296,$1803,$781
+2024,6037236206,Census Tract 2362.06,Los Angeles,Los Angeles County,California,LosAngeles,1124.0,127.0,1474.0,172.0,1798.0,111.0,$1474,$1798,$1124
+2024,6037236400,Census Tract 2364,Los Angeles,Los Angeles County,California,LosAngeles,1283.0,144.0,1653.0,127.0,1967.0,153.0,$1653,$1967,$1283
+2024,6037237101,Census Tract 2371.01,Los Angeles,Los Angeles County,California,LosAngeles,687.0,528.0,1330.0,228.0,1750.0,199.0,$1330,$1750,$687
+2024,6037237102,Census Tract 2371.02,Los Angeles,Los Angeles County,California,LosAngeles,898.0,256.0,1304.0,108.0,1701.0,393.0,$1304,$1701,$898
+2024,6037237201,Census Tract 2372.01,Los Angeles,Los Angeles County,California,LosAngeles,937.0,228.0,1350.0,161.0,1805.0,227.0,$1350,$1805,$937
+2024,6037237202,Census Tract 2372.02,Los Angeles,Los Angeles County,California,LosAngeles,932.0,141.0,1652.0,860.0,2238.0,159.0,$1652,$2238,$932
+2024,6037237300,Census Tract 2373,Los Angeles,Los Angeles County,California,LosAngeles,886.0,324.0,1289.0,462.0,2492.0,472.0,$1289,$2492,$886
+2024,6037237401,Census Tract 2374.01,Los Angeles,Los Angeles County,California,LosAngeles,986.0,89.0,1166.0,116.0,1659.0,403.0,$1166,$1659,$986
+2024,6037237402,Census Tract 2374.02,Los Angeles,Los Angeles County,California,LosAngeles,703.0,270.0,1105.0,281.0,1716.0,422.0,$1105,$1716,$703
+2024,6037237500,Census Tract 2375,Los Angeles,Los Angeles County,California,LosAngeles,1033.0,67.0,1222.0,70.0,1474.0,112.0,$1222,$1474,$1033
+2024,6037237600,Census Tract 2376,Los Angeles,Los Angeles County,California,LosAngeles,512.0,287.0,1170.0,112.0,1639.0,258.0,$1170,$1639,$512
+2024,6037237710,Census Tract 2377.10,Los Angeles,Los Angeles County,California,LosAngeles,990.0,398.0,1558.0,226.0,1949.0,258.0,$1558,$1949,$990
+2024,6037237720,Census Tract 2377.20,Los Angeles,Los Angeles County,California,LosAngeles,1026.0,224.0,1533.0,179.0,1906.0,150.0,$1533,$1906,$1026
+2024,6037237800,Census Tract 2378,Los Angeles,Los Angeles County,California,LosAngeles,635.0,606.0,1035.0,343.0,1785.0,343.0,$1035,$1785,$635
+2024,6037237900,Census Tract 2379,Los Angeles,Los Angeles County,California,LosAngeles,952.0,336.0,1243.0,772.0,2003.0,707.0,$1243,$2003,$952
+2024,6037238000,Census Tract 2380,Los Angeles,Los Angeles County,California,LosAngeles,,,1227.0,552.0,1748.0,289.0,$1227,$1748,
+2024,6037238100,Census Tract 2381,Los Angeles,Los Angeles County,California,LosAngeles,649.0,289.0,925.0,192.0,1356.0,308.0,$925,$1356,$649
+2024,6037238200,Census Tract 2382,Los Angeles,Los Angeles County,California,LosAngeles,731.0,155.0,1056.0,218.0,1667.0,194.0,$1056,$1667,$731
+2024,6037238310,Census Tract 2383.10,Los Angeles,Los Angeles County,California,LosAngeles,1044.0,178.0,1512.0,203.0,1897.0,138.0,$1512,$1897,$1044
+2024,6037238320,Census Tract 2383.20,Los Angeles,Los Angeles County,California,LosAngeles,924.0,113.0,1160.0,122.0,1464.0,145.0,$1160,$1464,$924
+2024,6037238400,Census Tract 2384,Los Angeles,Los Angeles County,California,LosAngeles,964.0,200.0,1158.0,114.0,1388.0,157.0,$1158,$1388,$964
+2024,6037239201,Census Tract 2392.01,Los Angeles,Los Angeles County,California,LosAngeles,877.0,203.0,1239.0,193.0,1880.0,241.0,$1239,$1880,$877
+2024,6037239202,Census Tract 2392.02,Los Angeles,Los Angeles County,California,LosAngeles,884.0,316.0,1237.0,226.0,1656.0,212.0,$1237,$1656,$884
+2024,6037239310,Census Tract 2393.10,Los Angeles,Los Angeles County,California,LosAngeles,852.0,101.0,1267.0,269.0,1897.0,402.0,$1267,$1897,$852
+2024,6037239320,Census Tract 2393.20,Los Angeles,Los Angeles County,California,LosAngeles,1108.0,99.0,1395.0,202.0,2112.0,394.0,$1395,$2112,$1108
+2024,6037239330,Census Tract 2393.30,Los Angeles,Los Angeles County,California,LosAngeles,861.0,85.0,1199.0,270.0,2098.0,625.0,$1199,$2098,$861
+2024,6037239501,Census Tract 2395.01,Los Angeles,Los Angeles County,California,LosAngeles,978.0,189.0,1425.0,153.0,1825.0,141.0,$1425,$1825,$978
+2024,6037239502,Census Tract 2395.02,Los Angeles,Los Angeles County,California,LosAngeles,1123.0,76.0,1332.0,127.0,1740.0,369.0,$1332,$1740,$1123
+2024,6037239601,Census Tract 2396.01,Los Angeles,Los Angeles County,California,LosAngeles,870.0,128.0,1252.0,237.0,1759.0,192.0,$1252,$1759,$870
+2024,6037239602,Census Tract 2396.02,Los Angeles,Los Angeles County,California,LosAngeles,930.0,187.0,1276.0,164.0,2031.0,238.0,$1276,$2031,$930
+2024,6037239701,Census Tract 2397.01,Los Angeles,Los Angeles County,California,LosAngeles,901.0,315.0,989.0,121.0,1510.0,705.0,$989,$1510,$901
+2024,6037239702,Census Tract 2397.02,Los Angeles,Los Angeles County,California,LosAngeles,963.0,79.0,1209.0,167.0,1682.0,273.0,$1209,$1682,$963
+2024,6037239801,Census Tract 2398.01,Los Angeles,Los Angeles County,California,LosAngeles,1043.0,109.0,1464.0,310.0,1883.0,137.0,$1464,$1883,$1043
+2024,6037239802,Census Tract 2398.02,Los Angeles,Los Angeles County,California,LosAngeles,832.0,271.0,1328.0,166.0,1962.0,432.0,$1328,$1962,$832
+2024,6037240010,Census Tract 2400.10,Los Angeles,Los Angeles County,California,LosAngeles,873.0,131.0,1406.0,188.0,1885.0,202.0,$1406,$1885,$873
+2024,6037240020,Census Tract 2400.20,Los Angeles,Los Angeles County,California,LosAngeles,993.0,138.0,1608.0,438.0,2082.0,218.0,$1608,$2082,$993
+2024,6037240200,Census Tract 2402,Los Angeles,Los Angeles County,California,LosAngeles,683.0,192.0,1232.0,293.0,1807.0,191.0,$1232,$1807,$683
+2024,6037240301,Census Tract 2403.01,Los Angeles,Los Angeles County,California,LosAngeles,744.0,402.0,1170.0,212.0,2008.0,774.0,$1170,$2008,$744
+2024,6037240302,Census Tract 2403.02,Los Angeles,Los Angeles County,California,LosAngeles,957.0,166.0,1203.0,179.0,1542.0,244.0,$1203,$1542,$957
+2024,6037240401,Census Tract 2404.01,Los Angeles,Los Angeles County,California,LosAngeles,1034.0,161.0,1316.0,163.0,1827.0,295.0,$1316,$1827,$1034
+2024,6037240402,Census Tract 2404.02,Los Angeles,Los Angeles County,California,LosAngeles,412.0,34.0,1026.0,610.0,1371.0,293.0,$1026,$1371,$412
+2024,6037240500,Census Tract 2405,Los Angeles,Los Angeles County,California,LosAngeles,882.0,235.0,1353.0,238.0,1845.0,201.0,$1353,$1845,$882
+2024,6037240600,Census Tract 2406,Los Angeles,Los Angeles County,California,LosAngeles,1060.0,98.0,1351.0,221.0,2103.0,402.0,$1351,$2103,$1060
+2024,6037240700,Census Tract 2407,Los Angeles,Los Angeles County,California,LosAngeles,1043.0,325.0,1431.0,159.0,1978.0,311.0,$1431,$1978,$1043
+2024,6037240800,Census Tract 2408,Los Angeles,Los Angeles County,California,LosAngeles,,,1337.0,176.0,1703.0,255.0,$1337,$1703,
+2024,6037240901,Census Tract 2409.01,Los Angeles,Los Angeles County,California,LosAngeles,946.0,231.0,1125.0,166.0,1676.0,401.0,$1125,$1676,$946
+2024,6037240902,Census Tract 2409.02,Los Angeles,Los Angeles County,California,LosAngeles,668.0,113.0,1030.0,342.0,2034.0,784.0,$1030,$2034,$668
+2024,6037241001,Census Tract 2410.01,Los Angeles,Los Angeles County,California,LosAngeles,1160.0,102.0,1433.0,300.0,2200.0,305.0,$1433,$2200,$1160
+2024,6037241002,Census Tract 2410.02,Los Angeles,Los Angeles County,California,LosAngeles,853.0,396.0,1586.0,410.0,2037.0,230.0,$1586,$2037,$853
+2024,6037241110,Census Tract 2411.10,Los Angeles,Los Angeles County,California,LosAngeles,1252.0,220.0,1491.0,151.0,1964.0,264.0,$1491,$1964,$1252
+2024,6037241120,Census Tract 2411.20,Los Angeles,Los Angeles County,California,LosAngeles,937.0,79.0,1155.0,153.0,1435.0,154.0,$1155,$1435,$937
+2024,6037241201,Census Tract 2412.01,Los Angeles,Los Angeles County,California,LosAngeles,1143.0,379.0,1725.0,162.0,2174.0,378.0,$1725,$2174,$1143
+2024,6037241202,Census Tract 2412.02,Los Angeles,Los Angeles County,California,LosAngeles,1064.0,190.0,1358.0,154.0,1670.0,228.0,$1358,$1670,$1064
+2024,6037241300,Census Tract 2413,Los Angeles,Los Angeles County,California,LosAngeles,917.0,147.0,1091.0,75.0,1265.0,128.0,$1091,$1265,$917
+2024,6037241400,Census Tract 2414,Los Angeles,Los Angeles County,California,LosAngeles,1258.0,155.0,1536.0,158.0,1817.0,92.0,$1536,$1817,$1258
+2024,6037242000,Census Tract 2420,Los Angeles,Los Angeles County,California,LosAngeles,884.0,417.0,1515.0,170.0,1950.0,213.0,$1515,$1950,$884
+2024,6037242100,Census Tract 2421,Los Angeles,Los Angeles County,California,LosAngeles,288.0,125.0,744.0,228.0,1144.0,169.0,$744,$1144,$288
+2024,6037242201,Census Tract 2422.01,Los Angeles,Los Angeles County,California,LosAngeles,1004.0,154.0,1531.0,479.0,1854.0,126.0,$1531,$1854,$1004
+2024,6037242202,Census Tract 2422.02,Los Angeles,Los Angeles County,California,LosAngeles,,,1123.0,228.0,1521.0,336.0,$1123,$1521,
+2024,6037242300,Census Tract 2423,Los Angeles,Los Angeles County,California,LosAngeles,843.0,467.0,1121.0,91.0,1656.0,235.0,$1121,$1656,$843
+2024,6037242600,Census Tract 2426,Los Angeles,Los Angeles County,California,LosAngeles,303.0,91.0,787.0,255.0,1185.0,126.0,$787,$1185,$303
+2024,6037242700,Census Tract 2427,Los Angeles,Los Angeles County,California,LosAngeles,844.0,530.0,1190.0,538.0,1952.0,658.0,$1190,$1952,$844
+2024,6037243001,Census Tract 2430.01,Los Angeles,Los Angeles County,California,LosAngeles,1132.0,592.0,1859.0,528.0,2233.0,237.0,$1859,$2233,$1132
+2024,6037243002,Census Tract 2430.02,Los Angeles,Los Angeles County,California,LosAngeles,1221.0,491.0,2029.0,399.0,2405.0,297.0,$2029,$2405,$1221
+2024,6037243100,Census Tract 2431,Los Angeles,Los Angeles County,California,LosAngeles,,,997.0,131.0,1345.0,191.0,$997,$1345,
+2024,6037261102,Census Tract 2611.02,Los Angeles,Los Angeles County,California,LosAngeles,1310.0,184.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$1310
+2024,6037261103,Census Tract 2611.03,Los Angeles,Los Angeles County,California,LosAngeles,2284.0,591.0,3103.0,1226.0,3501.0,,$3103,Not available. Exceeds $3500!,$2284
+2024,6037261104,Census Tract 2611.04,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037261200,Census Tract 2612,Los Angeles,Los Angeles County,California,LosAngeles,1141.0,953.0,1699.0,363.0,,,$1699,,$1141
+2024,6037262100,Census Tract 2621,Los Angeles,Los Angeles County,California,LosAngeles,,,,,1855.0,1589.0,,$1855,
+2024,6037262200,Census Tract 2622,Los Angeles,Los Angeles County,California,LosAngeles,2255.0,140.0,2671.0,385.0,3309.0,436.0,$2671,$3309,$2255
+2024,6037262301,Census Tract 2623.01,Los Angeles,Los Angeles County,California,LosAngeles,2297.0,708.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2297
+2024,6037262302,Census Tract 2623.02,Los Angeles,Los Angeles County,California,LosAngeles,1907.0,343.0,2561.0,1101.0,3501.0,,$2561,Not available. Exceeds $3500!,$1907
+2024,6037262303,Census Tract 2623.03,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037262400,Census Tract 2624,Los Angeles,Los Angeles County,California,LosAngeles,2910.0,1084.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2910
+2024,6037262501,Census Tract 2625.01,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037262601,Census Tract 2626.01,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037262604,Census Tract 2626.04,Los Angeles,Los Angeles County,California,LosAngeles,2358.0,383.0,2953.0,1087.0,3501.0,,$2953,Not available. Exceeds $3500!,$2358
+2024,6037262704,Census Tract 2627.04,Los Angeles,Los Angeles County,California,LosAngeles,1397.0,1373.0,3037.0,414.0,3501.0,,$3037,Not available. Exceeds $3500!,$1397
+2024,6037262706,Census Tract 2627.06,Los Angeles,Los Angeles County,California,LosAngeles,3161.0,817.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3161
+2024,6037262802,Census Tract 2628.02,Los Angeles,Los Angeles County,California,LosAngeles,,,1827.0,713.0,2667.0,1310.0,$1827,$2667,
+2024,6037264000,Census Tract 2640,Los Angeles,Los Angeles County,California,LosAngeles,2781.0,232.0,3319.0,562.0,3501.0,,$3319,Not available. Exceeds $3500!,$2781
+2024,6037264102,Census Tract 2641.02,Los Angeles,Los Angeles County,California,LosAngeles,2587.0,125.0,2950.0,157.0,3492.0,291.0,$2950,$3492,$2587
+2024,6037264103,Census Tract 2641.03,Los Angeles,Los Angeles County,California,LosAngeles,2229.0,179.0,2708.0,181.0,3193.0,249.0,$2708,$3193,$2229
+2024,6037264303,Census Tract 2643.03,Los Angeles,Los Angeles County,California,LosAngeles,2077.0,236.0,2579.0,310.0,3501.0,,$2579,Not available. Exceeds $3500!,$2077
+2024,6037264304,Census Tract 2643.04,Los Angeles,Los Angeles County,California,LosAngeles,1963.0,187.0,2431.0,224.0,3126.0,190.0,$2431,$3126,$1963
+2024,6037264305,Census Tract 2643.05,Los Angeles,Los Angeles County,California,LosAngeles,2913.0,241.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2913
+2024,6037264306,Census Tract 2643.06,Los Angeles,Los Angeles County,California,LosAngeles,2238.0,569.0,2910.0,252.0,3501.0,,$2910,Not available. Exceeds $3500!,$2238
+2024,6037265100,Census Tract 2651,Los Angeles,Los Angeles County,California,LosAngeles,3113.0,1428.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3113
+2024,6037265201,Census Tract 2652.01,Los Angeles,Los Angeles County,California,LosAngeles,2143.0,669.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2143
+2024,6037265203,Census Tract 2652.03,Los Angeles,Los Angeles County,California,LosAngeles,2273.0,204.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2273
+2024,6037265204,Census Tract 2652.04,Los Angeles,Los Angeles County,California,LosAngeles,2032.0,378.0,3047.0,629.0,3501.0,,$3047,Not available. Exceeds $3500!,$2032
+2024,6037265301,Census Tract 2653.01,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037265303,Census Tract 2653.03,Los Angeles,Los Angeles County,California,LosAngeles,1670.0,254.0,2279.0,129.0,2963.0,269.0,$2279,$2963,$1670
+2024,6037265304,Census Tract 2653.04,Los Angeles,Los Angeles County,California,LosAngeles,1687.0,226.0,2242.0,260.0,2904.0,618.0,$2242,$2904,$1687
+2024,6037265306,Census Tract 2653.06,Los Angeles,Los Angeles County,California,LosAngeles,1806.0,648.0,2210.0,102.0,2449.0,184.0,$2210,$2449,$1806
+2024,6037265307,Census Tract 2653.07,Los Angeles,Los Angeles County,California,LosAngeles,1731.0,70.0,1961.0,212.0,2828.0,611.0,$1961,$2828,$1731
+2024,6037265410,Census Tract 2654.10,Los Angeles,Los Angeles County,California,LosAngeles,2239.0,463.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2239
+2024,6037265420,Census Tract 2654.20,Los Angeles,Los Angeles County,California,LosAngeles,2514.0,467.0,3205.0,368.0,3501.0,,$3205,Not available. Exceeds $3500!,$2514
+2024,6037265521,Census Tract 2655.21,Los Angeles,Los Angeles County,California,LosAngeles,1965.0,128.0,2272.0,98.0,2752.0,407.0,$2272,$2752,$1965
+2024,6037265522,Census Tract 2655.22,Los Angeles,Los Angeles County,California,LosAngeles,2236.0,93.0,2570.0,157.0,2936.0,123.0,$2570,$2936,$2236
+2024,6037265523,Census Tract 2655.23,Los Angeles,Los Angeles County,California,LosAngeles,2581.0,283.0,3013.0,321.0,3375.0,183.0,$3013,$3375,$2581
+2024,6037265524,Census Tract 2655.24,Los Angeles,Los Angeles County,California,LosAngeles,2278.0,257.0,2893.0,286.0,3501.0,,$2893,Not available. Exceeds $3500!,$2278
+2024,6037265601,Census Tract 2656.01,Los Angeles,Los Angeles County,California,LosAngeles,1826.0,351.0,2402.0,255.0,2902.0,233.0,$2402,$2902,$1826
+2024,6037265602,Census Tract 2656.02,Los Angeles,Los Angeles County,California,LosAngeles,2967.0,838.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2967
+2024,6037265701,Census Tract 2657.01,Los Angeles,Los Angeles County,California,LosAngeles,1532.0,222.0,1890.0,230.0,2447.0,995.0,$1890,$2447,$1532
+2024,6037265702,Census Tract 2657.02,Los Angeles,Los Angeles County,California,LosAngeles,2178.0,437.0,3037.0,647.0,3501.0,,$3037,Not available. Exceeds $3500!,$2178
+2024,6037267101,Census Tract 2671.01,Los Angeles,Los Angeles County,California,LosAngeles,2158.0,62.0,2410.0,133.0,3406.0,594.0,$2410,$3406,$2158
+2024,6037267102,Census Tract 2671.02,Los Angeles,Los Angeles County,California,LosAngeles,2200.0,187.0,2747.0,580.0,3501.0,,$2747,Not available. Exceeds $3500!,$2200
+2024,6037267201,Census Tract 2672.01,Los Angeles,Los Angeles County,California,LosAngeles,2105.0,119.0,2444.0,205.0,2991.0,663.0,$2444,$2991,$2105
+2024,6037267202,Census Tract 2672.02,Los Angeles,Los Angeles County,California,LosAngeles,2323.0,389.0,3205.0,586.0,3501.0,,$3205,Not available. Exceeds $3500!,$2323
+2024,6037267300,Census Tract 2673,Los Angeles,Los Angeles County,California,LosAngeles,1575.0,182.0,2035.0,232.0,3010.0,689.0,$2035,$3010,$1575
+2024,6037267403,Census Tract 2674.03,Los Angeles,Los Angeles County,California,LosAngeles,1930.0,192.0,2353.0,155.0,3216.0,648.0,$2353,$3216,$1930
+2024,6037267404,Census Tract 2674.04,Los Angeles,Los Angeles County,California,LosAngeles,1843.0,220.0,2369.0,305.0,3316.0,403.0,$2369,$3316,$1843
+2024,6037267405,Census Tract 2674.05,Los Angeles,Los Angeles County,California,LosAngeles,2006.0,204.0,2413.0,169.0,2902.0,210.0,$2413,$2902,$2006
+2024,6037267406,Census Tract 2674.06,Los Angeles,Los Angeles County,California,LosAngeles,1812.0,199.0,2256.0,137.0,2822.0,406.0,$2256,$2822,$1812
+2024,6037267502,Census Tract 2675.02,Los Angeles,Los Angeles County,California,LosAngeles,1722.0,144.0,2318.0,246.0,2962.0,228.0,$2318,$2962,$1722
+2024,6037267503,Census Tract 2675.03,Los Angeles,Los Angeles County,California,LosAngeles,1600.0,765.0,2418.0,790.0,3501.0,,$2418,Not available. Exceeds $3500!,$1600
+2024,6037267504,Census Tract 2675.04,Los Angeles,Los Angeles County,California,LosAngeles,1659.0,120.0,2150.0,280.0,3076.0,263.0,$2150,$3076,$1659
+2024,6037267600,Census Tract 2676,Los Angeles,Los Angeles County,California,LosAngeles,1849.0,173.0,2532.0,338.0,3300.0,390.0,$2532,$3300,$1849
+2024,6037267700,Census Tract 2677,Los Angeles,Los Angeles County,California,LosAngeles,1730.0,310.0,2360.0,295.0,3270.0,239.0,$2360,$3270,$1730
+2024,6037267800,Census Tract 2678,Los Angeles,Los Angeles County,California,LosAngeles,3093.0,739.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3093
+2024,6037267901,Census Tract 2679.01,Los Angeles,Los Angeles County,California,LosAngeles,2472.0,2003.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2472
+2024,6037267902,Census Tract 2679.02,Los Angeles,Los Angeles County,California,LosAngeles,2638.0,439.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2638
+2024,6037269000,Census Tract 2690,Los Angeles,Los Angeles County,California,LosAngeles,1633.0,169.0,1993.0,1741.0,3501.0,,$1993,Not available. Exceeds $3500!,$1633
+2024,6037269100,Census Tract 2691,Los Angeles,Los Angeles County,California,LosAngeles,1798.0,174.0,2300.0,343.0,3299.0,646.0,$2300,$3299,$1798
+2024,6037269300,Census Tract 2693,Los Angeles,Los Angeles County,California,LosAngeles,2493.0,264.0,2940.0,1102.0,3501.0,,$2940,Not available. Exceeds $3500!,$2493
+2024,6037269500,Census Tract 2695,Los Angeles,Los Angeles County,California,LosAngeles,1725.0,599.0,1950.0,1645.0,2875.0,1969.0,$1950,$2875,$1725
+2024,6037269601,Census Tract 2696.01,Los Angeles,Los Angeles County,California,LosAngeles,1247.0,171.0,1645.0,383.0,2280.0,199.0,$1645,$2280,$1247
+2024,6037269602,Census Tract 2696.02,Los Angeles,Los Angeles County,California,LosAngeles,1500.0,184.0,1845.0,162.0,2209.0,149.0,$1845,$2209,$1500
+2024,6037269700,Census Tract 2697,Los Angeles,Los Angeles County,California,LosAngeles,1367.0,203.0,1890.0,247.0,2551.0,1007.0,$1890,$2551,$1367
+2024,6037269800,Census Tract 2698,Los Angeles,Los Angeles County,California,LosAngeles,1724.0,168.0,2259.0,231.0,2766.0,133.0,$2259,$2766,$1724
+2024,6037269903,Census Tract 2699.03,Los Angeles,Los Angeles County,California,LosAngeles,1596.0,139.0,2082.0,224.0,2631.0,185.0,$2082,$2631,$1596
+2024,6037269905,Census Tract 2699.05,Los Angeles,Los Angeles County,California,LosAngeles,1780.0,155.0,2320.0,171.0,3058.0,280.0,$2320,$3058,$1780
+2024,6037269906,Census Tract 2699.06,Los Angeles,Los Angeles County,California,LosAngeles,2026.0,166.0,2668.0,278.0,3426.0,279.0,$2668,$3426,$2026
+2024,6037269907,Census Tract 2699.07,Los Angeles,Los Angeles County,California,LosAngeles,1628.0,133.0,2122.0,176.0,2687.0,190.0,$2122,$2687,$1628
+2024,6037269908,Census Tract 2699.08,Los Angeles,Los Angeles County,California,LosAngeles,1596.0,66.0,1842.0,97.0,2149.0,173.0,$1842,$2149,$1596
+2024,6037269909,Census Tract 2699.09,Los Angeles,Los Angeles County,California,LosAngeles,1669.0,82.0,1932.0,183.0,2465.0,309.0,$1932,$2465,$1669
+2024,6037270101,Census Tract 2701.01,Los Angeles,Los Angeles County,California,LosAngeles,1964.0,203.0,2343.0,143.0,2773.0,184.0,$2343,$2773,$1964
+2024,6037270102,Census Tract 2701.02,Los Angeles,Los Angeles County,California,LosAngeles,1539.0,180.0,1961.0,169.0,2517.0,228.0,$1961,$2517,$1539
+2024,6037270200,Census Tract 2702,Los Angeles,Los Angeles County,California,LosAngeles,1243.0,214.0,1703.0,127.0,2114.0,346.0,$1703,$2114,$1243
+2024,6037270300,Census Tract 2703,Los Angeles,Los Angeles County,California,LosAngeles,1136.0,113.0,1692.0,532.0,2429.0,543.0,$1692,$2429,$1136
+2024,6037271100,Census Tract 2711,Los Angeles,Los Angeles County,California,LosAngeles,1400.0,235.0,1825.0,268.0,2947.0,502.0,$1825,$2947,$1400
+2024,6037271200,Census Tract 2712,Los Angeles,Los Angeles County,California,LosAngeles,1782.0,162.0,2514.0,288.0,2969.0,856.0,$2514,$2969,$1782
+2024,6037271300,Census Tract 2713,Los Angeles,Los Angeles County,California,LosAngeles,2049.0,261.0,2502.0,555.0,3501.0,,$2502,Not available. Exceeds $3500!,$2049
+2024,6037271400,Census Tract 2714,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037271500,Census Tract 2715,Los Angeles,Los Angeles County,California,LosAngeles,1561.0,267.0,2220.0,344.0,2772.0,280.0,$2220,$2772,$1561
+2024,6037271600,Census Tract 2716,Los Angeles,Los Angeles County,California,LosAngeles,1790.0,86.0,2129.0,121.0,2499.0,417.0,$2129,$2499,$1790
+2024,6037271702,Census Tract 2717.02,Los Angeles,Los Angeles County,California,LosAngeles,1733.0,100.0,2141.0,87.0,2477.0,173.0,$2141,$2477,$1733
+2024,6037271703,Census Tract 2717.03,Los Angeles,Los Angeles County,California,LosAngeles,1749.0,165.0,2210.0,216.0,2647.0,181.0,$2210,$2647,$1749
+2024,6037271704,Census Tract 2717.04,Los Angeles,Los Angeles County,California,LosAngeles,1763.0,376.0,2402.0,296.0,3060.0,473.0,$2402,$3060,$1763
+2024,6037271801,Census Tract 2718.01,Los Angeles,Los Angeles County,California,LosAngeles,1638.0,210.0,2177.0,137.0,2621.0,182.0,$2177,$2621,$1638
+2024,6037271803,Census Tract 2718.03,Los Angeles,Los Angeles County,California,LosAngeles,1485.0,185.0,2053.0,277.0,2755.0,303.0,$2053,$2755,$1485
+2024,6037271804,Census Tract 2718.04,Los Angeles,Los Angeles County,California,LosAngeles,2149.0,366.0,2697.0,173.0,3137.0,469.0,$2697,$3137,$2149
+2024,6037271901,Census Tract 2719.01,Los Angeles,Los Angeles County,California,LosAngeles,1841.0,209.0,2431.0,338.0,3002.0,341.0,$2431,$3002,$1841
+2024,6037271902,Census Tract 2719.02,Los Angeles,Los Angeles County,California,LosAngeles,1529.0,161.0,1921.0,153.0,2489.0,298.0,$1921,$2489,$1529
+2024,6037272100,Census Tract 2721,Los Angeles,Los Angeles County,California,LosAngeles,1374.0,162.0,2412.0,761.0,3297.0,1008.0,$2412,$3297,$1374
+2024,6037272201,Census Tract 2722.01,Los Angeles,Los Angeles County,California,LosAngeles,1803.0,166.0,2274.0,228.0,3239.0,469.0,$2274,$3239,$1803
+2024,6037272202,Census Tract 2722.02,Los Angeles,Los Angeles County,California,LosAngeles,1524.0,163.0,2055.0,273.0,2688.0,176.0,$2055,$2688,$1524
+2024,6037272301,Census Tract 2723.01,Los Angeles,Los Angeles County,California,LosAngeles,1896.0,376.0,2463.0,409.0,3321.0,289.0,$2463,$3321,$1896
+2024,6037272302,Census Tract 2723.02,Los Angeles,Los Angeles County,California,LosAngeles,1366.0,309.0,1908.0,188.0,2425.0,220.0,$1908,$2425,$1366
+2024,6037273100,Census Tract 2731,Los Angeles,Los Angeles County,California,LosAngeles,2935.0,330.0,3463.0,216.0,3501.0,,$3463,Not available. Exceeds $3500!,$2935
+2024,6037273200,Census Tract 2732,Los Angeles,Los Angeles County,California,LosAngeles,2530.0,264.0,3051.0,477.0,3501.0,,$3051,Not available. Exceeds $3500!,$2530
+2024,6037273300,Census Tract 2733,Los Angeles,Los Angeles County,California,LosAngeles,1512.0,328.0,2323.0,391.0,3501.0,,$2323,Not available. Exceeds $3500!,$1512
+2024,6037273403,Census Tract 2734.03,Los Angeles,Los Angeles County,California,LosAngeles,1422.0,192.0,1865.0,292.0,2405.0,297.0,$1865,$2405,$1422
+2024,6037273404,Census Tract 2734.04,Los Angeles,Los Angeles County,California,LosAngeles,1847.0,279.0,2211.0,107.0,2490.0,407.0,$2211,$2490,$1847
+2024,6037273502,Census Tract 2735.02,Los Angeles,Los Angeles County,California,LosAngeles,1878.0,165.0,2404.0,367.0,3346.0,216.0,$2404,$3346,$1878
+2024,6037273600,Census Tract 2736,Los Angeles,Los Angeles County,California,LosAngeles,2826.0,428.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2826
+2024,6037273700,Census Tract 2737,Los Angeles,Los Angeles County,California,LosAngeles,1913.0,487.0,2650.0,270.0,3281.0,393.0,$2650,$3281,$1913
+2024,6037273800,Census Tract 2738,Los Angeles,Los Angeles County,California,LosAngeles,1773.0,228.0,2231.0,139.0,2793.0,449.0,$2231,$2793,$1773
+2024,6037273902,Census Tract 2739.02,Los Angeles,Los Angeles County,California,LosAngeles,2214.0,182.0,2720.0,262.0,3501.0,,$2720,Not available. Exceeds $3500!,$2214
+2024,6037274100,Census Tract 2741,Los Angeles,Los Angeles County,California,LosAngeles,2094.0,1482.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2094
+2024,6037274202,Census Tract 2742.02,Los Angeles,Los Angeles County,California,LosAngeles,1162.0,946.0,2352.0,580.0,3501.0,,$2352,Not available. Exceeds $3500!,$1162
+2024,6037275101,Census Tract 2751.01,Los Angeles,Los Angeles County,California,LosAngeles,1713.0,90.0,1968.0,297.0,2986.0,781.0,$1968,$2986,$1713
+2024,6037275102,Census Tract 2751.02,Los Angeles,Los Angeles County,California,LosAngeles,1600.0,123.0,1984.0,262.0,2719.0,388.0,$1984,$2719,$1600
+2024,6037275200,Census Tract 2752,Los Angeles,Los Angeles County,California,LosAngeles,1460.0,181.0,1958.0,189.0,2661.0,449.0,$1958,$2661,$1460
+2024,6037275311,Census Tract 2753.11,Los Angeles,Los Angeles County,California,LosAngeles,1564.0,243.0,1999.0,221.0,2409.0,135.0,$1999,$2409,$1564
+2024,6037275312,Census Tract 2753.12,Los Angeles,Los Angeles County,California,LosAngeles,3147.0,90.0,3422.0,174.0,3501.0,,$3422,Not available. Exceeds $3500!,$3147
+2024,6037275313,Census Tract 2753.13,Los Angeles,Los Angeles County,California,LosAngeles,1754.0,320.0,3358.0,727.0,3501.0,,$3358,Not available. Exceeds $3500!,$1754
+2024,6037275400,Census Tract 2754,Los Angeles,Los Angeles County,California,LosAngeles,2850.0,401.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2850
+2024,6037275500,Census Tract 2755,Los Angeles,Los Angeles County,California,LosAngeles,326.0,98.0,823.0,265.0,1509.0,428.0,$823,$1509,$326
+2024,6037275603,Census Tract 2756.03,Los Angeles,Los Angeles County,California,LosAngeles,1393.0,377.0,2148.0,418.0,2871.0,482.0,$2148,$2871,$1393
+2024,6037275604,Census Tract 2756.04,Los Angeles,Los Angeles County,California,LosAngeles,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037275605,Census Tract 2756.05,Los Angeles,Los Angeles County,California,LosAngeles,2375.0,289.0,3049.0,215.0,3501.0,,$3049,Not available. Exceeds $3500!,$2375
+2024,6037276000,Census Tract 2760,Los Angeles,Los Angeles County,California,LosAngeles,2543.0,193.0,2987.0,226.0,3428.0,226.0,$2987,$3428,$2543
+2024,6037276101,Census Tract 2761.01,Los Angeles,Los Angeles County,California,LosAngeles,2073.0,127.0,2464.0,185.0,3090.0,174.0,$2464,$3090,$2073
+2024,6037276102,Census Tract 2761.02,Los Angeles,Los Angeles County,California,LosAngeles,1796.0,197.0,2376.0,300.0,2919.0,335.0,$2376,$2919,$1796
+2024,6037276400,Census Tract 2764,Los Angeles,Los Angeles County,California,LosAngeles,3316.0,2118.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3316
+2024,6037276500,Census Tract 2765,Los Angeles,Los Angeles County,California,LosAngeles,1832.0,345.0,2714.0,737.0,3501.0,,$2714,Not available. Exceeds $3500!,$1832
+2024,6037276601,Census Tract 2766.01,Los Angeles,Los Angeles County,California,LosAngeles,1790.0,129.0,2440.0,754.0,3501.0,,$2440,Not available. Exceeds $3500!,$1790
+2024,6037276605,Census Tract 2766.05,Los Angeles,Los Angeles County,California,LosAngeles,2255.0,331.0,2807.0,315.0,3224.0,220.0,$2807,$3224,$2255
+2024,6037276606,Census Tract 2766.06,Los Angeles,Los Angeles County,California,LosAngeles,2062.0,236.0,2685.0,248.0,3443.0,369.0,$2685,$3443,$2062
+2024,6037276607,Census Tract 2766.07,Los Angeles,Los Angeles County,California,LosAngeles,2554.0,156.0,2903.0,172.0,3402.0,275.0,$2903,$3402,$2554
+2024,6037276608,Census Tract 2766.08,Los Angeles,Los Angeles County,California,LosAngeles,1647.0,471.0,2111.0,216.0,2437.0,194.0,$2111,$2437,$1647
+2024,6037277000,Census Tract 2770,Los Angeles,Los Angeles County,California,LosAngeles,2676.0,378.0,3142.0,588.0,3501.0,,$3142,Not available. Exceeds $3500!,$2676
+2024,6037277100,Census Tract 2771,Los Angeles,Los Angeles County,California,LosAngeles,2313.0,678.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2313
+2024,6037277200,Census Tract 2772,Los Angeles,Los Angeles County,California,LosAngeles,1178.0,200.0,1989.0,316.0,2448.0,207.0,$1989,$2448,$1178
+2024,6037277400,Census Tract 2774,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037278001,Census Tract 2780.01,Los Angeles,Los Angeles County,California,LosAngeles,1734.0,214.0,2195.0,338.0,3021.0,511.0,$2195,$3021,$1734
+2024,6037278102,Census Tract 2781.02,Los Angeles,Los Angeles County,California,LosAngeles,1944.0,549.0,2854.0,251.0,3501.0,,$2854,Not available. Exceeds $3500!,$1944
+2024,6037291110,Census Tract 2911.10,Los Angeles,Los Angeles County,California,LosAngeles,768.0,551.0,1095.0,131.0,1420.0,233.0,$1095,$1420,$768
+2024,6037291120,Census Tract 2911.20,Los Angeles,Los Angeles County,California,LosAngeles,1042.0,106.0,1443.0,290.0,1739.0,84.0,$1443,$1739,$1042
+2024,6037291130,Census Tract 2911.30,Los Angeles,Los Angeles County,California,LosAngeles,1228.0,257.0,1536.0,437.0,2383.0,1861.0,$1536,$2383,$1228
+2024,6037291210,Census Tract 2912.10,Los Angeles,Los Angeles County,California,LosAngeles,1185.0,473.0,1719.0,151.0,2104.0,218.0,$1719,$2104,$1185
+2024,6037291220,Census Tract 2912.20,Los Angeles,Los Angeles County,California,LosAngeles,929.0,96.0,1227.0,283.0,1837.0,398.0,$1227,$1837,$929
+2024,6037291300,Census Tract 2913,Los Angeles,Los Angeles County,California,LosAngeles,1186.0,297.0,1621.0,335.0,1896.0,160.0,$1621,$1896,$1186
+2024,6037292001,Census Tract 2920.01,Los Angeles,Los Angeles County,California,LosAngeles,1163.0,104.0,1602.0,124.0,1935.0,107.0,$1602,$1935,$1163
+2024,6037292002,Census Tract 2920.02,Los Angeles,Los Angeles County,California,LosAngeles,2007.0,514.0,2351.0,406.0,2720.0,400.0,$2351,$2720,$2007
+2024,6037293203,Census Tract 2932.03,Los Angeles,Los Angeles County,California,LosAngeles,1212.0,116.0,1535.0,150.0,1825.0,99.0,$1535,$1825,$1212
+2024,6037293204,Census Tract 2932.04,Los Angeles,Los Angeles County,California,LosAngeles,1219.0,137.0,1887.0,631.0,2384.0,239.0,$1887,$2384,$1219
+2024,6037293205,Census Tract 2932.05,Los Angeles,Los Angeles County,California,LosAngeles,1301.0,63.0,1547.0,177.0,2339.0,957.0,$1547,$2339,$1301
+2024,6037293206,Census Tract 2932.06,Los Angeles,Los Angeles County,California,LosAngeles,1125.0,285.0,1407.0,82.0,1822.0,236.0,$1407,$1822,$1125
+2024,6037293301,Census Tract 2933.01,Los Angeles,Los Angeles County,California,LosAngeles,1188.0,388.0,1676.0,233.0,1938.0,253.0,$1676,$1938,$1188
+2024,6037293302,Census Tract 2933.02,Los Angeles,Los Angeles County,California,LosAngeles,1611.0,305.0,2153.0,254.0,2669.0,320.0,$2153,$2669,$1611
+2024,6037293304,Census Tract 2933.04,Los Angeles,Los Angeles County,California,LosAngeles,1094.0,32.0,1230.0,79.0,1536.0,211.0,$1230,$1536,$1094
+2024,6037293306,Census Tract 2933.06,Los Angeles,Los Angeles County,California,LosAngeles,1547.0,117.0,1760.0,107.0,1973.0,230.0,$1760,$1973,$1547
+2024,6037293307,Census Tract 2933.07,Los Angeles,Los Angeles County,California,LosAngeles,1039.0,195.0,1362.0,116.0,1689.0,211.0,$1362,$1689,$1039
+2024,6037294110,Census Tract 2941.10,Los Angeles,Los Angeles County,California,LosAngeles,1500.0,465.0,1721.0,112.0,1942.0,132.0,$1721,$1942,$1500
+2024,6037294120,Census Tract 2941.20,Los Angeles,Los Angeles County,California,LosAngeles,987.0,114.0,1331.0,276.0,1870.0,553.0,$1331,$1870,$987
+2024,6037294200,Census Tract 2942,Los Angeles,Los Angeles County,California,LosAngeles,1088.0,46.0,1204.0,94.0,1461.0,274.0,$1204,$1461,$1088
+2024,6037294301,Census Tract 2943.01,Los Angeles,Los Angeles County,California,LosAngeles,1188.0,394.0,1476.0,211.0,1738.0,149.0,$1476,$1738,$1188
+2024,6037294302,Census Tract 2943.02,Los Angeles,Los Angeles County,California,LosAngeles,1137.0,100.0,1344.0,200.0,1763.0,365.0,$1344,$1763,$1137
+2024,6037294410,Census Tract 2944.10,Los Angeles,Los Angeles County,California,LosAngeles,602.0,150.0,1334.0,582.0,2871.0,706.0,$1334,$2871,$602
+2024,6037294421,Census Tract 2944.21,Los Angeles,Los Angeles County,California,LosAngeles,1302.0,114.0,1523.0,183.0,1868.0,145.0,$1523,$1868,$1302
+2024,6037294510,Census Tract 2945.10,Los Angeles,Los Angeles County,California,LosAngeles,1032.0,80.0,1202.0,110.0,1468.0,298.0,$1202,$1468,$1032
+2024,6037294520,Census Tract 2945.20,Los Angeles,Los Angeles County,California,LosAngeles,1195.0,118.0,1476.0,127.0,1805.0,131.0,$1476,$1805,$1195
+2024,6037294610,Census Tract 2946.10,Los Angeles,Los Angeles County,California,LosAngeles,1036.0,115.0,1318.0,97.0,1609.0,245.0,$1318,$1609,$1036
+2024,6037294620,Census Tract 2946.20,Los Angeles,Los Angeles County,California,LosAngeles,616.0,258.0,969.0,525.0,1670.0,328.0,$969,$1670,$616
+2024,6037294701,Census Tract 2947.01,Los Angeles,Los Angeles County,California,LosAngeles,916.0,87.0,1172.0,108.0,1559.0,250.0,$1172,$1559,$916
+2024,6037294810,Census Tract 2948.10,Los Angeles,Los Angeles County,California,LosAngeles,1078.0,145.0,1482.0,161.0,1794.0,78.0,$1482,$1794,$1078
+2024,6037294820,Census Tract 2948.20,Los Angeles,Los Angeles County,California,LosAngeles,924.0,141.0,1170.0,76.0,1569.0,308.0,$1170,$1569,$924
+2024,6037294830,Census Tract 2948.30,Los Angeles,Los Angeles County,California,LosAngeles,979.0,142.0,1326.0,81.0,1536.0,236.0,$1326,$1536,$979
+2024,6037294900,Census Tract 2949,Los Angeles,Los Angeles County,California,LosAngeles,786.0,583.0,1303.0,131.0,1669.0,166.0,$1303,$1669,$786
+2024,6037295103,Census Tract 2951.03,Los Angeles,Los Angeles County,California,LosAngeles,2725.0,189.0,3081.0,156.0,3307.0,84.0,$3081,$3307,$2725
+2024,6037296210,Census Tract 2962.10,Los Angeles,Los Angeles County,California,LosAngeles,914.0,143.0,1218.0,128.0,1740.0,215.0,$1218,$1740,$914
+2024,6037296220,Census Tract 2962.20,Los Angeles,Los Angeles County,California,LosAngeles,561.0,428.0,1093.0,200.0,2247.0,603.0,$1093,$2247,$561
+2024,6037296300,Census Tract 2963,Los Angeles,Los Angeles County,California,LosAngeles,1265.0,1135.0,2042.0,405.0,2899.0,578.0,$2042,$2899,$1265
+2024,6037296401,Census Tract 2964.01,Los Angeles,Los Angeles County,California,LosAngeles,1608.0,149.0,1829.0,784.0,3093.0,1846.0,$1829,$3093,$1608
+2024,6037296402,Census Tract 2964.02,Los Angeles,Los Angeles County,California,LosAngeles,1225.0,385.0,1704.0,255.0,2243.0,768.0,$1704,$2243,$1225
+2024,6037296500,Census Tract 2965,Los Angeles,Los Angeles County,California,LosAngeles,1116.0,77.0,1624.0,256.0,2064.0,216.0,$1624,$2064,$1116
+2024,6037296600,Census Tract 2966,Los Angeles,Los Angeles County,California,LosAngeles,987.0,117.0,1221.0,280.0,1742.0,135.0,$1221,$1742,$987
+2024,6037296901,Census Tract 2969.01,Los Angeles,Los Angeles County,California,LosAngeles,1268.0,107.0,1614.0,207.0,2074.0,213.0,$1614,$2074,$1268
+2024,6037296902,Census Tract 2969.02,Los Angeles,Los Angeles County,California,LosAngeles,1173.0,110.0,1581.0,111.0,1864.0,83.0,$1581,$1864,$1173
+2024,6037297001,Census Tract 2970.01,Los Angeles,Los Angeles County,California,LosAngeles,1960.0,425.0,2467.0,1113.0,3298.0,346.0,$2467,$3298,$1960
+2024,6037297002,Census Tract 2970.02,Los Angeles,Los Angeles County,California,LosAngeles,1514.0,338.0,1746.0,90.0,1979.0,163.0,$1746,$1979,$1514
+2024,6037297110,Census Tract 2971.10,Los Angeles,Los Angeles County,California,LosAngeles,962.0,83.0,1248.0,146.0,1754.0,273.0,$1248,$1754,$962
+2024,6037297120,Census Tract 2971.20,Los Angeles,Los Angeles County,California,LosAngeles,1283.0,118.0,1511.0,193.0,1984.0,404.0,$1511,$1984,$1283
+2024,6037297201,Census Tract 2972.01,Los Angeles,Los Angeles County,California,LosAngeles,1226.0,290.0,1654.0,178.0,2031.0,219.0,$1654,$2031,$1226
+2024,6037297202,Census Tract 2972.02,Los Angeles,Los Angeles County,California,LosAngeles,1455.0,182.0,1700.0,56.0,1915.0,49.0,$1700,$1915,$1455
+2024,6037297300,Census Tract 2973,Los Angeles,Los Angeles County,California,LosAngeles,2136.0,488.0,3152.0,827.0,3501.0,,$3152,Not available. Exceeds $3500!,$2136
+2024,6037297400,Census Tract 2974,Los Angeles,Los Angeles County,California,LosAngeles,1198.0,402.0,1692.0,308.0,2625.0,1388.0,$1692,$2625,$1198
+2024,6037297501,Census Tract 2975.01,Los Angeles,Los Angeles County,California,LosAngeles,2338.0,446.0,2717.0,150.0,2988.0,255.0,$2717,$2988,$2338
+2024,6037297502,Census Tract 2975.02,Los Angeles,Los Angeles County,California,LosAngeles,1454.0,565.0,2078.0,317.0,2486.0,346.0,$2078,$2486,$1454
+2024,6037297601,Census Tract 2976.01,Los Angeles,Los Angeles County,California,LosAngeles,1345.0,157.0,2276.0,364.0,2754.0,102.0,$2276,$2754,$1345
+2024,6037297602,Census Tract 2976.02,Los Angeles,Los Angeles County,California,LosAngeles,1310.0,169.0,1648.0,133.0,2026.0,215.0,$1648,$2026,$1310
+2024,6037301702,Census Tract 3017.02,Los Angeles,Los Angeles County,California,LosAngeles,1373.0,167.0,1883.0,237.0,2538.0,286.0,$1883,$2538,$1373
+2024,6037320102,Census Tract 3201.02,Los Angeles,Los Angeles County,California,LosAngeles,1137.0,70.0,1567.0,394.0,2067.0,806.0,$1567,$2067,$1137
+2024,6037930400,Census Tract 9304,Los Angeles,Los Angeles County,California,LosAngeles,,,,,1992.0,710.0,,$1992,
+2024,6037980008,Census Tract 9800.08,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980009,Census Tract 9800.09,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980010,Census Tract 9800.10,Los Angeles,Los Angeles County,California,LosAngeles,677.0,42.0,,,1579.0,965.0,,$1579,$677
+2024,6037980014,Census Tract 9800.14,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980015,Census Tract 9800.15,Los Angeles,Los Angeles County,California,LosAngeles,1204.0,119.0,1930.0,623.0,2719.0,140.0,$1930,$2719,$1204
+2024,6037980017,Census Tract 9800.17,Los Angeles,Los Angeles County,California,LosAngeles,883.0,806.0,1366.0,531.0,1594.0,697.0,$1366,$1594,$883
+2024,6037980019,Census Tract 9800.19,Los Angeles,Los Angeles County,California,LosAngeles,1099.0,91.0,,,3501.0,,,Not available. Exceeds $3500!,$1099
+2024,6037980020,Census Tract 9800.20,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980021,Census Tract 9800.21,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980022,Census Tract 9800.22,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980023,Census Tract 9800.23,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980024,Census Tract 9800.24,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980026,Census Tract 9800.26,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980028,Census Tract 9800.28,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980031,Census Tract 9800.31,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037980039,Census Tract 9800.39,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,
+2024,6037990200,Census Tract 9902,Los Angeles,Los Angeles County,California,LosAngeles,,,,,,,,,

@@ -55,3 +55,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037920106,Census Tract 9201.06,Hasley Canyon,Los Angeles County,California,HasleyCanyon,1119.0,88.0,1281.0,176.0,1565.0,284.0,$1281,$1565,$1119
 2023,6037920116,Census Tract 9201.16,Hasley Canyon,Los Angeles County,California,HasleyCanyon,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
 2023,6037920119,Census Tract 9201.19,Hasley Canyon,Los Angeles County,California,HasleyCanyon,3196.0,156.0,3393.0,358.0,3501.0,,$3393,Not available. Exceeds $3500!,$3196
+2024,6037920104,Census Tract 9201.04,Hasley Canyon,Los Angeles County,California,HasleyCanyon,,,,,3105.0,2590.0,,$3105,
+2024,6037920106,Census Tract 9201.06,Hasley Canyon,Los Angeles County,California,HasleyCanyon,1120.0,154.0,1315.0,153.0,1491.0,309.0,$1315,$1491,$1120
+2024,6037920116,Census Tract 9201.16,Hasley Canyon,Los Angeles County,California,HasleyCanyon,1921.0,594.0,2500.0,1601.0,3501.0,,$2500,Not available. Exceeds $3500!,$1921
+2024,6037920119,Census Tract 9201.19,Hasley Canyon,Los Angeles County,California,HasleyCanyon,3170.0,103.0,3341.0,236.0,3501.0,,$3341,Not available. Exceeds $3500!,$3170

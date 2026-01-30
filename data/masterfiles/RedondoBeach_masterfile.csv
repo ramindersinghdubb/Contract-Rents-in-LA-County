@@ -197,3 +197,18 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037621326,Census Tract 6213.26,Redondo Beach,Los Angeles County,California,RedondoBeach,2060.0,166.0,2573.0,145.0,2973.0,205.0,$2573,$2973,$2060
 2023,6037621400,Census Tract 6214,Redondo Beach,Los Angeles County,California,RedondoBeach,2033.0,184.0,2373.0,132.0,3107.0,290.0,$2373,$3107,$2033
 2023,6037990200,Census Tract 9902,Redondo Beach,Los Angeles County,California,RedondoBeach,,,,,,,,,
+2024,6037620501,Census Tract 6205.01,Redondo Beach,Los Angeles County,California,RedondoBeach,2261.0,208.0,2745.0,299.0,3494.0,520.0,$2745,$3494,$2261
+2024,6037620521,Census Tract 6205.21,Redondo Beach,Los Angeles County,California,RedondoBeach,1904.0,246.0,2326.0,175.0,2866.0,259.0,$2326,$2866,$1904
+2024,6037620522,Census Tract 6205.22,Redondo Beach,Los Angeles County,California,RedondoBeach,2044.0,173.0,2428.0,198.0,3308.0,386.0,$2428,$3308,$2044
+2024,6037620601,Census Tract 6206.01,Redondo Beach,Los Angeles County,California,RedondoBeach,2000.0,195.0,2519.0,233.0,3068.0,257.0,$2519,$3068,$2000
+2024,6037620602,Census Tract 6206.02,Redondo Beach,Los Angeles County,California,RedondoBeach,2046.0,174.0,2334.0,133.0,3118.0,916.0,$2334,$3118,$2046
+2024,6037620701,Census Tract 6207.01,Redondo Beach,Los Angeles County,California,RedondoBeach,1881.0,180.0,2277.0,139.0,2922.0,549.0,$2277,$2922,$1881
+2024,6037620703,Census Tract 6207.03,Redondo Beach,Los Angeles County,California,RedondoBeach,2458.0,1711.0,2866.0,300.0,3263.0,290.0,$2866,$3263,$2458
+2024,6037620704,Census Tract 6207.04,Redondo Beach,Los Angeles County,California,RedondoBeach,1994.0,197.0,2396.0,243.0,3501.0,,$2396,Not available. Exceeds $3500!,$1994
+2024,6037621201,Census Tract 6212.01,Redondo Beach,Los Angeles County,California,RedondoBeach,2204.0,108.0,2588.0,282.0,3256.0,287.0,$2588,$3256,$2204
+2024,6037621204,Census Tract 6212.04,Redondo Beach,Los Angeles County,California,RedondoBeach,2080.0,293.0,2858.0,386.0,3501.0,,$2858,Not available. Exceeds $3500!,$2080
+2024,6037621301,Census Tract 6213.01,Redondo Beach,Los Angeles County,California,RedondoBeach,2081.0,179.0,2503.0,247.0,3176.0,395.0,$2503,$3176,$2081
+2024,6037621324,Census Tract 6213.24,Redondo Beach,Los Angeles County,California,RedondoBeach,2394.0,230.0,2973.0,232.0,3501.0,,$2973,Not available. Exceeds $3500!,$2394
+2024,6037621326,Census Tract 6213.26,Redondo Beach,Los Angeles County,California,RedondoBeach,2080.0,181.0,2590.0,117.0,2951.0,120.0,$2590,$2951,$2080
+2024,6037621400,Census Tract 6214,Redondo Beach,Los Angeles County,California,RedondoBeach,2046.0,210.0,2446.0,409.0,3296.0,267.0,$2446,$3296,$2046
+2024,6037990200,Census Tract 9902,Redondo Beach,Los Angeles County,California,RedondoBeach,,,,,,,,,

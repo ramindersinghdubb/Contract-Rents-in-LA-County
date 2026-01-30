@@ -27,3 +27,5 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,1159.0,107.0,1427.0,171.0,1779.0,153.0,$1427,$1779,$1159
 2023,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,894.0,220.0,1105.0,183.0,1262.0,201.0,$1105,$1262,$894
 2023,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,1270.0,165.0,1557.0,189.0,1847.0,139.0,$1557,$1847,$1270
+2024,6037901209,Census Tract 9012.09,Lake Hughes,Los Angeles County,California,LakeHughes,839.0,251.0,1020.0,308.0,1139.0,115.0,$1020,$1139,$839
+2024,6037920102,Census Tract 9201.02,Lake Hughes,Los Angeles County,California,LakeHughes,1241.0,184.0,1591.0,155.0,1866.0,104.0,$1591,$1866,$1241

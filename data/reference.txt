@@ -1,143 +1,143 @@
 CITY|ABBREV_NAME|INITIAL_YEAR|RECENT_YEAR
-Acton|Acton|2010|2023
-Agoura Hills|AgouraHills|2010|2023
-Agua Dulce|AguaDulce|2010|2023
-Alhambra|Alhambra|2010|2023
-Alondra Park|AlondraPark|2010|2023
-Altadena|Altadena|2010|2023
-Arcadia|Arcadia|2010|2023
-Artesia|Artesia|2010|2023
-Avalon|Avalon|2010|2023
-Avocado Heights|AvocadoHeights|2010|2023
-Azusa|Azusa|2010|2023
-Baldwin Park|BaldwinPark|2010|2023
-Bell|Bell|2010|2023
-Bellflower|Bellflower|2010|2023
-Bell Gardens|BellGardens|2010|2023
-Beverly Hills|BeverlyHills|2010|2023
-Bradbury|Bradbury|2010|2023
-Burbank (Los Angeles County)|Burbank(LosAngelesCounty)|2010|2023
-Calabasas|Calabasas|2010|2023
-Carson|Carson|2010|2023
-Castaic|Castaic|2010|2023
-Cerritos|Cerritos|2010|2023
-Charter Oak|CharterOak|2010|2023
-Citrus|Citrus|2010|2023
-Claremont|Claremont|2010|2023
-Commerce|Commerce|2010|2023
-Compton|Compton|2010|2023
-Covina|Covina|2010|2023
-Cudahy|Cudahy|2010|2023
-Culver City|CulverCity|2010|2023
-Del Aire|DelAire|2010|2023
-Desert View Highlands|DesertViewHighlands|2010|2023
-Diamond Bar|DiamondBar|2010|2023
-Downey|Downey|2010|2023
-Duarte|Duarte|2010|2023
-East Los Angeles|EastLosAngeles|2010|2023
-East Pasadena|EastPasadena|2010|2023
-East Rancho Dominguez|EastRanchoDominguez|2010|2023
-East San Gabriel|EastSanGabriel|2010|2023
-East Whittier|EastWhittier|2012|2023
-Elizabeth Lake|ElizabethLake|2010|2023
-El Monte|ElMonte|2010|2023
-El Segundo|ElSegundo|2010|2023
-Florence-Graham|Florence-Graham|2010|2023
-Gardena|Gardena|2010|2023
-Glendale|Glendale|2010|2023
-Glendora|Glendora|2010|2023
-Green Valley (Los Angeles County)|GreenValley(LosAngelesCounty)|2010|2023
-Hacienda Heights|HaciendaHeights|2010|2023
-Hasley Canyon|HasleyCanyon|2010|2023
-Hawaiian Gardens|HawaiianGardens|2010|2023
-Hawthorne|Hawthorne|2010|2023
-Hermosa Beach|HermosaBeach|2010|2023
-Hidden Hills|HiddenHills|2010|2023
-Huntington Park|HuntingtonPark|2010|2023
-Industry|Industry|2010|2023
-Inglewood|Inglewood|2010|2023
-Irwindale|Irwindale|2010|2023
-La Cañada Flintridge|LaCanadaFlintridge|2010|2023
-La Crescenta-Montrose|LaCrescenta-Montrose|2010|2023
-Ladera Heights|LaderaHeights|2010|2023
-La Habra Heights|LaHabraHeights|2010|2023
-Lake Hughes|LakeHughes|2010|2023
-Lake Los Angeles|LakeLosAngeles|2010|2023
-Lakewood|Lakewood|2010|2023
-La Mirada|LaMirada|2010|2023
-Lancaster|Lancaster|2010|2023
-La Puente|LaPuente|2010|2023
-La Verne|LaVerne|2010|2023
-Lawndale|Lawndale|2010|2023
-Lennox|Lennox|2010|2023
-Leona Valley|LeonaValley|2010|2023
-Littlerock|Littlerock|2010|2023
-Lomita|Lomita|2010|2023
-Long Beach|LongBeach|2010|2023
-Los Angeles|LosAngeles|2010|2023
-Lynwood|Lynwood|2010|2023
-Malibu|Malibu|2010|2023
-Manhattan Beach|ManhattanBeach|2010|2023
-Marina del Rey|MarinadelRey|2010|2023
-Mayflower Village|MayflowerVillage|2010|2023
-Maywood|Maywood|2010|2023
-Monrovia|Monrovia|2010|2023
-Montebello|Montebello|2010|2023
-Monterey Park|MontereyPark|2010|2023
-North El Monte|NorthElMonte|2010|2023
-Norwalk|Norwalk|2010|2023
-Palmdale|Palmdale|2010|2023
-Palos Verdes Estates|PalosVerdesEstates|2010|2023
-Paramount|Paramount|2010|2023
-Pasadena|Pasadena|2010|2023
-Pepperdine University|PepperdineUniversity|2020|2023
-Pico Rivera|PicoRivera|2010|2023
-Pomona|Pomona|2010|2023
-Quartz Hill|QuartzHill|2010|2023
-Rancho Palos Verdes|RanchoPalosVerdes|2010|2023
-Redondo Beach|RedondoBeach|2010|2023
-Rolling Hills (Los Angeles County)|RollingHills(LosAngelesCounty)|2010|2023
-Rolling Hills Estates|RollingHillsEstates|2010|2023
-Rose Hills|RoseHills|2010|2023
-Rosemead|Rosemead|2010|2023
-Rowland Heights|RowlandHeights|2010|2023
-San Dimas|SanDimas|2010|2023
-San Fernando|SanFernando|2010|2023
-San Gabriel|SanGabriel|2010|2023
-San Marino|SanMarino|2010|2023
-San Pasqual|SanPasqual|2010|2023
-Santa Clarita|SantaClarita|2010|2023
-Santa Fe Springs|SantaFeSprings|2010|2023
-Santa Monica|SantaMonica|2010|2023
-Sierra Madre|SierraMadre|2010|2023
-Signal Hill|SignalHill|2010|2023
-South El Monte|SouthElMonte|2010|2023
-South Gate|SouthGate|2010|2023
-South Monrovia Island|SouthMonroviaIsland|2010|2023
-South Pasadena|SouthPasadena|2010|2023
-South San Gabriel|SouthSanGabriel|2010|2023
-South San Jose Hills|SouthSanJoseHills|2010|2023
-South Whittier|SouthWhittier|2010|2023
-Stevenson Ranch|StevensonRanch|2010|2023
-Sun Village|SunVillage|2010|2023
-Temple City|TempleCity|2010|2023
-Topanga|Topanga|2010|2023
-Torrance|Torrance|2010|2023
-Valinda|Valinda|2010|2023
-Val Verde|ValVerde|2010|2023
-Vernon|Vernon|2010|2023
-View Park-Windsor Hills|ViewPark-WindsorHills|2010|2023
-Vincent|Vincent|2011|2023
-Walnut|Walnut|2010|2023
-Walnut Park|WalnutPark|2010|2023
-West Athens|WestAthens|2010|2023
-West Carson|WestCarson|2010|2023
-West Covina|WestCovina|2010|2023
-West Hollywood|WestHollywood|2010|2023
-Westlake Village|WestlakeVillage|2010|2023
-Westmont|Westmont|2010|2023
-West Puente Valley|WestPuenteValley|2010|2023
-West Rancho Dominguez|WestRanchoDominguez|2010|2023
-West Whittier-Los Nietos|WestWhittier-LosNietos|2010|2023
-Whittier|Whittier|2010|2023
-Willowbrook|Willowbrook|2010|2023
+Acton|Acton|2010|2024
+Agoura Hills|AgouraHills|2010|2024
+Agua Dulce|AguaDulce|2010|2024
+Alhambra|Alhambra|2010|2024
+Alondra Park|AlondraPark|2010|2024
+Altadena|Altadena|2010|2024
+Arcadia|Arcadia|2010|2024
+Artesia|Artesia|2010|2024
+Avalon|Avalon|2010|2024
+Avocado Heights|AvocadoHeights|2010|2024
+Azusa|Azusa|2010|2024
+Baldwin Park|BaldwinPark|2010|2024
+Bell|Bell|2010|2024
+Bellflower|Bellflower|2010|2024
+Bell Gardens|BellGardens|2010|2024
+Beverly Hills|BeverlyHills|2010|2024
+Bradbury|Bradbury|2010|2024
+Burbank (Los Angeles County)|Burbank(LosAngelesCounty)|2010|2024
+Calabasas|Calabasas|2010|2024
+Carson|Carson|2010|2024
+Castaic|Castaic|2010|2024
+Cerritos|Cerritos|2010|2024
+Charter Oak|CharterOak|2010|2024
+Citrus|Citrus|2010|2024
+Claremont|Claremont|2010|2024
+Commerce|Commerce|2010|2024
+Compton|Compton|2010|2024
+Covina|Covina|2010|2024
+Cudahy|Cudahy|2010|2024
+Culver City|CulverCity|2010|2024
+Del Aire|DelAire|2010|2024
+Desert View Highlands|DesertViewHighlands|2010|2024
+Diamond Bar|DiamondBar|2010|2024
+Downey|Downey|2010|2024
+Duarte|Duarte|2010|2024
+East Los Angeles|EastLosAngeles|2010|2024
+East Pasadena|EastPasadena|2010|2024
+East Rancho Dominguez|EastRanchoDominguez|2010|2024
+East San Gabriel|EastSanGabriel|2010|2024
+East Whittier|EastWhittier|2012|2024
+Elizabeth Lake|ElizabethLake|2010|2024
+El Monte|ElMonte|2010|2024
+El Segundo|ElSegundo|2010|2024
+Florence-Graham|Florence-Graham|2010|2024
+Gardena|Gardena|2010|2024
+Glendale|Glendale|2010|2024
+Glendora|Glendora|2010|2024
+Green Valley (Los Angeles County)|GreenValley(LosAngelesCounty)|2010|2024
+Hacienda Heights|HaciendaHeights|2010|2024
+Hasley Canyon|HasleyCanyon|2010|2024
+Hawaiian Gardens|HawaiianGardens|2010|2024
+Hawthorne|Hawthorne|2010|2024
+Hermosa Beach|HermosaBeach|2010|2024
+Hidden Hills|HiddenHills|2010|2024
+Huntington Park|HuntingtonPark|2010|2024
+Industry|Industry|2010|2024
+Inglewood|Inglewood|2010|2024
+Irwindale|Irwindale|2010|2024
+La Cañada Flintridge|LaCanadaFlintridge|2010|2024
+La Crescenta-Montrose|LaCrescenta-Montrose|2010|2024
+Ladera Heights|LaderaHeights|2010|2024
+La Habra Heights|LaHabraHeights|2010|2024
+Lake Hughes|LakeHughes|2010|2024
+Lake Los Angeles|LakeLosAngeles|2010|2024
+Lakewood|Lakewood|2010|2024
+La Mirada|LaMirada|2010|2024
+Lancaster|Lancaster|2010|2024
+La Puente|LaPuente|2010|2024
+La Verne|LaVerne|2010|2024
+Lawndale|Lawndale|2010|2024
+Lennox|Lennox|2010|2024
+Leona Valley|LeonaValley|2010|2024
+Littlerock|Littlerock|2010|2024
+Lomita|Lomita|2010|2024
+Long Beach|LongBeach|2010|2024
+Los Angeles|LosAngeles|2010|2024
+Lynwood|Lynwood|2010|2024
+Malibu|Malibu|2010|2024
+Manhattan Beach|ManhattanBeach|2010|2024
+Marina del Rey|MarinadelRey|2010|2024
+Mayflower Village|MayflowerVillage|2010|2024
+Maywood|Maywood|2010|2024
+Monrovia|Monrovia|2010|2024
+Montebello|Montebello|2010|2024
+Monterey Park|MontereyPark|2010|2024
+North El Monte|NorthElMonte|2010|2024
+Norwalk|Norwalk|2010|2024
+Palmdale|Palmdale|2010|2024
+Palos Verdes Estates|PalosVerdesEstates|2010|2024
+Paramount|Paramount|2010|2024
+Pasadena|Pasadena|2010|2024
+Pepperdine University|PepperdineUniversity|2020|2024
+Pico Rivera|PicoRivera|2010|2024
+Pomona|Pomona|2010|2024
+Quartz Hill|QuartzHill|2010|2024
+Rancho Palos Verdes|RanchoPalosVerdes|2010|2024
+Redondo Beach|RedondoBeach|2010|2024
+Rolling Hills (Los Angeles County)|RollingHills(LosAngelesCounty)|2010|2024
+Rolling Hills Estates|RollingHillsEstates|2010|2024
+Rose Hills|RoseHills|2010|2024
+Rosemead|Rosemead|2010|2024
+Rowland Heights|RowlandHeights|2010|2024
+San Dimas|SanDimas|2010|2024
+San Fernando|SanFernando|2010|2024
+San Gabriel|SanGabriel|2010|2024
+San Marino|SanMarino|2010|2024
+San Pasqual|SanPasqual|2010|2024
+Santa Clarita|SantaClarita|2010|2024
+Santa Fe Springs|SantaFeSprings|2010|2024
+Santa Monica|SantaMonica|2010|2024
+Sierra Madre|SierraMadre|2010|2024
+Signal Hill|SignalHill|2010|2024
+South El Monte|SouthElMonte|2010|2024
+South Gate|SouthGate|2010|2024
+South Monrovia Island|SouthMonroviaIsland|2010|2024
+South Pasadena|SouthPasadena|2010|2024
+South San Gabriel|SouthSanGabriel|2010|2024
+South San Jose Hills|SouthSanJoseHills|2010|2024
+South Whittier|SouthWhittier|2010|2024
+Stevenson Ranch|StevensonRanch|2010|2024
+Sun Village|SunVillage|2010|2024
+Temple City|TempleCity|2010|2024
+Topanga|Topanga|2010|2024
+Torrance|Torrance|2010|2024
+Valinda|Valinda|2010|2024
+Val Verde|ValVerde|2010|2024
+Vernon|Vernon|2010|2024
+View Park-Windsor Hills|ViewPark-WindsorHills|2010|2024
+Vincent|Vincent|2011|2024
+Walnut|Walnut|2010|2024
+Walnut Park|WalnutPark|2010|2024
+West Athens|WestAthens|2010|2024
+West Carson|WestCarson|2010|2024
+West Covina|WestCovina|2010|2024
+West Hollywood|WestHollywood|2010|2024
+Westlake Village|WestlakeVillage|2010|2024
+Westmont|Westmont|2010|2024
+West Puente Valley|WestPuenteValley|2010|2024
+West Rancho Dominguez|WestRanchoDominguez|2010|2024
+West Whittier-Los Nietos|WestWhittier-LosNietos|2010|2024
+Whittier|Whittier|2010|2024
+Willowbrook|Willowbrook|2010|2024

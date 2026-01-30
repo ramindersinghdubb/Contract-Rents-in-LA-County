@@ -51,3 +51,6 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037910002,Census Tract 9100.02,Sun Village,Los Angeles County,California,SunVillage,1072.0,339.0,1478.0,466.0,1853.0,285.0,$1478,$1853,$1072
 2023,6037910706,Census Tract 9107.06,Sun Village,Los Angeles County,California,SunVillage,1520.0,1238.0,1824.0,256.0,2207.0,397.0,$1824,$2207,$1520
 2023,6037911100,Census Tract 9111,Sun Village,Los Angeles County,California,SunVillage,952.0,141.0,1233.0,193.0,1631.0,183.0,$1233,$1631,$952
+2024,6037910002,Census Tract 9100.02,Sun Village,Los Angeles County,California,SunVillage,1103.0,865.0,1682.0,302.0,1900.0,141.0,$1682,$1900,$1103
+2024,6037910706,Census Tract 9107.06,Sun Village,Los Angeles County,California,SunVillage,1557.0,297.0,1920.0,371.0,2580.0,417.0,$1920,$2580,$1557
+2024,6037911100,Census Tract 9111,Sun Village,Los Angeles County,California,SunVillage,976.0,146.0,1313.0,255.0,1672.0,231.0,$1313,$1672,$976

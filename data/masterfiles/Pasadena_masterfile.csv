@@ -581,3 +581,41 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037463800,Census Tract 4638,Pasadena,Los Angeles County,California,Pasadena,1714.0,357.0,2212.0,637.0,3100.0,706.0,$2212,$3100,$1714
 2023,6037463900,Census Tract 4639,Pasadena,Los Angeles County,California,Pasadena,2140.0,218.0,2991.0,841.0,3501.0,,$2991,Not available. Exceeds $3500!,$2140
 2023,6037464000,Census Tract 4640,Pasadena,Los Angeles County,California,Pasadena,1907.0,194.0,2220.0,118.0,2486.0,505.0,$2220,$2486,$1907
+2024,6037460001,Census Tract 4600.01,Pasadena,Los Angeles County,California,Pasadena,2279.0,1069.0,3190.0,941.0,3501.0,,$3190,Not available. Exceeds $3500!,$2279
+2024,6037460002,Census Tract 4600.02,Pasadena,Los Angeles County,California,Pasadena,1579.0,200.0,1833.0,440.0,2455.0,2208.0,$1833,$2455,$1579
+2024,6037460101,Census Tract 4601.01,Pasadena,Los Angeles County,California,Pasadena,1688.0,194.0,1972.0,397.0,3501.0,,$1972,Not available. Exceeds $3500!,$1688
+2024,6037460401,Census Tract 4604.01,Pasadena,Los Angeles County,California,Pasadena,1688.0,219.0,2028.0,354.0,2519.0,1033.0,$2028,$2519,$1688
+2024,6037460800,Census Tract 4608,Pasadena,Los Angeles County,California,Pasadena,3427.0,455.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3427
+2024,6037460900,Census Tract 4609,Pasadena,Los Angeles County,California,Pasadena,1631.0,130.0,1954.0,183.0,2345.0,171.0,$1954,$2345,$1631
+2024,6037461300,Census Tract 4613,Pasadena,Los Angeles County,California,Pasadena,1113.0,512.0,1919.0,819.0,3153.0,662.0,$1919,$3153,$1113
+2024,6037461400,Census Tract 4614,Pasadena,Los Angeles County,California,Pasadena,1414.0,386.0,1863.0,170.0,2433.0,447.0,$1863,$2433,$1414
+2024,6037461501,Census Tract 4615.01,Pasadena,Los Angeles County,California,Pasadena,1614.0,144.0,1998.0,319.0,2616.0,249.0,$1998,$2616,$1614
+2024,6037461502,Census Tract 4615.02,Pasadena,Los Angeles County,California,Pasadena,,,1673.0,250.0,2209.0,164.0,$1673,$2209,
+2024,6037461600,Census Tract 4616,Pasadena,Los Angeles County,California,Pasadena,1296.0,273.0,1851.0,361.0,2324.0,125.0,$1851,$2324,$1296
+2024,6037461700,Census Tract 4617,Pasadena,Los Angeles County,California,Pasadena,2018.0,284.0,2307.0,213.0,2781.0,582.0,$2307,$2781,$2018
+2024,6037461901,Census Tract 4619.01,Pasadena,Los Angeles County,California,Pasadena,1273.0,135.0,1501.0,134.0,1973.0,198.0,$1501,$1973,$1273
+2024,6037461902,Census Tract 4619.02,Pasadena,Los Angeles County,California,Pasadena,1525.0,661.0,2401.0,193.0,3196.0,234.0,$2401,$3196,$1525
+2024,6037462001,Census Tract 4620.01,Pasadena,Los Angeles County,California,Pasadena,1502.0,139.0,1751.0,95.0,1999.0,240.0,$1751,$1999,$1502
+2024,6037462002,Census Tract 4620.02,Pasadena,Los Angeles County,California,Pasadena,592.0,371.0,1580.0,195.0,1985.0,167.0,$1580,$1985,$592
+2024,6037462100,Census Tract 4621,Pasadena,Los Angeles County,California,Pasadena,1391.0,354.0,1834.0,137.0,2338.0,248.0,$1834,$2338,$1391
+2024,6037462201,Census Tract 4622.01,Pasadena,Los Angeles County,California,Pasadena,1028.0,515.0,1658.0,131.0,2181.0,222.0,$1658,$2181,$1028
+2024,6037462202,Census Tract 4622.02,Pasadena,Los Angeles County,California,Pasadena,2022.0,242.0,2710.0,149.0,3221.0,155.0,$2710,$3221,$2022
+2024,6037462301,Census Tract 4623.01,Pasadena,Los Angeles County,California,Pasadena,1512.0,168.0,1852.0,125.0,2324.0,172.0,$1852,$2324,$1512
+2024,6037462302,Census Tract 4623.02,Pasadena,Los Angeles County,California,Pasadena,1532.0,162.0,1905.0,161.0,2626.0,297.0,$1905,$2626,$1532
+2024,6037462400,Census Tract 4624,Pasadena,Los Angeles County,California,Pasadena,1588.0,228.0,2047.0,273.0,2603.0,390.0,$2047,$2603,$1588
+2024,6037462500,Census Tract 4625,Pasadena,Los Angeles County,California,Pasadena,1775.0,159.0,2255.0,719.0,3501.0,,$2255,Not available. Exceeds $3500!,$1775
+2024,6037462600,Census Tract 4626,Pasadena,Los Angeles County,California,Pasadena,963.0,184.0,2371.0,766.0,3116.0,260.0,$2371,$3116,$963
+2024,6037462700,Census Tract 4627,Pasadena,Los Angeles County,California,Pasadena,1539.0,170.0,1871.0,152.0,2474.0,342.0,$1871,$2474,$1539
+2024,6037462800,Census Tract 4628,Pasadena,Los Angeles County,California,Pasadena,1726.0,221.0,2190.0,202.0,2794.0,496.0,$2190,$2794,$1726
+2024,6037462900,Census Tract 4629,Pasadena,Los Angeles County,California,Pasadena,1671.0,114.0,1958.0,473.0,3281.0,826.0,$1958,$3281,$1671
+2024,6037463000,Census Tract 4630,Pasadena,Los Angeles County,California,Pasadena,2214.0,154.0,2655.0,337.0,3215.0,252.0,$2655,$3215,$2214
+2024,6037463103,Census Tract 4631.03,Pasadena,Los Angeles County,California,Pasadena,1425.0,188.0,2161.0,372.0,3123.0,978.0,$2161,$3123,$1425
+2024,6037463200,Census Tract 4632,Pasadena,Los Angeles County,California,Pasadena,1680.0,156.0,2158.0,379.0,2801.0,279.0,$2158,$2801,$1680
+2024,6037463400,Census Tract 4634,Pasadena,Los Angeles County,California,Pasadena,1725.0,286.0,2235.0,153.0,2765.0,346.0,$2235,$2765,$1725
+2024,6037463500,Census Tract 4635,Pasadena,Los Angeles County,California,Pasadena,1581.0,205.0,2131.0,167.0,2625.0,259.0,$2131,$2625,$1581
+2024,6037463601,Census Tract 4636.01,Pasadena,Los Angeles County,California,Pasadena,1650.0,145.0,2095.0,163.0,2615.0,213.0,$2095,$2615,$1650
+2024,6037463602,Census Tract 4636.02,Pasadena,Los Angeles County,California,Pasadena,2036.0,233.0,2614.0,216.0,3183.0,269.0,$2614,$3183,$2036
+2024,6037463700,Census Tract 4637,Pasadena,Los Angeles County,California,Pasadena,2749.0,163.0,3162.0,157.0,3501.0,,$3162,Not available. Exceeds $3500!,$2749
+2024,6037463800,Census Tract 4638,Pasadena,Los Angeles County,California,Pasadena,1983.0,490.0,2598.0,639.0,3501.0,,$2598,Not available. Exceeds $3500!,$1983
+2024,6037463900,Census Tract 4639,Pasadena,Los Angeles County,California,Pasadena,2099.0,280.0,2804.0,386.0,3501.0,,$2804,Not available. Exceeds $3500!,$2099
+2024,6037464000,Census Tract 4640,Pasadena,Los Angeles County,California,Pasadena,1998.0,204.0,2302.0,121.0,2800.0,405.0,$2302,$2800,$1998

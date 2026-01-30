@@ -27,3 +27,5 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037431200,Census Tract 4312,South Monrovia Island,Los Angeles County,California,SouthMonroviaIsland,956.0,66.0,1365.0,433.0,2030.0,315.0,$1365,$2030,$956
 2023,6037431100,Census Tract 4311,South Monrovia Island,Los Angeles County,California,SouthMonroviaIsland,1522.0,131.0,1887.0,130.0,2344.0,141.0,$1887,$2344,$1522
 2023,6037431200,Census Tract 4312,South Monrovia Island,Los Angeles County,California,SouthMonroviaIsland,1190.0,456.0,1708.0,491.0,2230.0,205.0,$1708,$2230,$1190
+2024,6037431100,Census Tract 4311,South Monrovia Island,Los Angeles County,California,SouthMonroviaIsland,1514.0,135.0,1860.0,119.0,2337.0,171.0,$1860,$2337,$1514
+2024,6037431200,Census Tract 4312,South Monrovia Island,Los Angeles County,California,SouthMonroviaIsland,1200.0,458.0,1674.0,288.0,2172.0,339.0,$1674,$2172,$1200

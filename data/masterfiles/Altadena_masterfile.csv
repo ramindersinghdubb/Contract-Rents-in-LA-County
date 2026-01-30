@@ -139,3 +139,13 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037461200,Census Tract 4612,Altadena,Los Angeles County,California,Altadena,,,3036.0,1295.0,3501.0,,$3036,Not available. Exceeds $3500!,
 2023,6037461300,Census Tract 4613,Altadena,Los Angeles County,California,Altadena,1131.0,566.0,1565.0,993.0,2777.0,319.0,$1565,$2777,$1131
 2023,6037462500,Census Tract 4625,Altadena,Los Angeles County,California,Altadena,1764.0,225.0,2259.0,348.0,3457.0,605.0,$2259,$3457,$1764
+2024,6037460101,Census Tract 4601.01,Altadena,Los Angeles County,California,Altadena,1688.0,194.0,1972.0,397.0,3501.0,,$1972,Not available. Exceeds $3500!,$1688
+2024,6037460200,Census Tract 4602,Altadena,Los Angeles County,California,Altadena,1892.0,575.0,2210.0,122.0,2445.0,156.0,$2210,$2445,$1892
+2024,6037460301,Census Tract 4603.01,Altadena,Los Angeles County,California,Altadena,1197.0,1023.0,2625.0,607.0,2963.0,305.0,$2625,$2963,$1197
+2024,6037460302,Census Tract 4603.02,Altadena,Los Angeles County,California,Altadena,2018.0,631.0,2601.0,305.0,2943.0,604.0,$2601,$2943,$2018
+2024,6037460401,Census Tract 4604.01,Altadena,Los Angeles County,California,Altadena,1688.0,219.0,2028.0,354.0,2519.0,1033.0,$2028,$2519,$1688
+2024,6037461000,Census Tract 4610,Altadena,Los Angeles County,California,Altadena,1755.0,228.0,2428.0,1377.0,3414.0,415.0,$2428,$3414,$1755
+2024,6037461100,Census Tract 4611,Altadena,Los Angeles County,California,Altadena,1633.0,254.0,1964.0,211.0,2324.0,160.0,$1964,$2324,$1633
+2024,6037461200,Census Tract 4612,Altadena,Los Angeles County,California,Altadena,1663.0,961.0,2409.0,1266.0,3483.0,634.0,$2409,$3483,$1663
+2024,6037461300,Census Tract 4613,Altadena,Los Angeles County,California,Altadena,1113.0,512.0,1919.0,819.0,3153.0,662.0,$1919,$3153,$1113
+2024,6037462500,Census Tract 4625,Altadena,Los Angeles County,California,Altadena,1775.0,159.0,2255.0,719.0,3501.0,,$2255,Not available. Exceeds $3500!,$1775

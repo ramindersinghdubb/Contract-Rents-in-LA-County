@@ -107,3 +107,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037407301,Census Tract 4073.01,West Puente Valley,Los Angeles County,California,WestPuenteValley,1858.0,391.0,2232.0,230.0,2542.0,285.0,$2232,$2542,$1858
 2023,6037407302,Census Tract 4073.02,West Puente Valley,Los Angeles County,California,WestPuenteValley,2413.0,468.0,2658.0,200.0,2842.0,95.0,$2658,$2842,$2413
 2023,6037407501,Census Tract 4075.01,West Puente Valley,Los Angeles County,California,WestPuenteValley,1527.0,159.0,1758.0,127.0,1989.0,190.0,$1758,$1989,$1527
+2024,6037404703,Census Tract 4047.03,West Puente Valley,Los Angeles County,California,WestPuenteValley,1296.0,263.0,1659.0,96.0,1902.0,84.0,$1659,$1902,$1296
+2024,6037406903,Census Tract 4069.03,West Puente Valley,Los Angeles County,California,WestPuenteValley,997.0,150.0,1636.0,208.0,1970.0,679.0,$1636,$1970,$997
+2024,6037407001,Census Tract 4070.01,West Puente Valley,Los Angeles County,California,WestPuenteValley,1630.0,201.0,1911.0,566.0,2638.0,433.0,$1911,$2638,$1630
+2024,6037407002,Census Tract 4070.02,West Puente Valley,Los Angeles County,California,WestPuenteValley,1750.0,1685.0,2250.0,253.0,2500.0,348.0,$2250,$2500,$1750
+2024,6037407301,Census Tract 4073.01,West Puente Valley,Los Angeles County,California,WestPuenteValley,1970.0,388.0,2373.0,376.0,2702.0,213.0,$2373,$2702,$1970
+2024,6037407302,Census Tract 4073.02,West Puente Valley,Los Angeles County,California,WestPuenteValley,1839.0,1129.0,2448.0,495.0,2758.0,310.0,$2448,$2758,$1839
+2024,6037407501,Census Tract 4075.01,West Puente Valley,Los Angeles County,California,WestPuenteValley,1476.0,257.0,1901.0,271.0,2240.0,148.0,$1901,$2240,$1476

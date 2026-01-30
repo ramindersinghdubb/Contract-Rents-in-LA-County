@@ -353,3 +353,29 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037311801,Census Tract 3118.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1443.0,117.0,1711.0,91.0,1969.0,142.0,$1711,$1969,$1443
 2023,6037311802,Census Tract 3118.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1609.0,110.0,1976.0,166.0,2388.0,177.0,$1976,$2388,$1609
 2023,6037980001,Census Tract 9800.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),,,,,,,,,
+2024,6037310100,Census Tract 3101,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037310201,Census Tract 3102.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1886.0,295.0,2337.0,200.0,3265.0,611.0,$2337,$3265,$1886
+2024,6037310202,Census Tract 3102.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1582.0,132.0,1979.0,185.0,2453.0,213.0,$1979,$2453,$1582
+2024,6037310300,Census Tract 3103,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037310400,Census Tract 3104,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1590.0,174.0,1997.0,382.0,2842.0,1503.0,$1997,$2842,$1590
+2024,6037310501,Census Tract 3105.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1316.0,238.0,1789.0,190.0,2640.0,677.0,$1789,$2640,$1316
+2024,6037310601,Census Tract 3106.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1718.0,81.0,2056.0,161.0,2427.0,156.0,$2056,$2427,$1718
+2024,6037310602,Census Tract 3106.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1697.0,58.0,1927.0,117.0,2341.0,232.0,$1927,$2341,$1697
+2024,6037310701,Census Tract 3107.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),386.0,159.0,1429.0,357.0,2087.0,260.0,$1429,$2087,$386
+2024,6037310703,Census Tract 3107.03,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1604.0,159.0,1959.0,157.0,2366.0,122.0,$1959,$2366,$1604
+2024,6037310704,Census Tract 3107.04,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1431.0,170.0,1814.0,159.0,2216.0,115.0,$1814,$2216,$1431
+2024,6037310705,Census Tract 3107.05,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),770.0,455.0,1763.0,205.0,3127.0,708.0,$1763,$3127,$770
+2024,6037310800,Census Tract 3108,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1206.0,309.0,2008.0,569.0,2682.0,699.0,$2008,$2682,$1206
+2024,6037310900,Census Tract 3109,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1616.0,245.0,1957.0,292.0,2391.0,334.0,$1957,$2391,$1616
+2024,6037311000,Census Tract 3110,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1433.0,152.0,2031.0,686.0,3145.0,525.0,$2031,$3145,$1433
+2024,6037311100,Census Tract 3111,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1428.0,311.0,2151.0,958.0,2877.0,310.0,$2151,$2877,$1428
+2024,6037311200,Census Tract 3112,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1334.0,361.0,1847.0,300.0,2921.0,785.0,$1847,$2921,$1334
+2024,6037311300,Census Tract 3113,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1708.0,141.0,2077.0,218.0,2450.0,334.0,$2077,$2450,$1708
+2024,6037311400,Census Tract 3114,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1788.0,373.0,2216.0,132.0,2541.0,246.0,$2216,$2541,$1788
+2024,6037311500,Census Tract 3115,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1790.0,104.0,2148.0,206.0,2729.0,467.0,$2148,$2729,$1790
+2024,6037311601,Census Tract 3116.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1802.0,212.0,2416.0,364.0,3135.0,802.0,$2416,$3135,$1802
+2024,6037311602,Census Tract 3116.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1997.0,187.0,2552.0,286.0,3258.0,245.0,$2552,$3258,$1997
+2024,6037311700,Census Tract 3117,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1555.0,370.0,2022.0,186.0,2377.0,121.0,$2022,$2377,$1555
+2024,6037311801,Census Tract 3118.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1474.0,116.0,1746.0,88.0,2024.0,160.0,$1746,$2024,$1474
+2024,6037311802,Census Tract 3118.02,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),1648.0,105.0,2031.0,183.0,2580.0,274.0,$2031,$2580,$1648
+2024,6037980001,Census Tract 9800.01,Burbank (Los Angeles County),Los Angeles County,California,Burbank(LosAngelesCounty),,,,,,,,,

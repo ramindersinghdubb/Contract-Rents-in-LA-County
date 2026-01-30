@@ -751,3 +751,59 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037920342,Census Tract 9203.42,Santa Clarita,Los Angeles County,California,SantaClarita,1460.0,223.0,1939.0,283.0,2395.0,262.0,$1939,$2395,$1460
 2023,6037920343,Census Tract 9203.43,Santa Clarita,Los Angeles County,California,SantaClarita,1483.0,581.0,2148.0,167.0,2419.0,150.0,$2148,$2419,$1483
 2023,6037930400,Census Tract 9304,Santa Clarita,Los Angeles County,California,SantaClarita,,,,,1783.0,806.0,,$1783,
+2024,6037910807,Census Tract 9108.07,Santa Clarita,Los Angeles County,California,SantaClarita,2515.0,905.0,2961.0,373.0,3385.0,477.0,$2961,$3385,$2515
+2024,6037910808,Census Tract 9108.08,Santa Clarita,Los Angeles County,California,SantaClarita,1891.0,856.0,2375.0,1560.0,3216.0,1055.0,$2375,$3216,$1891
+2024,6037910809,Census Tract 9108.09,Santa Clarita,Los Angeles County,California,SantaClarita,,,,,,,,,
+2024,6037910810,Census Tract 9108.10,Santa Clarita,Los Angeles County,California,SantaClarita,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037920013,Census Tract 9200.13,Santa Clarita,Los Angeles County,California,SantaClarita,2670.0,2615.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2670
+2024,6037920015,Census Tract 9200.15,Santa Clarita,Los Angeles County,California,SantaClarita,3149.0,66.0,3298.0,132.0,3447.0,495.0,$3298,$3447,$3149
+2024,6037920016,Census Tract 9200.16,Santa Clarita,Los Angeles County,California,SantaClarita,1744.0,352.0,2065.0,1083.0,2769.0,406.0,$2065,$2769,$1744
+2024,6037920017,Census Tract 9200.17,Santa Clarita,Los Angeles County,California,SantaClarita,1860.0,300.0,2212.0,277.0,2670.0,966.0,$2212,$2670,$1860
+2024,6037920018,Census Tract 9200.18,Santa Clarita,Los Angeles County,California,SantaClarita,,,2359.0,925.0,3180.0,765.0,$2359,$3180,
+2024,6037920020,Census Tract 9200.20,Santa Clarita,Los Angeles County,California,SantaClarita,1881.0,279.0,2142.0,201.0,2348.0,120.0,$2142,$2348,$1881
+2024,6037920028,Census Tract 9200.28,Santa Clarita,Los Angeles County,California,SantaClarita,2617.0,559.0,3085.0,372.0,3382.0,284.0,$3085,$3382,$2617
+2024,6037920029,Census Tract 9200.29,Santa Clarita,Los Angeles County,California,SantaClarita,1884.0,277.0,2228.0,279.0,2617.0,453.0,$2228,$2617,$1884
+2024,6037920030,Census Tract 9200.30,Santa Clarita,Los Angeles County,California,SantaClarita,1942.0,217.0,2187.0,107.0,2399.0,88.0,$2187,$2399,$1942
+2024,6037920031,Census Tract 9200.31,Santa Clarita,Los Angeles County,California,SantaClarita,1547.0,401.0,1887.0,282.0,2275.0,334.0,$1887,$2275,$1547
+2024,6037920034,Census Tract 9200.34,Santa Clarita,Los Angeles County,California,SantaClarita,2137.0,134.0,2385.0,181.0,2743.0,262.0,$2385,$2743,$2137
+2024,6037920035,Census Tract 9200.35,Santa Clarita,Los Angeles County,California,SantaClarita,1815.0,173.0,2101.0,158.0,2345.0,100.0,$2101,$2345,$1815
+2024,6037920038,Census Tract 9200.38,Santa Clarita,Los Angeles County,California,SantaClarita,1427.0,159.0,1792.0,163.0,2169.0,131.0,$1792,$2169,$1427
+2024,6037920039,Census Tract 9200.39,Santa Clarita,Los Angeles County,California,SantaClarita,2271.0,743.0,2630.0,341.0,2815.0,136.0,$2630,$2815,$2271
+2024,6037920040,Census Tract 9200.40,Santa Clarita,Los Angeles County,California,SantaClarita,1778.0,631.0,2341.0,826.0,2765.0,294.0,$2341,$2765,$1778
+2024,6037920041,Census Tract 9200.41,Santa Clarita,Los Angeles County,California,SantaClarita,2593.0,68.0,2809.0,70.0,3056.0,166.0,$2809,$3056,$2593
+2024,6037920042,Census Tract 9200.42,Santa Clarita,Los Angeles County,California,SantaClarita,2005.0,610.0,2374.0,195.0,2780.0,178.0,$2374,$2780,$2005
+2024,6037920043,Census Tract 9200.43,Santa Clarita,Los Angeles County,California,SantaClarita,3011.0,416.0,3391.0,341.0,3501.0,,$3391,Not available. Exceeds $3500!,$3011
+2024,6037920044,Census Tract 9200.44,Santa Clarita,Los Angeles County,California,SantaClarita,2542.0,333.0,2869.0,215.0,3281.0,278.0,$2869,$3281,$2542
+2024,6037920045,Census Tract 9200.45,Santa Clarita,Los Angeles County,California,SantaClarita,2711.0,189.0,2922.0,316.0,3261.0,392.0,$2922,$3261,$2711
+2024,6037920046,Census Tract 9200.46,Santa Clarita,Los Angeles County,California,SantaClarita,2003.0,473.0,2287.0,272.0,2950.0,1010.0,$2287,$2950,$2003
+2024,6037920047,Census Tract 9200.47,Santa Clarita,Los Angeles County,California,SantaClarita,2043.0,65.0,2240.0,62.0,2437.0,80.0,$2240,$2437,$2043
+2024,6037920048,Census Tract 9200.48,Santa Clarita,Los Angeles County,California,SantaClarita,1466.0,175.0,1831.0,264.0,2346.0,431.0,$1831,$2346,$1466
+2024,6037920049,Census Tract 9200.49,Santa Clarita,Los Angeles County,California,SantaClarita,3501.0,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,Not available. Exceeds $3500!
+2024,6037920102,Census Tract 9201.02,Santa Clarita,Los Angeles County,California,SantaClarita,1241.0,184.0,1591.0,155.0,1866.0,104.0,$1591,$1866,$1241
+2024,6037920106,Census Tract 9201.06,Santa Clarita,Los Angeles County,California,SantaClarita,1120.0,154.0,1315.0,153.0,1491.0,309.0,$1315,$1491,$1120
+2024,6037920109,Census Tract 9201.09,Santa Clarita,Los Angeles County,California,SantaClarita,2120.0,765.0,2409.0,182.0,2990.0,933.0,$2409,$2990,$2120
+2024,6037920110,Census Tract 9201.10,Santa Clarita,Los Angeles County,California,SantaClarita,2207.0,102.0,2443.0,325.0,3077.0,410.0,$2443,$3077,$2207
+2024,6037920111,Census Tract 9201.11,Santa Clarita,Los Angeles County,California,SantaClarita,2589.0,82.0,2736.0,56.0,2884.0,64.0,$2736,$2884,$2589
+2024,6037920112,Census Tract 9201.12,Santa Clarita,Los Angeles County,California,SantaClarita,1380.0,83.0,1741.0,412.0,3263.0,528.0,$1741,$3263,$1380
+2024,6037920114,Census Tract 9201.14,Santa Clarita,Los Angeles County,California,SantaClarita,2496.0,218.0,2776.0,128.0,3111.0,274.0,$2776,$3111,$2496
+2024,6037920115,Census Tract 9201.15,Santa Clarita,Los Angeles County,California,SantaClarita,1798.0,182.0,2191.0,289.0,3067.0,1310.0,$2191,$3067,$1798
+2024,6037920120,Census Tract 9201.20,Santa Clarita,Los Angeles County,California,SantaClarita,2942.0,455.0,3216.0,180.0,3449.0,538.0,$3216,$3449,$2942
+2024,6037920121,Census Tract 9201.21,Santa Clarita,Los Angeles County,California,SantaClarita,2513.0,260.0,2976.0,282.0,3501.0,,$2976,Not available. Exceeds $3500!,$2513
+2024,6037920200,Census Tract 9202,Santa Clarita,Los Angeles County,California,SantaClarita,,,,,,,,,
+2024,6037920312,Census Tract 9203.12,Santa Clarita,Los Angeles County,California,SantaClarita,1657.0,182.0,1974.0,191.0,2255.0,109.0,$1974,$2255,$1657
+2024,6037920313,Census Tract 9203.13,Santa Clarita,Los Angeles County,California,SantaClarita,2088.0,309.0,2349.0,732.0,3181.0,791.0,$2349,$3181,$2088
+2024,6037920314,Census Tract 9203.14,Santa Clarita,Los Angeles County,California,SantaClarita,2148.0,117.0,2357.0,387.0,3120.0,983.0,$2357,$3120,$2148
+2024,6037920322,Census Tract 9203.22,Santa Clarita,Los Angeles County,California,SantaClarita,,,2022.0,770.0,2787.0,359.0,$2022,$2787,
+2024,6037920326,Census Tract 9203.26,Santa Clarita,Los Angeles County,California,SantaClarita,2016.0,179.0,2301.0,115.0,3062.0,503.0,$2301,$3062,$2016
+2024,6037920328,Census Tract 9203.28,Santa Clarita,Los Angeles County,California,SantaClarita,2367.0,167.0,2687.0,124.0,2964.0,171.0,$2687,$2964,$2367
+2024,6037920329,Census Tract 9203.29,Santa Clarita,Los Angeles County,California,SantaClarita,2264.0,166.0,2605.0,249.0,2977.0,276.0,$2605,$2977,$2264
+2024,6037920330,Census Tract 9203.30,Santa Clarita,Los Angeles County,California,SantaClarita,2455.0,270.0,2741.0,129.0,3000.0,866.0,$2741,$3000,$2455
+2024,6037920331,Census Tract 9203.31,Santa Clarita,Los Angeles County,California,SantaClarita,,,2358.0,264.0,2878.0,398.0,$2358,$2878,
+2024,6037920332,Census Tract 9203.32,Santa Clarita,Los Angeles County,California,SantaClarita,1350.0,302.0,2088.0,376.0,2343.0,146.0,$2088,$2343,$1350
+2024,6037920334,Census Tract 9203.34,Santa Clarita,Los Angeles County,California,SantaClarita,2027.0,271.0,2339.0,260.0,3158.0,1041.0,$2339,$3158,$2027
+2024,6037920339,Census Tract 9203.39,Santa Clarita,Los Angeles County,California,SantaClarita,2329.0,230.0,2911.0,487.0,3434.0,420.0,$2911,$3434,$2329
+2024,6037920340,Census Tract 9203.40,Santa Clarita,Los Angeles County,California,SantaClarita,1616.0,103.0,1921.0,161.0,2292.0,149.0,$1921,$2292,$1616
+2024,6037920341,Census Tract 9203.41,Santa Clarita,Los Angeles County,California,SantaClarita,1514.0,122.0,1767.0,79.0,2050.0,186.0,$1767,$2050,$1514
+2024,6037920342,Census Tract 9203.42,Santa Clarita,Los Angeles County,California,SantaClarita,1488.0,182.0,1971.0,272.0,2418.0,253.0,$1971,$2418,$1488
+2024,6037920343,Census Tract 9203.43,Santa Clarita,Los Angeles County,California,SantaClarita,1720.0,597.0,2251.0,146.0,2614.0,198.0,$2251,$2614,$1720
+2024,6037930400,Census Tract 9304,Santa Clarita,Los Angeles County,California,SantaClarita,,,,,1992.0,710.0,,$1992,

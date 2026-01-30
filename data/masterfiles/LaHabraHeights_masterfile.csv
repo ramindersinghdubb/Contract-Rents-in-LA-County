@@ -81,3 +81,6 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037408703,Census Tract 4087.03,La Habra Heights,Los Angeles County,California,LaHabraHeights,2479.0,402.0,2940.0,1514.0,3501.0,,$2940,Not available. Exceeds $3500!,$2479
 2023,6037500100,Census Tract 5001,La Habra Heights,Los Angeles County,California,LaHabraHeights,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
 2023,6037500204,Census Tract 5002.04,La Habra Heights,Los Angeles County,California,LaHabraHeights,719.0,21.0,738.0,273.0,,,$738,,$719
+2024,6037408703,Census Tract 4087.03,La Habra Heights,Los Angeles County,California,LaHabraHeights,2383.0,898.0,3354.0,812.0,3501.0,,$3354,Not available. Exceeds $3500!,$2383
+2024,6037500100,Census Tract 5001,La Habra Heights,Los Angeles County,California,LaHabraHeights,,,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,
+2024,6037500204,Census Tract 5002.04,La Habra Heights,Los Angeles County,California,LaHabraHeights,714.0,12.0,,,,,,,$714

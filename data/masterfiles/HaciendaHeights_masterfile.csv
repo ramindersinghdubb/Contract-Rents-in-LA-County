@@ -263,3 +263,19 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037500202,Census Tract 5002.02,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1308.0,437.0,,,3501.0,,,Not available. Exceeds $3500!,$1308
 2023,6037501600,Census Tract 5016,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1374.0,292.0,1728.0,168.0,2064.0,225.0,$1728,$2064,$1374
 2023,6037980035,Census Tract 9800.35,Hacienda Heights,Los Angeles County,California,HaciendaHeights,821.0,102.0,1255.0,816.0,1505.0,238.0,$1255,$1505,$821
+2024,6037408401,Census Tract 4084.01,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1460.0,198.0,1804.0,210.0,2193.0,241.0,$1804,$2193,$1460
+2024,6037408402,Census Tract 4084.02,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1756.0,326.0,2255.0,626.0,3057.0,708.0,$2255,$3057,$1756
+2024,6037408503,Census Tract 4085.03,Hacienda Heights,Los Angeles County,California,HaciendaHeights,2237.0,443.0,3024.0,962.0,3365.0,360.0,$3024,$3365,$2237
+2024,6037408504,Census Tract 4085.04,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1793.0,123.0,2165.0,235.0,2611.0,194.0,$2165,$2611,$1793
+2024,6037408505,Census Tract 4085.05,Hacienda Heights,Los Angeles County,California,HaciendaHeights,2727.0,318.0,3125.0,292.0,3426.0,282.0,$3125,$3426,$2727
+2024,6037408623,Census Tract 4086.23,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1737.0,388.0,2253.0,219.0,2738.0,338.0,$2253,$2738,$1737
+2024,6037408624,Census Tract 4086.24,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1086.0,381.0,1961.0,1255.0,2832.0,444.0,$1961,$2832,$1086
+2024,6037408625,Census Tract 4086.25,Hacienda Heights,Los Angeles County,California,HaciendaHeights,2025.0,721.0,2972.0,835.0,3246.0,181.0,$2972,$3246,$2025
+2024,6037408627,Census Tract 4086.27,Hacienda Heights,Los Angeles County,California,HaciendaHeights,3041.0,845.0,3230.0,119.0,3419.0,140.0,$3230,$3419,$3041
+2024,6037408628,Census Tract 4086.28,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1398.0,255.0,1870.0,281.0,2299.0,185.0,$1870,$2299,$1398
+2024,6037408629,Census Tract 4086.29,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1454.0,443.0,2317.0,2042.0,3501.0,,$2317,Not available. Exceeds $3500!,$1454
+2024,6037408631,Census Tract 4086.31,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1807.0,318.0,2155.0,177.0,2403.0,130.0,$2155,$2403,$1807
+2024,6037409100,Census Tract 4091,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1508.0,283.0,1852.0,176.0,2384.0,400.0,$1852,$2384,$1508
+2024,6037500202,Census Tract 5002.02,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1428.0,560.0,2194.0,1910.0,3501.0,,$2194,Not available. Exceeds $3500!,$1428
+2024,6037501600,Census Tract 5016,Hacienda Heights,Los Angeles County,California,HaciendaHeights,1291.0,239.0,1714.0,182.0,2127.0,262.0,$1714,$2127,$1291
+2024,6037980035,Census Tract 9800.35,Hacienda Heights,Los Angeles County,California,HaciendaHeights,901.0,100.0,968.0,41.0,1410.0,264.0,$968,$1410,$901

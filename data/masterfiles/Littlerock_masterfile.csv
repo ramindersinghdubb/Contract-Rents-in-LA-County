@@ -37,3 +37,5 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,,,963.0,542.0,1482.0,376.0,$963,$1482,
 2023,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,1072.0,339.0,1478.0,466.0,1853.0,285.0,$1478,$1853,$1072
 2023,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,,,895.0,233.0,1256.0,896.0,$895,$1256,
+2024,6037910002,Census Tract 9100.02,Littlerock,Los Angeles County,California,Littlerock,1103.0,865.0,1682.0,302.0,1900.0,141.0,$1682,$1900,$1103
+2024,6037911001,Census Tract 9110.01,Littlerock,Los Angeles County,California,Littlerock,,,1038.0,550.0,1514.0,877.0,$1038,$1514,

@@ -73,3 +73,9 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037621104,Census Tract 6211.04,Hermosa Beach,Los Angeles County,California,HermosaBeach,2182.0,172.0,2793.0,263.0,3397.0,200.0,$2793,$3397,$2182
 2023,6037621204,Census Tract 6212.04,Hermosa Beach,Los Angeles County,California,HermosaBeach,2040.0,343.0,2612.0,277.0,3501.0,,$2612,Not available. Exceeds $3500!,$2040
 2023,6037990200,Census Tract 9902,Hermosa Beach,Los Angeles County,California,HermosaBeach,,,,,,,,,
+2024,6037621001,Census Tract 6210.01,Hermosa Beach,Los Angeles County,California,HermosaBeach,2064.0,656.0,2566.0,335.0,3307.0,411.0,$2566,$3307,$2064
+2024,6037621005,Census Tract 6210.05,Hermosa Beach,Los Angeles County,California,HermosaBeach,2300.0,169.0,2859.0,355.0,3486.0,368.0,$2859,$3486,$2300
+2024,6037621102,Census Tract 6211.02,Hermosa Beach,Los Angeles County,California,HermosaBeach,2525.0,444.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2525
+2024,6037621104,Census Tract 6211.04,Hermosa Beach,Los Angeles County,California,HermosaBeach,2242.0,195.0,2818.0,237.0,3501.0,,$2818,Not available. Exceeds $3500!,$2242
+2024,6037621204,Census Tract 6212.04,Hermosa Beach,Los Angeles County,California,HermosaBeach,2080.0,293.0,2858.0,386.0,3501.0,,$2858,Not available. Exceeds $3500!,$2080
+2024,6037990200,Census Tract 9902,Hermosa Beach,Los Angeles County,California,HermosaBeach,,,,,,,,,

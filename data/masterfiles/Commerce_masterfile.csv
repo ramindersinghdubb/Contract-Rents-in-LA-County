@@ -105,3 +105,7 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037532302,Census Tract 5323.02,Commerce,Los Angeles County,California,Commerce,1064.0,252.0,1377.0,238.0,2125.0,611.0,$1377,$2125,$1064
 2023,6037532303,Census Tract 5323.03,Commerce,Los Angeles County,California,Commerce,1032.0,249.0,1233.0,137.0,1804.0,757.0,$1233,$1804,$1032
 2023,6037532304,Census Tract 5323.04,Commerce,Los Angeles County,California,Commerce,332.0,195.0,1267.0,831.0,1493.0,191.0,$1267,$1493,$332
+2024,6037531302,Census Tract 5313.02,Commerce,Los Angeles County,California,Commerce,1066.0,158.0,1408.0,227.0,1727.0,94.0,$1408,$1727,$1066
+2024,6037532302,Census Tract 5323.02,Commerce,Los Angeles County,California,Commerce,991.0,312.0,1413.0,229.0,2091.0,395.0,$1413,$2091,$991
+2024,6037532303,Census Tract 5323.03,Commerce,Los Angeles County,California,Commerce,1106.0,74.0,1512.0,352.0,1983.0,605.0,$1512,$1983,$1106
+2024,6037532304,Census Tract 5323.04,Commerce,Los Angeles County,California,Commerce,346.0,101.0,1343.0,416.0,1690.0,198.0,$1343,$1690,$346

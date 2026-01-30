@@ -97,3 +97,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037980013,Census Tract 9800.13,El Segundo,Los Angeles County,California,ElSegundo,,,,,,,,,
 2023,6037980030,Census Tract 9800.30,El Segundo,Los Angeles County,California,ElSegundo,,,,,,,,,
 2023,6037990200,Census Tract 9902,El Segundo,Los Angeles County,California,ElSegundo,,,,,,,,,
+2024,6037620001,Census Tract 6200.01,El Segundo,Los Angeles County,California,ElSegundo,1837.0,176.0,2189.0,137.0,2498.0,667.0,$2189,$2498,$1837
+2024,6037620002,Census Tract 6200.02,El Segundo,Los Angeles County,California,ElSegundo,1989.0,329.0,2727.0,231.0,3395.0,285.0,$2727,$3395,$1989
+2024,6037620101,Census Tract 6201.01,El Segundo,Los Angeles County,California,ElSegundo,1384.0,727.0,2316.0,478.0,2888.0,219.0,$2316,$2888,$1384
+2024,6037620102,Census Tract 6201.02,El Segundo,Los Angeles County,California,ElSegundo,2013.0,258.0,2522.0,224.0,3038.0,271.0,$2522,$3038,$2013
+2024,6037980013,Census Tract 9800.13,El Segundo,Los Angeles County,California,ElSegundo,,,,,,,,,
+2024,6037980030,Census Tract 9800.30,El Segundo,Los Angeles County,California,ElSegundo,,,,,,,,,
+2024,6037990200,Census Tract 9902,El Segundo,Los Angeles County,California,ElSegundo,,,,,,,,,

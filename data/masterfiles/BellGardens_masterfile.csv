@@ -125,3 +125,12 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037534201,Census Tract 5342.01,Bell Gardens,Los Angeles County,California,BellGardens,1277.0,183.0,1603.0,121.0,1858.0,91.0,$1603,$1858,$1277
 2023,6037534202,Census Tract 5342.02,Bell Gardens,Los Angeles County,California,BellGardens,970.0,158.0,1530.0,114.0,1799.0,60.0,$1530,$1799,$970
 2023,6037534203,Census Tract 5342.03,Bell Gardens,Los Angeles County,California,BellGardens,807.0,283.0,1511.0,169.0,1790.0,74.0,$1511,$1790,$807
+2024,6037533901,Census Tract 5339.01,Bell Gardens,Los Angeles County,California,BellGardens,1280.0,94.0,1519.0,108.0,1846.0,82.0,$1519,$1846,$1280
+2024,6037533902,Census Tract 5339.02,Bell Gardens,Los Angeles County,California,BellGardens,1356.0,183.0,1696.0,107.0,1968.0,165.0,$1696,$1968,$1356
+2024,6037534001,Census Tract 5340.01,Bell Gardens,Los Angeles County,California,BellGardens,1101.0,72.0,1427.0,181.0,1886.0,179.0,$1427,$1886,$1101
+2024,6037534002,Census Tract 5340.02,Bell Gardens,Los Angeles County,California,BellGardens,1624.0,126.0,1893.0,159.0,2575.0,411.0,$1893,$2575,$1624
+2024,6037534101,Census Tract 5341.01,Bell Gardens,Los Angeles County,California,BellGardens,1033.0,120.0,1319.0,333.0,1795.0,173.0,$1319,$1795,$1033
+2024,6037534102,Census Tract 5341.02,Bell Gardens,Los Angeles County,California,BellGardens,1092.0,88.0,1538.0,163.0,1879.0,98.0,$1538,$1879,$1092
+2024,6037534201,Census Tract 5342.01,Bell Gardens,Los Angeles County,California,BellGardens,1370.0,273.0,1665.0,70.0,1865.0,55.0,$1665,$1865,$1370
+2024,6037534202,Census Tract 5342.02,Bell Gardens,Los Angeles County,California,BellGardens,933.0,99.0,1487.0,177.0,1782.0,72.0,$1487,$1782,$933
+2024,6037534203,Census Tract 5342.03,Bell Gardens,Los Angeles County,California,BellGardens,974.0,185.0,1539.0,139.0,1860.0,107.0,$1539,$1860,$974

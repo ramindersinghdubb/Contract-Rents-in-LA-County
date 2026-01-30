@@ -51,3 +51,6 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1933.0,280.0,3028.0,1094.0,3466.0,369.0,$3028,$3466,$1933
 2023,6037703003,Census Tract 7030.03,Ladera Heights,Los Angeles County,California,LaderaHeights,2258.0,132.0,2591.0,198.0,2930.0,148.0,$2591,$2930,$2258
 2023,6037980038,Census Tract 9800.38,Ladera Heights,Los Angeles County,California,LaderaHeights,,,,,,,,,
+2024,6037703002,Census Tract 7030.02,Ladera Heights,Los Angeles County,California,LaderaHeights,1961.0,267.0,2771.0,639.0,3317.0,151.0,$2771,$3317,$1961
+2024,6037703003,Census Tract 7030.03,Ladera Heights,Los Angeles County,California,LaderaHeights,2302.0,192.0,2668.0,169.0,2992.0,220.0,$2668,$2992,$2302
+2024,6037980038,Census Tract 9800.38,Ladera Heights,Los Angeles County,California,LaderaHeights,,,,,,,,,

@@ -97,3 +97,10 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037542105,Census Tract 5421.05,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1275.0,141.0,1427.0,80.0,1699.0,163.0,$1427,$1699,$1275
 2023,6037542106,Census Tract 5421.06,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,811.0,607.0,1212.0,118.0,1436.0,88.0,$1212,$1436,$811
 2023,6037542200,Census Tract 5422,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1139.0,333.0,1511.0,212.0,1836.0,178.0,$1511,$1836,$1139
+2024,6037541802,Census Tract 5418.02,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1339.0,295.0,1827.0,253.0,2311.0,255.0,$1827,$2311,$1339
+2024,6037542000,Census Tract 5420,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1293.0,255.0,1580.0,235.0,1917.0,244.0,$1580,$1917,$1293
+2024,6037542103,Census Tract 5421.03,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1223.0,163.0,1451.0,150.0,1839.0,256.0,$1451,$1839,$1223
+2024,6037542104,Census Tract 5421.04,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1269.0,191.0,1560.0,164.0,1828.0,99.0,$1560,$1828,$1269
+2024,6037542105,Census Tract 5421.05,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1263.0,130.0,1459.0,144.0,1797.0,163.0,$1459,$1797,$1263
+2024,6037542106,Census Tract 5421.06,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1040.0,271.0,1316.0,306.0,1743.0,170.0,$1316,$1743,$1040
+2024,6037542200,Census Tract 5422,East Rancho Dominguez,Los Angeles County,California,EastRanchoDominguez,1023.0,315.0,1507.0,222.0,1887.0,193.0,$1507,$1887,$1023

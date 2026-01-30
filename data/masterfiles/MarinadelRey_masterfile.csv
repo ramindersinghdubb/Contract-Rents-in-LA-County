@@ -27,3 +27,5 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2022,6037702900,Census Tract 7029,Marina del Rey,Los Angeles County,California,MarinadelRey,2775.0,298.0,3447.0,227.0,3501.0,,$3447,Not available. Exceeds $3500!,$2775
 2023,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,1838.0,294.0,2605.0,975.0,3501.0,,$2605,Not available. Exceeds $3500!,$1838
 2023,6037702900,Census Tract 7029,Marina del Rey,Los Angeles County,California,MarinadelRey,3016.0,318.0,3474.0,204.0,3501.0,,$3474,Not available. Exceeds $3500!,$3016
+2024,6037274202,Census Tract 2742.02,Marina del Rey,Los Angeles County,California,MarinadelRey,1162.0,946.0,2352.0,580.0,3501.0,,$2352,Not available. Exceeds $3500!,$1162
+2024,6037702900,Census Tract 7029,Marina del Rey,Los Angeles County,California,MarinadelRey,3017.0,275.0,3459.0,196.0,3501.0,,$3459,Not available. Exceeds $3500!,$3017

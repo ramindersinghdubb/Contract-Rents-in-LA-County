@@ -41,3 +41,6 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037602700,Census Tract 6027,West Athens,Los Angeles County,California,WestAthens,1643.0,682.0,1990.0,557.0,3044.0,775.0,$1990,$3044,$1643
 2023,6037602801,Census Tract 6028.01,West Athens,Los Angeles County,California,WestAthens,702.0,639.0,1270.0,179.0,1670.0,431.0,$1270,$1670,$702
 2023,6037602802,Census Tract 6028.02,West Athens,Los Angeles County,California,WestAthens,1606.0,1033.0,2097.0,532.0,2731.0,708.0,$2097,$2731,$1606
+2024,6037602700,Census Tract 6027,West Athens,Los Angeles County,California,WestAthens,1657.0,359.0,1977.0,581.0,3084.0,861.0,$1977,$3084,$1657
+2024,6037602801,Census Tract 6028.01,West Athens,Los Angeles County,California,WestAthens,1060.0,387.0,1384.0,141.0,1872.0,304.0,$1384,$1872,$1060
+2024,6037602802,Census Tract 6028.02,West Athens,Los Angeles County,California,WestAthens,1653.0,163.0,1915.0,1084.0,3218.0,534.0,$1915,$3218,$1653

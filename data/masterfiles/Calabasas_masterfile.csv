@@ -111,3 +111,11 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037800205,Census Tract 8002.05,Calabasas,Los Angeles County,California,Calabasas,2393.0,148.0,2713.0,114.0,2999.0,282.0,$2713,$2999,$2393
 2023,6037800328,Census Tract 8003.28,Calabasas,Los Angeles County,California,Calabasas,2744.0,353.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2744
 2023,6037800337,Census Tract 8003.37,Calabasas,Los Angeles County,California,Calabasas,2686.0,59.0,2919.0,122.0,3458.0,394.0,$2919,$3458,$2686
+2024,6037800101,Census Tract 8001.01,Calabasas,Los Angeles County,California,Calabasas,,,3279.0,1407.0,3501.0,,$3279,Not available. Exceeds $3500!,
+2024,6037800103,Census Tract 8001.03,Calabasas,Los Angeles County,California,Calabasas,2022.0,371.0,2221.0,271.0,2419.0,1611.0,$2221,$2419,$2022
+2024,6037800104,Census Tract 8001.04,Calabasas,Los Angeles County,California,Calabasas,2428.0,1199.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2428
+2024,6037800202,Census Tract 8002.02,Calabasas,Los Angeles County,California,Calabasas,2237.0,1621.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$2237
+2024,6037800204,Census Tract 8002.04,Calabasas,Los Angeles County,California,Calabasas,2632.0,1327.0,3373.0,580.0,3501.0,,$3373,Not available. Exceeds $3500!,$2632
+2024,6037800205,Census Tract 8002.05,Calabasas,Los Angeles County,California,Calabasas,2583.0,70.0,2797.0,63.0,3040.0,197.0,$2797,$3040,$2583
+2024,6037800328,Census Tract 8003.28,Calabasas,Los Angeles County,California,Calabasas,3324.0,461.0,3501.0,,3501.0,,Not available. Exceeds $3500!,Not available. Exceeds $3500!,$3324
+2024,6037800337,Census Tract 8003.37,Calabasas,Los Angeles County,California,Calabasas,2711.0,80.0,2981.0,173.0,3441.0,230.0,$2981,$3441,$2711

@@ -345,3 +345,27 @@ YEAR,GEO_ID,TRACT,CITY,COUNTY,STATE,ABBREV_NAME,B25057_001E,B25057_001M,B25058_0
 2023,6037980002,Census Tract 9800.02,Carson,Los Angeles County,California,Carson,,,,,,,,,
 2023,6037980025,Census Tract 9800.25,Carson,Los Angeles County,California,Carson,2306.0,233.0,2592.0,203.0,2804.0,108.0,$2592,$2804,$2306
 2023,6037980037,Census Tract 9800.37,Carson,Los Angeles County,California,Carson,,,,,,,,,
+2024,6037541003,Census Tract 5410.03,Carson,Los Angeles County,California,Carson,577.0,555.0,1338.0,724.0,2114.0,902.0,$1338,$2114,$577
+2024,6037543100,Census Tract 5431,Carson,Los Angeles County,California,Carson,1615.0,224.0,1894.0,343.0,2491.0,601.0,$1894,$2491,$1615
+2024,6037543304,Census Tract 5433.04,Carson,Los Angeles County,California,Carson,1646.0,806.0,2270.0,608.0,3354.0,1106.0,$2270,$3354,$1646
+2024,6037543306,Census Tract 5433.06,Carson,Los Angeles County,California,Carson,1354.0,378.0,1879.0,568.0,2810.0,584.0,$1879,$2810,$1354
+2024,6037543321,Census Tract 5433.21,Carson,Los Angeles County,California,Carson,,,,,3501.0,,,Not available. Exceeds $3500!,
+2024,6037543322,Census Tract 5433.22,Carson,Los Angeles County,California,Carson,2640.0,81.0,2822.0,127.0,3501.0,,$2822,Not available. Exceeds $3500!,$2640
+2024,6037543400,Census Tract 5434,Carson,Los Angeles County,California,Carson,,,2130.0,573.0,2613.0,489.0,$2130,$2613,
+2024,6037543501,Census Tract 5435.01,Carson,Los Angeles County,California,Carson,671.0,465.0,1405.0,234.0,1812.0,161.0,$1405,$1812,$671
+2024,6037543601,Census Tract 5436.01,Carson,Los Angeles County,California,Carson,1148.0,697.0,1694.0,481.0,2236.0,400.0,$1694,$2236,$1148
+2024,6037543607,Census Tract 5436.07,Carson,Los Angeles County,California,Carson,,,2103.0,540.0,2391.0,1277.0,$2103,$2391,
+2024,6037543701,Census Tract 5437.01,Carson,Los Angeles County,California,Carson,1857.0,1640.0,2713.0,377.0,2947.0,470.0,$2713,$2947,$1857
+2024,6037543703,Census Tract 5437.03,Carson,Los Angeles County,California,Carson,1116.0,270.0,1595.0,263.0,1919.0,231.0,$1595,$1919,$1116
+2024,6037543704,Census Tract 5437.04,Carson,Los Angeles County,California,Carson,1625.0,73.0,1852.0,107.0,2176.0,258.0,$1852,$2176,$1625
+2024,6037543705,Census Tract 5437.05,Carson,Los Angeles County,California,Carson,1435.0,341.0,1802.0,260.0,2335.0,546.0,$1802,$2335,$1435
+2024,6037543801,Census Tract 5438.01,Carson,Los Angeles County,California,Carson,832.0,799.0,1639.0,145.0,1850.0,89.0,$1639,$1850,$832
+2024,6037543803,Census Tract 5438.03,Carson,Los Angeles County,California,Carson,870.0,155.0,1782.0,1104.0,2357.0,193.0,$1782,$2357,$870
+2024,6037543804,Census Tract 5438.04,Carson,Los Angeles County,California,Carson,1584.0,393.0,2038.0,431.0,2701.0,358.0,$2038,$2701,$1584
+2024,6037543903,Census Tract 5439.03,Carson,Los Angeles County,California,Carson,,,2531.0,1813.0,3096.0,354.0,$2531,$3096,
+2024,6037543905,Census Tract 5439.05,Carson,Los Angeles County,California,Carson,1839.0,154.0,2353.0,308.0,2772.0,121.0,$2353,$2772,$1839
+2024,6037544001,Census Tract 5440.01,Carson,Los Angeles County,California,Carson,1230.0,651.0,1827.0,328.0,2271.0,395.0,$1827,$2271,$1230
+2024,6037544002,Census Tract 5440.02,Carson,Los Angeles County,California,Carson,1090.0,52.0,1228.0,436.0,2123.0,492.0,$1228,$2123,$1090
+2024,6037980002,Census Tract 9800.02,Carson,Los Angeles County,California,Carson,,,,,,,,,
+2024,6037980025,Census Tract 9800.25,Carson,Los Angeles County,California,Carson,2179.0,55.0,2384.0,103.0,2674.0,191.0,$2384,$2674,$2179
+2024,6037980037,Census Tract 9800.37,Carson,Los Angeles County,California,Carson,,,,,,,,,
