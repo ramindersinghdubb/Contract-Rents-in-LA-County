@@ -94,7 +94,7 @@ app.layout = dbc.Container([
             dcc.Dropdown(id          = 'year-dropdown',
                          placeholder = 'Select a year',
                          options     = PLACE_YEAR_OPTIONS['LongBeach'],
-                         value       = 2023,
+                         value       = max(ALL_YEARS),
                          clearable   = False,
                          searchable  = False
                          )],
