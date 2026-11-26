@@ -38,6 +38,7 @@ East Los Angeles|EastLosAngeles|2010|2024
 East Pasadena|EastPasadena|2010|2024
 East Rancho Dominguez|EastRanchoDominguez|2010|2024
 East San Gabriel|EastSanGabriel|2010|2024
+East Whittier|EastWhittier|2012|2024
 Elizabeth Lake|ElizabethLake|2010|2024
 El Monte|ElMonte|2010|2024
 El Segundo|ElSegundo|2010|2024
@@ -89,6 +90,7 @@ Palmdale|Palmdale|2010|2024
 Palos Verdes Estates|PalosVerdesEstates|2010|2024
 Paramount|Paramount|2010|2024
 Pasadena|Pasadena|2010|2024
+Pepperdine University|PepperdineUniversity|2020|2024
 Pico Rivera|PicoRivera|2010|2024
 Pomona|Pomona|2010|2024
 Quartz Hill|QuartzHill|2010|2024
@@ -125,6 +127,7 @@ Valinda|Valinda|2010|2024
 Val Verde|ValVerde|2010|2024
 Vernon|Vernon|2010|2024
 View Park-Windsor Hills|ViewPark-WindsorHills|2010|2024
+Vincent|Vincent|2011|2024
 Walnut|Walnut|2010|2024
 Walnut Park|WalnutPark|2010|2024
 West Athens|WestAthens|2010|2024
@@ -138,6 +141,3 @@ West Rancho Dominguez|WestRanchoDominguez|2010|2024
 West Whittier-Los Nietos|WestWhittier-LosNietos|2010|2024
 Whittier|Whittier|2010|2024
 Willowbrook|Willowbrook|2010|2024
-East Whittier|EastWhittier|2012|2024
-Pepperdine University|PepperdineUniversity|2020|2024
-Vincent|Vincent|2011|2024
